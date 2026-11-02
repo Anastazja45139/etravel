@@ -1,0 +1,248 @@
+{
+  "iso2": "IS",
+  "wiki": "Iceland",
+  "capital": {
+    "uk": "Рейк'явік",
+    "pl": "Reykjavik"
+  },
+  "intro": {
+    "uk": "Вулкани, гейзери, льодовики, водоспади й північне сяйво — Ісландія схожа на іншу планету. Найкраще її досліджувати на машині.",
+    "pl": "Wulkany, gejzery, lodowce, wodospady i zorza polarna — Islandia przypomina inną planetę. Najlepiej zwiedzać ją samochodem."
+  },
+  "cities": [
+    {
+      "id": "is-reykjavik",
+      "name": {
+        "uk": "Рейк'явік",
+        "pl": "Reykjavik"
+      },
+      "wiki": "Reykjavík",
+      "lat": 64.15,
+      "lng": -21.94,
+      "blurb": {
+        "uk": "Церква Гатльґрімскірк'я та кольорові дахи.",
+        "pl": "Kościół Hallgrímskirkja i kolorowe dachy."
+      }
+    },
+    {
+      "id": "is-golden-circle",
+      "name": {
+        "uk": "Золоте кільце",
+        "pl": "Złoty Krąg"
+      },
+      "wiki": "Golden Circle (Iceland)",
+      "lat": 64.31,
+      "lng": -20.3,
+      "blurb": {
+        "uk": "Гейзер, водоспад Гюдльфосс і Тінгвеллір.",
+        "pl": "Gejzer, wodospad Gullfoss i Þingvellir."
+      }
+    },
+    {
+      "id": "is-vik",
+      "name": {
+        "uk": "Вік",
+        "pl": "Vík"
+      },
+      "wiki": "Vík í Mýrdal",
+      "lat": 63.42,
+      "lng": -19.01,
+      "blurb": {
+        "uk": "Чорний пляж і базальтові колони.",
+        "pl": "Czarna plaża i bazaltowe kolumny."
+      }
+    },
+    {
+      "id": "is-blue-lagoon",
+      "name": {
+        "uk": "Блакитна лагуна",
+        "pl": "Błękitna Laguna"
+      },
+      "wiki": "Blue Lagoon (geothermal spa)",
+      "lat": 63.88,
+      "lng": -22.45,
+      "blurb": {
+        "uk": "Геотермальне спа серед лави.",
+        "pl": "Geotermalne spa wśród lawy."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Скир",
+        "pl": "Skyr"
+      },
+      "description": {
+        "uk": "Густий молочний продукт, схожий на йогурт.",
+        "pl": "Gęsty produkt mleczny podobny do jogurtu."
+      }
+    },
+    {
+      "name": {
+        "uk": "Ісландський хот-дог",
+        "pl": "Islandzki hot dog"
+      },
+      "description": {
+        "uk": "З баранячою сосискою та хрусткою цибулею.",
+        "pl": "Z jagnięcą parówką i chrupiącą cebulką."
+      }
+    },
+    {
+      "name": {
+        "uk": "Суп з баранини",
+        "pl": "Zupa jagnięca"
+      },
+      "description": {
+        "uk": "Kjötsúpa — гарячий суп для холодних днів.",
+        "pl": "Kjötsúpa — gorąca zupa na zimne dni."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "В Ісландії немає комарів.",
+      "pl": "Na Islandii nie ma komarów."
+    },
+    {
+      "uk": "Альтинг — один з найстаріших парламентів світу, з 930 року.",
+      "pl": "Althing to jeden z najstarszych parlamentów świata, od 930 roku."
+    },
+    {
+      "uk": "Майже вся електрика тут з відновлюваних джерел.",
+      "pl": "Prawie cała energia elektryczna pochodzi tu ze źródeł odnawialnych."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 120,
+  "tags": [
+    "nature",
+    "mountains",
+    "couples",
+    "comfort"
+  ],
+  "airport": {
+    "code": "KEF",
+    "name": "Keflavík International",
+    "lat": 63.99,
+    "lng": -22.62
+  },
+  "hotels": [
+    {
+      "id": "is-h1",
+      "name": "Kex Hostel",
+      "cityId": "is-reykjavik",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 55,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел у колишній фабриці печива.",
+        "pl": "Hostel w dawnej fabryce ciastek."
+      }
+    },
+    {
+      "id": "is-h2",
+      "name": "Hotel Geysir",
+      "cityId": "is-golden-circle",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 210,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель з видом на гейзер Строккюр.",
+        "pl": "Hotel z widokiem na gejzer Strokkur."
+      }
+    },
+    {
+      "id": "is-h3",
+      "name": "Hotel Kría Vík",
+      "cityId": "is-vik",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 200,
+      "capacity": 3,
+      "tags": [
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Сучасний готель біля чорного пляжу.",
+        "pl": "Nowoczesny hotel przy czarnej plaży."
+      }
+    },
+    {
+      "id": "is-h4",
+      "name": "Hotel Borg",
+      "cityId": "is-reykjavik",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 260,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик ар-деко в центрі Рейк'явіка.",
+        "pl": "Butik art déco w centrum Reykjaviku."
+      }
+    },
+    {
+      "id": "is-h5",
+      "name": "The Retreat at Blue Lagoon",
+      "cityId": "is-blue-lagoon",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 900,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Номери з виходом просто в лагуну.",
+        "pl": "Pokoje z wyjściem prosto do laguny."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "is-c1",
+      "class": "economy",
+      "model": "Suzuki Swift",
+      "pricePerDay": 50,
+      "seats": 4
+    },
+    {
+      "id": "is-c2",
+      "class": "suv",
+      "model": "Dacia Duster 4x4",
+      "pricePerDay": 90,
+      "seats": 5
+    },
+    {
+      "id": "is-c3",
+      "class": "premium",
+      "model": "Toyota Land Cruiser",
+      "pricePerDay": 185,
+      "seats": 5
+    }
+  ]
+}

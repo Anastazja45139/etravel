@@ -1,0 +1,249 @@
+{
+  "iso2": "CZ",
+  "wiki": "Czech Republic",
+  "capital": {
+    "uk": "Прага",
+    "pl": "Praga"
+  },
+  "intro": {
+    "uk": "Готичні шпилі Праги, чеське пиво за копійки й замки на кожному пагорбі. Чехія — одна з найкрасивіших і найдоступніших країн Європи.",
+    "pl": "Gotyckie iglice Pragi, tanie czeskie piwo i zamki na każdym wzgórzu. Czechy to jeden z najpiękniejszych i najtańszych krajów Europy."
+  },
+  "cities": [
+    {
+      "id": "cz-prague",
+      "name": {
+        "uk": "Прага",
+        "pl": "Praga"
+      },
+      "wiki": "Prague",
+      "lat": 50.08,
+      "lng": 14.42,
+      "blurb": {
+        "uk": "Карлів міст, астрономічний годинник і Празький град.",
+        "pl": "Most Karola, zegar astronomiczny i Hradczany."
+      }
+    },
+    {
+      "id": "cz-cesky-krumlov",
+      "name": {
+        "uk": "Чеський Крумлов",
+        "pl": "Czeski Krumlow"
+      },
+      "wiki": "Český Krumlov",
+      "lat": 48.81,
+      "lng": 14.32,
+      "blurb": {
+        "uk": "Казкове містечко в закруті Влтави.",
+        "pl": "Bajkowe miasteczko w zakolu Wełtawy."
+      }
+    },
+    {
+      "id": "cz-karlovy-vary",
+      "name": {
+        "uk": "Карлові Вари",
+        "pl": "Karlowe Wary"
+      },
+      "wiki": "Karlovy Vary",
+      "lat": 50.23,
+      "lng": 12.87,
+      "blurb": {
+        "uk": "Мінеральні джерела та колонади курорту.",
+        "pl": "Źródła mineralne i kolumnady uzdrowiska."
+      }
+    },
+    {
+      "id": "cz-brno",
+      "name": {
+        "uk": "Брно",
+        "pl": "Brno"
+      },
+      "wiki": "Brno",
+      "lat": 49.2,
+      "lng": 16.61,
+      "blurb": {
+        "uk": "Студентське місто з вілою Тугендгат.",
+        "pl": "Studenckie miasto z willą Tugendhatów."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Свічкова",
+        "pl": "Svíčková"
+      },
+      "description": {
+        "uk": "Яловичина у вершковому соусі з кнедликами.",
+        "pl": "Wołowina w sosie śmietanowym z knedlikami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Трдельник",
+        "pl": "Trdelník"
+      },
+      "description": {
+        "uk": "Солодка трубочка, спечена на вогні.",
+        "pl": "Słodki rulon pieczony nad ogniem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Смажений сир",
+        "pl": "Smažený sýr"
+      },
+      "description": {
+        "uk": "Сир у паніровці з соусом тартар.",
+        "pl": "Ser w panierce z sosem tatarskim."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Чехи п'ють найбільше пива на людину у світі.",
+      "pl": "Czesi piją najwięcej piwa na osobę na świecie."
+    },
+    {
+      "uk": "У Чехії понад 2000 замків.",
+      "pl": "W Czechach jest ponad 2000 zamków."
+    },
+    {
+      "uk": "Слово «робот» вигадав чеський письменник Карел Чапек.",
+      "pl": "Słowo „robot” wymyślił czeski pisarz Karel Čapek."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12
+  ],
+  "dailyCost": 50,
+  "tags": [
+    "city",
+    "history",
+    "food",
+    "nightlife",
+    "couples"
+  ],
+  "airport": {
+    "code": "PRG",
+    "name": "Praha Václav Havel",
+    "lat": 50.1,
+    "lng": 14.26
+  },
+  "hotels": [
+    {
+      "id": "cz-h1",
+      "name": "Czech Inn Prague",
+      "cityId": "cz-prague",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 25,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Дизайнерський хостел у районі Віногради.",
+        "pl": "Designerski hostel na Vinohradach."
+      }
+    },
+    {
+      "id": "cz-h2",
+      "name": "Hotel Grandezza Brno",
+      "cityId": "cz-brno",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 75,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Класичний готель на головній площі Брно.",
+        "pl": "Klasyczny hotel na rynku w Brnie."
+      }
+    },
+    {
+      "id": "cz-h3",
+      "name": "Hotel Thermal Karlovy Vary",
+      "cityId": "cz-karlovy-vary",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 95,
+      "capacity": 3,
+      "tags": [
+        "comfort",
+        "family"
+      ],
+      "description": {
+        "uk": "Курортний готель з басейном і процедурами.",
+        "pl": "Hotel uzdrowiskowy z basenem i zabiegami."
+      }
+    },
+    {
+      "id": "cz-h4",
+      "name": "Hotel Ruze Český Krumlov",
+      "cityId": "cz-cesky-krumlov",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 140,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Ренесансний монастир, перетворений на готель.",
+        "pl": "Renesansowy klasztor zamieniony w hotel."
+      }
+    },
+    {
+      "id": "cz-h5",
+      "name": "Four Seasons Prague",
+      "cityId": "cz-prague",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 420,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Люкс на березі Влтави з видом на Карлів міст.",
+        "pl": "Luksus nad Wełtawą z widokiem na Most Karola."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "cz-c1",
+      "class": "economy",
+      "model": "Škoda Fabia",
+      "pricePerDay": 24,
+      "seats": 4
+    },
+    {
+      "id": "cz-c2",
+      "class": "suv",
+      "model": "Škoda Kodiaq",
+      "pricePerDay": 43,
+      "seats": 5
+    },
+    {
+      "id": "cz-c3",
+      "class": "premium",
+      "model": "Škoda Superb L&K",
+      "pricePerDay": 89,
+      "seats": 5
+    }
+  ]
+}

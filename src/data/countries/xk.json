@@ -1,0 +1,231 @@
+{
+  "iso2": "XK",
+  "wiki": "Kosovo",
+  "capital": {
+    "uk": "Приштина",
+    "pl": "Prisztina"
+  },
+  "intro": {
+    "uk": "Наймолодша країна Європи з енергійною столицею, османською Прізреном і горами Ругова. Тут дуже дешево й дуже гостинно.",
+    "pl": "Najmłodszy kraj Europy z energiczną stolicą, osmańskim Prizrenem i górami Rugova. Jest tu bardzo tanio i bardzo gościnnie."
+  },
+  "cities": [
+    {
+      "id": "xk-pristina",
+      "name": {
+        "uk": "Приштина",
+        "pl": "Prisztina"
+      },
+      "wiki": "Pristina",
+      "lat": 42.66,
+      "lng": 21.17,
+      "blurb": {
+        "uk": "Пам'ятник NEWBORN і кав'ярні бульвару.",
+        "pl": "Pomnik NEWBORN i kawiarnie bulwaru."
+      }
+    },
+    {
+      "id": "xk-prizren",
+      "name": {
+        "uk": "Прізрен",
+        "pl": "Prizren"
+      },
+      "wiki": "Prizren",
+      "lat": 42.21,
+      "lng": 20.74,
+      "blurb": {
+        "uk": "Кам'яний міст, мечеті й фортеця над містом.",
+        "pl": "Kamienny most, meczety i twierdza nad miastem."
+      }
+    },
+    {
+      "id": "xk-peja",
+      "name": {
+        "uk": "Печ і каньйон Ругова",
+        "pl": "Peć i kanion Rugova"
+      },
+      "wiki": "Rugova Canyon",
+      "lat": 42.66,
+      "lng": 20.29,
+      "blurb": {
+        "uk": "Віа-ферата й гірські стежки.",
+        "pl": "Via ferrata i górskie szlaki."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Флія",
+        "pl": "Flija"
+      },
+      "description": {
+        "uk": "Шаруватий пиріг, що печеться годинами.",
+        "pl": "Warstwowy placek pieczony godzinami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Макіато",
+        "pl": "Makiato"
+      },
+      "description": {
+        "uk": "Місцеве макіато — гордість кавової культури.",
+        "pl": "Lokalne macchiato — duma kultury kawowej."
+      }
+    },
+    {
+      "name": {
+        "uk": "Пите",
+        "pl": "Pite"
+      },
+      "description": {
+        "uk": "Пиріг зі шпинатом або сиром.",
+        "pl": "Placek ze szpinakiem lub serem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Косово проголосило незалежність 2008 року.",
+      "pl": "Kosowo ogłosiło niepodległość w 2008 roku."
+    },
+    {
+      "uk": "Середній вік населення — близько 30 років, один з найнижчих у Європі.",
+      "pl": "Średni wiek mieszkańców to około 30 lat, jeden z najniższych w Europie."
+    },
+    {
+      "uk": "Офіційна валюта — євро, хоча країна не в ЄС.",
+      "pl": "Oficjalną walutą jest euro, choć kraj nie należy do UE."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 25,
+  "tags": [
+    "history",
+    "mountains",
+    "nature",
+    "food"
+  ],
+  "airport": {
+    "code": "PRN",
+    "name": "Pristina Adem Jashari",
+    "lat": 42.57,
+    "lng": 21.04
+  },
+  "hotels": [
+    {
+      "id": "xk-h1",
+      "name": "Hostel Han Pristina",
+      "cityId": "xk-pristina",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 15,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Затишний хостел у центрі.",
+        "pl": "Przytulny hostel w centrum."
+      }
+    },
+    {
+      "id": "xk-h2",
+      "name": "Hotel Gold Prizren",
+      "cityId": "xk-prizren",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель біля кам'яного мосту.",
+        "pl": "Hotel przy kamiennym moście."
+      }
+    },
+    {
+      "id": "xk-h3",
+      "name": "Rugova Camp Hotel",
+      "cityId": "xk-peja",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 55,
+      "capacity": 3,
+      "tags": [
+        "mountains",
+        "nature"
+      ],
+      "description": {
+        "uk": "Гірський готель на початку каньйону.",
+        "pl": "Górski hotel na początku kanionu."
+      }
+    },
+    {
+      "id": "xk-h4",
+      "name": "Hotel Prizren Centre",
+      "cityId": "xk-prizren",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик в османському будинку.",
+        "pl": "Butik w osmańskim domu."
+      }
+    },
+    {
+      "id": "xk-h5",
+      "name": "Swiss Diamond Hotel",
+      "cityId": "xk-pristina",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 140,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Найкращий люкс Приштини.",
+        "pl": "Najlepszy luksusowy hotel w Prisztinie."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "xk-c1",
+      "class": "economy",
+      "model": "VW Golf",
+      "pricePerDay": 20,
+      "seats": 4
+    },
+    {
+      "id": "xk-c2",
+      "class": "suv",
+      "model": "Hyundai Tucson",
+      "pricePerDay": 36,
+      "seats": 5
+    },
+    {
+      "id": "xk-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 74,
+      "seats": 5
+    }
+  ]
+}

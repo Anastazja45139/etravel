@@ -1,0 +1,248 @@
+{
+  "iso2": "GB",
+  "wiki": "United Kingdom",
+  "capital": {
+    "uk": "Лондон",
+    "pl": "Londyn"
+  },
+  "intro": {
+    "uk": "Королівські палаци, шотландські замки, пабові традиції та безкоштовні музеї світового рівня. Велика Британія — це чотири країни в одній подорожі.",
+    "pl": "Królewskie pałace, szkockie zamki, tradycje pubowe i darmowe muzea światowej klasy. Wielka Brytania to cztery kraje w jednej podróży."
+  },
+  "cities": [
+    {
+      "id": "gb-london",
+      "name": {
+        "uk": "Лондон",
+        "pl": "Londyn"
+      },
+      "wiki": "London",
+      "lat": 51.51,
+      "lng": -0.13,
+      "blurb": {
+        "uk": "Біг-Бен, Британський музей і ринки Камдена.",
+        "pl": "Big Ben, British Museum i targi Camden."
+      }
+    },
+    {
+      "id": "gb-edinburgh",
+      "name": {
+        "uk": "Единбург",
+        "pl": "Edynburg"
+      },
+      "wiki": "Edinburgh",
+      "lat": 55.95,
+      "lng": -3.19,
+      "blurb": {
+        "uk": "Замок на скелі, Королівська миля й фестивалі.",
+        "pl": "Zamek na skale, Royal Mile i festiwale."
+      }
+    },
+    {
+      "id": "gb-oxford",
+      "name": {
+        "uk": "Оксфорд",
+        "pl": "Oksford"
+      },
+      "wiki": "Oxford",
+      "lat": 51.75,
+      "lng": -1.26,
+      "blurb": {
+        "uk": "Найстаріший англомовний університет і місця Гаррі Поттера.",
+        "pl": "Najstarszy anglojęzyczny uniwersytet i miejsca z Harry'ego Pottera."
+      }
+    },
+    {
+      "id": "gb-highlands",
+      "name": {
+        "uk": "Шотландське нагір'я",
+        "pl": "Szkocka Wyżyna"
+      },
+      "wiki": "Scottish Highlands",
+      "lat": 57.12,
+      "lng": -4.71,
+      "blurb": {
+        "uk": "Озеро Лох-Несс, тумани й дикі гори.",
+        "pl": "Jezioro Loch Ness, mgły i dzikie góry."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Фіш-енд-чіпс",
+        "pl": "Fish and chips"
+      },
+      "description": {
+        "uk": "Риба в клярі з картоплею фрі та гороховим пюре.",
+        "pl": "Ryba w cieście z frytkami i purée z groszku."
+      }
+    },
+    {
+      "name": {
+        "uk": "Англійський сніданок",
+        "pl": "Śniadanie angielskie"
+      },
+      "description": {
+        "uk": "Яйця, бекон, сосиски, боби й тости.",
+        "pl": "Jajka, bekon, kiełbaski, fasolka i tosty."
+      }
+    },
+    {
+      "name": {
+        "uk": "Сконі з вершками",
+        "pl": "Scones ze śmietaną"
+      },
+      "description": {
+        "uk": "Булочки до чаю з джемом і густими вершками.",
+        "pl": "Bułeczki do herbaty z dżemem i gęstą śmietaną."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Більшість великих музеїв Лондона безкоштовні.",
+      "pl": "Większość dużych muzeów w Londynie jest bezpłatna."
+    },
+    {
+      "uk": "Лондонське метро — найстаріше у світі, відкрите 1863 року.",
+      "pl": "Londyńskie metro jest najstarsze na świecie — otwarto je w 1863 roku."
+    },
+    {
+      "uk": "Національна тварина Шотландії — єдиноріг.",
+      "pl": "Narodowym zwierzęciem Szkocji jest jednorożec."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 95,
+  "tags": [
+    "city",
+    "history",
+    "nature",
+    "nightlife",
+    "mountains"
+  ],
+  "airport": {
+    "code": "LHR",
+    "name": "London Heathrow",
+    "lat": 51.47,
+    "lng": -0.45
+  },
+  "hotels": [
+    {
+      "id": "gb-h1",
+      "name": "YHA London Central",
+      "cityId": "gb-london",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Сучасний хостел біля Оксфорд-стріт.",
+        "pl": "Nowoczesny hostel przy Oxford Street."
+      }
+    },
+    {
+      "id": "gb-h2",
+      "name": "Premier Inn Edinburgh Royal Mile",
+      "cityId": "gb-edinburgh",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 110,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history",
+        "family"
+      ],
+      "description": {
+        "uk": "Надійний готель у центрі Старого міста.",
+        "pl": "Solidny hotel w samym sercu Starego Miasta."
+      }
+    },
+    {
+      "id": "gb-h3",
+      "name": "Malmaison Oxford",
+      "cityId": "gb-oxford",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 170,
+      "capacity": 3,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Номери в колишній в'язниці — незабутній досвід.",
+        "pl": "Pokoje w dawnym więzieniu — niezapomniane przeżycie."
+      }
+    },
+    {
+      "id": "gb-h4",
+      "name": "Glencoe House",
+      "cityId": "gb-highlands",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 210,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "nature",
+        "couples"
+      ],
+      "description": {
+        "uk": "Затишний маєток серед шотландських гір.",
+        "pl": "Przytulna rezydencja wśród szkockich gór."
+      }
+    },
+    {
+      "id": "gb-h5",
+      "name": "The Savoy",
+      "cityId": "gb-london",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 520,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Знаменитий люкс на березі Темзи з 1889 року.",
+        "pl": "Słynny luksusowy hotel nad Tamizą od 1889 roku."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "gb-c1",
+      "class": "economy",
+      "model": "Ford Fiesta",
+      "pricePerDay": 38,
+      "seats": 4
+    },
+    {
+      "id": "gb-c2",
+      "class": "suv",
+      "model": "Nissan Qashqai",
+      "pricePerDay": 68,
+      "seats": 5
+    },
+    {
+      "id": "gb-c3",
+      "class": "premium",
+      "model": "Jaguar XF",
+      "pricePerDay": 141,
+      "seats": 5
+    }
+  ]
+}

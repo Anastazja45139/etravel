@@ -1,0 +1,179 @@
+[
+{
+  "iso2": "RS", "wiki": "Serbia", "cap": ["Белград", "Belgrad"],
+  "intro": ["Нічне життя Белграда, фортеці на Дунаї, монастирі та щедра балканська кухня. Сербія вражає гостинністю й енергією.", "Nocne życie Belgradu, twierdze nad Dunajem, monastery i obfita bałkańska kuchnia. Serbia zachwyca gościnnością i energią."],
+  "cities": [
+    ["belgrade", "Белград", "Belgrad", "Belgrade", 44.82, 20.46, "Фортеця Калемегдан і клуби на річкових баржах.", "Twierdza Kalemegdan i kluby na barkach."],
+    ["novi-sad", "Нові-Сад", "Nowy Sad", "Novi Sad", 45.27, 19.83, "Петроварадинська фортеця й фестиваль EXIT.", "Twierdza Petrovaradin i festiwal EXIT."],
+    ["zlatibor", "Златибор", "Zlatibor", "Zlatibor", 43.73, 19.70, "Гірський курорт з найдовшою гондолою Балкан.", "Górski kurort z najdłuższą gondolą na Bałkanach."]
+  ],
+  "dishes": [
+    ["Плєскавиця", "Pljeskavica", "Великий балканський бургер на грилі.", "Duży bałkański burger z grilla."],
+    ["Чевапчичі", "Ćevapčići", "Ковбаски з фаршу з лепінею й каймаком.", "Kiełbaski z mięsa mielonego z lepinją i kajmakiem."],
+    ["Айвар", "Ajvar", "Паста з печеного перцю та баклажанів.", "Pasta z pieczonej papryki i bakłażana."]
+  ],
+  "facts": [
+    ["Нікола Тесла був сербом за походженням.", "Nikola Tesla był z pochodzenia Serbem."],
+    ["Сербія — один з найбільших експортерів малини у світі.", "Serbia jest jednym z największych eksporterów malin na świecie."],
+    ["Белград руйнували й відбудовували понад 40 разів.", "Belgrad był niszczony i odbudowywany ponad 40 razy."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9], "daily": 35, "tags": ["city", "nightlife", "food", "history", "mountains"],
+  "air": ["BEG", "Belgrade Nikola Tesla", 44.82, 20.31],
+  "hotels": [
+    ["Hostel Bongo Belgrade", 0, 18, ["city", "nightlife"], "Хостел на головній пішохідній вулиці.", "Hostel przy głównym deptaku."],
+    ["Hotel Leopold I Novi Sad", 1, 70, ["history", "couples"], "Готель усередині Петроварадинської фортеці.", "Hotel wewnątrz twierdzy Petrovaradin."],
+    ["Hotel Zlatibor Mona", 2, 95, ["mountains", "family"], "Гірський готель з басейном і спа.", "Górski hotel z basenem i spa."],
+    ["Hotel Square Nine", 0, 170, ["city", "couples", "comfort"], "Дизайнерський бутик біля площі Республіки.", "Designerski butik przy placu Republiki."],
+    ["Hyatt Regency Belgrade", 0, 200, ["comfort", "city", "family"], "Великий люкс у Новому Белграді.", "Duży luksusowy hotel w Nowym Belgradzie."]
+  ],
+  "cars": ["Fiat Punto", "Dacia Duster", "Audi A6", 22]
+},
+{
+  "iso2": "BA", "wiki": "Bosnia and Herzegovina", "cap": ["Сараєво", "Sarajewo"],
+  "intro": ["Старий міст у Мостарі, кав'ярні Сараєва, де Схід зустрічається із Заходом, і смарагдові водоспади. Боснія й Герцеговина дивує на кожному кроці.", "Stary Most w Mostarze, kawiarnie Sarajewa, gdzie Wschód spotyka Zachód, i szmaragdowe wodospady. Bośnia i Hercegowina zaskakuje na każdym kroku."],
+  "cities": [
+    ["sarajevo", "Сараєво", "Sarajewo", "Sarajevo", 43.86, 18.41, "Базар Башчаршія та олімпійські гори.", "Bazar Baščaršija i olimpijskie góry."],
+    ["mostar", "Мостар", "Mostar", "Mostar", 43.34, 17.81, "Старий міст і стрибуни у річку Неретва.", "Stary Most i skoczkowie do Neretwy."],
+    ["kravice", "Кравиця", "Kravica", "Kravica waterfall", 43.16, 17.61, "Водоспади, де можна купатися.", "Wodospady, w których można się kąpać."],
+    ["jajce", "Яйце", "Jajce", "Jajce", 44.34, 17.27, "Водоспад просто в центрі міста.", "Wodospad w samym centrum miasta."]
+  ],
+  "dishes": [
+    ["Бурек", "Burek", "Листковий пиріг з м'ясом, згорнутий спіраллю.", "Ciasto filo z mięsem zwinięte w spiralę."],
+    ["Боснійська кава", "Kawa bośniacka", "Міцна кава з джезви з рахат-лукумом.", "Mocna kawa z dżezwy z rachatłukum."],
+    ["Клепе", "Klepe", "Пельмені з часниковим йогуртом.", "Pierożki z czosnkowym jogurtem."]
+  ],
+  "facts": [
+    ["Сараєво приймало зимові Олімпійські ігри 1984 року.", "Sarajewo gościło zimowe igrzyska olimpijskie w 1984 roku."],
+    ["Країна має лише 20 км морського узбережжя.", "Kraj ma tylko 20 km wybrzeża morskiego."],
+    ["Стрибки з мосту в Мостарі — традиція понад 400 років.", "Skoki z mostu w Mostarze to tradycja licząca ponad 400 lat."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 30, "tags": ["history", "nature", "food", "mountains"],
+  "air": ["SJJ", "Sarajevo International", 43.82, 18.33],
+  "hotels": [
+    ["Hostel Franz Ferdinand", 0, 18, ["city", "history"], "Тематичний хостел біля Латинського мосту.", "Tematyczny hostel przy Moście Łacińskim."],
+    ["Hotel Kravica Garden", 2, 55, ["nature", "family"], "Сімейний готель за кілька хвилин від водоспадів.", "Rodzinny hotel kilka minut od wodospadów."],
+    ["Hotel Jajce Stari Grad", 3, 60, ["history", "nature"], "Готель у старому місті з видом на фортецю.", "Hotel na starym mieście z widokiem na twierdzę."],
+    ["Hotel Kriva Ćuprija Mostar", 1, 90, ["history", "couples"], "Кам'яний бутик біля Старого мосту.", "Kamienny butik przy Starym Moście."],
+    ["Swissôtel Sarajevo", 0, 160, ["comfort", "city"], "Сучасний люкс зі спа й панорамою міста.", "Nowoczesny luksus ze spa i panoramą miasta."]
+  ],
+  "cars": ["VW Golf", "Škoda Kodiaq", "Mercedes E", 25]
+},
+{
+  "iso2": "MK", "wiki": "North Macedonia", "cap": ["Скоп'є", "Skopje"],
+  "intro": ["Охридське озеро — одне з найстаріших у світі, древні церкви, гори й найдоступніші ціни на Балканах. Північна Македонія — тиха перлина регіону.", "Jezioro Ochrydzkie, jedno z najstarszych na świecie, dawne cerkwie, góry i najniższe ceny na Bałkanach. Macedonia Północna to cicha perła regionu."],
+  "cities": [
+    ["skopje", "Скоп'є", "Skopje", "Skopje", 42.00, 21.43, "Старий базар, фортеця та сотні пам'ятників.", "Stary bazar, twierdza i setki pomników."],
+    ["ohrid", "Охрид", "Ochryda", "Ohrid", 41.12, 20.80, "Церква на скелі над прозорим озером.", "Cerkiew na skale nad przejrzystym jeziorem."],
+    ["matka", "Каньйон Матка", "Kanion Matka", "Matka Canyon", 41.95, 21.30, "Каякінг серед скель і печер.", "Kajaki wśród skał i jaskiń."]
+  ],
+  "dishes": [
+    ["Тавче-гравче", "Tawcze grawcze", "Запечена квасоля в глиняному горщику.", "Zapiekana fasola w glinianym garnku."],
+    ["Охридська форель", "Pstrąg ochrydzki", "Ендемічна риба з озера Охрид.", "Endemiczna ryba z Jeziora Ochrydzkiego."],
+    ["Пастрмалія", "Pastrmajlija", "Човник з тіста з м'ясом.", "Łódeczka z ciasta z mięsem."]
+  ],
+  "facts": [
+    ["Озеру Охрид понад мільйон років.", "Jezioro Ochrydzkie ma ponad milion lat."],
+    ["Мати Тереза народилася в Скоп'є.", "Matka Teresa urodziła się w Skopje."],
+    ["В Охриді, кажуть, 365 церков — по одній на кожен день.", "W Ochrydzie ma być 365 cerkwi — po jednej na każdy dzień."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 28, "tags": ["nature", "history", "sea", "food", "family"],
+  "air": ["SKP", "Skopje International", 41.96, 21.62],
+  "hotels": [
+    ["Shanti Hostel Skopje", 0, 15, ["city"], "Дружній хостел біля старого базару.", "Przyjazny hostel przy starym bazarze."],
+    ["Canyon Matka Hotel", 2, 45, ["nature", "mountains"], "Готель на вході в каньйон.", "Hotel u wejścia do kanionu."],
+    ["Villa Sofija Ohrid", 1, 60, ["history", "family"], "Вілла в старому місті Охрида.", "Willa na starym mieście w Ochrydzie."],
+    ["Villa Mal Sveti Kliment", 1, 90, ["sea", "couples"], "Бутик з терасою над озером.", "Butik z tarasem nad jeziorem."],
+    ["Marriott Skopje", 0, 150, ["comfort", "city"], "Люкс на центральній площі.", "Luksusowy hotel na głównym placu."]
+  ],
+  "cars": ["Renault Clio", "Dacia Duster", "BMW 5", 20]
+},
+{
+  "iso2": "XK", "wiki": "Kosovo", "cap": ["Приштина", "Prisztina"],
+  "intro": ["Наймолодша країна Європи з енергійною столицею, османською Прізреном і горами Ругова. Тут дуже дешево й дуже гостинно.", "Najmłodszy kraj Europy z energiczną stolicą, osmańskim Prizrenem i górami Rugova. Jest tu bardzo tanio i bardzo gościnnie."],
+  "cities": [
+    ["pristina", "Приштина", "Prisztina", "Pristina", 42.66, 21.17, "Пам'ятник NEWBORN і кав'ярні бульвару.", "Pomnik NEWBORN i kawiarnie bulwaru."],
+    ["prizren", "Прізрен", "Prizren", "Prizren", 42.21, 20.74, "Кам'яний міст, мечеті й фортеця над містом.", "Kamienny most, meczety i twierdza nad miastem."],
+    ["peja", "Печ і каньйон Ругова", "Peć i kanion Rugova", "Rugova Canyon", 42.66, 20.29, "Віа-ферата й гірські стежки.", "Via ferrata i górskie szlaki."]
+  ],
+  "dishes": [
+    ["Флія", "Flija", "Шаруватий пиріг, що печеться годинами.", "Warstwowy placek pieczony godzinami."],
+    ["Макіато", "Makiato", "Місцеве макіато — гордість кавової культури.", "Lokalne macchiato — duma kultury kawowej."],
+    ["Пите", "Pite", "Пиріг зі шпинатом або сиром.", "Placek ze szpinakiem lub serem."]
+  ],
+  "facts": [
+    ["Косово проголосило незалежність 2008 року.", "Kosowo ogłosiło niepodległość w 2008 roku."],
+    ["Середній вік населення — близько 30 років, один з найнижчих у Європі.", "Średni wiek mieszkańców to około 30 lat, jeden z najniższych w Europie."],
+    ["Офіційна валюта — євро, хоча країна не в ЄС.", "Oficjalną walutą jest euro, choć kraj nie należy do UE."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 25, "tags": ["history", "mountains", "nature", "food"],
+  "air": ["PRN", "Pristina Adem Jashari", 42.57, 21.04],
+  "hotels": [
+    ["Hostel Han Pristina", 0, 15, ["city"], "Затишний хостел у центрі.", "Przytulny hostel w centrum."],
+    ["Hotel Gold Prizren", 1, 45, ["history", "family"], "Готель біля кам'яного мосту.", "Hotel przy kamiennym moście."],
+    ["Rugova Camp Hotel", 2, 55, ["mountains", "nature"], "Гірський готель на початку каньйону.", "Górski hotel na początku kanionu."],
+    ["Hotel Prizren Centre", 1, 70, ["history", "couples"], "Бутик в османському будинку.", "Butik w osmańskim domu."],
+    ["Swiss Diamond Hotel", 0, 140, ["comfort", "city"], "Найкращий люкс Приштини.", "Najlepszy luksusowy hotel w Prisztinie."]
+  ],
+  "cars": ["VW Golf", "Hyundai Tucson", "Mercedes E", 20]
+},
+{
+  "iso2": "CY", "wiki": "Cyprus", "cap": ["Нікосія", "Nikozja"],
+  "intro": ["Острів Афродіти з 340 сонячними днями на рік, блакитними лагунами й античними руїнами. Кіпр — ідеальне море з квітня по листопад.", "Wyspa Afrodyty z 340 słonecznymi dniami w roku, błękitnymi lagunami i antycznymi ruinami. Cypr to idealne morze od kwietnia do listopada."],
+  "cities": [
+    ["limassol", "Лімасол", "Limassol", "Limassol", 34.68, 33.04, "Набережна, марина та винні села поряд.", "Promenada, marina i winne wioski w pobliżu."],
+    ["paphos", "Пафос", "Pafos", "Paphos", 34.77, 32.42, "Мозаїки, Гробниці царів і скеля Афродіти.", "Mozaiki, Groby Królewskie i Skała Afrodyty."],
+    ["ayia-napa", "Айя-Напа", "Ayia Napa", "Ayia Napa", 34.98, 34.00, "Білі пляжі та нічні вечірки.", "Białe plaże i nocne imprezy."],
+    ["troodos", "Гори Троодос", "Góry Troodos", "Troodos Mountains", 34.92, 32.86, "Розписні церкви та прохолода в горах.", "Malowane cerkwie i chłód gór."]
+  ],
+  "dishes": [
+    ["Халумі", "Halloumi", "Сир на грилі, що «скрипить» на зубах.", "Ser z grilla, który „skrzypi” w zębach."],
+    ["Мезе", "Meze", "Десятки маленьких страв за одним столом.", "Dziesiątki małych dań na jednym stole."],
+    ["Сувлакі", "Souvlaki", "Шашлички з пітою та цацикі.", "Szaszłyki z pitą i tzatziki."]
+  ],
+  "facts": [
+    ["За легендою, Афродіта вийшла з моря біля Пафоса.", "Według legendy Afrodyta wyłoniła się z morza koło Pafos."],
+    ["На Кіпрі лівосторонній рух.", "Na Cyprze obowiązuje ruch lewostronny."],
+    ["Вино Коммандарія — одне з найстаріших у світі.", "Wino Commandaria jest jednym z najstarszych na świecie."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9, 10, 11], "daily": 60, "tags": ["sea", "history", "nightlife", "family", "comfort"],
+  "air": ["LCA", "Larnaca International", 34.88, 33.63],
+  "hotels": [
+    ["Ayia Napa Backpackers", 2, 30, ["sea", "nightlife"], "Простий хостел біля пляжу Нісі.", "Prosty hostel przy plaży Nissi."],
+    ["Kiniras Traditional Hotel", 1, 80, ["history", "food"], "Сімейний готель у старому Пафосі.", "Rodzinny hotel w starym Pafos."],
+    ["Atlantica Bay Limassol", 0, 130, ["sea", "family"], "Пляжний готель з басейнами й анімацією.", "Hotel przy plaży z basenami i animacjami."],
+    ["The Library Hotel Kalopanayiotis", 3, 150, ["mountains", "couples", "nature"], "Бутик-спа в горах Троодос.", "Butik ze spa w górach Troodos."],
+    ["Anassa", 1, 450, ["comfort", "sea", "couples"], "Розкішний курорт над власною бухтою.", "Luksusowy kurort nad własną zatoką."]
+  ],
+  "cars": ["Toyota Yaris", "Nissan X-Trail", "Mercedes C Cabrio", 28]
+},
+{
+  "iso2": "MT", "wiki": "Malta", "cap": ["Валетта", "Valletta"],
+  "intro": ["Лицарські фортеці, Блакитна лагуна й кіно-локації «Гри престолів». Мальта — маленький острів з 7000 років історії.", "Twierdze rycerskie, Błękitna Laguna i plenery „Gry o tron”. Malta to mała wyspa z 7000 lat historii."],
+  "cities": [
+    ["valletta", "Валетта", "Valletta", "Valletta", 35.90, 14.51, "Барокова столиця-фортеця під ЮНЕСКО.", "Barokowa stolica-twierdza z listy UNESCO."],
+    ["mdina", "Мдіна", "Mdina", "Mdina", 35.89, 14.40, "«Тихе місто» на пагорбі.", "„Ciche miasto” na wzgórzu."],
+    ["gozo", "Острів Гозо", "Wyspa Gozo", "Gozo", 36.04, 14.25, "Скелі, дайвінг і цитадель Вікторії.", "Klify, nurkowanie i cytadela w Victorii."],
+    ["comino", "Коміно", "Comino", "Comino", 36.01, 14.34, "Блакитна лагуна з бірюзовою водою.", "Błękitna Laguna z turkusową wodą."]
+  ],
+  "dishes": [
+    ["Пастіцці", "Pastizzi", "Листкові пиріжки з рикотою чи горошком.", "Paszteciki z ciasta francuskiego z ricottą lub groszkiem."],
+    ["Фенек", "Fenek", "Кролик, тушкований у вині — національна страва.", "Królik duszony w winie — danie narodowe."],
+    ["Фтіра", "Ftira", "Мальтійський хліб з тунцем і каперсами.", "Maltański chleb z tuńczykiem i kaparami."]
+  ],
+  "facts": [
+    ["Мегалітичні храми Мальти старші за єгипетські піраміди.", "Megalityczne świątynie Malty są starsze od piramid egipskich."],
+    ["На Мальті знімали «Гру престолів» і «Гладіатора».", "Na Malcie kręcono „Grę o tron” i „Gladiatora”."],
+    ["Англійська — офіційна мова поряд з мальтійською.", "Angielski jest językiem urzędowym obok maltańskiego."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9, 10], "daily": 60, "tags": ["sea", "history", "nightlife", "couples"],
+  "air": ["MLA", "Malta International", 35.86, 14.48],
+  "hotels": [
+    ["Inhawi Hostel St Julian's", 0, 28, ["nightlife"], "Хостел у районі вечірок Сент-Джуліанс.", "Hostel w imprezowej dzielnicy St Julian's."],
+    ["Hotel Calypso Gozo", 2, 80, ["sea", "family"], "Готель над затокою Марсалфорн.", "Hotel nad zatoką Marsalforn."],
+    ["Hotel Juliani", 0, 120, ["sea", "couples"], "Бутик з басейном на даху над затокою.", "Butik z basenem na dachu nad zatoką."],
+    ["The Xara Palace Mdina", 1, 200, ["history", "couples"], "Палац XVII століття в стінах Мдіни.", "Pałac z XVII wieku w murach Mdiny."],
+    ["The Phoenicia Malta", 0, 330, ["comfort", "history"], "Легендарний люкс біля воріт Валетти.", "Legendarny luksus przy bramie Valletty."]
+  ],
+  "cars": ["Kia Picanto", "Kia Sportage", "Mercedes C", 26]
+}
+]

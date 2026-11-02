@@ -1,0 +1,233 @@
+{
+  "iso2": "SK",
+  "wiki": "Slovakia",
+  "capital": {
+    "uk": "Братислава",
+    "pl": "Bratysława"
+  },
+  "intro": {
+    "uk": "Високі Татри, печери, термальні купальні та компактна Братислава на Дунаї. Словаччина — недооцінена перлина для активного відпочинку.",
+    "pl": "Tatry Wysokie, jaskinie, kąpieliska termalne i kameralna Bratysława nad Dunajem. Słowacja to niedoceniana perła aktywnego wypoczynku."
+  },
+  "cities": [
+    {
+      "id": "sk-bratislava",
+      "name": {
+        "uk": "Братислава",
+        "pl": "Bratysława"
+      },
+      "wiki": "Bratislava",
+      "lat": 48.15,
+      "lng": 17.11,
+      "blurb": {
+        "uk": "Замок над Дунаєм і затишне старе місто.",
+        "pl": "Zamek nad Dunajem i przytulne stare miasto."
+      }
+    },
+    {
+      "id": "sk-tatras",
+      "name": {
+        "uk": "Високі Татри",
+        "pl": "Tatry Wysokie"
+      },
+      "wiki": "High Tatras",
+      "lat": 49.17,
+      "lng": 20.13,
+      "blurb": {
+        "uk": "Гірські озера, стежки й лижні траси.",
+        "pl": "Górskie stawy, szlaki i trasy narciarskie."
+      }
+    },
+    {
+      "id": "sk-banska-stiavnica",
+      "name": {
+        "uk": "Банська Штявниця",
+        "pl": "Bańska Szczawnica"
+      },
+      "wiki": "Banská Štiavnica",
+      "lat": 48.46,
+      "lng": 18.9,
+      "blurb": {
+        "uk": "Срібне шахтарське місто під ЮНЕСКО.",
+        "pl": "Srebrne miasto górnicze z listy UNESCO."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Бриндзові галушки",
+        "pl": "Bryndzové halušky"
+      },
+      "description": {
+        "uk": "Картопляні галушки з овечим сиром і шкварками.",
+        "pl": "Kluski ziemniaczane z owczym serem i skwarkami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Капустниця",
+        "pl": "Kapustnica"
+      },
+      "description": {
+        "uk": "Суп з квашеної капусти з ковбасою.",
+        "pl": "Zupa z kiszonej kapusty z kiełbasą."
+      }
+    },
+    {
+      "name": {
+        "uk": "Локше",
+        "pl": "Lokše"
+      },
+      "description": {
+        "uk": "Картопляні млинці з начинкою.",
+        "pl": "Placki ziemniaczane z nadzieniem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "У Словаччині найбільше замків на душу населення у світі.",
+      "pl": "Słowacja ma najwięcej zamków na mieszkańca na świecie."
+    },
+    {
+      "uk": "Тут понад 6000 печер, частина — під охороною ЮНЕСКО.",
+      "pl": "Jest tu ponad 6000 jaskiń, część na liście UNESCO."
+    },
+    {
+      "uk": "Братислава межує одночасно з Австрією та Угорщиною.",
+      "pl": "Bratysława graniczy jednocześnie z Austrią i Węgrami."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    6,
+    7,
+    8,
+    9,
+    12
+  ],
+  "dailyCost": 45,
+  "tags": [
+    "mountains",
+    "nature",
+    "history",
+    "family"
+  ],
+  "airport": {
+    "code": "BTS",
+    "name": "Bratislava M. R. Štefánik",
+    "lat": 48.17,
+    "lng": 17.21
+  },
+  "hotels": [
+    {
+      "id": "sk-h1",
+      "name": "Hostel Folks Bratislava",
+      "cityId": "sk-bratislava",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 22,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Затишний хостел за п'ять хвилин від старого міста.",
+        "pl": "Przytulny hostel pięć minut od starego miasta."
+      }
+    },
+    {
+      "id": "sk-h2",
+      "name": "Hotel Salamander",
+      "cityId": "sk-banska-stiavnica",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик у будинку шахтаря XVI століття.",
+        "pl": "Butik w domu górnika z XVI wieku."
+      }
+    },
+    {
+      "id": "sk-h3",
+      "name": "Hotel Lomnica",
+      "cityId": "sk-tatras",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 3,
+      "tags": [
+        "mountains",
+        "family"
+      ],
+      "description": {
+        "uk": "Відреставрований готель 1893 року у Татрах.",
+        "pl": "Odrestaurowany hotel z 1893 roku w Tatrach."
+      }
+    },
+    {
+      "id": "sk-h4",
+      "name": "Arcadia Hotel Bratislava",
+      "cityId": "sk-bratislava",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 140,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик-палац у серці старого міста.",
+        "pl": "Butikowy pałac w sercu starego miasta."
+      }
+    },
+    {
+      "id": "sk-h5",
+      "name": "Grand Hotel Kempinski High Tatras",
+      "cityId": "sk-tatras",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 260,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "mountains"
+      ],
+      "description": {
+        "uk": "Люкс з видом на озеро Штрбське Плесо.",
+        "pl": "Luksus z widokiem na Szczyrbskie Jezioro."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "sk-c1",
+      "class": "economy",
+      "model": "Kia Picanto",
+      "pricePerDay": 24,
+      "seats": 4
+    },
+    {
+      "id": "sk-c2",
+      "class": "suv",
+      "model": "Kia Sportage",
+      "pricePerDay": 43,
+      "seats": 5
+    },
+    {
+      "id": "sk-c3",
+      "class": "premium",
+      "model": "BMW 5",
+      "pricePerDay": 89,
+      "seats": 5
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "iso2": "NL",
+  "wiki": "Netherlands",
+  "capital": {
+    "uk": "Амстердам",
+    "pl": "Amsterdam"
+  },
+  "intro": {
+    "uk": "Канали, велосипеди, тюльпанові поля й музеї Ван Гога та Рембрандта. Нідерланди легко об'їхати за тиждень потягом.",
+    "pl": "Kanały, rowery, pola tulipanów i muzea Van Gogha oraz Rembrandta. Holandię łatwo objechać pociągiem w tydzień."
+  },
+  "cities": [
+    {
+      "id": "nl-amsterdam",
+      "name": {
+        "uk": "Амстердам",
+        "pl": "Amsterdam"
+      },
+      "wiki": "Amsterdam",
+      "lat": 52.37,
+      "lng": 4.9,
+      "blurb": {
+        "uk": "Канали, Рейксмузей і будинок Анни Франк.",
+        "pl": "Kanały, Rijksmuseum i Dom Anny Frank."
+      }
+    },
+    {
+      "id": "nl-rotterdam",
+      "name": {
+        "uk": "Роттердам",
+        "pl": "Rotterdam"
+      },
+      "wiki": "Rotterdam",
+      "lat": 51.92,
+      "lng": 4.48,
+      "blurb": {
+        "uk": "Смілива архітектура та найбільший порт Європи.",
+        "pl": "Odważna architektura i największy port Europy."
+      }
+    },
+    {
+      "id": "nl-lisse",
+      "name": {
+        "uk": "Ліссе і Кейкенгоф",
+        "pl": "Lisse i Keukenhof"
+      },
+      "wiki": "Keukenhof",
+      "lat": 52.27,
+      "lng": 4.55,
+      "blurb": {
+        "uk": "Мільйони тюльпанів навесні.",
+        "pl": "Miliony tulipanów wiosną."
+      }
+    },
+    {
+      "id": "nl-utrecht",
+      "name": {
+        "uk": "Утрехт",
+        "pl": "Utrecht"
+      },
+      "wiki": "Utrecht",
+      "lat": 52.09,
+      "lng": 5.12,
+      "blurb": {
+        "uk": "Двоярусні канали та затишні кафе.",
+        "pl": "Dwupoziomowe kanały i przytulne kawiarnie."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Строопвафель",
+        "pl": "Stroopwafel"
+      },
+      "description": {
+        "uk": "Тонкі вафлі з карамельним сиропом.",
+        "pl": "Cienkie wafle z karmelowym syropem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Оселедець по-голландськи",
+        "pl": "Śledź po holendersku"
+      },
+      "description": {
+        "uk": "Молодий оселедець з цибулею — їдять, тримаючи за хвіст.",
+        "pl": "Młody śledź z cebulą — je się go, trzymając za ogon."
+      }
+    },
+    {
+      "name": {
+        "uk": "Біттербаллен",
+        "pl": "Bitterballen"
+      },
+      "description": {
+        "uk": "Хрусткі м'ясні кульки з гірчицею до пива.",
+        "pl": "Chrupiące kuleczki mięsne z musztardą do piwa."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Велосипедів у Нідерландах більше, ніж людей.",
+      "pl": "W Holandii jest więcej rowerów niż ludzi."
+    },
+    {
+      "uk": "Близько чверті країни лежить нижче рівня моря.",
+      "pl": "Około jednej czwartej kraju leży poniżej poziomu morza."
+    },
+    {
+      "uk": "Нідерландці — найвищий народ у світі.",
+      "pl": "Holendrzy są najwyższym narodem świata."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 85,
+  "tags": [
+    "city",
+    "history",
+    "nightlife",
+    "nature",
+    "couples"
+  ],
+  "airport": {
+    "code": "AMS",
+    "name": "Amsterdam Schiphol",
+    "lat": 52.31,
+    "lng": 4.76
+  },
+  "hotels": [
+    {
+      "id": "nl-h1",
+      "name": "ClinkNOORD Amsterdam",
+      "cityId": "nl-amsterdam",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел у колишній лабораторії, пором до центру безкоштовний.",
+        "pl": "Hostel w dawnym laboratorium, darmowy prom do centrum."
+      }
+    },
+    {
+      "id": "nl-h2",
+      "name": "Hotel Utrecht City Centre",
+      "cityId": "nl-utrecht",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 95,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Тихий готель біля каналу Аудеграхт.",
+        "pl": "Spokojny hotel przy kanale Oudegracht."
+      }
+    },
+    {
+      "id": "nl-h3",
+      "name": "nhow Rotterdam",
+      "cityId": "nl-rotterdam",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Сучасний хмарочос із видом на міст Еразма.",
+        "pl": "Nowoczesny wieżowiec z widokiem na Most Erazma."
+      }
+    },
+    {
+      "id": "nl-h4",
+      "name": "Hotel Pulitzer Amsterdam",
+      "cityId": "nl-amsterdam",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 260,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples",
+        "comfort"
+      ],
+      "description": {
+        "uk": "25 будинків XVII століття, з'єднаних у бутик-готель.",
+        "pl": "25 kamienic z XVII wieku połączonych w butikowy hotel."
+      }
+    },
+    {
+      "id": "nl-h5",
+      "name": "Huys Kokenhof",
+      "cityId": "nl-lisse",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 330,
+      "capacity": 4,
+      "tags": [
+        "nature",
+        "comfort",
+        "family"
+      ],
+      "description": {
+        "uk": "Розкішна вілла серед квіткових полів.",
+        "pl": "Luksusowa willa wśród pól kwiatowych."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "nl-c1",
+      "class": "economy",
+      "model": "Toyota Aygo",
+      "pricePerDay": 35,
+      "seats": 4
+    },
+    {
+      "id": "nl-c2",
+      "class": "suv",
+      "model": "Kia Sportage",
+      "pricePerDay": 63,
+      "seats": 5
+    },
+    {
+      "id": "nl-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 130,
+      "seats": 5
+    }
+  ]
+}

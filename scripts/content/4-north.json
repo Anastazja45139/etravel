@@ -1,0 +1,241 @@
+[
+{
+  "iso2": "DK", "wiki": "Denmark", "cap": ["Копенгаген", "Kopenhaga"],
+  "intro": ["Кольорова набережна Нюгавн, «хюґе», велосипеди й батьківщина LEGO. Данія — затишна країна дизайну та казок Андерсена.", "Kolorowe nabrzeże Nyhavn, „hygge”, rowery i ojczyzna LEGO. Dania to przytulny kraj designu i baśni Andersena."],
+  "cities": [
+    ["copenhagen", "Копенгаген", "Kopenhaga", "Copenhagen", 55.68, 12.57, "Нюгавн, Тіволі й Русалонька.", "Nyhavn, Tivoli i Mała Syrenka."],
+    ["billund", "Біллунн", "Billund", "Legoland Billund", 55.73, 9.13, "Леголенд і LEGO House для всієї родини.", "Legoland i LEGO House dla całej rodziny."],
+    ["aarhus", "Орхус", "Aarhus", "Aarhus", 56.16, 10.20, "Райдужна панорама музею ARoS.", "Tęczowa panorama muzeum ARoS."],
+    ["skagen", "Скаген", "Skagen", "Skagen", 57.72, 10.58, "Місце, де зустрічаються два моря.", "Miejsce, gdzie spotykają się dwa morza."]
+  ],
+  "dishes": [
+    ["Смьорребрьод", "Smørrebrød", "Відкриті бутерброди на житньому хлібі.", "Otwarte kanapki na chlebie żytnim."],
+    ["Данське тістечко", "Duńskie ciastko", "Листкова випічка з кремом і корицею.", "Drożdżowe ciastko z kremem i cynamonem."],
+    ["Фрікаделлер", "Frikadeller", "Данські котлетки з картоплею.", "Duńskie kotleciki z ziemniakami."]
+  ],
+  "facts": [
+    ["Данці регулярно входять до трійки найщасливіших народів світу.", "Duńczycy regularnie są w pierwszej trójce najszczęśliwszych narodów świata."],
+    ["У Копенгагені велосипедів більше, ніж машин.", "W Kopenhadze jest więcej rowerów niż samochodów."],
+    ["Прапор Данії — найстаріший національний прапор у світі.", "Flaga Danii jest najstarszą flagą narodową na świecie."]
+  ],
+  "months": [5, 6, 7, 8, 12], "daily": 100, "tags": ["city", "family", "food", "sea", "couples"],
+  "air": ["CPH", "Copenhagen Kastrup", 55.62, 12.65],
+  "hotels": [
+    ["Steel House Copenhagen", 0, 45, ["city", "nightlife"], "Дизайнерський хостел з басейном.", "Designerski hostel z basenem."],
+    ["Hotel Legoland", 1, 190, ["family"], "Готель з LEGO-номерами біля входу в парк.", "Hotel z pokojami LEGO przy wejściu do parku."],
+    ["Comwell Aarhus", 2, 150, ["city", "family"], "Сучасний готель біля набережної.", "Nowoczesny hotel przy nabrzeżu."],
+    ["Nimb Hotel", 0, 380, ["couples", "comfort", "city"], "Мавританський палац у садах Тіволі.", "Mauretański pałac w ogrodach Tivoli."],
+    ["Ruths Hotel Skagen", 3, 360, ["sea", "comfort", "couples"], "Розкішний курорт у дюнах біля моря.", "Luksusowy kurort w wydmach nad morzem."]
+  ],
+  "cars": ["VW Up", "Volvo XC40", "Volvo XC90", 40]
+},
+{
+  "iso2": "SE", "wiki": "Sweden", "cap": ["Стокгольм", "Sztokholm"],
+  "intro": ["Стокгольм на 14 островах, червоні дерев'яні будиночки, Лапландія з північним сяйвом. Швеція — це природа, дизайн і фіка.", "Sztokholm na 14 wyspach, czerwone drewniane domki, Laponia z zorzą polarną. Szwecja to przyroda, design i fika."],
+  "cities": [
+    ["stockholm", "Стокгольм", "Sztokholm", "Stockholm", 59.33, 18.07, "Гамла Стан, музей «Ваза» й ABBA.", "Gamla Stan, muzeum „Vasa” i ABBA."],
+    ["gothenburg", "Гетеборг", "Göteborg", "Gothenburg", 57.71, 11.97, "Морепродукти, парк Лісеберг і шхери.", "Owoce morza, park Liseberg i szkiery."],
+    ["kiruna", "Кіруна", "Kiruna", "Kiruna", 67.86, 20.23, "Північне сяйво та крижаний готель.", "Zorza polarna i lodowy hotel."],
+    ["visby", "Вісбю", "Visby", "Visby", 57.64, 18.30, "Середньовічне місто-фортеця на острові Готланд.", "Średniowieczne miasto-twierdza na Gotlandii."]
+  ],
+  "dishes": [
+    ["Шведські фрикадельки", "Klopsiki szwedzkie", "З брусничним варенням і вершковим соусом.", "Z konfiturą z borówek i sosem śmietanowym."],
+    ["Кардамонова булочка", "Bułeczka kardamonowa", "Солодка булочка до кави на фіку.", "Słodka bułeczka do kawy na fikę."],
+    ["Гравлакс", "Gravlax", "Маринований лосось з кропом.", "Marynowany łosoś z koperkiem."]
+  ],
+  "facts": [
+    ["У Швеції понад 267 тисяч островів.", "Szwecja ma ponad 267 tysięcy wysp."],
+    ["Тут діє «право всіх» — можна ночувати з наметом майже будь-де.", "Obowiązuje tu „prawo każdego” — można biwakować prawie wszędzie."],
+    ["Крижаний готель у Юккасъярві будують заново щозими.", "Lodowy hotel w Jukkasjärvi buduje się od nowa każdej zimy."]
+  ],
+  "months": [1, 2, 3, 6, 7, 8, 12], "daily": 95, "tags": ["nature", "city", "sea", "couples", "family"],
+  "air": ["ARN", "Stockholm Arlanda", 59.65, 17.92],
+  "hotels": [
+    ["Generator Stockholm", 0, 45, ["city", "nightlife"], "Стильний хостел біля центрального вокзалу.", "Stylowy hostel przy dworcu centralnym."],
+    ["Hotel Göteborg Avalon", 1, 140, ["city", "food"], "Готель з басейном, що висить над вулицею.", "Hotel z basenem wiszącym nad ulicą."],
+    ["Clarion Hotel Visby", 3, 150, ["history", "sea", "family"], "Готель усередині середньовічних мурів.", "Hotel wewnątrz średniowiecznych murów."],
+    ["Ett Hem Stockholm", 0, 450, ["couples", "comfort"], "Бутик, що нагадує затишний дім.", "Butik przypominający przytulny dom."],
+    ["Icehotel Jukkasjärvi", 2, 400, ["nature", "comfort", "couples"], "Номери з криги та нічне полювання на північне сяйво.", "Pokoje z lodu i nocne łowy na zorzę."]
+  ],
+  "cars": ["VW Polo", "Volvo XC60", "Volvo XC90", 42]
+},
+{
+  "iso2": "FI", "wiki": "Finland", "cap": ["Гельсінкі", "Helsinki"],
+  "intro": ["Тисячі озер, сауни, Лапландія з Санта-Клаусом і білі ночі. Фінляндія — найкраще місце для зимової казки.", "Tysiące jezior, sauny, Laponia ze Świętym Mikołajem i białe noce. Finlandia to najlepsze miejsce na zimową bajkę."],
+  "cities": [
+    ["helsinki", "Гельсінкі", "Helsinki", "Helsinki", 60.17, 24.94, "Фортеця Суоменлінна та дизайн-квартал.", "Twierdza Suomenlinna i dzielnica designu."],
+    ["rovaniemi", "Рованіємі", "Rowaniemi", "Rovaniemi", 66.50, 25.73, "Село Санта-Клауса на Полярному колі.", "Wioska Świętego Mikołaja na kole podbiegunowym."],
+    ["saariselka", "Саарісельке", "Saariselkä", "Saariselkä", 68.42, 27.41, "Скляні іглу та північне сяйво.", "Szklane igloo i zorza polarna."],
+    ["turku", "Турку", "Turku", "Turku", 60.45, 22.27, "Найстаріше місто й архіпелаг.", "Najstarsze miasto i archipelag."]
+  ],
+  "dishes": [
+    ["Карельський пиріжок", "Pierożek karelski", "Житній пиріжок з рисовою кашею.", "Żytni pierożek z kaszą ryżową."],
+    ["Лохікейтто", "Lohikeitto", "Вершковий суп з лососем.", "Śmietanowa zupa z łososiem."],
+    ["Корвапуусті", "Korvapuusti", "Булочки з корицею у формі «вушок».", "Bułeczki cynamonowe w kształcie „uszek”."]
+  ],
+  "facts": [
+    ["У Фінляндії близько 3 мільйонів саун — більше, ніж машин.", "W Finlandii jest około 3 milionów saun — więcej niż samochodów."],
+    ["Країну називають «краєм тисячі озер», хоча їх понад 180 тисяч.", "Kraj nazywa się „krainą tysiąca jezior”, choć jest ich ponad 180 tysięcy."],
+    ["Фінляндія кілька років поспіль — найщасливіша країна світу.", "Finlandia od kilku lat jest najszczęśliwszym krajem świata."]
+  ],
+  "months": [1, 2, 3, 6, 7, 8, 12], "daily": 90, "tags": ["nature", "family", "couples", "comfort", "city"],
+  "air": ["HEL", "Helsinki-Vantaa", 60.32, 24.96],
+  "hotels": [
+    ["Eurohostel Helsinki", 0, 40, ["city"], "Хостел із сауною біля порту.", "Hostel z sauną przy porcie."],
+    ["Santa Claus Holiday Village", 1, 150, ["family", "nature"], "Котеджі просто в селі Санта-Клауса.", "Domki w samej wiosce Świętego Mikołaja."],
+    ["Radisson Blu Turku", 3, 120, ["city", "family"], "Готель на березі річки Аура.", "Hotel nad rzeką Aura."],
+    ["Hotel Lilla Roberts", 0, 210, ["city", "couples"], "Бутик ар-деко в дизайн-кварталі.", "Butik art déco w dzielnicy designu."],
+    ["Kakslauttanen Arctic Resort", 2, 450, ["nature", "comfort", "couples"], "Скляні іглу для спостереження за сяйвом.", "Szklane igloo do oglądania zorzy."]
+  ],
+  "cars": ["Toyota Yaris", "Toyota RAV4", "Volvo XC90", 40]
+},
+{
+  "iso2": "IS", "wiki": "Iceland", "cap": ["Рейк'явік", "Reykjavik"],
+  "intro": ["Вулкани, гейзери, льодовики, водоспади й північне сяйво — Ісландія схожа на іншу планету. Найкраще її досліджувати на машині.", "Wulkany, gejzery, lodowce, wodospady i zorza polarna — Islandia przypomina inną planetę. Najlepiej zwiedzać ją samochodem."],
+  "cities": [
+    ["reykjavik", "Рейк'явік", "Reykjavik", "Reykjavík", 64.15, -21.94, "Церква Гатльґрімскірк'я та кольорові дахи.", "Kościół Hallgrímskirkja i kolorowe dachy."],
+    ["golden-circle", "Золоте кільце", "Złoty Krąg", "Golden Circle (Iceland)", 64.31, -20.30, "Гейзер, водоспад Гюдльфосс і Тінгвеллір.", "Gejzer, wodospad Gullfoss i Þingvellir."],
+    ["vik", "Вік", "Vík", "Vík í Mýrdal", 63.42, -19.01, "Чорний пляж і базальтові колони.", "Czarna plaża i bazaltowe kolumny."],
+    ["blue-lagoon", "Блакитна лагуна", "Błękitna Laguna", "Blue Lagoon (geothermal spa)", 63.88, -22.45, "Геотермальне спа серед лави.", "Geotermalne spa wśród lawy."]
+  ],
+  "dishes": [
+    ["Скир", "Skyr", "Густий молочний продукт, схожий на йогурт.", "Gęsty produkt mleczny podobny do jogurtu."],
+    ["Ісландський хот-дог", "Islandzki hot dog", "З баранячою сосискою та хрусткою цибулею.", "Z jagnięcą parówką i chrupiącą cebulką."],
+    ["Суп з баранини", "Zupa jagnięca", "Kjötsúpa — гарячий суп для холодних днів.", "Kjötsúpa — gorąca zupa na zimne dni."]
+  ],
+  "facts": [
+    ["В Ісландії немає комарів.", "Na Islandii nie ma komarów."],
+    ["Альтинг — один з найстаріших парламентів світу, з 930 року.", "Althing to jeden z najstarszych parlamentów świata, od 930 roku."],
+    ["Майже вся електрика тут з відновлюваних джерел.", "Prawie cała energia elektryczna pochodzi tu ze źródeł odnawialnych."]
+  ],
+  "months": [1, 2, 3, 6, 7, 8, 9], "daily": 120, "tags": ["nature", "mountains", "couples", "comfort"],
+  "air": ["KEF", "Keflavík International", 63.99, -22.62],
+  "hotels": [
+    ["Kex Hostel", 0, 55, ["city", "nightlife"], "Хостел у колишній фабриці печива.", "Hostel w dawnej fabryce ciastek."],
+    ["Hotel Geysir", 1, 210, ["nature", "family"], "Готель з видом на гейзер Строккюр.", "Hotel z widokiem na gejzer Strokkur."],
+    ["Hotel Kría Vík", 2, 200, ["nature", "family"], "Сучасний готель біля чорного пляжу.", "Nowoczesny hotel przy czarnej plaży."],
+    ["Hotel Borg", 0, 260, ["city", "couples"], "Бутик ар-деко в центрі Рейк'явіка.", "Butik art déco w centrum Reykjaviku."],
+    ["The Retreat at Blue Lagoon", 3, 900, ["comfort", "couples"], "Номери з виходом просто в лагуну.", "Pokoje z wyjściem prosto do laguny."]
+  ],
+  "cars": ["Suzuki Swift", "Dacia Duster 4x4", "Toyota Land Cruiser", 50]
+},
+{
+  "iso2": "IE", "wiki": "Republic of Ireland", "cap": ["Дублін", "Dublin"],
+  "intro": ["Зелені пагорби, скелі Мохер, живий фольк у пабах і замки біля океану. Ірландія — країна легенд, дощу й тепла людей.", "Zielone wzgórza, klify Moher, muzyka folk na żywo w pubach i zamki nad oceanem. Irlandia to kraj legend, deszczu i ciepła ludzi."],
+  "cities": [
+    ["dublin", "Дублін", "Dublin", "Dublin", 53.35, -6.26, "Темпл-Бар, Трініті-коледж і Guinness Storehouse.", "Temple Bar, Trinity College i Guinness Storehouse."],
+    ["galway", "Голвей", "Galway", "Galway", 53.27, -9.05, "Кольорові вулиці та музика в кожному пабі.", "Kolorowe ulice i muzyka w każdym pubie."],
+    ["moher", "Скелі Мохер", "Klify Moher", "Cliffs of Moher", 52.97, -9.43, "200-метрові скелі над Атлантикою.", "200-metrowe klify nad Atlantykiem."],
+    ["killarney", "Кілларні", "Killarney", "Killarney", 52.06, -9.51, "Національний парк і Кільце Керрі.", "Park narodowy i Ring of Kerry."]
+  ],
+  "dishes": [
+    ["Ірландське рагу", "Gulasz irlandzki", "Баранина з картоплею та морквою.", "Jagnięcina z ziemniakami i marchewką."],
+    ["Содовий хліб", "Chleb sodowy", "Хліб без дріжджів з маслом.", "Chleb bez drożdży z masłem."],
+    ["Ірландський сніданок", "Śniadanie irlandzkie", "З кров'яною ковбасою та чорним пудингом.", "Z kaszanką i czarnym puddingiem."]
+  ],
+  "facts": [
+    ["Хелловін походить від кельтського свята Самайн.", "Halloween wywodzi się z celtyckiego święta Samhain."],
+    ["В Ірландії немає змій — за легендою, їх вигнав святий Патрик.", "W Irlandii nie ma węży — według legendy wypędził je św. Patryk."],
+    ["Символ країни — арфа, а не конюшина.", "Symbolem państwa jest harfa, a nie koniczyna."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 90, "tags": ["nature", "city", "nightlife", "history"],
+  "air": ["DUB", "Dublin Airport", 53.43, -6.27],
+  "hotels": [
+    ["Abbey Court Hostel", 0, 40, ["city", "nightlife"], "Хостел на набережній Ліффі біля Темпл-Бару.", "Hostel nad Liffey przy Temple Bar."],
+    ["The Lake Hotel Killarney", 3, 160, ["nature", "family"], "Готель на березі озера з оленями поруч.", "Hotel nad jeziorem z jeleniami w pobliżu."],
+    ["The g Hotel Galway", 1, 170, ["city", "couples"], "Яскравий дизайнерський готель.", "Kolorowy hotel designerski."],
+    ["Hotel Doolin", 2, 150, ["nature", "food"], "Затишний бутик біля скель Мохер.", "Przytulny butik niedaleko klifów Moher."],
+    ["The Shelbourne Dublin", 0, 420, ["comfort", "history", "city"], "Історичний люкс на площі Сент-Стівенс-Грін.", "Zabytkowy luksus przy St Stephen's Green."]
+  ],
+  "cars": ["Ford Fiesta", "Hyundai Tucson", "BMW 5", 40]
+},
+{
+  "iso2": "EE", "wiki": "Estonia", "cap": ["Таллінн", "Tallinn"],
+  "intro": ["Середньовічний Таллінн, болота й ліси, острови Балтики та цифрова держава майбутнього. Естонія — компактна й дуже зручна для подорожі.", "Średniowieczny Tallinn, bagna i lasy, bałtyckie wyspy i cyfrowe państwo przyszłości. Estonia jest kompaktowa i bardzo wygodna w podróży."],
+  "cities": [
+    ["tallinn", "Таллінн", "Tallinn", "Tallinn", 59.44, 24.75, "Найкраще збережене середньовічне місто Північної Європи.", "Najlepiej zachowane średniowieczne miasto Europy Północnej."],
+    ["tartu", "Тарту", "Tartu", "Tartu", 58.38, 26.72, "Університетське місто з молодою енергією.", "Miasto uniwersyteckie z młodą energią."],
+    ["parnu", "Пярну", "Parnawa", "Pärnu", 58.39, 24.50, "Літня столиця з піщаними пляжами.", "Letnia stolica z piaszczystymi plażami."],
+    ["saaremaa", "Сааремаа", "Sarema", "Saaremaa", 58.42, 22.50, "Вітряки, замок Куресааре й тиша.", "Wiatraki, zamek Kuressaare i cisza."]
+  ],
+  "dishes": [
+    ["Чорний хліб", "Chleb żytni", "Житній хліб — основа кожного столу.", "Chleb żytni — podstawa każdego stołu."],
+    ["Кама", "Kama", "Суміш борошна з кефіром — естонський десерт.", "Mieszanka mąk z kefirem — estoński deser."],
+    ["Кілька", "Szprotki", "Пряні кільки на житньому хлібі з яйцем.", "Pikantne szprotki na chlebie żytnim z jajkiem."]
+  ],
+  "facts": [
+    ["Skype створили естонські програмісти.", "Skype stworzyli estońscy programiści."],
+    ["В Естонії можна голосувати онлайн з 2005 року.", "W Estonii można głosować przez internet od 2005 roku."],
+    ["Майже половину країни вкривають ліси.", "Prawie połowę kraju pokrywają lasy."]
+  ],
+  "months": [5, 6, 7, 8, 12], "daily": 55, "tags": ["history", "city", "nature", "sea"],
+  "air": ["TLL", "Tallinn Lennart Meri", 59.41, 24.83],
+  "hotels": [
+    ["Red Emperor Hostel", 0, 20, ["city", "nightlife"], "Веселий хостел у старому місті.", "Wesoły hostel na starym mieście."],
+    ["Hotel Tartu London", 1, 70, ["city", "history"], "Готель на Ратушній площі Тарту.", "Hotel na Rynku Ratuszowym w Tartu."],
+    ["Georg Ots Spa Hotel", 3, 110, ["sea", "comfort", "family"], "Спа-готель з видом на море в Курессааре.", "Hotel ze spa z widokiem na morze w Kuressaare."],
+    ["Hotel Telegraaf Tallinn", 0, 170, ["history", "couples", "comfort"], "Бутик у будинку колишнього телеграфу.", "Butik w budynku dawnego telegrafu."],
+    ["Hedon Spa & Hotel Pärnu", 2, 180, ["sea", "comfort", "couples"], "Курортний люкс у старих лікувальних грязях.", "Luksus uzdrowiskowy w dawnych łaźniach błotnych."]
+  ],
+  "cars": ["Toyota Aygo", "Toyota RAV4", "BMW X5", 28]
+},
+{
+  "iso2": "LV", "wiki": "Latvia", "cap": ["Рига", "Ryga"],
+  "intro": ["Ар-нуво Риги, дюни Юрмали, середньовічні замки й соснові ліси. Латвія поєднує столичний шарм і тихий балтійський відпочинок.", "Secesja Rygi, wydmy Jurmały, średniowieczne zamki i sosnowe lasy. Łotwa łączy stołeczny urok z cichym bałtyckim wypoczynkiem."],
+  "cities": [
+    ["riga", "Рига", "Ryga", "Riga", 56.95, 24.11, "Дім Чорноголових і найбільший ринок у цепелінах.", "Dom Bractwa Czarnogłowych i targ w hangarach zeppelinów."],
+    ["jurmala", "Юрмала", "Jurmała", "Jūrmala", 56.97, 23.77, "33 км піщаного пляжу та дерев'яні вілли.", "33 km piaszczystej plaży i drewniane wille."],
+    ["sigulda", "Сігулда", "Sigulda", "Sigulda", 57.15, 24.86, "«Латвійська Швейцарія» з замками й канатною дорогою.", "„Łotewska Szwajcaria” z zamkami i kolejką linową."]
+  ],
+  "dishes": [
+    ["Сірий горох із салом", "Szary groch ze słoniną", "Традиційна страва з копченим беконом.", "Tradycyjne danie z wędzonym boczkiem."],
+    ["Ризький бальзам", "Balsam Ryski", "Трав'яний лікер за рецептом 1752 року.", "Ziołowy likier według receptury z 1752 roku."],
+    ["Пирагі", "Pīrāgi", "Пиріжки з беконом і цибулею.", "Pierożki z boczkiem i cebulą."]
+  ],
+  "facts": [
+    ["У Ризі понад третину будівель центру — у стилі ар-нуво.", "Ponad jedna trzecia budynków centrum Rygi to secesja."],
+    ["Ялинку вперше прикрасили саме в Ризі 1510 року (за легендою).", "Według legendy pierwszą choinkę ubrano w Rydze w 1510 roku."],
+    ["Майже половина Латвії вкрита лісами.", "Prawie połowę Łotwy pokrywają lasy."]
+  ],
+  "months": [5, 6, 7, 8, 12], "daily": 50, "tags": ["city", "history", "sea", "nature", "nightlife"],
+  "air": ["RIX", "Riga International", 56.92, 23.97],
+  "hotels": [
+    ["Cinnamon Sally Hostel", 0, 20, ["city", "nightlife"], "Затишний хостел біля вокзалу й ринку.", "Przytulny hostel przy dworcu i targu."],
+    ["Hotel Sigulda", 2, 65, ["nature", "family"], "Готель у центрі Сігулди поряд із замком.", "Hotel w centrum Siguldy obok zamku."],
+    ["Baltic Beach Hotel", 1, 120, ["sea", "family", "comfort"], "Спа-готель просто на пляжі Юрмали.", "Hotel ze spa tuż przy plaży w Jurmale."],
+    ["Neiburgs Hotel", 0, 150, ["history", "couples"], "Бутик в ар-нуво будинку старої Риги.", "Butik w secesyjnej kamienicy starej Rygi."],
+    ["Grand Palace Hotel Riga", 0, 220, ["comfort", "city"], "Класичний люкс у старому місті.", "Klasyczny luksus na starym mieście."]
+  ],
+  "cars": ["Škoda Fabia", "Škoda Karoq", "BMW 5", 26]
+},
+{
+  "iso2": "LT", "wiki": "Lithuania", "cap": ["Вільнюс", "Wilno"],
+  "intro": ["Барокове старе місто Вільнюса, замок на озері в Тракаї та дюни Куршської коси. Литва — тепла, зелена й дуже близька до Польщі.", "Barokowe stare miasto Wilna, zamek na jeziorze w Trokach i wydmy Mierzei Kurońskiej. Litwa jest ciepła, zielona i bardzo bliska Polsce."],
+  "cities": [
+    ["vilnius", "Вільнюс", "Wilno", "Vilnius", 54.69, 25.28, "Гостра Брама, республіка Ужупіс і костели.", "Ostra Brama, republika Užupis i kościoły."],
+    ["trakai", "Тракай", "Troki", "Trakai", 54.65, 24.93, "Готичний замок на острові посеред озера.", "Gotycki zamek na wyspie pośrodku jeziora."],
+    ["nida", "Нида", "Nida", "Nida, Lithuania", 55.30, 21.00, "Найвищі дюни Європи на Куршській косі.", "Najwyższe wydmy Europy na Mierzei Kurońskiej."],
+    ["kaunas", "Каунас", "Kowno", "Kaunas", 54.90, 23.89, "Модерністська архітектура й старий замок.", "Modernistyczna architektura i stary zamek."]
+  ],
+  "dishes": [
+    ["Цепеліни", "Cepeliny", "Картопляні кнедлі з м'ясом і шкварками.", "Ziemniaczane kluski z mięsem i skwarkami."],
+    ["Шалтібарщай", "Chłodnik litewski", "Рожевий холодник з буряка й кефіру.", "Różowy chłodnik z buraków i kefiru."],
+    ["Кибини", "Kibiny", "Караїмські пиріжки з Тракая.", "Karaimskie pierogi z Trok."]
+  ],
+  "facts": [
+    ["Литовська — одна з найархаїчніших індоєвропейських мов.", "Litewski jest jednym z najbardziej archaicznych języków indoeuropejskich."],
+    ["Баскетбол — майже національна релігія Литви.", "Koszykówka jest na Litwie niemal narodową religią."],
+    ["Район Ужупіс у Вільнюсі має власну «конституцію».", "Dzielnica Užupis w Wilnie ma własną „konstytucję”."]
+  ],
+  "months": [5, 6, 7, 8, 9, 12], "daily": 45, "tags": ["history", "city", "sea", "nature", "food"],
+  "air": ["VNO", "Vilnius International", 54.63, 25.29],
+  "hotels": [
+    ["Jimmy Jumps House", 0, 18, ["city", "nightlife"], "Найпопулярніший хостел Вільнюса.", "Najpopularniejszy hostel w Wilnie."],
+    ["Hotel Nidus", 2, 90, ["sea", "nature", "family"], "Готель серед сосен біля дюн.", "Hotel wśród sosen przy wydmach."],
+    ["Daugirdas Hotel Kaunas", 3, 85, ["history", "city"], "Готель з розкопками XVI століття в підвалі.", "Hotel z wykopaliskami z XVI wieku w piwnicy."],
+    ["Bernardinu B&B", 0, 110, ["history", "couples"], "Затишний бутик у старому місті.", "Przytulny butik na starym mieście."],
+    ["Kempinski Hotel Cathedral Square", 0, 230, ["comfort", "city"], "Люкс з видом на Кафедральну площу.", "Luksus z widokiem na Plac Katedralny."]
+  ],
+  "cars": ["Toyota Yaris", "Toyota RAV4", "Mercedes E", 25]
+}
+]

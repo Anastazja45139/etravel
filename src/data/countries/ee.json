@@ -1,0 +1,249 @@
+{
+  "iso2": "EE",
+  "wiki": "Estonia",
+  "capital": {
+    "uk": "Таллінн",
+    "pl": "Tallinn"
+  },
+  "intro": {
+    "uk": "Середньовічний Таллінн, болота й ліси, острови Балтики та цифрова держава майбутнього. Естонія — компактна й дуже зручна для подорожі.",
+    "pl": "Średniowieczny Tallinn, bagna i lasy, bałtyckie wyspy i cyfrowe państwo przyszłości. Estonia jest kompaktowa i bardzo wygodna w podróży."
+  },
+  "cities": [
+    {
+      "id": "ee-tallinn",
+      "name": {
+        "uk": "Таллінн",
+        "pl": "Tallinn"
+      },
+      "wiki": "Tallinn",
+      "lat": 59.44,
+      "lng": 24.75,
+      "blurb": {
+        "uk": "Найкраще збережене середньовічне місто Північної Європи.",
+        "pl": "Najlepiej zachowane średniowieczne miasto Europy Północnej."
+      }
+    },
+    {
+      "id": "ee-tartu",
+      "name": {
+        "uk": "Тарту",
+        "pl": "Tartu"
+      },
+      "wiki": "Tartu",
+      "lat": 58.38,
+      "lng": 26.72,
+      "blurb": {
+        "uk": "Університетське місто з молодою енергією.",
+        "pl": "Miasto uniwersyteckie z młodą energią."
+      }
+    },
+    {
+      "id": "ee-parnu",
+      "name": {
+        "uk": "Пярну",
+        "pl": "Parnawa"
+      },
+      "wiki": "Pärnu",
+      "lat": 58.39,
+      "lng": 24.5,
+      "blurb": {
+        "uk": "Літня столиця з піщаними пляжами.",
+        "pl": "Letnia stolica z piaszczystymi plażami."
+      }
+    },
+    {
+      "id": "ee-saaremaa",
+      "name": {
+        "uk": "Сааремаа",
+        "pl": "Sarema"
+      },
+      "wiki": "Saaremaa",
+      "lat": 58.42,
+      "lng": 22.5,
+      "blurb": {
+        "uk": "Вітряки, замок Куресааре й тиша.",
+        "pl": "Wiatraki, zamek Kuressaare i cisza."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Чорний хліб",
+        "pl": "Chleb żytni"
+      },
+      "description": {
+        "uk": "Житній хліб — основа кожного столу.",
+        "pl": "Chleb żytni — podstawa każdego stołu."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кама",
+        "pl": "Kama"
+      },
+      "description": {
+        "uk": "Суміш борошна з кефіром — естонський десерт.",
+        "pl": "Mieszanka mąk z kefirem — estoński deser."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кілька",
+        "pl": "Szprotki"
+      },
+      "description": {
+        "uk": "Пряні кільки на житньому хлібі з яйцем.",
+        "pl": "Pikantne szprotki na chlebie żytnim z jajkiem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Skype створили естонські програмісти.",
+      "pl": "Skype stworzyli estońscy programiści."
+    },
+    {
+      "uk": "В Естонії можна голосувати онлайн з 2005 року.",
+      "pl": "W Estonii można głosować przez internet od 2005 roku."
+    },
+    {
+      "uk": "Майже половину країни вкривають ліси.",
+      "pl": "Prawie połowę kraju pokrywają lasy."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    12
+  ],
+  "dailyCost": 55,
+  "tags": [
+    "history",
+    "city",
+    "nature",
+    "sea"
+  ],
+  "airport": {
+    "code": "TLL",
+    "name": "Tallinn Lennart Meri",
+    "lat": 59.41,
+    "lng": 24.83
+  },
+  "hotels": [
+    {
+      "id": "ee-h1",
+      "name": "Red Emperor Hostel",
+      "cityId": "ee-tallinn",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 20,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Веселий хостел у старому місті.",
+        "pl": "Wesoły hostel na starym mieście."
+      }
+    },
+    {
+      "id": "ee-h2",
+      "name": "Hotel Tartu London",
+      "cityId": "ee-tartu",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Готель на Ратушній площі Тарту.",
+        "pl": "Hotel na Rynku Ratuszowym w Tartu."
+      }
+    },
+    {
+      "id": "ee-h3",
+      "name": "Georg Ots Spa Hotel",
+      "cityId": "ee-saaremaa",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 110,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "comfort",
+        "family"
+      ],
+      "description": {
+        "uk": "Спа-готель з видом на море в Курессааре.",
+        "pl": "Hotel ze spa z widokiem na morze w Kuressaare."
+      }
+    },
+    {
+      "id": "ee-h4",
+      "name": "Hotel Telegraaf Tallinn",
+      "cityId": "ee-tallinn",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 170,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Бутик у будинку колишнього телеграфу.",
+        "pl": "Butik w budynku dawnego telegrafu."
+      }
+    },
+    {
+      "id": "ee-h5",
+      "name": "Hedon Spa & Hotel Pärnu",
+      "cityId": "ee-parnu",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 180,
+      "capacity": 4,
+      "tags": [
+        "sea",
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Курортний люкс у старих лікувальних грязях.",
+        "pl": "Luksus uzdrowiskowy w dawnych łaźniach błotnych."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "ee-c1",
+      "class": "economy",
+      "model": "Toyota Aygo",
+      "pricePerDay": 28,
+      "seats": 4
+    },
+    {
+      "id": "ee-c2",
+      "class": "suv",
+      "model": "Toyota RAV4",
+      "pricePerDay": 50,
+      "seats": 5
+    },
+    {
+      "id": "ee-c3",
+      "class": "premium",
+      "model": "BMW X5",
+      "pricePerDay": 104,
+      "seats": 5
+    }
+  ]
+}

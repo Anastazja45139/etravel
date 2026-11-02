@@ -1,0 +1,252 @@
+{
+  "iso2": "CH",
+  "wiki": "Switzerland",
+  "capital": {
+    "uk": "Берн",
+    "pl": "Berno"
+  },
+  "intro": {
+    "uk": "Сніжні вершини, кришталеві озера, панорамні потяги й найсмачніший шоколад. Швейцарія дорога, але кожен франк тут вартий краєвидів.",
+    "pl": "Ośnieżone szczyty, krystaliczne jeziora, panoramiczne pociągi i najlepsza czekolada. Szwajcaria jest droga, ale każdy frank jest wart tych widoków."
+  },
+  "cities": [
+    {
+      "id": "ch-zurich",
+      "name": {
+        "uk": "Цюрих",
+        "pl": "Zurych"
+      },
+      "wiki": "Zürich",
+      "lat": 47.37,
+      "lng": 8.54,
+      "blurb": {
+        "uk": "Озеро, старе місто й найкращі шоколадниці.",
+        "pl": "Jezioro, stare miasto i najlepsze czekoladziarnie."
+      }
+    },
+    {
+      "id": "ch-lucerne",
+      "name": {
+        "uk": "Люцерн",
+        "pl": "Lucerna"
+      },
+      "wiki": "Lucerne",
+      "lat": 47.05,
+      "lng": 8.31,
+      "blurb": {
+        "uk": "Дерев'яний міст Капельбрюкке та гора Пілатус.",
+        "pl": "Drewniany most Kapellbrücke i góra Pilatus."
+      }
+    },
+    {
+      "id": "ch-zermatt",
+      "name": {
+        "uk": "Церматт",
+        "pl": "Zermatt"
+      },
+      "wiki": "Zermatt",
+      "lat": 46.02,
+      "lng": 7.75,
+      "blurb": {
+        "uk": "Курорт без машин біля підніжжя Маттерхорну.",
+        "pl": "Kurort bez samochodów u stóp Matterhornu."
+      }
+    },
+    {
+      "id": "ch-interlaken",
+      "name": {
+        "uk": "Інтерлакен",
+        "pl": "Interlaken"
+      },
+      "wiki": "Interlaken",
+      "lat": 46.69,
+      "lng": 7.86,
+      "blurb": {
+        "uk": "Між двома озерами, поруч Юнгфрау.",
+        "pl": "Między dwoma jeziorami, w pobliżu Jungfrau."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Фондю",
+        "pl": "Fondue"
+      },
+      "description": {
+        "uk": "Розтоплений сир із вином, у який занурюють хліб.",
+        "pl": "Roztopiony ser z winem, w którym macza się chleb."
+      }
+    },
+    {
+      "name": {
+        "uk": "Раклет",
+        "pl": "Raclette"
+      },
+      "description": {
+        "uk": "Сир, розплавлений просто на картоплю.",
+        "pl": "Ser topiony prosto na ziemniaki."
+      }
+    },
+    {
+      "name": {
+        "uk": "Решті",
+        "pl": "Rösti"
+      },
+      "description": {
+        "uk": "Хрустка картопляна деруна-сковорідка.",
+        "pl": "Chrupiący placek z tartych ziemniaków."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "У Швейцарії понад 1500 озер.",
+      "pl": "W Szwajcarii jest ponad 1500 jezior."
+    },
+    {
+      "uk": "Країна має чотири офіційні мови.",
+      "pl": "Kraj ma cztery języki urzędowe."
+    },
+    {
+      "uk": "Швейцарці з'їдають близько 10 кг шоколаду на рік на людину.",
+      "pl": "Szwajcarzy zjadają około 10 kg czekolady rocznie na osobę."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    12
+  ],
+  "dailyCost": 130,
+  "tags": [
+    "mountains",
+    "nature",
+    "comfort",
+    "couples",
+    "city"
+  ],
+  "airport": {
+    "code": "ZRH",
+    "name": "Zürich Airport",
+    "lat": 47.46,
+    "lng": 8.55
+  },
+  "hotels": [
+    {
+      "id": "ch-h1",
+      "name": "Balmers Hostel Interlaken",
+      "cityId": "ch-interlaken",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 55,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Легендарний хостел для любителів пригод.",
+        "pl": "Legendarny hostel dla miłośników przygód."
+      }
+    },
+    {
+      "id": "ch-h2",
+      "name": "Hotel Alpina Lucerne",
+      "cityId": "ch-lucerne",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 160,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Простий і затишний готель біля вокзалу.",
+        "pl": "Prosty i przytulny hotel przy dworcu."
+      }
+    },
+    {
+      "id": "ch-h3",
+      "name": "Hotel Schweizerhof Zermatt",
+      "cityId": "ch-zermatt",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 280,
+      "capacity": 3,
+      "tags": [
+        "mountains",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель у центрі Церматта з басейном.",
+        "pl": "Hotel w centrum Zermatt z basenem."
+      }
+    },
+    {
+      "id": "ch-h4",
+      "name": "Widder Hotel Zürich",
+      "cityId": "ch-zurich",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 340,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples",
+        "history"
+      ],
+      "description": {
+        "uk": "Дев'ять середньовічних будинків в одному бутику.",
+        "pl": "Dziewięć średniowiecznych kamienic w jednym butiku."
+      }
+    },
+    {
+      "id": "ch-h5",
+      "name": "Victoria-Jungfrau Grand Hotel",
+      "cityId": "ch-interlaken",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 520,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "mountains",
+        "couples"
+      ],
+      "description": {
+        "uk": "Палац із видом на Юнгфрау та велике спа.",
+        "pl": "Pałac z widokiem na Jungfrau i dużym spa."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "ch-c1",
+      "class": "economy",
+      "model": "Opel Corsa",
+      "pricePerDay": 55,
+      "seats": 4
+    },
+    {
+      "id": "ch-c2",
+      "class": "suv",
+      "model": "VW Tiguan",
+      "pricePerDay": 99,
+      "seats": 5
+    },
+    {
+      "id": "ch-c3",
+      "class": "premium",
+      "model": "Audi Q7",
+      "pricePerDay": 204,
+      "seats": 5
+    }
+  ]
+}

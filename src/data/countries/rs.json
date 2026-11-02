@@ -1,0 +1,236 @@
+{
+  "iso2": "RS",
+  "wiki": "Serbia",
+  "capital": {
+    "uk": "Белград",
+    "pl": "Belgrad"
+  },
+  "intro": {
+    "uk": "Нічне життя Белграда, фортеці на Дунаї, монастирі та щедра балканська кухня. Сербія вражає гостинністю й енергією.",
+    "pl": "Nocne życie Belgradu, twierdze nad Dunajem, monastery i obfita bałkańska kuchnia. Serbia zachwyca gościnnością i energią."
+  },
+  "cities": [
+    {
+      "id": "rs-belgrade",
+      "name": {
+        "uk": "Белград",
+        "pl": "Belgrad"
+      },
+      "wiki": "Belgrade",
+      "lat": 44.82,
+      "lng": 20.46,
+      "blurb": {
+        "uk": "Фортеця Калемегдан і клуби на річкових баржах.",
+        "pl": "Twierdza Kalemegdan i kluby na barkach."
+      }
+    },
+    {
+      "id": "rs-novi-sad",
+      "name": {
+        "uk": "Нові-Сад",
+        "pl": "Nowy Sad"
+      },
+      "wiki": "Novi Sad",
+      "lat": 45.27,
+      "lng": 19.83,
+      "blurb": {
+        "uk": "Петроварадинська фортеця й фестиваль EXIT.",
+        "pl": "Twierdza Petrovaradin i festiwal EXIT."
+      }
+    },
+    {
+      "id": "rs-zlatibor",
+      "name": {
+        "uk": "Златибор",
+        "pl": "Zlatibor"
+      },
+      "wiki": "Zlatibor",
+      "lat": 43.73,
+      "lng": 19.7,
+      "blurb": {
+        "uk": "Гірський курорт з найдовшою гондолою Балкан.",
+        "pl": "Górski kurort z najdłuższą gondolą na Bałkanach."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Плєскавиця",
+        "pl": "Pljeskavica"
+      },
+      "description": {
+        "uk": "Великий балканський бургер на грилі.",
+        "pl": "Duży bałkański burger z grilla."
+      }
+    },
+    {
+      "name": {
+        "uk": "Чевапчичі",
+        "pl": "Ćevapčići"
+      },
+      "description": {
+        "uk": "Ковбаски з фаршу з лепінею й каймаком.",
+        "pl": "Kiełbaski z mięsa mielonego z lepinją i kajmakiem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Айвар",
+        "pl": "Ajvar"
+      },
+      "description": {
+        "uk": "Паста з печеного перцю та баклажанів.",
+        "pl": "Pasta z pieczonej papryki i bakłażana."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Нікола Тесла був сербом за походженням.",
+      "pl": "Nikola Tesla był z pochodzenia Serbem."
+    },
+    {
+      "uk": "Сербія — один з найбільших експортерів малини у світі.",
+      "pl": "Serbia jest jednym z największych eksporterów malin na świecie."
+    },
+    {
+      "uk": "Белград руйнували й відбудовували понад 40 разів.",
+      "pl": "Belgrad był niszczony i odbudowywany ponad 40 razy."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 35,
+  "tags": [
+    "city",
+    "nightlife",
+    "food",
+    "history",
+    "mountains"
+  ],
+  "airport": {
+    "code": "BEG",
+    "name": "Belgrade Nikola Tesla",
+    "lat": 44.82,
+    "lng": 20.31
+  },
+  "hotels": [
+    {
+      "id": "rs-h1",
+      "name": "Hostel Bongo Belgrade",
+      "cityId": "rs-belgrade",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 18,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел на головній пішохідній вулиці.",
+        "pl": "Hostel przy głównym deptaku."
+      }
+    },
+    {
+      "id": "rs-h2",
+      "name": "Hotel Leopold I Novi Sad",
+      "cityId": "rs-novi-sad",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Готель усередині Петроварадинської фортеці.",
+        "pl": "Hotel wewnątrz twierdzy Petrovaradin."
+      }
+    },
+    {
+      "id": "rs-h3",
+      "name": "Hotel Zlatibor Mona",
+      "cityId": "rs-zlatibor",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 95,
+      "capacity": 3,
+      "tags": [
+        "mountains",
+        "family"
+      ],
+      "description": {
+        "uk": "Гірський готель з басейном і спа.",
+        "pl": "Górski hotel z basenem i spa."
+      }
+    },
+    {
+      "id": "rs-h4",
+      "name": "Hotel Square Nine",
+      "cityId": "rs-belgrade",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 170,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Дизайнерський бутик біля площі Республіки.",
+        "pl": "Designerski butik przy placu Republiki."
+      }
+    },
+    {
+      "id": "rs-h5",
+      "name": "Hyatt Regency Belgrade",
+      "cityId": "rs-belgrade",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 200,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Великий люкс у Новому Белграді.",
+        "pl": "Duży luksusowy hotel w Nowym Belgradzie."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "rs-c1",
+      "class": "economy",
+      "model": "Fiat Punto",
+      "pricePerDay": 22,
+      "seats": 4
+    },
+    {
+      "id": "rs-c2",
+      "class": "suv",
+      "model": "Dacia Duster",
+      "pricePerDay": 40,
+      "seats": 5
+    },
+    {
+      "id": "rs-c3",
+      "class": "premium",
+      "model": "Audi A6",
+      "pricePerDay": 81,
+      "seats": 5
+    }
+  ]
+}

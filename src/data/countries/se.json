@@ -1,0 +1,251 @@
+{
+  "iso2": "SE",
+  "wiki": "Sweden",
+  "capital": {
+    "uk": "Стокгольм",
+    "pl": "Sztokholm"
+  },
+  "intro": {
+    "uk": "Стокгольм на 14 островах, червоні дерев'яні будиночки, Лапландія з північним сяйвом. Швеція — це природа, дизайн і фіка.",
+    "pl": "Sztokholm na 14 wyspach, czerwone drewniane domki, Laponia z zorzą polarną. Szwecja to przyroda, design i fika."
+  },
+  "cities": [
+    {
+      "id": "se-stockholm",
+      "name": {
+        "uk": "Стокгольм",
+        "pl": "Sztokholm"
+      },
+      "wiki": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "blurb": {
+        "uk": "Гамла Стан, музей «Ваза» й ABBA.",
+        "pl": "Gamla Stan, muzeum „Vasa” i ABBA."
+      }
+    },
+    {
+      "id": "se-gothenburg",
+      "name": {
+        "uk": "Гетеборг",
+        "pl": "Göteborg"
+      },
+      "wiki": "Gothenburg",
+      "lat": 57.71,
+      "lng": 11.97,
+      "blurb": {
+        "uk": "Морепродукти, парк Лісеберг і шхери.",
+        "pl": "Owoce morza, park Liseberg i szkiery."
+      }
+    },
+    {
+      "id": "se-kiruna",
+      "name": {
+        "uk": "Кіруна",
+        "pl": "Kiruna"
+      },
+      "wiki": "Kiruna",
+      "lat": 67.86,
+      "lng": 20.23,
+      "blurb": {
+        "uk": "Північне сяйво та крижаний готель.",
+        "pl": "Zorza polarna i lodowy hotel."
+      }
+    },
+    {
+      "id": "se-visby",
+      "name": {
+        "uk": "Вісбю",
+        "pl": "Visby"
+      },
+      "wiki": "Visby",
+      "lat": 57.64,
+      "lng": 18.3,
+      "blurb": {
+        "uk": "Середньовічне місто-фортеця на острові Готланд.",
+        "pl": "Średniowieczne miasto-twierdza na Gotlandii."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Шведські фрикадельки",
+        "pl": "Klopsiki szwedzkie"
+      },
+      "description": {
+        "uk": "З брусничним варенням і вершковим соусом.",
+        "pl": "Z konfiturą z borówek i sosem śmietanowym."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кардамонова булочка",
+        "pl": "Bułeczka kardamonowa"
+      },
+      "description": {
+        "uk": "Солодка булочка до кави на фіку.",
+        "pl": "Słodka bułeczka do kawy na fikę."
+      }
+    },
+    {
+      "name": {
+        "uk": "Гравлакс",
+        "pl": "Gravlax"
+      },
+      "description": {
+        "uk": "Маринований лосось з кропом.",
+        "pl": "Marynowany łosoś z koperkiem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "У Швеції понад 267 тисяч островів.",
+      "pl": "Szwecja ma ponad 267 tysięcy wysp."
+    },
+    {
+      "uk": "Тут діє «право всіх» — можна ночувати з наметом майже будь-де.",
+      "pl": "Obowiązuje tu „prawo każdego” — można biwakować prawie wszędzie."
+    },
+    {
+      "uk": "Крижаний готель у Юккасъярві будують заново щозими.",
+      "pl": "Lodowy hotel w Jukkasjärvi buduje się od nowa każdej zimy."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    12
+  ],
+  "dailyCost": 95,
+  "tags": [
+    "nature",
+    "city",
+    "sea",
+    "couples",
+    "family"
+  ],
+  "airport": {
+    "code": "ARN",
+    "name": "Stockholm Arlanda",
+    "lat": 59.65,
+    "lng": 17.92
+  },
+  "hotels": [
+    {
+      "id": "se-h1",
+      "name": "Generator Stockholm",
+      "cityId": "se-stockholm",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Стильний хостел біля центрального вокзалу.",
+        "pl": "Stylowy hostel przy dworcu centralnym."
+      }
+    },
+    {
+      "id": "se-h2",
+      "name": "Hotel Göteborg Avalon",
+      "cityId": "se-gothenburg",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 140,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "food"
+      ],
+      "description": {
+        "uk": "Готель з басейном, що висить над вулицею.",
+        "pl": "Hotel z basenem wiszącym nad ulicą."
+      }
+    },
+    {
+      "id": "se-h3",
+      "name": "Clarion Hotel Visby",
+      "cityId": "se-visby",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 3,
+      "tags": [
+        "history",
+        "sea",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель усередині середньовічних мурів.",
+        "pl": "Hotel wewnątrz średniowiecznych murów."
+      }
+    },
+    {
+      "id": "se-h4",
+      "name": "Ett Hem Stockholm",
+      "cityId": "se-stockholm",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 450,
+      "capacity": 2,
+      "tags": [
+        "couples",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Бутик, що нагадує затишний дім.",
+        "pl": "Butik przypominający przytulny dom."
+      }
+    },
+    {
+      "id": "se-h5",
+      "name": "Icehotel Jukkasjärvi",
+      "cityId": "se-kiruna",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 400,
+      "capacity": 4,
+      "tags": [
+        "nature",
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Номери з криги та нічне полювання на північне сяйво.",
+        "pl": "Pokoje z lodu i nocne łowy na zorzę."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "se-c1",
+      "class": "economy",
+      "model": "VW Polo",
+      "pricePerDay": 42,
+      "seats": 4
+    },
+    {
+      "id": "se-c2",
+      "class": "suv",
+      "model": "Volvo XC60",
+      "pricePerDay": 76,
+      "seats": 5
+    },
+    {
+      "id": "se-c3",
+      "class": "premium",
+      "model": "Volvo XC90",
+      "pricePerDay": 155,
+      "seats": 5
+    }
+  ]
+}

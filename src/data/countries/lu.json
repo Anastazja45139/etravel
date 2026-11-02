@@ -1,0 +1,232 @@
+{
+  "iso2": "LU",
+  "wiki": "Luxembourg",
+  "capital": {
+    "uk": "Люксембург",
+    "pl": "Luksemburg"
+  },
+  "intro": {
+    "uk": "Фортеця на скелях, казкові долини й безкоштовний громадський транспорт по всій країні. Люксембург — ідеальний для коротких вихідних.",
+    "pl": "Twierdza na skałach, bajkowe doliny i darmowa komunikacja publiczna w całym kraju. Luksemburg jest idealny na krótki weekend."
+  },
+  "cities": [
+    {
+      "id": "lu-luxembourg",
+      "name": {
+        "uk": "Люксембург",
+        "pl": "Luksemburg"
+      },
+      "wiki": "Luxembourg City",
+      "lat": 49.61,
+      "lng": 6.13,
+      "blurb": {
+        "uk": "Казамати Бок і квартал Грунд біля річки.",
+        "pl": "Kazamaty Bock i dzielnica Grund nad rzeką."
+      }
+    },
+    {
+      "id": "lu-vianden",
+      "name": {
+        "uk": "Віанден",
+        "pl": "Vianden"
+      },
+      "wiki": "Vianden",
+      "lat": 49.93,
+      "lng": 6.21,
+      "blurb": {
+        "uk": "Величний замок над містечком і канатна дорога.",
+        "pl": "Majestatyczny zamek nad miasteczkiem i kolejka linowa."
+      }
+    },
+    {
+      "id": "lu-mullerthal",
+      "name": {
+        "uk": "Мюллерталь",
+        "pl": "Mullerthal"
+      },
+      "wiki": "Mullerthal",
+      "lat": 49.79,
+      "lng": 6.33,
+      "blurb": {
+        "uk": "«Маленька Швейцарія» — скелі, ліси й водоспади.",
+        "pl": "„Mała Szwajcaria” — skały, lasy i wodospady."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Юдд мат Гардебоунен",
+        "pl": "Judd mat Gaardebounen"
+      },
+      "description": {
+        "uk": "Копчена свинина з бобами — національна страва.",
+        "pl": "Wędzona wieprzowina z bobem — danie narodowe."
+      }
+    },
+    {
+      "name": {
+        "uk": "Громперекіхельхер",
+        "pl": "Gromperekichelcher"
+      },
+      "description": {
+        "uk": "Картопляні оладки з ярмарків.",
+        "pl": "Placki ziemniaczane z jarmarków."
+      }
+    },
+    {
+      "name": {
+        "uk": "Мозельські вина",
+        "pl": "Wina mozelskie"
+      },
+      "description": {
+        "uk": "Ріслінг і креман з долини Мозеля.",
+        "pl": "Riesling i crémant z doliny Mozeli."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Весь громадський транспорт у країні безкоштовний.",
+      "pl": "Cała komunikacja publiczna w kraju jest bezpłatna."
+    },
+    {
+      "uk": "Люксембург — єдине велике герцогство у світі.",
+      "pl": "Luksemburg to jedyne wielkie księstwo na świecie."
+    },
+    {
+      "uk": "Тут три офіційні мови: люксембурзька, французька й німецька.",
+      "pl": "Są tu trzy języki urzędowe: luksemburski, francuski i niemiecki."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 90,
+  "tags": [
+    "history",
+    "nature",
+    "city",
+    "couples",
+    "comfort"
+  ],
+  "airport": {
+    "code": "LUX",
+    "name": "Luxembourg Findel",
+    "lat": 49.63,
+    "lng": 6.21
+  },
+  "hotels": [
+    {
+      "id": "lu-h1",
+      "name": "Youth Hostel Luxembourg City",
+      "cityId": "lu-luxembourg",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Хостел під стінами фортеці в долині Альзетт.",
+        "pl": "Hostel pod murami twierdzy w dolinie Alzette."
+      }
+    },
+    {
+      "id": "lu-h2",
+      "name": "Hotel Victor Hugo Vianden",
+      "cityId": "lu-vianden",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 95,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "nature"
+      ],
+      "description": {
+        "uk": "Затишний готель у будинку, де жив Віктор Гюго.",
+        "pl": "Przytulny hotel w domu, w którym mieszkał Victor Hugo."
+      }
+    },
+    {
+      "id": "lu-h3",
+      "name": "Hotel Heringer Millen",
+      "cityId": "lu-mullerthal",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 130,
+      "capacity": 3,
+      "tags": [
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель біля стежок Мюллерталь.",
+        "pl": "Hotel przy szlakach Mullerthal."
+      }
+    },
+    {
+      "id": "lu-h4",
+      "name": "Hotel Simoncini",
+      "cityId": "lu-luxembourg",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 180,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Арт-бутик із сучасним мистецтвом у центрі.",
+        "pl": "Butik artystyczny ze sztuką współczesną w centrum."
+      }
+    },
+    {
+      "id": "lu-h5",
+      "name": "Le Royal Hotel Luxembourg",
+      "cityId": "lu-luxembourg",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 340,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Люкс на бульварі Руаяль зі спа.",
+        "pl": "Luksusowy hotel przy Boulevard Royal ze spa."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "lu-c1",
+      "class": "economy",
+      "model": "Renault Clio",
+      "pricePerDay": 38,
+      "seats": 4
+    },
+    {
+      "id": "lu-c2",
+      "class": "suv",
+      "model": "Renault Kadjar",
+      "pricePerDay": 68,
+      "seats": 5
+    },
+    {
+      "id": "lu-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 141,
+      "seats": 5
+    }
+  ]
+}

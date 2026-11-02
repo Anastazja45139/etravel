@@ -1,0 +1,239 @@
+[
+{
+  "iso2": "CZ", "wiki": "Czech Republic", "cap": ["Прага", "Praga"],
+  "intro": ["Готичні шпилі Праги, чеське пиво за копійки й замки на кожному пагорбі. Чехія — одна з найкрасивіших і найдоступніших країн Європи.", "Gotyckie iglice Pragi, tanie czeskie piwo i zamki na każdym wzgórzu. Czechy to jeden z najpiękniejszych i najtańszych krajów Europy."],
+  "cities": [
+    ["prague", "Прага", "Praga", "Prague", 50.08, 14.42, "Карлів міст, астрономічний годинник і Празький град.", "Most Karola, zegar astronomiczny i Hradczany."],
+    ["cesky-krumlov", "Чеський Крумлов", "Czeski Krumlow", "Český Krumlov", 48.81, 14.32, "Казкове містечко в закруті Влтави.", "Bajkowe miasteczko w zakolu Wełtawy."],
+    ["karlovy-vary", "Карлові Вари", "Karlowe Wary", "Karlovy Vary", 50.23, 12.87, "Мінеральні джерела та колонади курорту.", "Źródła mineralne i kolumnady uzdrowiska."],
+    ["brno", "Брно", "Brno", "Brno", 49.20, 16.61, "Студентське місто з вілою Тугендгат.", "Studenckie miasto z willą Tugendhatów."]
+  ],
+  "dishes": [
+    ["Свічкова", "Svíčková", "Яловичина у вершковому соусі з кнедликами.", "Wołowina w sosie śmietanowym z knedlikami."],
+    ["Трдельник", "Trdelník", "Солодка трубочка, спечена на вогні.", "Słodki rulon pieczony nad ogniem."],
+    ["Смажений сир", "Smažený sýr", "Сир у паніровці з соусом тартар.", "Ser w panierce z sosem tatarskim."]
+  ],
+  "facts": [
+    ["Чехи п'ють найбільше пива на людину у світі.", "Czesi piją najwięcej piwa na osobę na świecie."],
+    ["У Чехії понад 2000 замків.", "W Czechach jest ponad 2000 zamków."],
+    ["Слово «робот» вигадав чеський письменник Карел Чапек.", "Słowo „robot” wymyślił czeski pisarz Karel Čapek."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9, 12], "daily": 50, "tags": ["city", "history", "food", "nightlife", "couples"],
+  "air": ["PRG", "Praha Václav Havel", 50.10, 14.26],
+  "hotels": [
+    ["Czech Inn Prague", 0, 25, ["city", "nightlife"], "Дизайнерський хостел у районі Віногради.", "Designerski hostel na Vinohradach."],
+    ["Hotel Grandezza Brno", 3, 75, ["city"], "Класичний готель на головній площі Брно.", "Klasyczny hotel na rynku w Brnie."],
+    ["Hotel Thermal Karlovy Vary", 2, 95, ["comfort", "family"], "Курортний готель з басейном і процедурами.", "Hotel uzdrowiskowy z basenem i zabiegami."],
+    ["Hotel Ruze Český Krumlov", 1, 140, ["history", "couples"], "Ренесансний монастир, перетворений на готель.", "Renesansowy klasztor zamieniony w hotel."],
+    ["Four Seasons Prague", 0, 420, ["comfort", "city", "couples"], "Люкс на березі Влтави з видом на Карлів міст.", "Luksus nad Wełtawą z widokiem na Most Karola."]
+  ],
+  "cars": ["Škoda Fabia", "Škoda Kodiaq", "Škoda Superb L&K", 24]
+},
+{
+  "iso2": "SK", "wiki": "Slovakia", "cap": ["Братислава", "Bratysława"],
+  "intro": ["Високі Татри, печери, термальні купальні та компактна Братислава на Дунаї. Словаччина — недооцінена перлина для активного відпочинку.", "Tatry Wysokie, jaskinie, kąpieliska termalne i kameralna Bratysława nad Dunajem. Słowacja to niedoceniana perła aktywnego wypoczynku."],
+  "cities": [
+    ["bratislava", "Братислава", "Bratysława", "Bratislava", 48.15, 17.11, "Замок над Дунаєм і затишне старе місто.", "Zamek nad Dunajem i przytulne stare miasto."],
+    ["tatras", "Високі Татри", "Tatry Wysokie", "High Tatras", 49.17, 20.13, "Гірські озера, стежки й лижні траси.", "Górskie stawy, szlaki i trasy narciarskie."],
+    ["banska-stiavnica", "Банська Штявниця", "Bańska Szczawnica", "Banská Štiavnica", 48.46, 18.90, "Срібне шахтарське місто під ЮНЕСКО.", "Srebrne miasto górnicze z listy UNESCO."]
+  ],
+  "dishes": [
+    ["Бриндзові галушки", "Bryndzové halušky", "Картопляні галушки з овечим сиром і шкварками.", "Kluski ziemniaczane z owczym serem i skwarkami."],
+    ["Капустниця", "Kapustnica", "Суп з квашеної капусти з ковбасою.", "Zupa z kiszonej kapusty z kiełbasą."],
+    ["Локше", "Lokše", "Картопляні млинці з начинкою.", "Placki ziemniaczane z nadzieniem."]
+  ],
+  "facts": [
+    ["У Словаччині найбільше замків на душу населення у світі.", "Słowacja ma najwięcej zamków na mieszkańca na świecie."],
+    ["Тут понад 6000 печер, частина — під охороною ЮНЕСКО.", "Jest tu ponad 6000 jaskiń, część na liście UNESCO."],
+    ["Братислава межує одночасно з Австрією та Угорщиною.", "Bratysława graniczy jednocześnie z Austrią i Węgrami."]
+  ],
+  "months": [1, 2, 6, 7, 8, 9, 12], "daily": 45, "tags": ["mountains", "nature", "history", "family"],
+  "air": ["BTS", "Bratislava M. R. Štefánik", 48.17, 17.21],
+  "hotels": [
+    ["Hostel Folks Bratislava", 0, 22, ["city"], "Затишний хостел за п'ять хвилин від старого міста.", "Przytulny hostel pięć minut od starego miasta."],
+    ["Hotel Salamander", 2, 70, ["history", "couples"], "Бутик у будинку шахтаря XVI століття.", "Butik w domu górnika z XVI wieku."],
+    ["Hotel Lomnica", 1, 120, ["mountains", "family"], "Відреставрований готель 1893 року у Татрах.", "Odrestaurowany hotel z 1893 roku w Tatrach."],
+    ["Arcadia Hotel Bratislava", 0, 140, ["city", "couples"], "Бутик-палац у серці старого міста.", "Butikowy pałac w sercu starego miasta."],
+    ["Grand Hotel Kempinski High Tatras", 1, 260, ["comfort", "mountains"], "Люкс з видом на озеро Штрбське Плесо.", "Luksus z widokiem na Szczyrbskie Jezioro."]
+  ],
+  "cars": ["Kia Picanto", "Kia Sportage", "BMW 5", 24]
+},
+{
+  "iso2": "HU", "wiki": "Hungary", "cap": ["Будапешт", "Budapeszt"],
+  "intro": ["Термальні купальні, руїн-бари, гуляш і найкрасивіший парламент Європи. Угорщина — це не лише Будапешт, а й озеро Балатон та винні долини.", "Łaźnie termalne, ruin bary, gulasz i najpiękniejszy parlament Europy. Węgry to nie tylko Budapeszt, ale i Balaton oraz winne doliny."],
+  "cities": [
+    ["budapest", "Будапешт", "Budapeszt", "Budapest", 47.50, 19.04, "Парламент, купальні Сечені та Рибальський бастіон.", "Parlament, łaźnie Széchenyi i Baszta Rybacka."],
+    ["balaton", "Балатон", "Balaton", "Lake Balaton", 46.83, 17.73, "«Угорське море» з пляжами та винарнями.", "„Węgierskie morze” z plażami i winiarniami."],
+    ["eger", "Егер", "Eger", "Eger", 47.90, 20.37, "Фортеця, мінарет і вино «Бичача кров».", "Twierdza, minaret i wino „Bycza Krew”."],
+    ["heviz", "Хевіз", "Hévíz", "Hévíz", 46.79, 17.19, "Найбільше термальне озеро в Європі.", "Największe jezioro termalne w Europie."]
+  ],
+  "dishes": [
+    ["Гуляш", "Gulasz", "Густий суп з яловичиною й паприкою.", "Gęsta zupa z wołowiną i papryką."],
+    ["Лангош", "Langosz", "Смажений корж зі сметаною та сиром.", "Smażony placek ze śmietaną i serem."],
+    ["Кюртошкалач", "Kürtőskalács", "Солодка трубочка з корицею.", "Słodki kołacz kominowy z cynamonem."]
+  ],
+  "facts": [
+    ["Під Будапештом понад 100 термальних джерел.", "Pod Budapesztem jest ponad 100 źródeł termalnych."],
+    ["Кубик Рубіка винайшов угорець Ерньо Рубік.", "Kostkę Rubika wymyślił Węgier Ernő Rubik."],
+    ["Метро Будапешта — найстаріше в континентальній Європі.", "Metro w Budapeszcie jest najstarsze w Europie kontynentalnej."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9], "daily": 50, "tags": ["city", "nightlife", "food", "history", "comfort"],
+  "air": ["BUD", "Budapest Ferenc Liszt", 47.44, 19.26],
+  "hotels": [
+    ["Maverick City Lodge", 0, 25, ["city", "nightlife"], "Хостел біля руїн-барів єврейського кварталу.", "Hostel przy ruin barach dzielnicy żydowskiej."],
+    ["Hotel Senator Ház Eger", 2, 70, ["history", "food"], "Родинний готель на головній площі Егера.", "Rodzinny hotel na rynku w Egerze."],
+    ["Hotel Füred Spa Balaton", 1, 120, ["sea", "family", "comfort"], "Курортний готель із власним пляжем.", "Hotel uzdrowiskowy z własną plażą."],
+    ["Lotus Therme Hévíz", 3, 160, ["comfort", "couples"], "Термальний спа-готель біля озера.", "Hotel termalny ze spa nad jeziorem."],
+    ["Four Seasons Gresham Palace", 0, 450, ["comfort", "city", "couples"], "Палац ар-нуво біля Ланцюгового мосту.", "Secesyjny pałac przy Moście Łańcuchowym."]
+  ],
+  "cars": ["Suzuki Swift", "Suzuki Vitara", "Mercedes E", 26]
+},
+{
+  "iso2": "SI", "wiki": "Slovenia", "cap": ["Любляна", "Lublana"],
+  "intro": ["Озеро Блед з островом-церквою, смарагдова річка Соча, печери й Адріатика — і все це за дві години їзди. Словенія — маленька зелена казка.", "Jezioro Bled z wyspą-kościołem, szmaragdowa Soča, jaskinie i Adriatyk — wszystko w dwie godziny jazdy. Słowenia to mała zielona bajka."],
+  "cities": [
+    ["ljubljana", "Любляна", "Lublana", "Ljubljana", 46.06, 14.51, "Драконів міст, замок і кафе вздовж річки.", "Smoczy Most, zamek i kawiarnie nad rzeką."],
+    ["bled", "Блед", "Bled", "Bled", 46.37, 14.11, "Острів-церква посеред гірського озера.", "Wyspa z kościołem pośrodku górskiego jeziora."],
+    ["piran", "Піран", "Piran", "Piran", 45.53, 13.57, "Венеційське містечко на березі Адріатики.", "Weneckie miasteczko nad Adriatykiem."],
+    ["bovec", "Бовец", "Bovec", "Bovec", 46.34, 13.55, "Рафтинг на Сочі та Юлійські Альпи.", "Rafting na Soczy i Alpy Julijskie."]
+  ],
+  "dishes": [
+    ["Кремшніта", "Kremšnita", "Бледський кремовий торт.", "Kremówka z Bledu."],
+    ["Потиця", "Potica", "Святковий рулет із горіхами.", "Świąteczna rolada z orzechami."],
+    ["Струкли", "Štruklji", "Варені рулетики з сиром.", "Gotowane roladki z twarogiem."]
+  ],
+  "facts": [
+    ["Ліси вкривають понад половину Словенії.", "Lasy pokrywają ponad połowę Słowenii."],
+    ["Печера Постойна має власну залізницю.", "Jaskinia Postojna ma własną kolejkę."],
+    ["Узбережжя Словенії — лише 47 км.", "Wybrzeże Słowenii ma tylko 47 km."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 60, "tags": ["nature", "mountains", "sea", "couples", "city"],
+  "air": ["LJU", "Ljubljana Jože Pučnik", 46.22, 14.46],
+  "hotels": [
+    ["Hostel Celica", 0, 30, ["city", "history"], "Хостел у колишній в'язниці, кожна камера — арт-об'єкт.", "Hostel w dawnym więzieniu, każda cela to dzieło sztuki."],
+    ["Hotel Hvala Bovec", 3, 90, ["mountains", "nature"], "Затишний готель для любителів активного відпочинку.", "Przytulny hotel dla miłośników aktywnego wypoczynku."],
+    ["Hotel Tartini Piran", 2, 120, ["sea", "family"], "Готель на головній площі Пірана.", "Hotel na głównym placu Piranu."],
+    ["Vander Urbani Resort", 0, 160, ["city", "couples", "food"], "Бутик із басейном на даху в старому місті.", "Butik z basenem na dachu w starym mieście."],
+    ["Grand Hotel Toplice Bled", 1, 290, ["comfort", "couples", "nature"], "Класичний люкс просто на березі озера.", "Klasyczny luksus tuż nad jeziorem."]
+  ],
+  "cars": ["Renault Clio", "Dacia Duster", "BMW X3", 28]
+},
+{
+  "iso2": "RO", "wiki": "Romania", "cap": ["Бухарест", "Bukareszt"],
+  "intro": ["Замки Трансильванії, мальовничі монастирі, дельта Дунаю й Карпати. Румунія — країна легенд і неймовірної природи за доступними цінами.", "Zamki Transylwanii, malowane monastyry, delta Dunaju i Karpaty. Rumunia to kraj legend i niesamowitej przyrody w przystępnych cenach."],
+  "cities": [
+    ["bucharest", "Бухарест", "Bukareszt", "Bucharest", 44.43, 26.10, "«Маленький Париж» і величезний Палац парламенту.", "„Mały Paryż” i ogromny Pałac Parlamentu."],
+    ["brasov", "Брашов", "Braszów", "Brașov", 45.66, 25.61, "Середньовічне місто біля замку Дракули.", "Średniowieczne miasto obok zamku Drakuli."],
+    ["sibiu", "Сібіу", "Sybin", "Sibiu", 45.79, 24.15, "Дахи з «очима» та затишні площі.", "Dachy z „oczami” i przytulne place."],
+    ["cluj", "Клуж-Напока", "Kluż-Napoka", "Cluj-Napoca", 46.77, 23.60, "Студентська столиця Трансильванії й фестивалі.", "Studencka stolica Transylwanii i festiwale."]
+  ],
+  "dishes": [
+    ["Сармале", "Sarmale", "Голубці в капустяному листі зі сметаною.", "Gołąbki w liściach kapusty ze śmietaną."],
+    ["Мамалига", "Mămăligă", "Кукурудзяна каша з бринзою.", "Kasza kukurydziana z bryndzą."],
+    ["Папанаші", "Papanași", "Сирні пончики з варенням і сметаною.", "Pączki twarogowe z dżemem i śmietaną."]
+  ],
+  "facts": [
+    ["Палац парламенту — одна з найбільших будівель світу.", "Pałac Parlamentu to jeden z największych budynków świata."],
+    ["У Румунії живе найбільша популяція бурих ведмедів у Європі.", "W Rumunii żyje największa populacja niedźwiedzi brunatnych w Europie."],
+    ["Румунська мова — найближча до латини серед живих мов.", "Rumuński jest z żywych języków najbliższy łacinie."]
+  ],
+  "months": [5, 6, 7, 8, 9, 10], "daily": 40, "tags": ["history", "mountains", "nature", "food", "family"],
+  "air": ["OTP", "Bucharest Henri Coandă", 44.57, 26.08],
+  "hotels": [
+    ["Kismet Dao Hostel Brașov", 1, 18, ["city", "nightlife"], "Затишний хостел у центрі Брашова.", "Przytulny hostel w centrum Braszowa."],
+    ["Hotel Central Cluj", 3, 65, ["city"], "Сучасний готель біля площі Уніряй.", "Nowoczesny hotel przy placu Unirii."],
+    ["Hotel Am Ring Sibiu", 2, 85, ["history", "family"], "Номери в історичному будинку на Великій площі.", "Pokoje w zabytkowej kamienicy na Dużym Rynku."],
+    ["Bran Castle Guesthouse", 1, 120, ["history", "nature", "couples"], "Гостьовий дім з видом на замок Бран.", "Pensjonat z widokiem na zamek Bran."],
+    ["Athénée Palace Hilton", 0, 220, ["comfort", "city"], "Історичний люкс біля Румунського Атенеуму.", "Zabytkowy luksus przy Ateneum Rumuńskim."]
+  ],
+  "cars": ["Dacia Logan", "Dacia Duster", "VW Passat", 20]
+},
+{
+  "iso2": "BG", "wiki": "Bulgaria", "cap": ["Софія", "Sofia"],
+  "intro": ["Пляжі Чорного моря, гірськолижний Банско, Рильський монастир і одні з найнижчих цін у ЄС. Болгарія чудово підходить для сімейного відпочинку.", "Plaże Morza Czarnego, narciarskie Bansko, Monastyr Rylski i jedne z najniższych cen w UE. Bułgaria świetnie nadaje się na rodzinny wypoczynek."],
+  "cities": [
+    ["sofia", "Софія", "Sofia", "Sofia", 42.70, 23.32, "Собор Олександра Невського й гора Вітоша поруч.", "Sobór Aleksandra Newskiego i góra Witosza obok."],
+    ["sozopol", "Созополь", "Sozopol", "Sozopol", 42.42, 27.70, "Старе місто на мисі та піщані пляжі.", "Stare miasto na cyplu i piaszczyste plaże."],
+    ["plovdiv", "Пловдив", "Płowdiw", "Plovdiv", 42.14, 24.75, "Одне з найстаріших міст Європи з римським театром.", "Jedno z najstarszych miast Europy z rzymskim teatrem."],
+    ["bansko", "Банско", "Bansko", "Bansko", 41.84, 23.49, "Лижі взимку й хайкінг у горах Пірин улітку.", "Narty zimą i trekking w Pirynie latem."]
+  ],
+  "dishes": [
+    ["Шопський салат", "Sałatka szopska", "Помідори, огірки, перець і тертий сирене.", "Pomidory, ogórki, papryka i tarty ser sirene."],
+    ["Баниця", "Banica", "Листкове тісто з бринзою та яйцями.", "Ciasto filo z serem i jajkami."],
+    ["Таратор", "Tarator", "Холодний суп з йогурту й огірків.", "Chłodnik z jogurtu i ogórków."]
+  ],
+  "facts": [
+    ["Болгари кивають головою на «ні» і хитають на «так».", "Bułgarzy kiwają głową na „nie” i kręcą na „tak”."],
+    ["Кирилицю поширили саме з болгарських земель.", "Cyrylica rozpowszechniła się właśnie z ziem bułgarskich."],
+    ["Болгарія — один з найбільших виробників трояндової олії.", "Bułgaria jest jednym z największych producentów olejku różanego."]
+  ],
+  "months": [1, 2, 6, 7, 8, 9], "daily": 35, "tags": ["sea", "mountains", "history", "family", "food"],
+  "air": ["SOF", "Sofia Airport", 42.70, 23.41],
+  "hotels": [
+    ["Hostel Mostel Sofia", 0, 18, ["city"], "Популярний хостел зі сніданком і вечерею.", "Popularny hostel ze śniadaniem i kolacją."],
+    ["Hotel Evmolpia Plovdiv", 2, 55, ["history"], "Затишний готель у Старому Пловдиві.", "Przytulny hotel na Starym Mieście w Płowdiwie."],
+    ["Hotel Sozopol Beach", 1, 75, ["sea", "family"], "Сімейний готель за 50 метрів від пляжу.", "Rodzinny hotel 50 metrów od plaży."],
+    ["Kempinski Grand Arena Bansko", 3, 130, ["mountains", "family", "comfort"], "Гірський готель біля гондоли.", "Górski hotel przy gondoli."],
+    ["Sofia Balkan Palace", 0, 190, ["comfort", "city"], "Історичний люкс біля ротонди Святого Георгія.", "Zabytkowy luksus przy rotundzie św. Jerzego."]
+  ],
+  "cars": ["Dacia Sandero", "Dacia Duster", "Toyota Camry", 18]
+},
+{
+  "iso2": "MD", "wiki": "Moldova", "cap": ["Кишинів", "Kiszyniów"],
+  "intro": ["Країна вина з найбільшими винними підвалами світу, печерними монастирями й гостинністю. Молдова — несподіване відкриття для гурманів.", "Kraj wina z największymi piwnicami na świecie, skalnymi monastyrami i gościnnością. Mołdawia to zaskakujące odkrycie dla smakoszy."],
+  "cities": [
+    ["chisinau", "Кишинів", "Kiszyniów", "Chișinău", 47.01, 28.86, "Зелені парки, Тріумфальна арка й центральний ринок.", "Zielone parki, Łuk Triumfalny i centralny bazar."],
+    ["orheiul-vechi", "Старий Орхей", "Stary Orhei", "Orheiul Vechi", 47.30, 28.97, "Монастир, вирубаний у скелі над річкою.", "Monastyr wykuty w skale nad rzeką."],
+    ["cricova", "Крикова", "Cricova", "Cricova winery", 47.14, 28.86, "120 км підземних винних вулиць.", "120 km podziemnych winnych ulic."]
+  ],
+  "dishes": [
+    ["Плачинди", "Plăcinte", "Пиріжки з бринзою, капустою або гарбузом.", "Placki z bryndzą, kapustą lub dynią."],
+    ["Мамалига", "Mămăligă", "Кукурудзяна каша зі сметаною й сиром.", "Kasza kukurydziana ze śmietaną i serem."],
+    ["Зама", "Zeamă", "Курячий суп з домашньою локшиною.", "Rosół z domowym makaronem."]
+  ],
+  "facts": [
+    ["У підвалах Мілештій Мічь — найбільша колекція вин у світі.", "Piwnice Mileștii Mici mają największą kolekcję win na świecie."],
+    ["Виноградники займають майже 4% території країни.", "Winnice zajmują prawie 4% powierzchni kraju."],
+    ["Молдова — одна з найменш відвідуваних країн Європи.", "Mołdawia jest jednym z najrzadziej odwiedzanych krajów Europy."]
+  ],
+  "months": [5, 6, 9, 10], "daily": 30, "tags": ["food", "history", "nature", "couples"],
+  "air": ["RMO", "Chișinău International", 46.93, 28.93],
+  "hotels": [
+    ["Amigos Hostel Chișinău", 0, 15, ["city"], "Затишний хостел у центрі.", "Przytulny hostel w centrum."],
+    ["Hotel Cosmos", 0, 45, ["city", "family"], "Простий готель із видом на місто.", "Prosty hotel z widokiem na miasto."],
+    ["Agropensiunea Butuceni", 1, 60, ["nature", "food", "family"], "Сільська садиба з домашньою кухнею біля Старого Орхея.", "Wiejska zagroda z domową kuchnią przy Starym Orhei."],
+    ["Château Vartely", 2, 110, ["food", "couples"], "Винний бутик-готель з дегустаціями.", "Winny hotel butikowy z degustacjami."],
+    ["Radisson Blu Leogrand", 0, 150, ["comfort", "city"], "Найкращий люкс Кишинева зі спа.", "Najlepszy luksusowy hotel w Kiszyniowie ze spa."]
+  ],
+  "cars": ["Dacia Logan", "Toyota RAV4", "Mercedes E", 22]
+},
+{
+  "iso2": "LI", "wiki": "Liechtenstein", "cap": ["Вадуц", "Vaduz"],
+  "intro": ["Крихітне князівство між Швейцарією та Австрією з княжим замком, виноградниками та альпійськими стежками. Країну можна пройти пішки за день.", "Maleńkie księstwo między Szwajcarią a Austrią z zamkiem książęcym, winnicami i alpejskimi szlakami. Kraj można przejść pieszo w jeden dzień."],
+  "cities": [
+    ["vaduz", "Вадуц", "Vaduz", "Vaduz", 47.14, 9.52, "Замок князя над містом і музей мистецтв.", "Zamek księcia nad miastem i muzeum sztuki."],
+    ["malbun", "Мальбун", "Malbun", "Malbun", 47.10, 9.61, "Невеликий сімейний лижний курорт.", "Mały rodzinny ośrodek narciarski."],
+    ["schaan", "Шан", "Schaan", "Schaan", 47.17, 9.51, "Найбільше селище з видом на Рейн.", "Największa miejscowość z widokiem na Ren."]
+  ],
+  "dishes": [
+    ["Кесшпетцле", "Käsknöpfle", "Домашні галушки з сиром і смаженою цибулею.", "Domowe kluseczki z serem i smażoną cebulą."],
+    ["Рибель", "Ribel", "Кукурудзяна каша з компотом.", "Kasza kukurydziana z kompotem."],
+    ["Вина Вадуца", "Wina z Vaduz", "Піно нуар з княжих виноградників.", "Pinot noir z książęcych winnic."]
+  ],
+  "facts": [
+    ["Ліхтенштейн не має власного аеропорту.", "Liechtenstein nie ma własnego lotniska."],
+    ["Країна — найбільший у світі виробник зубних протезів.", "Kraj jest największym producentem protez zębowych na świecie."],
+    ["Ліхтенштейн — одна з двох країн, оточених тільки країнами без моря.", "Liechtenstein to jeden z dwóch krajów otoczonych wyłącznie krajami bez dostępu do morza."]
+  ],
+  "months": [1, 2, 6, 7, 8, 9], "daily": 120, "tags": ["mountains", "nature", "comfort", "couples"],
+  "air": ["ZRH", "Zürich Airport (+ потяг 1,5 год)", 47.46, 8.55],
+  "hotels": [
+    ["Jugendherberge Schaan", 2, 50, ["nature"], "Хостел серед полів біля Шана.", "Hostel wśród pól pod Schaan."],
+    ["Hotel Turna Malbun", 1, 140, ["mountains", "family"], "Сімейний готель біля лижних схилів.", "Rodzinny hotel przy stokach."],
+    ["Hotel Schatzmann", 2, 180, ["food", "family"], "Готель з рестораном, відзначеним гідом Gault&Millau.", "Hotel z restauracją wyróżnioną przez Gault&Millau."],
+    ["Residence Hotel Vaduz", 0, 210, ["city", "couples"], "Сучасний бутик у центрі Вадуца.", "Nowoczesny butik w centrum Vaduz."],
+    ["Park Hotel Sonnenhof", 0, 380, ["comfort", "couples"], "Люкс з видом на замок і Альпи.", "Luksus z widokiem na zamek i Alpy."]
+  ],
+  "cars": ["VW Polo", "VW Tiguan", "Porsche Macan", 50]
+}
+]

@@ -1,0 +1,232 @@
+{
+  "iso2": "MK",
+  "wiki": "North Macedonia",
+  "capital": {
+    "uk": "Скоп'є",
+    "pl": "Skopje"
+  },
+  "intro": {
+    "uk": "Охридське озеро — одне з найстаріших у світі, древні церкви, гори й найдоступніші ціни на Балканах. Північна Македонія — тиха перлина регіону.",
+    "pl": "Jezioro Ochrydzkie, jedno z najstarszych na świecie, dawne cerkwie, góry i najniższe ceny na Bałkanach. Macedonia Północna to cicha perła regionu."
+  },
+  "cities": [
+    {
+      "id": "mk-skopje",
+      "name": {
+        "uk": "Скоп'є",
+        "pl": "Skopje"
+      },
+      "wiki": "Skopje",
+      "lat": 42,
+      "lng": 21.43,
+      "blurb": {
+        "uk": "Старий базар, фортеця та сотні пам'ятників.",
+        "pl": "Stary bazar, twierdza i setki pomników."
+      }
+    },
+    {
+      "id": "mk-ohrid",
+      "name": {
+        "uk": "Охрид",
+        "pl": "Ochryda"
+      },
+      "wiki": "Ohrid",
+      "lat": 41.12,
+      "lng": 20.8,
+      "blurb": {
+        "uk": "Церква на скелі над прозорим озером.",
+        "pl": "Cerkiew na skale nad przejrzystym jeziorem."
+      }
+    },
+    {
+      "id": "mk-matka",
+      "name": {
+        "uk": "Каньйон Матка",
+        "pl": "Kanion Matka"
+      },
+      "wiki": "Matka Canyon",
+      "lat": 41.95,
+      "lng": 21.3,
+      "blurb": {
+        "uk": "Каякінг серед скель і печер.",
+        "pl": "Kajaki wśród skał i jaskiń."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Тавче-гравче",
+        "pl": "Tawcze grawcze"
+      },
+      "description": {
+        "uk": "Запечена квасоля в глиняному горщику.",
+        "pl": "Zapiekana fasola w glinianym garnku."
+      }
+    },
+    {
+      "name": {
+        "uk": "Охридська форель",
+        "pl": "Pstrąg ochrydzki"
+      },
+      "description": {
+        "uk": "Ендемічна риба з озера Охрид.",
+        "pl": "Endemiczna ryba z Jeziora Ochrydzkiego."
+      }
+    },
+    {
+      "name": {
+        "uk": "Пастрмалія",
+        "pl": "Pastrmajlija"
+      },
+      "description": {
+        "uk": "Човник з тіста з м'ясом.",
+        "pl": "Łódeczka z ciasta z mięsem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Озеру Охрид понад мільйон років.",
+      "pl": "Jezioro Ochrydzkie ma ponad milion lat."
+    },
+    {
+      "uk": "Мати Тереза народилася в Скоп'є.",
+      "pl": "Matka Teresa urodziła się w Skopje."
+    },
+    {
+      "uk": "В Охриді, кажуть, 365 церков — по одній на кожен день.",
+      "pl": "W Ochrydzie ma być 365 cerkwi — po jednej na każdy dzień."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 28,
+  "tags": [
+    "nature",
+    "history",
+    "sea",
+    "food",
+    "family"
+  ],
+  "airport": {
+    "code": "SKP",
+    "name": "Skopje International",
+    "lat": 41.96,
+    "lng": 21.62
+  },
+  "hotels": [
+    {
+      "id": "mk-h1",
+      "name": "Shanti Hostel Skopje",
+      "cityId": "mk-skopje",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 15,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Дружній хостел біля старого базару.",
+        "pl": "Przyjazny hostel przy starym bazarze."
+      }
+    },
+    {
+      "id": "mk-h2",
+      "name": "Canyon Matka Hotel",
+      "cityId": "mk-matka",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "mountains"
+      ],
+      "description": {
+        "uk": "Готель на вході в каньйон.",
+        "pl": "Hotel u wejścia do kanionu."
+      }
+    },
+    {
+      "id": "mk-h3",
+      "name": "Villa Sofija Ohrid",
+      "cityId": "mk-ohrid",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 60,
+      "capacity": 3,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "description": {
+        "uk": "Вілла в старому місті Охрида.",
+        "pl": "Willa na starym mieście w Ochrydzie."
+      }
+    },
+    {
+      "id": "mk-h4",
+      "name": "Villa Mal Sveti Kliment",
+      "cityId": "mk-ohrid",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 90,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик з терасою над озером.",
+        "pl": "Butik z tarasem nad jeziorem."
+      }
+    },
+    {
+      "id": "mk-h5",
+      "name": "Marriott Skopje",
+      "cityId": "mk-skopje",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 150,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Люкс на центральній площі.",
+        "pl": "Luksusowy hotel na głównym placu."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "mk-c1",
+      "class": "economy",
+      "model": "Renault Clio",
+      "pricePerDay": 20,
+      "seats": 4
+    },
+    {
+      "id": "mk-c2",
+      "class": "suv",
+      "model": "Dacia Duster",
+      "pricePerDay": 36,
+      "seats": 5
+    },
+    {
+      "id": "mk-c3",
+      "class": "premium",
+      "model": "BMW 5",
+      "pricePerDay": 74,
+      "seats": 5
+    }
+  ]
+}

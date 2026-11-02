@@ -1,0 +1,262 @@
+{
+  "iso2": "DE",
+  "wiki": "Germany",
+  "capital": {
+    "uk": "Берлін",
+    "pl": "Berlin"
+  },
+  "intro": {
+    "uk": "Казкові замки, різдвяні ярмарки, пивні сади й найкращі музеї Європи. Німеччина однаково добре підходить для міських вихідних і подорожі Альпами.",
+    "pl": "Bajkowe zamki, jarmarki bożonarodzeniowe, ogródki piwne i jedne z najlepszych muzeów Europy. Niemcy sprawdzą się zarówno na miejski weekend, jak i na wyprawę w Alpy."
+  },
+  "cities": [
+    {
+      "id": "de-berlin",
+      "name": {
+        "uk": "Берлін",
+        "pl": "Berlin"
+      },
+      "wiki": "Berlin",
+      "lat": 52.52,
+      "lng": 13.4,
+      "blurb": {
+        "uk": "Берлінська стіна, острів музеїв і найкращі клуби Європи.",
+        "pl": "Mur Berliński, Wyspa Muzeów i najlepsze kluby Europy."
+      }
+    },
+    {
+      "id": "de-munich",
+      "name": {
+        "uk": "Мюнхен",
+        "pl": "Monachium"
+      },
+      "wiki": "Munich",
+      "lat": 48.14,
+      "lng": 11.58,
+      "blurb": {
+        "uk": "Октоберфест, Марієнплац і Альпи за годину їзди.",
+        "pl": "Oktoberfest, Marienplatz i Alpy godzinę drogi stąd."
+      }
+    },
+    {
+      "id": "de-hamburg",
+      "name": {
+        "uk": "Гамбург",
+        "pl": "Hamburg"
+      },
+      "wiki": "Hamburg",
+      "lat": 53.55,
+      "lng": 9.99,
+      "blurb": {
+        "uk": "Порт, канали Шпайхерштадту й філармонія Ельби.",
+        "pl": "Port, kanały Speicherstadt i Filharmonia nad Łabą."
+      }
+    },
+    {
+      "id": "de-neuschwanstein",
+      "name": {
+        "uk": "Фюссен і Нойшванштайн",
+        "pl": "Füssen i Neuschwanstein"
+      },
+      "wiki": "Neuschwanstein Castle",
+      "lat": 47.56,
+      "lng": 10.75,
+      "blurb": {
+        "uk": "Замок, що надихнув Діснея, серед баварських гір.",
+        "pl": "Zamek, który zainspirował Disneya, wśród bawarskich gór."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Брецель",
+        "pl": "Precel (Brezel)"
+      },
+      "description": {
+        "uk": "Солоний кренделик — ідеальний до пива чи сніданку.",
+        "pl": "Słony precel — idealny do piwa lub na śniadanie."
+      }
+    },
+    {
+      "name": {
+        "uk": "Шніцель",
+        "pl": "Sznycel"
+      },
+      "description": {
+        "uk": "Тонка відбивна в золотій паніровці з картопляним салатом.",
+        "pl": "Cienki kotlet w złotej panierce z sałatką ziemniaczaną."
+      }
+    },
+    {
+      "name": {
+        "uk": "Каррівурст",
+        "pl": "Currywurst"
+      },
+      "description": {
+        "uk": "Берлінська сосиска з соусом каррі — культовий стрітфуд.",
+        "pl": "Berlińska kiełbaska z sosem curry — kultowy street food."
+      }
+    },
+    {
+      "name": {
+        "uk": "Шварцвальдський торт",
+        "pl": "Tort szwarcwaldzki"
+      },
+      "description": {
+        "uk": "Шоколадний бісквіт з вишнями та вершками.",
+        "pl": "Czekoladowy biszkopt z wiśniami i bitą śmietaną."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "У Німеччині понад 20 тисяч замків.",
+      "pl": "W Niemczech jest ponad 20 tysięcy zamków."
+    },
+    {
+      "uk": "На багатьох ділянках автобанів немає обмеження швидкості.",
+      "pl": "Na wielu odcinkach autostrad nie ma ograniczenia prędkości."
+    },
+    {
+      "uk": "Тут випікають понад 3000 видів хліба.",
+      "pl": "Wypieka się tu ponad 3000 rodzajów chleba."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    12
+  ],
+  "dailyCost": 75,
+  "tags": [
+    "city",
+    "history",
+    "food",
+    "nightlife",
+    "mountains",
+    "family"
+  ],
+  "airport": {
+    "code": "BER",
+    "name": "Berlin Brandenburg",
+    "lat": 52.36,
+    "lng": 13.5
+  },
+  "hotels": [
+    {
+      "id": "de-h1",
+      "name": "Generator Berlin Mitte",
+      "cityId": "de-berlin",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 35,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Стильний хостел у п'яти хвилинах від острова музеїв.",
+        "pl": "Stylowy hostel pięć minut od Wyspy Muzeów."
+      }
+    },
+    {
+      "id": "de-h2",
+      "name": "Hotel Hamburg Speicherstadt",
+      "cityId": "de-hamburg",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 85,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Затишний готель у цегляному складі біля каналів.",
+        "pl": "Przytulny hotel w ceglanym spichlerzu przy kanałach."
+      }
+    },
+    {
+      "id": "de-h3",
+      "name": "Mercure München Altstadt",
+      "cityId": "de-munich",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 130,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "food",
+        "family"
+      ],
+      "description": {
+        "uk": "Сучасні номери поряд із Марієнплац.",
+        "pl": "Nowoczesne pokoje tuż przy Marienplatz."
+      }
+    },
+    {
+      "id": "de-h4",
+      "name": "Hotel Schlosskrone Füssen",
+      "cityId": "de-neuschwanstein",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "nature",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик-готель з видом на Альпи й власною кондитерською.",
+        "pl": "Butikowy hotel z widokiem na Alpy i własną cukiernią."
+      }
+    },
+    {
+      "id": "de-h5",
+      "name": "Hotel Adlon Kempinski",
+      "cityId": "de-berlin",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 390,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Легендарний люкс біля Бранденбурзьких воріт.",
+        "pl": "Legendarny luksus przy Bramie Brandenburskiej."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "de-c1",
+      "class": "economy",
+      "model": "VW Polo",
+      "pricePerDay": 32,
+      "seats": 4
+    },
+    {
+      "id": "de-c2",
+      "class": "suv",
+      "model": "VW Tiguan",
+      "pricePerDay": 58,
+      "seats": 5
+    },
+    {
+      "id": "de-c3",
+      "class": "premium",
+      "model": "BMW 5",
+      "pricePerDay": 118,
+      "seats": 5
+    }
+  ]
+}

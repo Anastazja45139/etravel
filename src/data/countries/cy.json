@@ -1,0 +1,252 @@
+{
+  "iso2": "CY",
+  "wiki": "Cyprus",
+  "capital": {
+    "uk": "Нікосія",
+    "pl": "Nikozja"
+  },
+  "intro": {
+    "uk": "Острів Афродіти з 340 сонячними днями на рік, блакитними лагунами й античними руїнами. Кіпр — ідеальне море з квітня по листопад.",
+    "pl": "Wyspa Afrodyty z 340 słonecznymi dniami w roku, błękitnymi lagunami i antycznymi ruinami. Cypr to idealne morze od kwietnia do listopada."
+  },
+  "cities": [
+    {
+      "id": "cy-limassol",
+      "name": {
+        "uk": "Лімасол",
+        "pl": "Limassol"
+      },
+      "wiki": "Limassol",
+      "lat": 34.68,
+      "lng": 33.04,
+      "blurb": {
+        "uk": "Набережна, марина та винні села поряд.",
+        "pl": "Promenada, marina i winne wioski w pobliżu."
+      }
+    },
+    {
+      "id": "cy-paphos",
+      "name": {
+        "uk": "Пафос",
+        "pl": "Pafos"
+      },
+      "wiki": "Paphos",
+      "lat": 34.77,
+      "lng": 32.42,
+      "blurb": {
+        "uk": "Мозаїки, Гробниці царів і скеля Афродіти.",
+        "pl": "Mozaiki, Groby Królewskie i Skała Afrodyty."
+      }
+    },
+    {
+      "id": "cy-ayia-napa",
+      "name": {
+        "uk": "Айя-Напа",
+        "pl": "Ayia Napa"
+      },
+      "wiki": "Ayia Napa",
+      "lat": 34.98,
+      "lng": 34,
+      "blurb": {
+        "uk": "Білі пляжі та нічні вечірки.",
+        "pl": "Białe plaże i nocne imprezy."
+      }
+    },
+    {
+      "id": "cy-troodos",
+      "name": {
+        "uk": "Гори Троодос",
+        "pl": "Góry Troodos"
+      },
+      "wiki": "Troodos Mountains",
+      "lat": 34.92,
+      "lng": 32.86,
+      "blurb": {
+        "uk": "Розписні церкви та прохолода в горах.",
+        "pl": "Malowane cerkwie i chłód gór."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Халумі",
+        "pl": "Halloumi"
+      },
+      "description": {
+        "uk": "Сир на грилі, що «скрипить» на зубах.",
+        "pl": "Ser z grilla, który „skrzypi” w zębach."
+      }
+    },
+    {
+      "name": {
+        "uk": "Мезе",
+        "pl": "Meze"
+      },
+      "description": {
+        "uk": "Десятки маленьких страв за одним столом.",
+        "pl": "Dziesiątki małych dań na jednym stole."
+      }
+    },
+    {
+      "name": {
+        "uk": "Сувлакі",
+        "pl": "Souvlaki"
+      },
+      "description": {
+        "uk": "Шашлички з пітою та цацикі.",
+        "pl": "Szaszłyki z pitą i tzatziki."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "За легендою, Афродіта вийшла з моря біля Пафоса.",
+      "pl": "Według legendy Afrodyta wyłoniła się z morza koło Pafos."
+    },
+    {
+      "uk": "На Кіпрі лівосторонній рух.",
+      "pl": "Na Cyprze obowiązuje ruch lewostronny."
+    },
+    {
+      "uk": "Вино Коммандарія — одне з найстаріших у світі.",
+      "pl": "Wino Commandaria jest jednym z najstarszych na świecie."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "dailyCost": 60,
+  "tags": [
+    "sea",
+    "history",
+    "nightlife",
+    "family",
+    "comfort"
+  ],
+  "airport": {
+    "code": "LCA",
+    "name": "Larnaca International",
+    "lat": 34.88,
+    "lng": 33.63
+  },
+  "hotels": [
+    {
+      "id": "cy-h1",
+      "name": "Ayia Napa Backpackers",
+      "cityId": "cy-ayia-napa",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 30,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Простий хостел біля пляжу Нісі.",
+        "pl": "Prosty hostel przy plaży Nissi."
+      }
+    },
+    {
+      "id": "cy-h2",
+      "name": "Kiniras Traditional Hotel",
+      "cityId": "cy-paphos",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 80,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "food"
+      ],
+      "description": {
+        "uk": "Сімейний готель у старому Пафосі.",
+        "pl": "Rodzinny hotel w starym Pafos."
+      }
+    },
+    {
+      "id": "cy-h3",
+      "name": "Atlantica Bay Limassol",
+      "cityId": "cy-limassol",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 130,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family"
+      ],
+      "description": {
+        "uk": "Пляжний готель з басейнами й анімацією.",
+        "pl": "Hotel przy plaży z basenami i animacjami."
+      }
+    },
+    {
+      "id": "cy-h4",
+      "name": "The Library Hotel Kalopanayiotis",
+      "cityId": "cy-troodos",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "couples",
+        "nature"
+      ],
+      "description": {
+        "uk": "Бутик-спа в горах Троодос.",
+        "pl": "Butik ze spa w górach Troodos."
+      }
+    },
+    {
+      "id": "cy-h5",
+      "name": "Anassa",
+      "cityId": "cy-paphos",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 450,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "sea",
+        "couples"
+      ],
+      "description": {
+        "uk": "Розкішний курорт над власною бухтою.",
+        "pl": "Luksusowy kurort nad własną zatoką."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "cy-c1",
+      "class": "economy",
+      "model": "Toyota Yaris",
+      "pricePerDay": 28,
+      "seats": 4
+    },
+    {
+      "id": "cy-c2",
+      "class": "suv",
+      "model": "Nissan X-Trail",
+      "pricePerDay": 50,
+      "seats": 5
+    },
+    {
+      "id": "cy-c3",
+      "class": "premium",
+      "model": "Mercedes C Cabrio",
+      "pricePerDay": 104,
+      "seats": 5
+    }
+  ]
+}

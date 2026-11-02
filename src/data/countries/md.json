@@ -1,0 +1,231 @@
+{
+  "iso2": "MD",
+  "wiki": "Moldova",
+  "capital": {
+    "uk": "Кишинів",
+    "pl": "Kiszyniów"
+  },
+  "intro": {
+    "uk": "Країна вина з найбільшими винними підвалами світу, печерними монастирями й гостинністю. Молдова — несподіване відкриття для гурманів.",
+    "pl": "Kraj wina z największymi piwnicami na świecie, skalnymi monastyrami i gościnnością. Mołdawia to zaskakujące odkrycie dla smakoszy."
+  },
+  "cities": [
+    {
+      "id": "md-chisinau",
+      "name": {
+        "uk": "Кишинів",
+        "pl": "Kiszyniów"
+      },
+      "wiki": "Chișinău",
+      "lat": 47.01,
+      "lng": 28.86,
+      "blurb": {
+        "uk": "Зелені парки, Тріумфальна арка й центральний ринок.",
+        "pl": "Zielone parki, Łuk Triumfalny i centralny bazar."
+      }
+    },
+    {
+      "id": "md-orheiul-vechi",
+      "name": {
+        "uk": "Старий Орхей",
+        "pl": "Stary Orhei"
+      },
+      "wiki": "Orheiul Vechi",
+      "lat": 47.3,
+      "lng": 28.97,
+      "blurb": {
+        "uk": "Монастир, вирубаний у скелі над річкою.",
+        "pl": "Monastyr wykuty w skale nad rzeką."
+      }
+    },
+    {
+      "id": "md-cricova",
+      "name": {
+        "uk": "Крикова",
+        "pl": "Cricova"
+      },
+      "wiki": "Cricova winery",
+      "lat": 47.14,
+      "lng": 28.86,
+      "blurb": {
+        "uk": "120 км підземних винних вулиць.",
+        "pl": "120 km podziemnych winnych ulic."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Плачинди",
+        "pl": "Plăcinte"
+      },
+      "description": {
+        "uk": "Пиріжки з бринзою, капустою або гарбузом.",
+        "pl": "Placki z bryndzą, kapustą lub dynią."
+      }
+    },
+    {
+      "name": {
+        "uk": "Мамалига",
+        "pl": "Mămăligă"
+      },
+      "description": {
+        "uk": "Кукурудзяна каша зі сметаною й сиром.",
+        "pl": "Kasza kukurydziana ze śmietaną i serem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Зама",
+        "pl": "Zeamă"
+      },
+      "description": {
+        "uk": "Курячий суп з домашньою локшиною.",
+        "pl": "Rosół z domowym makaronem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "У підвалах Мілештій Мічь — найбільша колекція вин у світі.",
+      "pl": "Piwnice Mileștii Mici mają największą kolekcję win na świecie."
+    },
+    {
+      "uk": "Виноградники займають майже 4% території країни.",
+      "pl": "Winnice zajmują prawie 4% powierzchni kraju."
+    },
+    {
+      "uk": "Молдова — одна з найменш відвідуваних країн Європи.",
+      "pl": "Mołdawia jest jednym z najrzadziej odwiedzanych krajów Europy."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    9,
+    10
+  ],
+  "dailyCost": 30,
+  "tags": [
+    "food",
+    "history",
+    "nature",
+    "couples"
+  ],
+  "airport": {
+    "code": "RMO",
+    "name": "Chișinău International",
+    "lat": 46.93,
+    "lng": 28.93
+  },
+  "hotels": [
+    {
+      "id": "md-h1",
+      "name": "Amigos Hostel Chișinău",
+      "cityId": "md-chisinau",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 15,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Затишний хостел у центрі.",
+        "pl": "Przytulny hostel w centrum."
+      }
+    },
+    {
+      "id": "md-h2",
+      "name": "Hotel Cosmos",
+      "cityId": "md-chisinau",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Простий готель із видом на місто.",
+        "pl": "Prosty hotel z widokiem na miasto."
+      }
+    },
+    {
+      "id": "md-h3",
+      "name": "Agropensiunea Butuceni",
+      "cityId": "md-orheiul-vechi",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 60,
+      "capacity": 3,
+      "tags": [
+        "nature",
+        "food",
+        "family"
+      ],
+      "description": {
+        "uk": "Сільська садиба з домашньою кухнею біля Старого Орхея.",
+        "pl": "Wiejska zagroda z domową kuchnią przy Starym Orhei."
+      }
+    },
+    {
+      "id": "md-h4",
+      "name": "Château Vartely",
+      "cityId": "md-cricova",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 110,
+      "capacity": 2,
+      "tags": [
+        "food",
+        "couples"
+      ],
+      "description": {
+        "uk": "Винний бутик-готель з дегустаціями.",
+        "pl": "Winny hotel butikowy z degustacjami."
+      }
+    },
+    {
+      "id": "md-h5",
+      "name": "Radisson Blu Leogrand",
+      "cityId": "md-chisinau",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 150,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Найкращий люкс Кишинева зі спа.",
+        "pl": "Najlepszy luksusowy hotel w Kiszyniowie ze spa."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "md-c1",
+      "class": "economy",
+      "model": "Dacia Logan",
+      "pricePerDay": 22,
+      "seats": 4
+    },
+    {
+      "id": "md-c2",
+      "class": "suv",
+      "model": "Toyota RAV4",
+      "pricePerDay": 40,
+      "seats": 5
+    },
+    {
+      "id": "md-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 81,
+      "seats": 5
+    }
+  ]
+}

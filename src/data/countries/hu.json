@@ -1,0 +1,250 @@
+{
+  "iso2": "HU",
+  "wiki": "Hungary",
+  "capital": {
+    "uk": "Будапешт",
+    "pl": "Budapeszt"
+  },
+  "intro": {
+    "uk": "Термальні купальні, руїн-бари, гуляш і найкрасивіший парламент Європи. Угорщина — це не лише Будапешт, а й озеро Балатон та винні долини.",
+    "pl": "Łaźnie termalne, ruin bary, gulasz i najpiękniejszy parlament Europy. Węgry to nie tylko Budapeszt, ale i Balaton oraz winne doliny."
+  },
+  "cities": [
+    {
+      "id": "hu-budapest",
+      "name": {
+        "uk": "Будапешт",
+        "pl": "Budapeszt"
+      },
+      "wiki": "Budapest",
+      "lat": 47.5,
+      "lng": 19.04,
+      "blurb": {
+        "uk": "Парламент, купальні Сечені та Рибальський бастіон.",
+        "pl": "Parlament, łaźnie Széchenyi i Baszta Rybacka."
+      }
+    },
+    {
+      "id": "hu-balaton",
+      "name": {
+        "uk": "Балатон",
+        "pl": "Balaton"
+      },
+      "wiki": "Lake Balaton",
+      "lat": 46.83,
+      "lng": 17.73,
+      "blurb": {
+        "uk": "«Угорське море» з пляжами та винарнями.",
+        "pl": "„Węgierskie morze” z plażami i winiarniami."
+      }
+    },
+    {
+      "id": "hu-eger",
+      "name": {
+        "uk": "Егер",
+        "pl": "Eger"
+      },
+      "wiki": "Eger",
+      "lat": 47.9,
+      "lng": 20.37,
+      "blurb": {
+        "uk": "Фортеця, мінарет і вино «Бичача кров».",
+        "pl": "Twierdza, minaret i wino „Bycza Krew”."
+      }
+    },
+    {
+      "id": "hu-heviz",
+      "name": {
+        "uk": "Хевіз",
+        "pl": "Hévíz"
+      },
+      "wiki": "Hévíz",
+      "lat": 46.79,
+      "lng": 17.19,
+      "blurb": {
+        "uk": "Найбільше термальне озеро в Європі.",
+        "pl": "Największe jezioro termalne w Europie."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Гуляш",
+        "pl": "Gulasz"
+      },
+      "description": {
+        "uk": "Густий суп з яловичиною й паприкою.",
+        "pl": "Gęsta zupa z wołowiną i papryką."
+      }
+    },
+    {
+      "name": {
+        "uk": "Лангош",
+        "pl": "Langosz"
+      },
+      "description": {
+        "uk": "Смажений корж зі сметаною та сиром.",
+        "pl": "Smażony placek ze śmietaną i serem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кюртошкалач",
+        "pl": "Kürtőskalács"
+      },
+      "description": {
+        "uk": "Солодка трубочка з корицею.",
+        "pl": "Słodki kołacz kominowy z cynamonem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Під Будапештом понад 100 термальних джерел.",
+      "pl": "Pod Budapesztem jest ponad 100 źródeł termalnych."
+    },
+    {
+      "uk": "Кубик Рубіка винайшов угорець Ерньо Рубік.",
+      "pl": "Kostkę Rubika wymyślił Węgier Ernő Rubik."
+    },
+    {
+      "uk": "Метро Будапешта — найстаріше в континентальній Європі.",
+      "pl": "Metro w Budapeszcie jest najstarsze w Europie kontynentalnej."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 50,
+  "tags": [
+    "city",
+    "nightlife",
+    "food",
+    "history",
+    "comfort"
+  ],
+  "airport": {
+    "code": "BUD",
+    "name": "Budapest Ferenc Liszt",
+    "lat": 47.44,
+    "lng": 19.26
+  },
+  "hotels": [
+    {
+      "id": "hu-h1",
+      "name": "Maverick City Lodge",
+      "cityId": "hu-budapest",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 25,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел біля руїн-барів єврейського кварталу.",
+        "pl": "Hostel przy ruin barach dzielnicy żydowskiej."
+      }
+    },
+    {
+      "id": "hu-h2",
+      "name": "Hotel Senator Ház Eger",
+      "cityId": "hu-eger",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "food"
+      ],
+      "description": {
+        "uk": "Родинний готель на головній площі Егера.",
+        "pl": "Rodzinny hotel na rynku w Egerze."
+      }
+    },
+    {
+      "id": "hu-h3",
+      "name": "Hotel Füred Spa Balaton",
+      "cityId": "hu-balaton",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Курортний готель із власним пляжем.",
+        "pl": "Hotel uzdrowiskowy z własną plażą."
+      }
+    },
+    {
+      "id": "hu-h4",
+      "name": "Lotus Therme Hévíz",
+      "cityId": "hu-heviz",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 160,
+      "capacity": 2,
+      "tags": [
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Термальний спа-готель біля озера.",
+        "pl": "Hotel termalny ze spa nad jeziorem."
+      }
+    },
+    {
+      "id": "hu-h5",
+      "name": "Four Seasons Gresham Palace",
+      "cityId": "hu-budapest",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 450,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Палац ар-нуво біля Ланцюгового мосту.",
+        "pl": "Secesyjny pałac przy Moście Łańcuchowym."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "hu-c1",
+      "class": "economy",
+      "model": "Suzuki Swift",
+      "pricePerDay": 26,
+      "seats": 4
+    },
+    {
+      "id": "hu-c2",
+      "class": "suv",
+      "model": "Suzuki Vitara",
+      "pricePerDay": 47,
+      "seats": 5
+    },
+    {
+      "id": "hu-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 96,
+      "seats": 5
+    }
+  ]
+}

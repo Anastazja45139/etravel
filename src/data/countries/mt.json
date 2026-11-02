@@ -1,0 +1,247 @@
+{
+  "iso2": "MT",
+  "wiki": "Malta",
+  "capital": {
+    "uk": "Валетта",
+    "pl": "Valletta"
+  },
+  "intro": {
+    "uk": "Лицарські фортеці, Блакитна лагуна й кіно-локації «Гри престолів». Мальта — маленький острів з 7000 років історії.",
+    "pl": "Twierdze rycerskie, Błękitna Laguna i plenery „Gry o tron”. Malta to mała wyspa z 7000 lat historii."
+  },
+  "cities": [
+    {
+      "id": "mt-valletta",
+      "name": {
+        "uk": "Валетта",
+        "pl": "Valletta"
+      },
+      "wiki": "Valletta",
+      "lat": 35.9,
+      "lng": 14.51,
+      "blurb": {
+        "uk": "Барокова столиця-фортеця під ЮНЕСКО.",
+        "pl": "Barokowa stolica-twierdza z listy UNESCO."
+      }
+    },
+    {
+      "id": "mt-mdina",
+      "name": {
+        "uk": "Мдіна",
+        "pl": "Mdina"
+      },
+      "wiki": "Mdina",
+      "lat": 35.89,
+      "lng": 14.4,
+      "blurb": {
+        "uk": "«Тихе місто» на пагорбі.",
+        "pl": "„Ciche miasto” na wzgórzu."
+      }
+    },
+    {
+      "id": "mt-gozo",
+      "name": {
+        "uk": "Острів Гозо",
+        "pl": "Wyspa Gozo"
+      },
+      "wiki": "Gozo",
+      "lat": 36.04,
+      "lng": 14.25,
+      "blurb": {
+        "uk": "Скелі, дайвінг і цитадель Вікторії.",
+        "pl": "Klify, nurkowanie i cytadela w Victorii."
+      }
+    },
+    {
+      "id": "mt-comino",
+      "name": {
+        "uk": "Коміно",
+        "pl": "Comino"
+      },
+      "wiki": "Comino",
+      "lat": 36.01,
+      "lng": 14.34,
+      "blurb": {
+        "uk": "Блакитна лагуна з бірюзовою водою.",
+        "pl": "Błękitna Laguna z turkusową wodą."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Пастіцці",
+        "pl": "Pastizzi"
+      },
+      "description": {
+        "uk": "Листкові пиріжки з рикотою чи горошком.",
+        "pl": "Paszteciki z ciasta francuskiego z ricottą lub groszkiem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Фенек",
+        "pl": "Fenek"
+      },
+      "description": {
+        "uk": "Кролик, тушкований у вині — національна страва.",
+        "pl": "Królik duszony w winie — danie narodowe."
+      }
+    },
+    {
+      "name": {
+        "uk": "Фтіра",
+        "pl": "Ftira"
+      },
+      "description": {
+        "uk": "Мальтійський хліб з тунцем і каперсами.",
+        "pl": "Maltański chleb z tuńczykiem i kaparami."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Мегалітичні храми Мальти старші за єгипетські піраміди.",
+      "pl": "Megalityczne świątynie Malty są starsze od piramid egipskich."
+    },
+    {
+      "uk": "На Мальті знімали «Гру престолів» і «Гладіатора».",
+      "pl": "Na Malcie kręcono „Grę o tron” i „Gladiatora”."
+    },
+    {
+      "uk": "Англійська — офіційна мова поряд з мальтійською.",
+      "pl": "Angielski jest językiem urzędowym obok maltańskiego."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "dailyCost": 60,
+  "tags": [
+    "sea",
+    "history",
+    "nightlife",
+    "couples"
+  ],
+  "airport": {
+    "code": "MLA",
+    "name": "Malta International",
+    "lat": 35.86,
+    "lng": 14.48
+  },
+  "hotels": [
+    {
+      "id": "mt-h1",
+      "name": "Inhawi Hostel St Julian's",
+      "cityId": "mt-valletta",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 28,
+      "capacity": 2,
+      "tags": [
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел у районі вечірок Сент-Джуліанс.",
+        "pl": "Hostel w imprezowej dzielnicy St Julian's."
+      }
+    },
+    {
+      "id": "mt-h2",
+      "name": "Hotel Calypso Gozo",
+      "cityId": "mt-gozo",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 80,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель над затокою Марсалфорн.",
+        "pl": "Hotel nad zatoką Marsalforn."
+      }
+    },
+    {
+      "id": "mt-h3",
+      "name": "Hotel Juliani",
+      "cityId": "mt-valletta",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик з басейном на даху над затокою.",
+        "pl": "Butik z basenem na dachu nad zatoką."
+      }
+    },
+    {
+      "id": "mt-h4",
+      "name": "The Xara Palace Mdina",
+      "cityId": "mt-mdina",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 200,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Палац XVII століття в стінах Мдіни.",
+        "pl": "Pałac z XVII wieku w murach Mdiny."
+      }
+    },
+    {
+      "id": "mt-h5",
+      "name": "The Phoenicia Malta",
+      "cityId": "mt-valletta",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 330,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "history"
+      ],
+      "description": {
+        "uk": "Легендарний люкс біля воріт Валетти.",
+        "pl": "Legendarny luksus przy bramie Valletty."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "mt-c1",
+      "class": "economy",
+      "model": "Kia Picanto",
+      "pricePerDay": 26,
+      "seats": 4
+    },
+    {
+      "id": "mt-c2",
+      "class": "suv",
+      "model": "Kia Sportage",
+      "pricePerDay": 47,
+      "seats": 5
+    },
+    {
+      "id": "mt-c3",
+      "class": "premium",
+      "model": "Mercedes C",
+      "pricePerDay": 96,
+      "seats": 5
+    }
+  ]
+}

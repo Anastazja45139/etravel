@@ -1,0 +1,211 @@
+[
+{
+  "iso2": "DE", "wiki": "Germany", "cap": ["Берлін", "Berlin"],
+  "intro": ["Казкові замки, різдвяні ярмарки, пивні сади й найкращі музеї Європи. Німеччина однаково добре підходить для міських вихідних і подорожі Альпами.", "Bajkowe zamki, jarmarki bożonarodzeniowe, ogródki piwne i jedne z najlepszych muzeów Europy. Niemcy sprawdzą się zarówno na miejski weekend, jak i na wyprawę w Alpy."],
+  "cities": [
+    ["berlin", "Берлін", "Berlin", "Berlin", 52.52, 13.40, "Берлінська стіна, острів музеїв і найкращі клуби Європи.", "Mur Berliński, Wyspa Muzeów i najlepsze kluby Europy."],
+    ["munich", "Мюнхен", "Monachium", "Munich", 48.14, 11.58, "Октоберфест, Марієнплац і Альпи за годину їзди.", "Oktoberfest, Marienplatz i Alpy godzinę drogi stąd."],
+    ["hamburg", "Гамбург", "Hamburg", "Hamburg", 53.55, 9.99, "Порт, канали Шпайхерштадту й філармонія Ельби.", "Port, kanały Speicherstadt i Filharmonia nad Łabą."],
+    ["neuschwanstein", "Фюссен і Нойшванштайн", "Füssen i Neuschwanstein", "Neuschwanstein Castle", 47.56, 10.75, "Замок, що надихнув Діснея, серед баварських гір.", "Zamek, który zainspirował Disneya, wśród bawarskich gór."]
+  ],
+  "dishes": [
+    ["Брецель", "Precel (Brezel)", "Солоний кренделик — ідеальний до пива чи сніданку.", "Słony precel — idealny do piwa lub na śniadanie."],
+    ["Шніцель", "Sznycel", "Тонка відбивна в золотій паніровці з картопляним салатом.", "Cienki kotlet w złotej panierce z sałatką ziemniaczaną."],
+    ["Каррівурст", "Currywurst", "Берлінська сосиска з соусом каррі — культовий стрітфуд.", "Berlińska kiełbaska z sosem curry — kultowy street food."],
+    ["Шварцвальдський торт", "Tort szwarcwaldzki", "Шоколадний бісквіт з вишнями та вершками.", "Czekoladowy biszkopt z wiśniami i bitą śmietaną."]
+  ],
+  "facts": [
+    ["У Німеччині понад 20 тисяч замків.", "W Niemczech jest ponad 20 tysięcy zamków."],
+    ["На багатьох ділянках автобанів немає обмеження швидкості.", "Na wielu odcinkach autostrad nie ma ograniczenia prędkości."],
+    ["Тут випікають понад 3000 видів хліба.", "Wypieka się tu ponad 3000 rodzajów chleba."]
+  ],
+  "months": [5, 6, 7, 8, 9, 12], "daily": 75, "tags": ["city", "history", "food", "nightlife", "mountains", "family"],
+  "air": ["BER", "Berlin Brandenburg", 52.36, 13.50],
+  "hotels": [
+    ["Generator Berlin Mitte", 0, 35, ["city", "nightlife"], "Стильний хостел у п'яти хвилинах від острова музеїв.", "Stylowy hostel pięć minut od Wyspy Muzeów."],
+    ["Hotel Hamburg Speicherstadt", 2, 85, ["city", "history"], "Затишний готель у цегляному складі біля каналів.", "Przytulny hotel w ceglanym spichlerzu przy kanałach."],
+    ["Mercure München Altstadt", 1, 130, ["city", "food", "family"], "Сучасні номери поряд із Марієнплац.", "Nowoczesne pokoje tuż przy Marienplatz."],
+    ["Hotel Schlosskrone Füssen", 3, 150, ["mountains", "nature", "couples"], "Бутик-готель з видом на Альпи й власною кондитерською.", "Butikowy hotel z widokiem na Alpy i własną cukiernią."],
+    ["Hotel Adlon Kempinski", 0, 390, ["comfort", "city", "couples"], "Легендарний люкс біля Бранденбурзьких воріт.", "Legendarny luksus przy Bramie Brandenburskiej."]
+  ],
+  "cars": ["VW Polo", "VW Tiguan", "BMW 5", 32]
+},
+{
+  "iso2": "GB", "wiki": "United Kingdom", "cap": ["Лондон", "Londyn"],
+  "intro": ["Королівські палаци, шотландські замки, пабові традиції та безкоштовні музеї світового рівня. Велика Британія — це чотири країни в одній подорожі.", "Królewskie pałace, szkockie zamki, tradycje pubowe i darmowe muzea światowej klasy. Wielka Brytania to cztery kraje w jednej podróży."],
+  "cities": [
+    ["london", "Лондон", "Londyn", "London", 51.51, -0.13, "Біг-Бен, Британський музей і ринки Камдена.", "Big Ben, British Museum i targi Camden."],
+    ["edinburgh", "Единбург", "Edynburg", "Edinburgh", 55.95, -3.19, "Замок на скелі, Королівська миля й фестивалі.", "Zamek na skale, Royal Mile i festiwale."],
+    ["oxford", "Оксфорд", "Oksford", "Oxford", 51.75, -1.26, "Найстаріший англомовний університет і місця Гаррі Поттера.", "Najstarszy anglojęzyczny uniwersytet i miejsca z Harry'ego Pottera."],
+    ["highlands", "Шотландське нагір'я", "Szkocka Wyżyna", "Scottish Highlands", 57.12, -4.71, "Озеро Лох-Несс, тумани й дикі гори.", "Jezioro Loch Ness, mgły i dzikie góry."]
+  ],
+  "dishes": [
+    ["Фіш-енд-чіпс", "Fish and chips", "Риба в клярі з картоплею фрі та гороховим пюре.", "Ryba w cieście z frytkami i purée z groszku."],
+    ["Англійський сніданок", "Śniadanie angielskie", "Яйця, бекон, сосиски, боби й тости.", "Jajka, bekon, kiełbaski, fasolka i tosty."],
+    ["Сконі з вершками", "Scones ze śmietaną", "Булочки до чаю з джемом і густими вершками.", "Bułeczki do herbaty z dżemem i gęstą śmietaną."]
+  ],
+  "facts": [
+    ["Більшість великих музеїв Лондона безкоштовні.", "Większość dużych muzeów w Londynie jest bezpłatna."],
+    ["Лондонське метро — найстаріше у світі, відкрите 1863 року.", "Londyńskie metro jest najstarsze na świecie — otwarto je w 1863 roku."],
+    ["Національна тварина Шотландії — єдиноріг.", "Narodowym zwierzęciem Szkocji jest jednorożec."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 95, "tags": ["city", "history", "nature", "nightlife", "mountains"],
+  "air": ["LHR", "London Heathrow", 51.47, -0.45],
+  "hotels": [
+    ["YHA London Central", 0, 45, ["city"], "Сучасний хостел біля Оксфорд-стріт.", "Nowoczesny hostel przy Oxford Street."],
+    ["Premier Inn Edinburgh Royal Mile", 1, 110, ["city", "history", "family"], "Надійний готель у центрі Старого міста.", "Solidny hotel w samym sercu Starego Miasta."],
+    ["Malmaison Oxford", 2, 170, ["history", "couples"], "Номери в колишній в'язниці — незабутній досвід.", "Pokoje w dawnym więzieniu — niezapomniane przeżycie."],
+    ["Glencoe House", 3, 210, ["mountains", "nature", "couples"], "Затишний маєток серед шотландських гір.", "Przytulna rezydencja wśród szkockich gór."],
+    ["The Savoy", 0, 520, ["comfort", "city"], "Знаменитий люкс на березі Темзи з 1889 року.", "Słynny luksusowy hotel nad Tamizą od 1889 roku."]
+  ],
+  "cars": ["Ford Fiesta", "Nissan Qashqai", "Jaguar XF", 38]
+},
+{
+  "iso2": "NL", "wiki": "Netherlands", "cap": ["Амстердам", "Amsterdam"],
+  "intro": ["Канали, велосипеди, тюльпанові поля й музеї Ван Гога та Рембрандта. Нідерланди легко об'їхати за тиждень потягом.", "Kanały, rowery, pola tulipanów i muzea Van Gogha oraz Rembrandta. Holandię łatwo objechać pociągiem w tydzień."],
+  "cities": [
+    ["amsterdam", "Амстердам", "Amsterdam", "Amsterdam", 52.37, 4.90, "Канали, Рейксмузей і будинок Анни Франк.", "Kanały, Rijksmuseum i Dom Anny Frank."],
+    ["rotterdam", "Роттердам", "Rotterdam", "Rotterdam", 51.92, 4.48, "Смілива архітектура та найбільший порт Європи.", "Odważna architektura i największy port Europy."],
+    ["lisse", "Ліссе і Кейкенгоф", "Lisse i Keukenhof", "Keukenhof", 52.27, 4.55, "Мільйони тюльпанів навесні.", "Miliony tulipanów wiosną."],
+    ["utrecht", "Утрехт", "Utrecht", "Utrecht", 52.09, 5.12, "Двоярусні канали та затишні кафе.", "Dwupoziomowe kanały i przytulne kawiarnie."]
+  ],
+  "dishes": [
+    ["Строопвафель", "Stroopwafel", "Тонкі вафлі з карамельним сиропом.", "Cienkie wafle z karmelowym syropem."],
+    ["Оселедець по-голландськи", "Śledź po holendersku", "Молодий оселедець з цибулею — їдять, тримаючи за хвіст.", "Młody śledź z cebulą — je się go, trzymając za ogon."],
+    ["Біттербаллен", "Bitterballen", "Хрусткі м'ясні кульки з гірчицею до пива.", "Chrupiące kuleczki mięsne z musztardą do piwa."]
+  ],
+  "facts": [
+    ["Велосипедів у Нідерландах більше, ніж людей.", "W Holandii jest więcej rowerów niż ludzi."],
+    ["Близько чверті країни лежить нижче рівня моря.", "Około jednej czwartej kraju leży poniżej poziomu morza."],
+    ["Нідерландці — найвищий народ у світі.", "Holendrzy są najwyższym narodem świata."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9], "daily": 85, "tags": ["city", "history", "nightlife", "nature", "couples"],
+  "air": ["AMS", "Amsterdam Schiphol", 52.31, 4.76],
+  "hotels": [
+    ["ClinkNOORD Amsterdam", 0, 40, ["city", "nightlife"], "Хостел у колишній лабораторії, пором до центру безкоштовний.", "Hostel w dawnym laboratorium, darmowy prom do centrum."],
+    ["Hotel Utrecht City Centre", 3, 95, ["city", "couples"], "Тихий готель біля каналу Аудеграхт.", "Spokojny hotel przy kanale Oudegracht."],
+    ["nhow Rotterdam", 1, 150, ["city", "family"], "Сучасний хмарочос із видом на міст Еразма.", "Nowoczesny wieżowiec z widokiem na Most Erazma."],
+    ["Hotel Pulitzer Amsterdam", 0, 260, ["history", "couples", "comfort"], "25 будинків XVII століття, з'єднаних у бутик-готель.", "25 kamienic z XVII wieku połączonych w butikowy hotel."],
+    ["Huys Kokenhof", 2, 330, ["nature", "comfort", "family"], "Розкішна вілла серед квіткових полів.", "Luksusowa willa wśród pól kwiatowych."]
+  ],
+  "cars": ["Toyota Aygo", "Kia Sportage", "Mercedes E", 35]
+},
+{
+  "iso2": "BE", "wiki": "Belgium", "cap": ["Брюссель", "Bruksela"],
+  "intro": ["Шоколад, вафлі, сотні сортів пива й середньовічні міста, наче з листівки. Бельгія маленька, але кожне місто тут — окрема пригода.", "Czekolada, gofry, setki gatunków piwa i średniowieczne miasta jak z pocztówki. Belgia jest mała, ale każde miasto to osobna przygoda."],
+  "cities": [
+    ["brussels", "Брюссель", "Bruksela", "Brussels", 50.85, 4.35, "Гран-Плас, Атоміум і штаб-квартира ЄС.", "Grand-Place, Atomium i siedziba UE."],
+    ["bruges", "Брюгге", "Brugia", "Bruges", 51.21, 3.22, "Канали та готичні будинки — «Північна Венеція».", "Kanały i gotyckie kamienice — „Wenecja Północy”."],
+    ["ghent", "Гент", "Gandawa", "Ghent", 51.05, 3.72, "Замок графів Фландрії та студентська атмосфера.", "Zamek Hrabiów Flandrii i studencki klimat."],
+    ["antwerp", "Антверпен", "Antwerpia", "Antwerp", 51.22, 4.40, "Діаманти, мода й будинок Рубенса.", "Diamenty, moda i dom Rubensa."]
+  ],
+  "dishes": [
+    ["Бельгійські вафлі", "Gofry belgijskie", "Брюссельські — хрусткі, льєзькі — солодкі й щільні.", "Brukselskie są chrupiące, z Liège — słodkie i gęste."],
+    ["Мідії з картоплею фрі", "Mule z frytkami", "Мідії у вині або пиві з фірмовою картоплею.", "Mule w winie lub piwie z firmowymi frytkami."],
+    ["Карбонад", "Carbonade", "Яловичина, тушкована в темному пиві.", "Wołowina duszona w ciemnym piwie."]
+  ],
+  "facts": [
+    ["Картоплю фрі, ймовірно, вигадали саме в Бельгії.", "Frytki najprawdopodobniej wymyślono w Belgii."],
+    ["Тут варять понад 1500 сортів пива.", "Warzy się tu ponad 1500 gatunków piwa."],
+    ["Тінтін і смурфики — бельгійські комікси.", "Tintin i Smerfy to belgijskie komiksy."]
+  ],
+  "months": [4, 5, 6, 7, 8, 9, 12], "daily": 80, "tags": ["city", "history", "food", "couples"],
+  "air": ["BRU", "Brussels Airport", 50.90, 4.48],
+  "hotels": [
+    ["Meininger Brussels City Center", 0, 38, ["city"], "Хостел у колишній пивоварні біля каналу.", "Hostel w dawnym browarze przy kanale."],
+    ["Hotel Ghent River", 2, 105, ["history", "city"], "Номери в старій бавовняній фабриці на березі річки.", "Pokoje w dawnej przędzalni nad rzeką."],
+    ["Radisson Antwerp", 3, 140, ["city", "family"], "Зручний готель поруч із вокзалом-палацом.", "Wygodny hotel obok dworca-pałacu."],
+    ["Hotel Dukes' Palace Bruges", 1, 210, ["history", "couples"], "Палац XV століття в центрі Брюгге.", "Pałac z XV wieku w centrum Brugii."],
+    ["Hotel Amigo", 0, 360, ["comfort", "city"], "Люкс за крок від Гран-Плас.", "Luksus o krok od Grand-Place."]
+  ],
+  "cars": ["Peugeot 208", "Peugeot 3008", "Audi A6", 34]
+},
+{
+  "iso2": "LU", "wiki": "Luxembourg", "cap": ["Люксембург", "Luksemburg"],
+  "intro": ["Фортеця на скелях, казкові долини й безкоштовний громадський транспорт по всій країні. Люксембург — ідеальний для коротких вихідних.", "Twierdza na skałach, bajkowe doliny i darmowa komunikacja publiczna w całym kraju. Luksemburg jest idealny na krótki weekend."],
+  "cities": [
+    ["luxembourg", "Люксембург", "Luksemburg", "Luxembourg City", 49.61, 6.13, "Казамати Бок і квартал Грунд біля річки.", "Kazamaty Bock i dzielnica Grund nad rzeką."],
+    ["vianden", "Віанден", "Vianden", "Vianden", 49.93, 6.21, "Величний замок над містечком і канатна дорога.", "Majestatyczny zamek nad miasteczkiem i kolejka linowa."],
+    ["mullerthal", "Мюллерталь", "Mullerthal", "Mullerthal", 49.79, 6.33, "«Маленька Швейцарія» — скелі, ліси й водоспади.", "„Mała Szwajcaria” — skały, lasy i wodospady."]
+  ],
+  "dishes": [
+    ["Юдд мат Гардебоунен", "Judd mat Gaardebounen", "Копчена свинина з бобами — національна страва.", "Wędzona wieprzowina z bobem — danie narodowe."],
+    ["Громперекіхельхер", "Gromperekichelcher", "Картопляні оладки з ярмарків.", "Placki ziemniaczane z jarmarków."],
+    ["Мозельські вина", "Wina mozelskie", "Ріслінг і креман з долини Мозеля.", "Riesling i crémant z doliny Mozeli."]
+  ],
+  "facts": [
+    ["Весь громадський транспорт у країні безкоштовний.", "Cała komunikacja publiczna w kraju jest bezpłatna."],
+    ["Люксембург — єдине велике герцогство у світі.", "Luksemburg to jedyne wielkie księstwo na świecie."],
+    ["Тут три офіційні мови: люксембурзька, французька й німецька.", "Są tu trzy języki urzędowe: luksemburski, francuski i niemiecki."]
+  ],
+  "months": [5, 6, 7, 8, 9], "daily": 90, "tags": ["history", "nature", "city", "couples", "comfort"],
+  "air": ["LUX", "Luxembourg Findel", 49.63, 6.21],
+  "hotels": [
+    ["Youth Hostel Luxembourg City", 0, 40, ["city"], "Хостел під стінами фортеці в долині Альзетт.", "Hostel pod murami twierdzy w dolinie Alzette."],
+    ["Hotel Victor Hugo Vianden", 1, 95, ["history", "nature"], "Затишний готель у будинку, де жив Віктор Гюго.", "Przytulny hotel w domu, w którym mieszkał Victor Hugo."],
+    ["Hotel Heringer Millen", 2, 130, ["nature", "family"], "Готель біля стежок Мюллерталь.", "Hotel przy szlakach Mullerthal."],
+    ["Hotel Simoncini", 0, 180, ["city", "couples"], "Арт-бутик із сучасним мистецтвом у центрі.", "Butik artystyczny ze sztuką współczesną w centrum."],
+    ["Le Royal Hotel Luxembourg", 0, 340, ["comfort", "city"], "Люкс на бульварі Руаяль зі спа.", "Luksusowy hotel przy Boulevard Royal ze spa."]
+  ],
+  "cars": ["Renault Clio", "Renault Kadjar", "Mercedes E", 38]
+},
+{
+  "iso2": "CH", "wiki": "Switzerland", "cap": ["Берн", "Berno"],
+  "intro": ["Сніжні вершини, кришталеві озера, панорамні потяги й найсмачніший шоколад. Швейцарія дорога, але кожен франк тут вартий краєвидів.", "Ośnieżone szczyty, krystaliczne jeziora, panoramiczne pociągi i najlepsza czekolada. Szwajcaria jest droga, ale każdy frank jest wart tych widoków."],
+  "cities": [
+    ["zurich", "Цюрих", "Zurych", "Zürich", 47.37, 8.54, "Озеро, старе місто й найкращі шоколадниці.", "Jezioro, stare miasto i najlepsze czekoladziarnie."],
+    ["lucerne", "Люцерн", "Lucerna", "Lucerne", 47.05, 8.31, "Дерев'яний міст Капельбрюкке та гора Пілатус.", "Drewniany most Kapellbrücke i góra Pilatus."],
+    ["zermatt", "Церматт", "Zermatt", "Zermatt", 46.02, 7.75, "Курорт без машин біля підніжжя Маттерхорну.", "Kurort bez samochodów u stóp Matterhornu."],
+    ["interlaken", "Інтерлакен", "Interlaken", "Interlaken", 46.69, 7.86, "Між двома озерами, поруч Юнгфрау.", "Między dwoma jeziorami, w pobliżu Jungfrau."]
+  ],
+  "dishes": [
+    ["Фондю", "Fondue", "Розтоплений сир із вином, у який занурюють хліб.", "Roztopiony ser z winem, w którym macza się chleb."],
+    ["Раклет", "Raclette", "Сир, розплавлений просто на картоплю.", "Ser topiony prosto na ziemniaki."],
+    ["Решті", "Rösti", "Хрустка картопляна деруна-сковорідка.", "Chrupiący placek z tartych ziemniaków."]
+  ],
+  "facts": [
+    ["У Швейцарії понад 1500 озер.", "W Szwajcarii jest ponad 1500 jezior."],
+    ["Країна має чотири офіційні мови.", "Kraj ma cztery języki urzędowe."],
+    ["Швейцарці з'їдають близько 10 кг шоколаду на рік на людину.", "Szwajcarzy zjadają około 10 kg czekolady rocznie na osobę."]
+  ],
+  "months": [1, 2, 3, 6, 7, 8, 9, 12], "daily": 130, "tags": ["mountains", "nature", "comfort", "couples", "city"],
+  "air": ["ZRH", "Zürich Airport", 47.46, 8.55],
+  "hotels": [
+    ["Balmers Hostel Interlaken", 3, 55, ["mountains", "nightlife"], "Легендарний хостел для любителів пригод.", "Legendarny hostel dla miłośników przygód."],
+    ["Hotel Alpina Lucerne", 1, 160, ["city", "family"], "Простий і затишний готель біля вокзалу.", "Prosty i przytulny hotel przy dworcu."],
+    ["Hotel Schweizerhof Zermatt", 2, 280, ["mountains", "family"], "Готель у центрі Церматта з басейном.", "Hotel w centrum Zermatt z basenem."],
+    ["Widder Hotel Zürich", 0, 340, ["city", "couples", "history"], "Дев'ять середньовічних будинків в одному бутику.", "Dziewięć średniowiecznych kamienic w jednym butiku."],
+    ["Victoria-Jungfrau Grand Hotel", 3, 520, ["comfort", "mountains", "couples"], "Палац із видом на Юнгфрау та велике спа.", "Pałac z widokiem na Jungfrau i dużym spa."]
+  ],
+  "cars": ["Opel Corsa", "VW Tiguan", "Audi Q7", 55]
+},
+{
+  "iso2": "AD", "wiki": "Andorra", "cap": ["Андорра-ла-Велья", "Andora"],
+  "intro": ["Гірська країна в Піренеях з лижними курортами, шопінгом без мит і термальними спа. Взимку — сноуборд, улітку — хайкінг.", "Górskie państwo w Pirenejach z ośrodkami narciarskimi, zakupami bez cła i termami. Zimą snowboard, latem trekking."],
+  "cities": [
+    ["andorra", "Андорра-ла-Велья", "Andora", "Andorra la Vella", 42.51, 1.52, "Найвища столиця Європи та вулиці шопінгу.", "Najwyżej położona stolica Europy i ulice zakupowe."],
+    ["soldeu", "Сольдеу", "Soldeu", "Soldeu", 42.58, 1.67, "Центр гірськолижного курорту Грандваліра.", "Centrum ośrodka narciarskiego Grandvalira."],
+    ["ordino", "Ордіно", "Ordino", "Ordino", 42.56, 1.53, "Кам'яне село та стежки до озер Тристайна.", "Kamienna wioska i szlaki do jezior Tristaina."]
+  ],
+  "dishes": [
+    ["Ескудела", "Escudella", "Густий гірський суп з м'ясом і квасолею.", "Gęsta górska zupa z mięsem i fasolą."],
+    ["Трінксат", "Trinxat", "Капуста з картоплею та беконом.", "Kapusta z ziemniakami i boczkiem."],
+    ["Кока", "Coca", "Тонкий пиріг з овочами або солодкий.", "Cienki placek z warzywami lub na słodko."]
+  ],
+  "facts": [
+    ["Андорра має двох співправителів — президента Франції та єпископа.", "Andora ma dwóch współksiążąt — prezydenta Francji i biskupa."],
+    ["Офіційна мова тут каталонська.", "Językiem urzędowym jest kataloński."],
+    ["Країна не має аеропорту та залізниці.", "Kraj nie ma lotniska ani kolei."]
+  ],
+  "months": [1, 2, 3, 7, 8, 12], "daily": 65, "tags": ["mountains", "nature", "family", "comfort"],
+  "air": ["BCN", "Barcelona El Prat (+ автобус 3 год)", 41.30, 2.08],
+  "hotels": [
+    ["Pyrenees Hostel Andorra", 0, 30, ["mountains"], "Простий хостел поряд із канатною дорогою.", "Prosty hostel obok kolejki linowej."],
+    ["Hotel Piolets Soldeu", 1, 90, ["mountains", "family"], "Готель просто біля підйомника.", "Hotel tuż przy wyciągu."],
+    ["Hotel Babot Ordino", 2, 120, ["nature", "family"], "Тихий готель з видом на долину.", "Cichy hotel z widokiem na dolinę."],
+    ["Hotel Casa Canut", 0, 150, ["couples", "food"], "Родинний бутик з відомим рестораном.", "Rodzinny butik ze znaną restauracją."],
+    ["Sport Hotel Hermitage & Spa", 1, 330, ["comfort", "mountains", "couples"], "Альпійський люкс зі спа 5000 м².", "Alpejski luksus ze spa o powierzchni 5000 m²."]
+  ],
+  "cars": ["Seat Ibiza", "Seat Ateca", "Audi Q5", 33]
+}
+]

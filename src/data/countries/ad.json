@@ -1,0 +1,233 @@
+{
+  "iso2": "AD",
+  "wiki": "Andorra",
+  "capital": {
+    "uk": "Андорра-ла-Велья",
+    "pl": "Andora"
+  },
+  "intro": {
+    "uk": "Гірська країна в Піренеях з лижними курортами, шопінгом без мит і термальними спа. Взимку — сноуборд, улітку — хайкінг.",
+    "pl": "Górskie państwo w Pirenejach z ośrodkami narciarskimi, zakupami bez cła i termami. Zimą snowboard, latem trekking."
+  },
+  "cities": [
+    {
+      "id": "ad-andorra",
+      "name": {
+        "uk": "Андорра-ла-Велья",
+        "pl": "Andora"
+      },
+      "wiki": "Andorra la Vella",
+      "lat": 42.51,
+      "lng": 1.52,
+      "blurb": {
+        "uk": "Найвища столиця Європи та вулиці шопінгу.",
+        "pl": "Najwyżej położona stolica Europy i ulice zakupowe."
+      }
+    },
+    {
+      "id": "ad-soldeu",
+      "name": {
+        "uk": "Сольдеу",
+        "pl": "Soldeu"
+      },
+      "wiki": "Soldeu",
+      "lat": 42.58,
+      "lng": 1.67,
+      "blurb": {
+        "uk": "Центр гірськолижного курорту Грандваліра.",
+        "pl": "Centrum ośrodka narciarskiego Grandvalira."
+      }
+    },
+    {
+      "id": "ad-ordino",
+      "name": {
+        "uk": "Ордіно",
+        "pl": "Ordino"
+      },
+      "wiki": "Ordino",
+      "lat": 42.56,
+      "lng": 1.53,
+      "blurb": {
+        "uk": "Кам'яне село та стежки до озер Тристайна.",
+        "pl": "Kamienna wioska i szlaki do jezior Tristaina."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Ескудела",
+        "pl": "Escudella"
+      },
+      "description": {
+        "uk": "Густий гірський суп з м'ясом і квасолею.",
+        "pl": "Gęsta górska zupa z mięsem i fasolą."
+      }
+    },
+    {
+      "name": {
+        "uk": "Трінксат",
+        "pl": "Trinxat"
+      },
+      "description": {
+        "uk": "Капуста з картоплею та беконом.",
+        "pl": "Kapusta z ziemniakami i boczkiem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кока",
+        "pl": "Coca"
+      },
+      "description": {
+        "uk": "Тонкий пиріг з овочами або солодкий.",
+        "pl": "Cienki placek z warzywami lub na słodko."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Андорра має двох співправителів — президента Франції та єпископа.",
+      "pl": "Andora ma dwóch współksiążąt — prezydenta Francji i biskupa."
+    },
+    {
+      "uk": "Офіційна мова тут каталонська.",
+      "pl": "Językiem urzędowym jest kataloński."
+    },
+    {
+      "uk": "Країна не має аеропорту та залізниці.",
+      "pl": "Kraj nie ma lotniska ani kolei."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    3,
+    7,
+    8,
+    12
+  ],
+  "dailyCost": 65,
+  "tags": [
+    "mountains",
+    "nature",
+    "family",
+    "comfort"
+  ],
+  "airport": {
+    "code": "BCN",
+    "name": "Barcelona El Prat (+ автобус 3 год)",
+    "lat": 41.3,
+    "lng": 2.08
+  },
+  "hotels": [
+    {
+      "id": "ad-h1",
+      "name": "Pyrenees Hostel Andorra",
+      "cityId": "ad-andorra",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 30,
+      "capacity": 2,
+      "tags": [
+        "mountains"
+      ],
+      "description": {
+        "uk": "Простий хостел поряд із канатною дорогою.",
+        "pl": "Prosty hostel obok kolejki linowej."
+      }
+    },
+    {
+      "id": "ad-h2",
+      "name": "Hotel Piolets Soldeu",
+      "cityId": "ad-soldeu",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 90,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель просто біля підйомника.",
+        "pl": "Hotel tuż przy wyciągu."
+      }
+    },
+    {
+      "id": "ad-h3",
+      "name": "Hotel Babot Ordino",
+      "cityId": "ad-ordino",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 3,
+      "tags": [
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Тихий готель з видом на долину.",
+        "pl": "Cichy hotel z widokiem na dolinę."
+      }
+    },
+    {
+      "id": "ad-h4",
+      "name": "Hotel Casa Canut",
+      "cityId": "ad-andorra",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 2,
+      "tags": [
+        "couples",
+        "food"
+      ],
+      "description": {
+        "uk": "Родинний бутик з відомим рестораном.",
+        "pl": "Rodzinny butik ze znaną restauracją."
+      }
+    },
+    {
+      "id": "ad-h5",
+      "name": "Sport Hotel Hermitage & Spa",
+      "cityId": "ad-soldeu",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 330,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "mountains",
+        "couples"
+      ],
+      "description": {
+        "uk": "Альпійський люкс зі спа 5000 м².",
+        "pl": "Alpejski luksus ze spa o powierzchni 5000 m²."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "ad-c1",
+      "class": "economy",
+      "model": "Seat Ibiza",
+      "pricePerDay": 33,
+      "seats": 4
+    },
+    {
+      "id": "ad-c2",
+      "class": "suv",
+      "model": "Seat Ateca",
+      "pricePerDay": 59,
+      "seats": 5
+    },
+    {
+      "id": "ad-c3",
+      "class": "premium",
+      "model": "Audi Q5",
+      "pricePerDay": 122,
+      "seats": 5
+    }
+  ]
+}

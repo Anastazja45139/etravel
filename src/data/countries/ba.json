@@ -1,0 +1,246 @@
+{
+  "iso2": "BA",
+  "wiki": "Bosnia and Herzegovina",
+  "capital": {
+    "uk": "Сараєво",
+    "pl": "Sarajewo"
+  },
+  "intro": {
+    "uk": "Старий міст у Мостарі, кав'ярні Сараєва, де Схід зустрічається із Заходом, і смарагдові водоспади. Боснія й Герцеговина дивує на кожному кроці.",
+    "pl": "Stary Most w Mostarze, kawiarnie Sarajewa, gdzie Wschód spotyka Zachód, i szmaragdowe wodospady. Bośnia i Hercegowina zaskakuje na każdym kroku."
+  },
+  "cities": [
+    {
+      "id": "ba-sarajevo",
+      "name": {
+        "uk": "Сараєво",
+        "pl": "Sarajewo"
+      },
+      "wiki": "Sarajevo",
+      "lat": 43.86,
+      "lng": 18.41,
+      "blurb": {
+        "uk": "Базар Башчаршія та олімпійські гори.",
+        "pl": "Bazar Baščaršija i olimpijskie góry."
+      }
+    },
+    {
+      "id": "ba-mostar",
+      "name": {
+        "uk": "Мостар",
+        "pl": "Mostar"
+      },
+      "wiki": "Mostar",
+      "lat": 43.34,
+      "lng": 17.81,
+      "blurb": {
+        "uk": "Старий міст і стрибуни у річку Неретва.",
+        "pl": "Stary Most i skoczkowie do Neretwy."
+      }
+    },
+    {
+      "id": "ba-kravice",
+      "name": {
+        "uk": "Кравиця",
+        "pl": "Kravica"
+      },
+      "wiki": "Kravica waterfall",
+      "lat": 43.16,
+      "lng": 17.61,
+      "blurb": {
+        "uk": "Водоспади, де можна купатися.",
+        "pl": "Wodospady, w których można się kąpać."
+      }
+    },
+    {
+      "id": "ba-jajce",
+      "name": {
+        "uk": "Яйце",
+        "pl": "Jajce"
+      },
+      "wiki": "Jajce",
+      "lat": 44.34,
+      "lng": 17.27,
+      "blurb": {
+        "uk": "Водоспад просто в центрі міста.",
+        "pl": "Wodospad w samym centrum miasta."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Бурек",
+        "pl": "Burek"
+      },
+      "description": {
+        "uk": "Листковий пиріг з м'ясом, згорнутий спіраллю.",
+        "pl": "Ciasto filo z mięsem zwinięte w spiralę."
+      }
+    },
+    {
+      "name": {
+        "uk": "Боснійська кава",
+        "pl": "Kawa bośniacka"
+      },
+      "description": {
+        "uk": "Міцна кава з джезви з рахат-лукумом.",
+        "pl": "Mocna kawa z dżezwy z rachatłukum."
+      }
+    },
+    {
+      "name": {
+        "uk": "Клепе",
+        "pl": "Klepe"
+      },
+      "description": {
+        "uk": "Пельмені з часниковим йогуртом.",
+        "pl": "Pierożki z czosnkowym jogurtem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Сараєво приймало зимові Олімпійські ігри 1984 року.",
+      "pl": "Sarajewo gościło zimowe igrzyska olimpijskie w 1984 roku."
+    },
+    {
+      "uk": "Країна має лише 20 км морського узбережжя.",
+      "pl": "Kraj ma tylko 20 km wybrzeża morskiego."
+    },
+    {
+      "uk": "Стрибки з мосту в Мостарі — традиція понад 400 років.",
+      "pl": "Skoki z mostu w Mostarze to tradycja licząca ponad 400 lat."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 30,
+  "tags": [
+    "history",
+    "nature",
+    "food",
+    "mountains"
+  ],
+  "airport": {
+    "code": "SJJ",
+    "name": "Sarajevo International",
+    "lat": 43.82,
+    "lng": 18.33
+  },
+  "hotels": [
+    {
+      "id": "ba-h1",
+      "name": "Hostel Franz Ferdinand",
+      "cityId": "ba-sarajevo",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 18,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Тематичний хостел біля Латинського мосту.",
+        "pl": "Tematyczny hostel przy Moście Łacińskim."
+      }
+    },
+    {
+      "id": "ba-h2",
+      "name": "Hotel Kravica Garden",
+      "cityId": "ba-kravice",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 55,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Сімейний готель за кілька хвилин від водоспадів.",
+        "pl": "Rodzinny hotel kilka minut od wodospadów."
+      }
+    },
+    {
+      "id": "ba-h3",
+      "name": "Hotel Jajce Stari Grad",
+      "cityId": "ba-jajce",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 60,
+      "capacity": 3,
+      "tags": [
+        "history",
+        "nature"
+      ],
+      "description": {
+        "uk": "Готель у старому місті з видом на фортецю.",
+        "pl": "Hotel na starym mieście z widokiem na twierdzę."
+      }
+    },
+    {
+      "id": "ba-h4",
+      "name": "Hotel Kriva Ćuprija Mostar",
+      "cityId": "ba-mostar",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 90,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Кам'яний бутик біля Старого мосту.",
+        "pl": "Kamienny butik przy Starym Moście."
+      }
+    },
+    {
+      "id": "ba-h5",
+      "name": "Swissôtel Sarajevo",
+      "cityId": "ba-sarajevo",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 160,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Сучасний люкс зі спа й панорамою міста.",
+        "pl": "Nowoczesny luksus ze spa i panoramą miasta."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "ba-c1",
+      "class": "economy",
+      "model": "VW Golf",
+      "pricePerDay": 25,
+      "seats": 4
+    },
+    {
+      "id": "ba-c2",
+      "class": "suv",
+      "model": "Škoda Kodiaq",
+      "pricePerDay": 45,
+      "seats": 5
+    },
+    {
+      "id": "ba-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 93,
+      "seats": 5
+    }
+  ]
+}

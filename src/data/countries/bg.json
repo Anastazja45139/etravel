@@ -1,0 +1,247 @@
+{
+  "iso2": "BG",
+  "wiki": "Bulgaria",
+  "capital": {
+    "uk": "Софія",
+    "pl": "Sofia"
+  },
+  "intro": {
+    "uk": "Пляжі Чорного моря, гірськолижний Банско, Рильський монастир і одні з найнижчих цін у ЄС. Болгарія чудово підходить для сімейного відпочинку.",
+    "pl": "Plaże Morza Czarnego, narciarskie Bansko, Monastyr Rylski i jedne z najniższych cen w UE. Bułgaria świetnie nadaje się na rodzinny wypoczynek."
+  },
+  "cities": [
+    {
+      "id": "bg-sofia",
+      "name": {
+        "uk": "Софія",
+        "pl": "Sofia"
+      },
+      "wiki": "Sofia",
+      "lat": 42.7,
+      "lng": 23.32,
+      "blurb": {
+        "uk": "Собор Олександра Невського й гора Вітоша поруч.",
+        "pl": "Sobór Aleksandra Newskiego i góra Witosza obok."
+      }
+    },
+    {
+      "id": "bg-sozopol",
+      "name": {
+        "uk": "Созополь",
+        "pl": "Sozopol"
+      },
+      "wiki": "Sozopol",
+      "lat": 42.42,
+      "lng": 27.7,
+      "blurb": {
+        "uk": "Старе місто на мисі та піщані пляжі.",
+        "pl": "Stare miasto na cyplu i piaszczyste plaże."
+      }
+    },
+    {
+      "id": "bg-plovdiv",
+      "name": {
+        "uk": "Пловдив",
+        "pl": "Płowdiw"
+      },
+      "wiki": "Plovdiv",
+      "lat": 42.14,
+      "lng": 24.75,
+      "blurb": {
+        "uk": "Одне з найстаріших міст Європи з римським театром.",
+        "pl": "Jedno z najstarszych miast Europy z rzymskim teatrem."
+      }
+    },
+    {
+      "id": "bg-bansko",
+      "name": {
+        "uk": "Банско",
+        "pl": "Bansko"
+      },
+      "wiki": "Bansko",
+      "lat": 41.84,
+      "lng": 23.49,
+      "blurb": {
+        "uk": "Лижі взимку й хайкінг у горах Пірин улітку.",
+        "pl": "Narty zimą i trekking w Pirynie latem."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Шопський салат",
+        "pl": "Sałatka szopska"
+      },
+      "description": {
+        "uk": "Помідори, огірки, перець і тертий сирене.",
+        "pl": "Pomidory, ogórki, papryka i tarty ser sirene."
+      }
+    },
+    {
+      "name": {
+        "uk": "Баниця",
+        "pl": "Banica"
+      },
+      "description": {
+        "uk": "Листкове тісто з бринзою та яйцями.",
+        "pl": "Ciasto filo z serem i jajkami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Таратор",
+        "pl": "Tarator"
+      },
+      "description": {
+        "uk": "Холодний суп з йогурту й огірків.",
+        "pl": "Chłodnik z jogurtu i ogórków."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Болгари кивають головою на «ні» і хитають на «так».",
+      "pl": "Bułgarzy kiwają głową na „nie” i kręcą na „tak”."
+    },
+    {
+      "uk": "Кирилицю поширили саме з болгарських земель.",
+      "pl": "Cyrylica rozpowszechniła się właśnie z ziem bułgarskich."
+    },
+    {
+      "uk": "Болгарія — один з найбільших виробників трояндової олії.",
+      "pl": "Bułgaria jest jednym z największych producentów olejku różanego."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 35,
+  "tags": [
+    "sea",
+    "mountains",
+    "history",
+    "family",
+    "food"
+  ],
+  "airport": {
+    "code": "SOF",
+    "name": "Sofia Airport",
+    "lat": 42.7,
+    "lng": 23.41
+  },
+  "hotels": [
+    {
+      "id": "bg-h1",
+      "name": "Hostel Mostel Sofia",
+      "cityId": "bg-sofia",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 18,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Популярний хостел зі сніданком і вечерею.",
+        "pl": "Popularny hostel ze śniadaniem i kolacją."
+      }
+    },
+    {
+      "id": "bg-h2",
+      "name": "Hotel Evmolpia Plovdiv",
+      "cityId": "bg-plovdiv",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 55,
+      "capacity": 2,
+      "tags": [
+        "history"
+      ],
+      "description": {
+        "uk": "Затишний готель у Старому Пловдиві.",
+        "pl": "Przytulny hotel na Starym Mieście w Płowdiwie."
+      }
+    },
+    {
+      "id": "bg-h3",
+      "name": "Hotel Sozopol Beach",
+      "cityId": "bg-sozopol",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 75,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family"
+      ],
+      "description": {
+        "uk": "Сімейний готель за 50 метрів від пляжу.",
+        "pl": "Rodzinny hotel 50 metrów od plaży."
+      }
+    },
+    {
+      "id": "bg-h4",
+      "name": "Kempinski Grand Arena Bansko",
+      "cityId": "bg-bansko",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 130,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "family",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Гірський готель біля гондоли.",
+        "pl": "Górski hotel przy gondoli."
+      }
+    },
+    {
+      "id": "bg-h5",
+      "name": "Sofia Balkan Palace",
+      "cityId": "bg-sofia",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 190,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Історичний люкс біля ротонди Святого Георгія.",
+        "pl": "Zabytkowy luksus przy rotundzie św. Jerzego."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "bg-c1",
+      "class": "economy",
+      "model": "Dacia Sandero",
+      "pricePerDay": 18,
+      "seats": 4
+    },
+    {
+      "id": "bg-c2",
+      "class": "suv",
+      "model": "Dacia Duster",
+      "pricePerDay": 32,
+      "seats": 5
+    },
+    {
+      "id": "bg-c3",
+      "class": "premium",
+      "model": "Toyota Camry",
+      "pricePerDay": 67,
+      "seats": 5
+    }
+  ]
+}

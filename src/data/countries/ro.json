@@ -1,0 +1,248 @@
+{
+  "iso2": "RO",
+  "wiki": "Romania",
+  "capital": {
+    "uk": "Бухарест",
+    "pl": "Bukareszt"
+  },
+  "intro": {
+    "uk": "Замки Трансильванії, мальовничі монастирі, дельта Дунаю й Карпати. Румунія — країна легенд і неймовірної природи за доступними цінами.",
+    "pl": "Zamki Transylwanii, malowane monastyry, delta Dunaju i Karpaty. Rumunia to kraj legend i niesamowitej przyrody w przystępnych cenach."
+  },
+  "cities": [
+    {
+      "id": "ro-bucharest",
+      "name": {
+        "uk": "Бухарест",
+        "pl": "Bukareszt"
+      },
+      "wiki": "Bucharest",
+      "lat": 44.43,
+      "lng": 26.1,
+      "blurb": {
+        "uk": "«Маленький Париж» і величезний Палац парламенту.",
+        "pl": "„Mały Paryż” i ogromny Pałac Parlamentu."
+      }
+    },
+    {
+      "id": "ro-brasov",
+      "name": {
+        "uk": "Брашов",
+        "pl": "Braszów"
+      },
+      "wiki": "Brașov",
+      "lat": 45.66,
+      "lng": 25.61,
+      "blurb": {
+        "uk": "Середньовічне місто біля замку Дракули.",
+        "pl": "Średniowieczne miasto obok zamku Drakuli."
+      }
+    },
+    {
+      "id": "ro-sibiu",
+      "name": {
+        "uk": "Сібіу",
+        "pl": "Sybin"
+      },
+      "wiki": "Sibiu",
+      "lat": 45.79,
+      "lng": 24.15,
+      "blurb": {
+        "uk": "Дахи з «очима» та затишні площі.",
+        "pl": "Dachy z „oczami” i przytulne place."
+      }
+    },
+    {
+      "id": "ro-cluj",
+      "name": {
+        "uk": "Клуж-Напока",
+        "pl": "Kluż-Napoka"
+      },
+      "wiki": "Cluj-Napoca",
+      "lat": 46.77,
+      "lng": 23.6,
+      "blurb": {
+        "uk": "Студентська столиця Трансильванії й фестивалі.",
+        "pl": "Studencka stolica Transylwanii i festiwale."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Сармале",
+        "pl": "Sarmale"
+      },
+      "description": {
+        "uk": "Голубці в капустяному листі зі сметаною.",
+        "pl": "Gołąbki w liściach kapusty ze śmietaną."
+      }
+    },
+    {
+      "name": {
+        "uk": "Мамалига",
+        "pl": "Mămăligă"
+      },
+      "description": {
+        "uk": "Кукурудзяна каша з бринзою.",
+        "pl": "Kasza kukurydziana z bryndzą."
+      }
+    },
+    {
+      "name": {
+        "uk": "Папанаші",
+        "pl": "Papanași"
+      },
+      "description": {
+        "uk": "Сирні пончики з варенням і сметаною.",
+        "pl": "Pączki twarogowe z dżemem i śmietaną."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Палац парламенту — одна з найбільших будівель світу.",
+      "pl": "Pałac Parlamentu to jeden z największych budynków świata."
+    },
+    {
+      "uk": "У Румунії живе найбільша популяція бурих ведмедів у Європі.",
+      "pl": "W Rumunii żyje największa populacja niedźwiedzi brunatnych w Europie."
+    },
+    {
+      "uk": "Румунська мова — найближча до латини серед живих мов.",
+      "pl": "Rumuński jest z żywych języków najbliższy łacinie."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "dailyCost": 40,
+  "tags": [
+    "history",
+    "mountains",
+    "nature",
+    "food",
+    "family"
+  ],
+  "airport": {
+    "code": "OTP",
+    "name": "Bucharest Henri Coandă",
+    "lat": 44.57,
+    "lng": 26.08
+  },
+  "hotels": [
+    {
+      "id": "ro-h1",
+      "name": "Kismet Dao Hostel Brașov",
+      "cityId": "ro-brasov",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 18,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Затишний хостел у центрі Брашова.",
+        "pl": "Przytulny hostel w centrum Braszowa."
+      }
+    },
+    {
+      "id": "ro-h2",
+      "name": "Hotel Central Cluj",
+      "cityId": "ro-cluj",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 65,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Сучасний готель біля площі Уніряй.",
+        "pl": "Nowoczesny hotel przy placu Unirii."
+      }
+    },
+    {
+      "id": "ro-h3",
+      "name": "Hotel Am Ring Sibiu",
+      "cityId": "ro-sibiu",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 85,
+      "capacity": 3,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "description": {
+        "uk": "Номери в історичному будинку на Великій площі.",
+        "pl": "Pokoje w zabytkowej kamienicy na Dużym Rynku."
+      }
+    },
+    {
+      "id": "ro-h4",
+      "name": "Bran Castle Guesthouse",
+      "cityId": "ro-brasov",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "nature",
+        "couples"
+      ],
+      "description": {
+        "uk": "Гостьовий дім з видом на замок Бран.",
+        "pl": "Pensjonat z widokiem na zamek Bran."
+      }
+    },
+    {
+      "id": "ro-h5",
+      "name": "Athénée Palace Hilton",
+      "cityId": "ro-bucharest",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 220,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Історичний люкс біля Румунського Атенеуму.",
+        "pl": "Zabytkowy luksus przy Ateneum Rumuńskim."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "ro-c1",
+      "class": "economy",
+      "model": "Dacia Logan",
+      "pricePerDay": 20,
+      "seats": 4
+    },
+    {
+      "id": "ro-c2",
+      "class": "suv",
+      "model": "Dacia Duster",
+      "pricePerDay": 36,
+      "seats": 5
+    },
+    {
+      "id": "ro-c3",
+      "class": "premium",
+      "model": "VW Passat",
+      "pricePerDay": 74,
+      "seats": 5
+    }
+  ]
+}

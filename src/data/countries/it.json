@@ -1,0 +1,41 @@
+{
+  "iso2": "IT",
+  "wiki": "Italy",
+  "capital": { "uk": "Рим", "pl": "Rzym" },
+  "intro": {
+    "uk": "Римські руїни, ренесансні шедеври, кольорові селища над морем і паста, яку в кожному регіоні готують по-своєму. Італія — це країна, куди повертаються.",
+    "pl": "Rzymskie ruiny, renesansowe arcydzieła, kolorowe miasteczka nad morzem i makaron, który w każdym regionie robi się inaczej. Do Włoch się wraca."
+  },
+  "cities": [
+    { "id": "it-rome", "name": { "uk": "Рим", "pl": "Rzym" }, "wiki": "Rome", "lat": 41.9, "lng": 12.5, "blurb": { "uk": "Колізей, Ватикан і фонтан Треві на кожному кроці історії.", "pl": "Koloseum, Watykan i Fontanna di Trevi — historia na każdym kroku." } },
+    { "id": "it-florence", "name": { "uk": "Флоренція", "pl": "Florencja" }, "wiki": "Florence", "lat": 43.77, "lng": 11.25, "blurb": { "uk": "Колиска Ренесансу, галерея Уффіці та тосканські вина.", "pl": "Kolebka renesansu, Galeria Uffizi i toskańskie wina." } },
+    { "id": "it-venice", "name": { "uk": "Венеція", "pl": "Wenecja" }, "wiki": "Venice", "lat": 45.44, "lng": 12.32, "blurb": { "uk": "Місто на воді з гондолами та палацами.", "pl": "Miasto na wodzie z gondolami i pałacami." } },
+    { "id": "it-amalfi", "name": { "uk": "Амальфі", "pl": "Amalfi" }, "wiki": "Amalfi", "lat": 40.63, "lng": 14.6, "blurb": { "uk": "Лимонні сади й будиночки на скелях над Тірренським морем.", "pl": "Cytrynowe gaje i domki na klifach nad Morzem Tyrreńskim." } }
+  ],
+  "dishes": [
+    { "name": { "uk": "Паста карбонара", "pl": "Spaghetti carbonara" }, "description": { "uk": "Римська класика з гуанчале, жовтками та пекоріно — без вершків.", "pl": "Rzymski klasyk z guanciale, żółtkami i pecorino — bez śmietany." } },
+    { "name": { "uk": "Піца неаполітана", "pl": "Pizza neapolitańska" }, "description": { "uk": "Тонка м'яка основа з дров'яної печі, томати Сан-Марцано і моцарела.", "pl": "Cienkie miękkie ciasto z pieca opalanego drewnem, pomidory San Marzano i mozzarella." } },
+    { "name": { "uk": "Джелато", "pl": "Gelato" }, "description": { "uk": "Щільне італійське морозиво, яке їдять навіть узимку.", "pl": "Gęste włoskie lody, które je się nawet zimą." } }
+  ],
+  "facts": [
+    { "uk": "В Італії найбільше об'єктів Світової спадщини ЮНЕСКО у світі.", "pl": "Włochy mają najwięcej obiektów światowego dziedzictwa UNESCO na świecie." },
+    { "uk": "У фонтан Треві щодня кидають близько 3000 євро монетами — їх віддають на благодійність.", "pl": "Do Fontanny di Trevi wrzuca się dziennie około 3000 euro — trafiają na cele charytatywne." },
+    { "uk": "На території Італії розташовані дві незалежні держави: Ватикан і Сан-Марино.", "pl": "Na terytorium Włoch leżą dwa niezależne państwa: Watykan i San Marino." }
+  ],
+  "bestMonths": [4, 5, 6, 9, 10],
+  "dailyCost": 75,
+  "tags": ["history", "food", "sea", "city", "couples"],
+  "airport": { "code": "FCO", "name": "Roma Fiumicino", "lat": 41.8, "lng": 12.25 },
+  "hotels": [
+    { "id": "it-h1", "name": "Trastevere Budget Rooms", "cityId": "it-rome", "tier": "budget", "stars": 2, "pricePerNight": 55, "capacity": 2, "tags": ["city", "nightlife", "food"], "description": { "uk": "Прості номери серед тратторій Трастевере.", "pl": "Proste pokoje wśród trattorii na Zatybrzu." } },
+    { "id": "it-h2", "name": "Hotel Ponte Vecchio", "cityId": "it-florence", "tier": "3", "stars": 3, "pricePerNight": 95, "capacity": 2, "tags": ["history", "city", "couples"], "description": { "uk": "Готель за два кроки від Понте-Веккіо.", "pl": "Hotel dwa kroki od Ponte Vecchio." } },
+    { "id": "it-h3", "name": "Canal Grande Hotel", "cityId": "it-venice", "tier": "4", "stars": 4, "pricePerNight": 175, "capacity": 2, "tags": ["history", "couples", "comfort"], "description": { "uk": "Палаццо XVIII століття з видом на Гранд-канал.", "pl": "XVIII-wieczny pałac z widokiem na Canal Grande." } },
+    { "id": "it-h4", "name": "Limoneto Boutique Amalfi", "cityId": "it-amalfi", "tier": "boutique", "stars": 4, "pricePerNight": 210, "capacity": 2, "tags": ["sea", "couples", "food"], "description": { "uk": "Тераси в лимонному саду над морем.", "pl": "Tarasy w cytrynowym ogrodzie nad morzem." } },
+    { "id": "it-h5", "name": "Palazzo Imperiale Roma", "cityId": "it-rome", "tier": "5", "stars": 5, "pricePerNight": 390, "capacity": 3, "tags": ["comfort", "history", "family"], "description": { "uk": "Розкішний палац біля Іспанських сходів з дахом-терасою.", "pl": "Luksusowy pałac przy Schodach Hiszpańskich z tarasem na dachu." } }
+  ],
+  "cars": [
+    { "id": "it-c1", "class": "economy", "model": "Fiat 500", "pricePerDay": 38, "seats": 4 },
+    { "id": "it-c2", "class": "suv", "model": "Jeep Compass", "pricePerDay": 72, "seats": 5 },
+    { "id": "it-c3", "class": "premium", "model": "Alfa Romeo Giulia", "pricePerDay": 130, "seats": 5 }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "iso2": "IE",
+  "wiki": "Republic of Ireland",
+  "capital": {
+    "uk": "Дублін",
+    "pl": "Dublin"
+  },
+  "intro": {
+    "uk": "Зелені пагорби, скелі Мохер, живий фольк у пабах і замки біля океану. Ірландія — країна легенд, дощу й тепла людей.",
+    "pl": "Zielone wzgórza, klify Moher, muzyka folk na żywo w pubach i zamki nad oceanem. Irlandia to kraj legend, deszczu i ciepła ludzi."
+  },
+  "cities": [
+    {
+      "id": "ie-dublin",
+      "name": {
+        "uk": "Дублін",
+        "pl": "Dublin"
+      },
+      "wiki": "Dublin",
+      "lat": 53.35,
+      "lng": -6.26,
+      "blurb": {
+        "uk": "Темпл-Бар, Трініті-коледж і Guinness Storehouse.",
+        "pl": "Temple Bar, Trinity College i Guinness Storehouse."
+      }
+    },
+    {
+      "id": "ie-galway",
+      "name": {
+        "uk": "Голвей",
+        "pl": "Galway"
+      },
+      "wiki": "Galway",
+      "lat": 53.27,
+      "lng": -9.05,
+      "blurb": {
+        "uk": "Кольорові вулиці та музика в кожному пабі.",
+        "pl": "Kolorowe ulice i muzyka w każdym pubie."
+      }
+    },
+    {
+      "id": "ie-moher",
+      "name": {
+        "uk": "Скелі Мохер",
+        "pl": "Klify Moher"
+      },
+      "wiki": "Cliffs of Moher",
+      "lat": 52.97,
+      "lng": -9.43,
+      "blurb": {
+        "uk": "200-метрові скелі над Атлантикою.",
+        "pl": "200-metrowe klify nad Atlantykiem."
+      }
+    },
+    {
+      "id": "ie-killarney",
+      "name": {
+        "uk": "Кілларні",
+        "pl": "Killarney"
+      },
+      "wiki": "Killarney",
+      "lat": 52.06,
+      "lng": -9.51,
+      "blurb": {
+        "uk": "Національний парк і Кільце Керрі.",
+        "pl": "Park narodowy i Ring of Kerry."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Ірландське рагу",
+        "pl": "Gulasz irlandzki"
+      },
+      "description": {
+        "uk": "Баранина з картоплею та морквою.",
+        "pl": "Jagnięcina z ziemniakami i marchewką."
+      }
+    },
+    {
+      "name": {
+        "uk": "Содовий хліб",
+        "pl": "Chleb sodowy"
+      },
+      "description": {
+        "uk": "Хліб без дріжджів з маслом.",
+        "pl": "Chleb bez drożdży z masłem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Ірландський сніданок",
+        "pl": "Śniadanie irlandzkie"
+      },
+      "description": {
+        "uk": "З кров'яною ковбасою та чорним пудингом.",
+        "pl": "Z kaszanką i czarnym puddingiem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Хелловін походить від кельтського свята Самайн.",
+      "pl": "Halloween wywodzi się z celtyckiego święta Samhain."
+    },
+    {
+      "uk": "В Ірландії немає змій — за легендою, їх вигнав святий Патрик.",
+      "pl": "W Irlandii nie ma węży — według legendy wypędził je św. Patryk."
+    },
+    {
+      "uk": "Символ країни — арфа, а не конюшина.",
+      "pl": "Symbolem państwa jest harfa, a nie koniczyna."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 90,
+  "tags": [
+    "nature",
+    "city",
+    "nightlife",
+    "history"
+  ],
+  "airport": {
+    "code": "DUB",
+    "name": "Dublin Airport",
+    "lat": 53.43,
+    "lng": -6.27
+  },
+  "hotels": [
+    {
+      "id": "ie-h1",
+      "name": "Abbey Court Hostel",
+      "cityId": "ie-dublin",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел на набережній Ліффі біля Темпл-Бару.",
+        "pl": "Hostel nad Liffey przy Temple Bar."
+      }
+    },
+    {
+      "id": "ie-h2",
+      "name": "The Lake Hotel Killarney",
+      "cityId": "ie-killarney",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 160,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель на березі озера з оленями поруч.",
+        "pl": "Hotel nad jeziorem z jeleniami w pobliżu."
+      }
+    },
+    {
+      "id": "ie-h3",
+      "name": "The g Hotel Galway",
+      "cityId": "ie-galway",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 170,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Яскравий дизайнерський готель.",
+        "pl": "Kolorowy hotel designerski."
+      }
+    },
+    {
+      "id": "ie-h4",
+      "name": "Hotel Doolin",
+      "cityId": "ie-moher",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "food"
+      ],
+      "description": {
+        "uk": "Затишний бутик біля скель Мохер.",
+        "pl": "Przytulny butik niedaleko klifów Moher."
+      }
+    },
+    {
+      "id": "ie-h5",
+      "name": "The Shelbourne Dublin",
+      "cityId": "ie-dublin",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 420,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "history",
+        "city"
+      ],
+      "description": {
+        "uk": "Історичний люкс на площі Сент-Стівенс-Грін.",
+        "pl": "Zabytkowy luksus przy St Stephen's Green."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "ie-c1",
+      "class": "economy",
+      "model": "Ford Fiesta",
+      "pricePerDay": 40,
+      "seats": 4
+    },
+    {
+      "id": "ie-c2",
+      "class": "suv",
+      "model": "Hyundai Tucson",
+      "pricePerDay": 72,
+      "seats": 5
+    },
+    {
+      "id": "ie-c3",
+      "class": "premium",
+      "model": "BMW 5",
+      "pricePerDay": 148,
+      "seats": 5
+    }
+  ]
+}

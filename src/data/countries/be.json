@@ -1,0 +1,247 @@
+{
+  "iso2": "BE",
+  "wiki": "Belgium",
+  "capital": {
+    "uk": "Брюссель",
+    "pl": "Bruksela"
+  },
+  "intro": {
+    "uk": "Шоколад, вафлі, сотні сортів пива й середньовічні міста, наче з листівки. Бельгія маленька, але кожне місто тут — окрема пригода.",
+    "pl": "Czekolada, gofry, setki gatunków piwa i średniowieczne miasta jak z pocztówki. Belgia jest mała, ale każde miasto to osobna przygoda."
+  },
+  "cities": [
+    {
+      "id": "be-brussels",
+      "name": {
+        "uk": "Брюссель",
+        "pl": "Bruksela"
+      },
+      "wiki": "Brussels",
+      "lat": 50.85,
+      "lng": 4.35,
+      "blurb": {
+        "uk": "Гран-Плас, Атоміум і штаб-квартира ЄС.",
+        "pl": "Grand-Place, Atomium i siedziba UE."
+      }
+    },
+    {
+      "id": "be-bruges",
+      "name": {
+        "uk": "Брюгге",
+        "pl": "Brugia"
+      },
+      "wiki": "Bruges",
+      "lat": 51.21,
+      "lng": 3.22,
+      "blurb": {
+        "uk": "Канали та готичні будинки — «Північна Венеція».",
+        "pl": "Kanały i gotyckie kamienice — „Wenecja Północy”."
+      }
+    },
+    {
+      "id": "be-ghent",
+      "name": {
+        "uk": "Гент",
+        "pl": "Gandawa"
+      },
+      "wiki": "Ghent",
+      "lat": 51.05,
+      "lng": 3.72,
+      "blurb": {
+        "uk": "Замок графів Фландрії та студентська атмосфера.",
+        "pl": "Zamek Hrabiów Flandrii i studencki klimat."
+      }
+    },
+    {
+      "id": "be-antwerp",
+      "name": {
+        "uk": "Антверпен",
+        "pl": "Antwerpia"
+      },
+      "wiki": "Antwerp",
+      "lat": 51.22,
+      "lng": 4.4,
+      "blurb": {
+        "uk": "Діаманти, мода й будинок Рубенса.",
+        "pl": "Diamenty, moda i dom Rubensa."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Бельгійські вафлі",
+        "pl": "Gofry belgijskie"
+      },
+      "description": {
+        "uk": "Брюссельські — хрусткі, льєзькі — солодкі й щільні.",
+        "pl": "Brukselskie są chrupiące, z Liège — słodkie i gęste."
+      }
+    },
+    {
+      "name": {
+        "uk": "Мідії з картоплею фрі",
+        "pl": "Mule z frytkami"
+      },
+      "description": {
+        "uk": "Мідії у вині або пиві з фірмовою картоплею.",
+        "pl": "Mule w winie lub piwie z firmowymi frytkami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Карбонад",
+        "pl": "Carbonade"
+      },
+      "description": {
+        "uk": "Яловичина, тушкована в темному пиві.",
+        "pl": "Wołowina duszona w ciemnym piwie."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Картоплю фрі, ймовірно, вигадали саме в Бельгії.",
+      "pl": "Frytki najprawdopodobniej wymyślono w Belgii."
+    },
+    {
+      "uk": "Тут варять понад 1500 сортів пива.",
+      "pl": "Warzy się tu ponad 1500 gatunków piwa."
+    },
+    {
+      "uk": "Тінтін і смурфики — бельгійські комікси.",
+      "pl": "Tintin i Smerfy to belgijskie komiksy."
+    }
+  ],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    12
+  ],
+  "dailyCost": 80,
+  "tags": [
+    "city",
+    "history",
+    "food",
+    "couples"
+  ],
+  "airport": {
+    "code": "BRU",
+    "name": "Brussels Airport",
+    "lat": 50.9,
+    "lng": 4.48
+  },
+  "hotels": [
+    {
+      "id": "be-h1",
+      "name": "Meininger Brussels City Center",
+      "cityId": "be-brussels",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 38,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Хостел у колишній пивоварні біля каналу.",
+        "pl": "Hostel w dawnym browarze przy kanale."
+      }
+    },
+    {
+      "id": "be-h2",
+      "name": "Hotel Ghent River",
+      "cityId": "be-ghent",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 105,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "city"
+      ],
+      "description": {
+        "uk": "Номери в старій бавовняній фабриці на березі річки.",
+        "pl": "Pokoje w dawnej przędzalni nad rzeką."
+      }
+    },
+    {
+      "id": "be-h3",
+      "name": "Radisson Antwerp",
+      "cityId": "be-antwerp",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 140,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Зручний готель поруч із вокзалом-палацом.",
+        "pl": "Wygodny hotel obok dworca-pałacu."
+      }
+    },
+    {
+      "id": "be-h4",
+      "name": "Hotel Dukes' Palace Bruges",
+      "cityId": "be-bruges",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 210,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Палац XV століття в центрі Брюгге.",
+        "pl": "Pałac z XV wieku w centrum Brugii."
+      }
+    },
+    {
+      "id": "be-h5",
+      "name": "Hotel Amigo",
+      "cityId": "be-brussels",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 360,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Люкс за крок від Гран-Плас.",
+        "pl": "Luksus o krok od Grand-Place."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "be-c1",
+      "class": "economy",
+      "model": "Peugeot 208",
+      "pricePerDay": 34,
+      "seats": 4
+    },
+    {
+      "id": "be-c2",
+      "class": "suv",
+      "model": "Peugeot 3008",
+      "pricePerDay": 61,
+      "seats": 5
+    },
+    {
+      "id": "be-c3",
+      "class": "premium",
+      "model": "Audi A6",
+      "pricePerDay": 126,
+      "seats": 5
+    }
+  ]
+}

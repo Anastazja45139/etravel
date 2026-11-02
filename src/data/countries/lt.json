@@ -1,0 +1,249 @@
+{
+  "iso2": "LT",
+  "wiki": "Lithuania",
+  "capital": {
+    "uk": "Вільнюс",
+    "pl": "Wilno"
+  },
+  "intro": {
+    "uk": "Барокове старе місто Вільнюса, замок на озері в Тракаї та дюни Куршської коси. Литва — тепла, зелена й дуже близька до Польщі.",
+    "pl": "Barokowe stare miasto Wilna, zamek na jeziorze w Trokach i wydmy Mierzei Kurońskiej. Litwa jest ciepła, zielona i bardzo bliska Polsce."
+  },
+  "cities": [
+    {
+      "id": "lt-vilnius",
+      "name": {
+        "uk": "Вільнюс",
+        "pl": "Wilno"
+      },
+      "wiki": "Vilnius",
+      "lat": 54.69,
+      "lng": 25.28,
+      "blurb": {
+        "uk": "Гостра Брама, республіка Ужупіс і костели.",
+        "pl": "Ostra Brama, republika Užupis i kościoły."
+      }
+    },
+    {
+      "id": "lt-trakai",
+      "name": {
+        "uk": "Тракай",
+        "pl": "Troki"
+      },
+      "wiki": "Trakai",
+      "lat": 54.65,
+      "lng": 24.93,
+      "blurb": {
+        "uk": "Готичний замок на острові посеред озера.",
+        "pl": "Gotycki zamek na wyspie pośrodku jeziora."
+      }
+    },
+    {
+      "id": "lt-nida",
+      "name": {
+        "uk": "Нида",
+        "pl": "Nida"
+      },
+      "wiki": "Nida, Lithuania",
+      "lat": 55.3,
+      "lng": 21,
+      "blurb": {
+        "uk": "Найвищі дюни Європи на Куршській косі.",
+        "pl": "Najwyższe wydmy Europy na Mierzei Kurońskiej."
+      }
+    },
+    {
+      "id": "lt-kaunas",
+      "name": {
+        "uk": "Каунас",
+        "pl": "Kowno"
+      },
+      "wiki": "Kaunas",
+      "lat": 54.9,
+      "lng": 23.89,
+      "blurb": {
+        "uk": "Модерністська архітектура й старий замок.",
+        "pl": "Modernistyczna architektura i stary zamek."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Цепеліни",
+        "pl": "Cepeliny"
+      },
+      "description": {
+        "uk": "Картопляні кнедлі з м'ясом і шкварками.",
+        "pl": "Ziemniaczane kluski z mięsem i skwarkami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Шалтібарщай",
+        "pl": "Chłodnik litewski"
+      },
+      "description": {
+        "uk": "Рожевий холодник з буряка й кефіру.",
+        "pl": "Różowy chłodnik z buraków i kefiru."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кибини",
+        "pl": "Kibiny"
+      },
+      "description": {
+        "uk": "Караїмські пиріжки з Тракая.",
+        "pl": "Karaimskie pierogi z Trok."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Литовська — одна з найархаїчніших індоєвропейських мов.",
+      "pl": "Litewski jest jednym z najbardziej archaicznych języków indoeuropejskich."
+    },
+    {
+      "uk": "Баскетбол — майже національна релігія Литви.",
+      "pl": "Koszykówka jest na Litwie niemal narodową religią."
+    },
+    {
+      "uk": "Район Ужупіс у Вільнюсі має власну «конституцію».",
+      "pl": "Dzielnica Užupis w Wilnie ma własną „konstytucję”."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    12
+  ],
+  "dailyCost": 45,
+  "tags": [
+    "history",
+    "city",
+    "sea",
+    "nature",
+    "food"
+  ],
+  "airport": {
+    "code": "VNO",
+    "name": "Vilnius International",
+    "lat": 54.63,
+    "lng": 25.29
+  },
+  "hotels": [
+    {
+      "id": "lt-h1",
+      "name": "Jimmy Jumps House",
+      "cityId": "lt-vilnius",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 18,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Найпопулярніший хостел Вільнюса.",
+        "pl": "Najpopularniejszy hostel w Wilnie."
+      }
+    },
+    {
+      "id": "lt-h2",
+      "name": "Hotel Nidus",
+      "cityId": "lt-nida",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 90,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель серед сосен біля дюн.",
+        "pl": "Hotel wśród sosen przy wydmach."
+      }
+    },
+    {
+      "id": "lt-h3",
+      "name": "Daugirdas Hotel Kaunas",
+      "cityId": "lt-kaunas",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 85,
+      "capacity": 3,
+      "tags": [
+        "history",
+        "city"
+      ],
+      "description": {
+        "uk": "Готель з розкопками XVI століття в підвалі.",
+        "pl": "Hotel z wykopaliskami z XVI wieku w piwnicy."
+      }
+    },
+    {
+      "id": "lt-h4",
+      "name": "Bernardinu B&B",
+      "cityId": "lt-vilnius",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 110,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Затишний бутик у старому місті.",
+        "pl": "Przytulny butik na starym mieście."
+      }
+    },
+    {
+      "id": "lt-h5",
+      "name": "Kempinski Hotel Cathedral Square",
+      "cityId": "lt-vilnius",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 230,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Люкс з видом на Кафедральну площу.",
+        "pl": "Luksus z widokiem na Plac Katedralny."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "lt-c1",
+      "class": "economy",
+      "model": "Toyota Yaris",
+      "pricePerDay": 25,
+      "seats": 4
+    },
+    {
+      "id": "lt-c2",
+      "class": "suv",
+      "model": "Toyota RAV4",
+      "pricePerDay": 45,
+      "seats": 5
+    },
+    {
+      "id": "lt-c3",
+      "class": "premium",
+      "model": "Mercedes E",
+      "pricePerDay": 93,
+      "seats": 5
+    }
+  ]
+}

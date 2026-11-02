@@ -1,0 +1,41 @@
+{
+  "iso2": "PL",
+  "wiki": "Poland",
+  "capital": { "uk": "Варшава", "pl": "Warszawa" },
+  "intro": {
+    "uk": "Від середньовічного Кракова до балтійських дюн і Татр — Польща поєднує історію, природу та сучасні міста з чудовою їжею за розумні гроші.",
+    "pl": "Od średniowiecznego Krakowa po bałtyckie wydmy i Tatry — Polska łączy historię, przyrodę i nowoczesne miasta z świetnym jedzeniem w rozsądnych cenach."
+  },
+  "cities": [
+    { "id": "pl-krakow", "name": { "uk": "Краків", "pl": "Kraków" }, "wiki": "Kraków", "lat": 50.06, "lng": 19.94, "blurb": { "uk": "Вавель, Ринкова площа і атмосферний Казімєж.", "pl": "Wawel, Rynek Główny i klimatyczny Kazimierz." } },
+    { "id": "pl-warsaw", "name": { "uk": "Варшава", "pl": "Warszawa" }, "wiki": "Warsaw", "lat": 52.23, "lng": 21.01, "blurb": { "uk": "Відбудоване Старе місто, хмарочоси та набережні Вісли.", "pl": "Odbudowana Starówka, wieżowce i bulwary nad Wisłą." } },
+    { "id": "pl-gdansk", "name": { "uk": "Гданськ", "pl": "Gdańsk" }, "wiki": "Gdańsk", "lat": 54.35, "lng": 18.65, "blurb": { "uk": "Ганзейські фасади, бурштин і пляжі Балтики поруч.", "pl": "Hanzeatyckie kamienice, bursztyn i plaże Bałtyku tuż obok." } },
+    { "id": "pl-zakopane", "name": { "uk": "Закопане", "pl": "Zakopane" }, "wiki": "Zakopane", "lat": 49.3, "lng": 19.95, "blurb": { "uk": "Зимова столиця Польщі біля підніжжя Татр.", "pl": "Zimowa stolica Polski u podnóża Tatr." } }
+  ],
+  "dishes": [
+    { "name": { "uk": "Пєроги", "pl": "Pierogi" }, "description": { "uk": "Вареники з картоплею й сиром (руські), м'ясом або ягодами.", "pl": "Pierogi ruskie, z mięsem albo z jagodami." } },
+    { "name": { "uk": "Журек", "pl": "Żurek" }, "description": { "uk": "Кислий суп на житній заквасці з ковбасою та яйцем, часто в хлібі.", "pl": "Kwaśna zupa na zakwasie z kiełbasą i jajkiem, często w chlebie." } },
+    { "name": { "uk": "Осципек", "pl": "Oscypek" }, "description": { "uk": "Копчений овечий сир з Татр, найсмачніший гарячим з журавлиною.", "pl": "Wędzony owczy ser z Tatr, najlepszy na ciepło z żurawiną." } }
+  ],
+  "facts": [
+    { "uk": "Соляна копальня Величка має підземну каплицю, вирізану повністю із солі.", "pl": "W Kopalni Soli Wieliczka jest kaplica wyrzeźbiona w całości w soli." },
+    { "uk": "У Польщі 17 об'єктів Світової спадщини ЮНЕСКО.", "pl": "Polska ma 17 obiektów z listy światowego dziedzictwa UNESCO." },
+    { "uk": "Мальборк — найбільший у світі замок за площею.", "pl": "Malbork to największy zamek na świecie pod względem powierzchni." }
+  ],
+  "bestMonths": [5, 6, 7, 8, 9],
+  "dailyCost": 45,
+  "tags": ["history", "city", "food", "mountains", "sea"],
+  "airport": { "code": "KRK", "name": "Kraków-Balice", "lat": 50.08, "lng": 19.78 },
+  "hotels": [
+    { "id": "pl-h1", "name": "Kazimierz Loft Hostel", "cityId": "pl-krakow", "tier": "budget", "stars": 2, "pricePerNight": 30, "capacity": 2, "tags": ["city", "nightlife"], "description": { "uk": "Хостел у богемному Казімєжі серед барів і галерей.", "pl": "Hostel w bohemicznym Kazimierzu wśród barów i galerii." } },
+    { "id": "pl-h2", "name": "Vistula City Hotel", "cityId": "pl-warsaw", "tier": "3", "stars": 3, "pricePerNight": 62, "capacity": 2, "tags": ["city", "family"], "description": { "uk": "Зручний готель поруч із метро та Старим містом.", "pl": "Wygodny hotel przy metrze i Starówce." } },
+    { "id": "pl-h3", "name": "Amber Coast Hotel", "cityId": "pl-gdansk", "tier": "4", "stars": 4, "pricePerNight": 98, "capacity": 3, "tags": ["sea", "family", "comfort"], "description": { "uk": "Готель на березі Балтики з басейном і сніданками з видом на море.", "pl": "Hotel nad Bałtykiem z basenem i śniadaniami z widokiem na morze." } },
+    { "id": "pl-h4", "name": "Giewont Wood Boutique", "cityId": "pl-zakopane", "tier": "boutique", "stars": 4, "pricePerNight": 120, "capacity": 2, "tags": ["mountains", "nature", "couples"], "description": { "uk": "Дерев'яна вілла в гуральському стилі з сауною.", "pl": "Drewniana willa w stylu góralskim z sauną." } },
+    { "id": "pl-h5", "name": "Royal Wawel Residence", "cityId": "pl-krakow", "tier": "5", "stars": 5, "pricePerNight": 210, "capacity": 2, "tags": ["comfort", "history", "city"], "description": { "uk": "П'ятизірковий палац з видом на Вавель і SPA.", "pl": "Pięciogwiazdkowy pałac z widokiem na Wawel i SPA." } }
+  ],
+  "cars": [
+    { "id": "pl-c1", "class": "economy", "model": "Toyota Yaris", "pricePerDay": 32, "seats": 5 },
+    { "id": "pl-c2", "class": "suv", "model": "Škoda Kodiaq", "pricePerDay": 62, "seats": 7 },
+    { "id": "pl-c3", "class": "premium", "model": "Mercedes E-Class", "pricePerDay": 110, "seats": 5 }
+  ]
+}

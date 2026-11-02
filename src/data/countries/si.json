@@ -1,0 +1,249 @@
+{
+  "iso2": "SI",
+  "wiki": "Slovenia",
+  "capital": {
+    "uk": "Любляна",
+    "pl": "Lublana"
+  },
+  "intro": {
+    "uk": "Озеро Блед з островом-церквою, смарагдова річка Соча, печери й Адріатика — і все це за дві години їзди. Словенія — маленька зелена казка.",
+    "pl": "Jezioro Bled z wyspą-kościołem, szmaragdowa Soča, jaskinie i Adriatyk — wszystko w dwie godziny jazdy. Słowenia to mała zielona bajka."
+  },
+  "cities": [
+    {
+      "id": "si-ljubljana",
+      "name": {
+        "uk": "Любляна",
+        "pl": "Lublana"
+      },
+      "wiki": "Ljubljana",
+      "lat": 46.06,
+      "lng": 14.51,
+      "blurb": {
+        "uk": "Драконів міст, замок і кафе вздовж річки.",
+        "pl": "Smoczy Most, zamek i kawiarnie nad rzeką."
+      }
+    },
+    {
+      "id": "si-bled",
+      "name": {
+        "uk": "Блед",
+        "pl": "Bled"
+      },
+      "wiki": "Bled",
+      "lat": 46.37,
+      "lng": 14.11,
+      "blurb": {
+        "uk": "Острів-церква посеред гірського озера.",
+        "pl": "Wyspa z kościołem pośrodku górskiego jeziora."
+      }
+    },
+    {
+      "id": "si-piran",
+      "name": {
+        "uk": "Піран",
+        "pl": "Piran"
+      },
+      "wiki": "Piran",
+      "lat": 45.53,
+      "lng": 13.57,
+      "blurb": {
+        "uk": "Венеційське містечко на березі Адріатики.",
+        "pl": "Weneckie miasteczko nad Adriatykiem."
+      }
+    },
+    {
+      "id": "si-bovec",
+      "name": {
+        "uk": "Бовец",
+        "pl": "Bovec"
+      },
+      "wiki": "Bovec",
+      "lat": 46.34,
+      "lng": 13.55,
+      "blurb": {
+        "uk": "Рафтинг на Сочі та Юлійські Альпи.",
+        "pl": "Rafting na Soczy i Alpy Julijskie."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Кремшніта",
+        "pl": "Kremšnita"
+      },
+      "description": {
+        "uk": "Бледський кремовий торт.",
+        "pl": "Kremówka z Bledu."
+      }
+    },
+    {
+      "name": {
+        "uk": "Потиця",
+        "pl": "Potica"
+      },
+      "description": {
+        "uk": "Святковий рулет із горіхами.",
+        "pl": "Świąteczna rolada z orzechami."
+      }
+    },
+    {
+      "name": {
+        "uk": "Струкли",
+        "pl": "Štruklji"
+      },
+      "description": {
+        "uk": "Варені рулетики з сиром.",
+        "pl": "Gotowane roladki z twarogiem."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Ліси вкривають понад половину Словенії.",
+      "pl": "Lasy pokrywają ponad połowę Słowenii."
+    },
+    {
+      "uk": "Печера Постойна має власну залізницю.",
+      "pl": "Jaskinia Postojna ma własną kolejkę."
+    },
+    {
+      "uk": "Узбережжя Словенії — лише 47 км.",
+      "pl": "Wybrzeże Słowenii ma tylko 47 km."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 60,
+  "tags": [
+    "nature",
+    "mountains",
+    "sea",
+    "couples",
+    "city"
+  ],
+  "airport": {
+    "code": "LJU",
+    "name": "Ljubljana Jože Pučnik",
+    "lat": 46.22,
+    "lng": 14.46
+  },
+  "hotels": [
+    {
+      "id": "si-h1",
+      "name": "Hostel Celica",
+      "cityId": "si-ljubljana",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 30,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Хостел у колишній в'язниці, кожна камера — арт-об'єкт.",
+        "pl": "Hostel w dawnym więzieniu, każda cela to dzieło sztuki."
+      }
+    },
+    {
+      "id": "si-h2",
+      "name": "Hotel Hvala Bovec",
+      "cityId": "si-bovec",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 90,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "nature"
+      ],
+      "description": {
+        "uk": "Затишний готель для любителів активного відпочинку.",
+        "pl": "Przytulny hotel dla miłośników aktywnego wypoczynku."
+      }
+    },
+    {
+      "id": "si-h3",
+      "name": "Hotel Tartini Piran",
+      "cityId": "si-piran",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель на головній площі Пірана.",
+        "pl": "Hotel na głównym placu Piranu."
+      }
+    },
+    {
+      "id": "si-h4",
+      "name": "Vander Urbani Resort",
+      "cityId": "si-ljubljana",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 160,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples",
+        "food"
+      ],
+      "description": {
+        "uk": "Бутик із басейном на даху в старому місті.",
+        "pl": "Butik z basenem na dachu w starym mieście."
+      }
+    },
+    {
+      "id": "si-h5",
+      "name": "Grand Hotel Toplice Bled",
+      "cityId": "si-bled",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 290,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "couples",
+        "nature"
+      ],
+      "description": {
+        "uk": "Класичний люкс просто на березі озера.",
+        "pl": "Klasyczny luksus tuż nad jeziorem."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "si-c1",
+      "class": "economy",
+      "model": "Renault Clio",
+      "pricePerDay": 28,
+      "seats": 4
+    },
+    {
+      "id": "si-c2",
+      "class": "suv",
+      "model": "Dacia Duster",
+      "pricePerDay": 50,
+      "seats": 5
+    },
+    {
+      "id": "si-c3",
+      "class": "premium",
+      "model": "BMW X3",
+      "pricePerDay": 104,
+      "seats": 5
+    }
+  ]
+}

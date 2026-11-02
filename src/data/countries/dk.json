@@ -1,0 +1,248 @@
+{
+  "iso2": "DK",
+  "wiki": "Denmark",
+  "capital": {
+    "uk": "Копенгаген",
+    "pl": "Kopenhaga"
+  },
+  "intro": {
+    "uk": "Кольорова набережна Нюгавн, «хюґе», велосипеди й батьківщина LEGO. Данія — затишна країна дизайну та казок Андерсена.",
+    "pl": "Kolorowe nabrzeże Nyhavn, „hygge”, rowery i ojczyzna LEGO. Dania to przytulny kraj designu i baśni Andersena."
+  },
+  "cities": [
+    {
+      "id": "dk-copenhagen",
+      "name": {
+        "uk": "Копенгаген",
+        "pl": "Kopenhaga"
+      },
+      "wiki": "Copenhagen",
+      "lat": 55.68,
+      "lng": 12.57,
+      "blurb": {
+        "uk": "Нюгавн, Тіволі й Русалонька.",
+        "pl": "Nyhavn, Tivoli i Mała Syrenka."
+      }
+    },
+    {
+      "id": "dk-billund",
+      "name": {
+        "uk": "Біллунн",
+        "pl": "Billund"
+      },
+      "wiki": "Legoland Billund",
+      "lat": 55.73,
+      "lng": 9.13,
+      "blurb": {
+        "uk": "Леголенд і LEGO House для всієї родини.",
+        "pl": "Legoland i LEGO House dla całej rodziny."
+      }
+    },
+    {
+      "id": "dk-aarhus",
+      "name": {
+        "uk": "Орхус",
+        "pl": "Aarhus"
+      },
+      "wiki": "Aarhus",
+      "lat": 56.16,
+      "lng": 10.2,
+      "blurb": {
+        "uk": "Райдужна панорама музею ARoS.",
+        "pl": "Tęczowa panorama muzeum ARoS."
+      }
+    },
+    {
+      "id": "dk-skagen",
+      "name": {
+        "uk": "Скаген",
+        "pl": "Skagen"
+      },
+      "wiki": "Skagen",
+      "lat": 57.72,
+      "lng": 10.58,
+      "blurb": {
+        "uk": "Місце, де зустрічаються два моря.",
+        "pl": "Miejsce, gdzie spotykają się dwa morza."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Смьорребрьод",
+        "pl": "Smørrebrød"
+      },
+      "description": {
+        "uk": "Відкриті бутерброди на житньому хлібі.",
+        "pl": "Otwarte kanapki na chlebie żytnim."
+      }
+    },
+    {
+      "name": {
+        "uk": "Данське тістечко",
+        "pl": "Duńskie ciastko"
+      },
+      "description": {
+        "uk": "Листкова випічка з кремом і корицею.",
+        "pl": "Drożdżowe ciastko z kremem i cynamonem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Фрікаделлер",
+        "pl": "Frikadeller"
+      },
+      "description": {
+        "uk": "Данські котлетки з картоплею.",
+        "pl": "Duńskie kotleciki z ziemniakami."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Данці регулярно входять до трійки найщасливіших народів світу.",
+      "pl": "Duńczycy regularnie są w pierwszej trójce najszczęśliwszych narodów świata."
+    },
+    {
+      "uk": "У Копенгагені велосипедів більше, ніж машин.",
+      "pl": "W Kopenhadze jest więcej rowerów niż samochodów."
+    },
+    {
+      "uk": "Прапор Данії — найстаріший національний прапор у світі.",
+      "pl": "Flaga Danii jest najstarszą flagą narodową na świecie."
+    }
+  ],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    12
+  ],
+  "dailyCost": 100,
+  "tags": [
+    "city",
+    "family",
+    "food",
+    "sea",
+    "couples"
+  ],
+  "airport": {
+    "code": "CPH",
+    "name": "Copenhagen Kastrup",
+    "lat": 55.62,
+    "lng": 12.65
+  },
+  "hotels": [
+    {
+      "id": "dk-h1",
+      "name": "Steel House Copenhagen",
+      "cityId": "dk-copenhagen",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Дизайнерський хостел з басейном.",
+        "pl": "Designerski hostel z basenem."
+      }
+    },
+    {
+      "id": "dk-h2",
+      "name": "Hotel Legoland",
+      "cityId": "dk-billund",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 190,
+      "capacity": 2,
+      "tags": [
+        "family"
+      ],
+      "description": {
+        "uk": "Готель з LEGO-номерами біля входу в парк.",
+        "pl": "Hotel z pokojami LEGO przy wejściu do parku."
+      }
+    },
+    {
+      "id": "dk-h3",
+      "name": "Comwell Aarhus",
+      "cityId": "dk-aarhus",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 150,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Сучасний готель біля набережної.",
+        "pl": "Nowoczesny hotel przy nabrzeżu."
+      }
+    },
+    {
+      "id": "dk-h4",
+      "name": "Nimb Hotel",
+      "cityId": "dk-copenhagen",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 380,
+      "capacity": 2,
+      "tags": [
+        "couples",
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Мавританський палац у садах Тіволі.",
+        "pl": "Mauretański pałac w ogrodach Tivoli."
+      }
+    },
+    {
+      "id": "dk-h5",
+      "name": "Ruths Hotel Skagen",
+      "cityId": "dk-skagen",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 360,
+      "capacity": 4,
+      "tags": [
+        "sea",
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Розкішний курорт у дюнах біля моря.",
+        "pl": "Luksusowy kurort w wydmach nad morzem."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "dk-c1",
+      "class": "economy",
+      "model": "VW Up",
+      "pricePerDay": 40,
+      "seats": 4
+    },
+    {
+      "id": "dk-c2",
+      "class": "suv",
+      "model": "Volvo XC40",
+      "pricePerDay": 72,
+      "seats": 5
+    },
+    {
+      "id": "dk-c3",
+      "class": "premium",
+      "model": "Volvo XC90",
+      "pricePerDay": 148,
+      "seats": 5
+    }
+  ]
+}

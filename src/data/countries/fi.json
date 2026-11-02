@@ -1,0 +1,249 @@
+{
+  "iso2": "FI",
+  "wiki": "Finland",
+  "capital": {
+    "uk": "Гельсінкі",
+    "pl": "Helsinki"
+  },
+  "intro": {
+    "uk": "Тисячі озер, сауни, Лапландія з Санта-Клаусом і білі ночі. Фінляндія — найкраще місце для зимової казки.",
+    "pl": "Tysiące jezior, sauny, Laponia ze Świętym Mikołajem i białe noce. Finlandia to najlepsze miejsce na zimową bajkę."
+  },
+  "cities": [
+    {
+      "id": "fi-helsinki",
+      "name": {
+        "uk": "Гельсінкі",
+        "pl": "Helsinki"
+      },
+      "wiki": "Helsinki",
+      "lat": 60.17,
+      "lng": 24.94,
+      "blurb": {
+        "uk": "Фортеця Суоменлінна та дизайн-квартал.",
+        "pl": "Twierdza Suomenlinna i dzielnica designu."
+      }
+    },
+    {
+      "id": "fi-rovaniemi",
+      "name": {
+        "uk": "Рованіємі",
+        "pl": "Rowaniemi"
+      },
+      "wiki": "Rovaniemi",
+      "lat": 66.5,
+      "lng": 25.73,
+      "blurb": {
+        "uk": "Село Санта-Клауса на Полярному колі.",
+        "pl": "Wioska Świętego Mikołaja na kole podbiegunowym."
+      }
+    },
+    {
+      "id": "fi-saariselka",
+      "name": {
+        "uk": "Саарісельке",
+        "pl": "Saariselkä"
+      },
+      "wiki": "Saariselkä",
+      "lat": 68.42,
+      "lng": 27.41,
+      "blurb": {
+        "uk": "Скляні іглу та північне сяйво.",
+        "pl": "Szklane igloo i zorza polarna."
+      }
+    },
+    {
+      "id": "fi-turku",
+      "name": {
+        "uk": "Турку",
+        "pl": "Turku"
+      },
+      "wiki": "Turku",
+      "lat": 60.45,
+      "lng": 22.27,
+      "blurb": {
+        "uk": "Найстаріше місто й архіпелаг.",
+        "pl": "Najstarsze miasto i archipelag."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Карельський пиріжок",
+        "pl": "Pierożek karelski"
+      },
+      "description": {
+        "uk": "Житній пиріжок з рисовою кашею.",
+        "pl": "Żytni pierożek z kaszą ryżową."
+      }
+    },
+    {
+      "name": {
+        "uk": "Лохікейтто",
+        "pl": "Lohikeitto"
+      },
+      "description": {
+        "uk": "Вершковий суп з лососем.",
+        "pl": "Śmietanowa zupa z łososiem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Корвапуусті",
+        "pl": "Korvapuusti"
+      },
+      "description": {
+        "uk": "Булочки з корицею у формі «вушок».",
+        "pl": "Bułeczki cynamonowe w kształcie „uszek”."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "У Фінляндії близько 3 мільйонів саун — більше, ніж машин.",
+      "pl": "W Finlandii jest około 3 milionów saun — więcej niż samochodów."
+    },
+    {
+      "uk": "Країну називають «краєм тисячі озер», хоча їх понад 180 тисяч.",
+      "pl": "Kraj nazywa się „krainą tysiąca jezior”, choć jest ich ponad 180 tysięcy."
+    },
+    {
+      "uk": "Фінляндія кілька років поспіль — найщасливіша країна світу.",
+      "pl": "Finlandia od kilku lat jest najszczęśliwszym krajem świata."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    12
+  ],
+  "dailyCost": 90,
+  "tags": [
+    "nature",
+    "family",
+    "couples",
+    "comfort",
+    "city"
+  ],
+  "airport": {
+    "code": "HEL",
+    "name": "Helsinki-Vantaa",
+    "lat": 60.32,
+    "lng": 24.96
+  },
+  "hotels": [
+    {
+      "id": "fi-h1",
+      "name": "Eurohostel Helsinki",
+      "cityId": "fi-helsinki",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Хостел із сауною біля порту.",
+        "pl": "Hostel z sauną przy porcie."
+      }
+    },
+    {
+      "id": "fi-h2",
+      "name": "Santa Claus Holiday Village",
+      "cityId": "fi-rovaniemi",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 150,
+      "capacity": 2,
+      "tags": [
+        "family",
+        "nature"
+      ],
+      "description": {
+        "uk": "Котеджі просто в селі Санта-Клауса.",
+        "pl": "Domki w samej wiosce Świętego Mikołaja."
+      }
+    },
+    {
+      "id": "fi-h3",
+      "name": "Radisson Blu Turku",
+      "cityId": "fi-turku",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель на березі річки Аура.",
+        "pl": "Hotel nad rzeką Aura."
+      }
+    },
+    {
+      "id": "fi-h4",
+      "name": "Hotel Lilla Roberts",
+      "cityId": "fi-helsinki",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 210,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Бутик ар-деко в дизайн-кварталі.",
+        "pl": "Butik art déco w dzielnicy designu."
+      }
+    },
+    {
+      "id": "fi-h5",
+      "name": "Kakslauttanen Arctic Resort",
+      "cityId": "fi-saariselka",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 450,
+      "capacity": 4,
+      "tags": [
+        "nature",
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Скляні іглу для спостереження за сяйвом.",
+        "pl": "Szklane igloo do oglądania zorzy."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "fi-c1",
+      "class": "economy",
+      "model": "Toyota Yaris",
+      "pricePerDay": 40,
+      "seats": 4
+    },
+    {
+      "id": "fi-c2",
+      "class": "suv",
+      "model": "Toyota RAV4",
+      "pricePerDay": 72,
+      "seats": 5
+    },
+    {
+      "id": "fi-c3",
+      "class": "premium",
+      "model": "Volvo XC90",
+      "pricePerDay": 148,
+      "seats": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "iso2": "ES",
+  "wiki": "Spain",
+  "capital": { "uk": "Мадрид", "pl": "Madryt" },
+  "intro": {
+    "uk": "Сонце понад 300 днів на рік, фламенко, тапас до пізньої ночі та архітектура Гауді. Іспанія вміє жити повільно і смачно.",
+    "pl": "Ponad 300 słonecznych dni w roku, flamenco, tapas do późnej nocy i architektura Gaudíego. Hiszpania umie żyć powoli i smacznie."
+  },
+  "cities": [
+    { "id": "es-barcelona", "name": { "uk": "Барселона", "pl": "Barcelona" }, "wiki": "Barcelona", "lat": 41.39, "lng": 2.17, "blurb": { "uk": "Саграда Фамілія, пляжі та Готичний квартал.", "pl": "Sagrada Família, plaże i Dzielnica Gotycka." } },
+    { "id": "es-madrid", "name": { "uk": "Мадрид", "pl": "Madryt" }, "wiki": "Madrid", "lat": 40.42, "lng": -3.7, "blurb": { "uk": "Прадо, парк Ретіро та нічне життя до ранку.", "pl": "Prado, park Retiro i życie nocne do rana." } },
+    { "id": "es-seville", "name": { "uk": "Севілья", "pl": "Sewilla" }, "wiki": "Seville", "lat": 37.39, "lng": -5.99, "blurb": { "uk": "Мавританський Алькасар і батьківщина фламенко.", "pl": "Mauretański Alkazar i ojczyzna flamenco." } },
+    { "id": "es-palma", "name": { "uk": "Пальма-де-Майорка", "pl": "Palma de Mallorca" }, "wiki": "Palma de Mallorca", "lat": 39.57, "lng": 2.65, "blurb": { "uk": "Острівна столиця з бухтами та катедрою над морем.", "pl": "Wyspiarska stolica z zatoczkami i katedrą nad morzem." } }
+  ],
+  "dishes": [
+    { "name": { "uk": "Паелья", "pl": "Paella" }, "description": { "uk": "Валенсійський рис із шафраном, морепродуктами або куркою.", "pl": "Walencki ryż z szafranem, owocami morza lub kurczakiem." } },
+    { "name": { "uk": "Тапас", "pl": "Tapas" }, "description": { "uk": "Маленькі закуски до вина: хамон, пататас бравас, крокети.", "pl": "Małe przekąski do wina: jamón, patatas bravas, krokiety." } },
+    { "name": { "uk": "Гаспачо", "pl": "Gazpacho" }, "description": { "uk": "Холодний томатний суп, що рятує в андалузьку спеку.", "pl": "Chłodnik pomidorowy ratujący w andaluzyjskim upale." } }
+  ],
+  "facts": [
+    { "uk": "Саграду Фамілію будують із 1882 року.", "pl": "Sagrada Família jest budowana od 1882 roku." },
+    { "uk": "Іспанці вечеряють близько 21–22 години.", "pl": "Hiszpanie jedzą kolację około 21–22." },
+    { "uk": "Іспанія — найбільший у світі виробник оливкової олії.", "pl": "Hiszpania jest największym producentem oliwy na świecie." }
+  ],
+  "bestMonths": [4, 5, 6, 9, 10],
+  "dailyCost": 65,
+  "tags": ["sea", "city", "food", "nightlife", "history"],
+  "airport": { "code": "BCN", "name": "Barcelona-El Prat", "lat": 41.3, "lng": 2.08 },
+  "hotels": [
+    { "id": "es-h1", "name": "Gòtic Social Hostel", "cityId": "es-barcelona", "tier": "budget", "stars": 2, "pricePerNight": 45, "capacity": 2, "tags": ["city", "nightlife"], "description": { "uk": "Хостел з дахом-терасою в Готичному кварталі.", "pl": "Hostel z tarasem na dachu w Dzielnicy Gotyckiej." } },
+    { "id": "es-h2", "name": "Hotel Triana Patio", "cityId": "es-seville", "tier": "3", "stars": 3, "pricePerNight": 80, "capacity": 2, "tags": ["history", "food", "couples"], "description": { "uk": "Андалузький будинок з патіо та азулежу.", "pl": "Andaluzyjski dom z patio i azulejos." } },
+    { "id": "es-h3", "name": "Gran Vía Urban Hotel", "cityId": "es-madrid", "tier": "4", "stars": 4, "pricePerNight": 130, "capacity": 3, "tags": ["city", "nightlife", "family"], "description": { "uk": "Сучасний готель на головній вулиці Мадрида.", "pl": "Nowoczesny hotel przy głównej ulicy Madrytu." } },
+    { "id": "es-h4", "name": "Casa Cala Boutique", "cityId": "es-palma", "tier": "boutique", "stars": 4, "pricePerNight": 175, "capacity": 2, "tags": ["sea", "couples", "nature"], "description": { "uk": "Вілла з кам'яними стінами біля тихої бухти.", "pl": "Kamienna willa przy cichej zatoczce." } },
+    { "id": "es-h5", "name": "Barceloneta Grand Marina", "cityId": "es-barcelona", "tier": "5", "stars": 5, "pricePerNight": 320, "capacity": 3, "tags": ["sea", "comfort", "family"], "description": { "uk": "П'ятизірковий готель на пляжі з басейном на даху.", "pl": "Pięciogwiazdkowy hotel przy plaży z basenem na dachu." } }
+  ],
+  "cars": [
+    { "id": "es-c1", "class": "economy", "model": "SEAT Ibiza", "pricePerDay": 30, "seats": 5 },
+    { "id": "es-c2", "class": "suv", "model": "SEAT Ateca", "pricePerDay": 60, "seats": 5 },
+    { "id": "es-c3", "class": "premium", "model": "BMW 5 Series", "pricePerDay": 120, "seats": 5 }
+  ]
+}

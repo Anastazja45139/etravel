@@ -1,0 +1,232 @@
+{
+  "iso2": "LI",
+  "wiki": "Liechtenstein",
+  "capital": {
+    "uk": "Вадуц",
+    "pl": "Vaduz"
+  },
+  "intro": {
+    "uk": "Крихітне князівство між Швейцарією та Австрією з княжим замком, виноградниками та альпійськими стежками. Країну можна пройти пішки за день.",
+    "pl": "Maleńkie księstwo między Szwajcarią a Austrią z zamkiem książęcym, winnicami i alpejskimi szlakami. Kraj można przejść pieszo w jeden dzień."
+  },
+  "cities": [
+    {
+      "id": "li-vaduz",
+      "name": {
+        "uk": "Вадуц",
+        "pl": "Vaduz"
+      },
+      "wiki": "Vaduz",
+      "lat": 47.14,
+      "lng": 9.52,
+      "blurb": {
+        "uk": "Замок князя над містом і музей мистецтв.",
+        "pl": "Zamek księcia nad miastem i muzeum sztuki."
+      }
+    },
+    {
+      "id": "li-malbun",
+      "name": {
+        "uk": "Мальбун",
+        "pl": "Malbun"
+      },
+      "wiki": "Malbun",
+      "lat": 47.1,
+      "lng": 9.61,
+      "blurb": {
+        "uk": "Невеликий сімейний лижний курорт.",
+        "pl": "Mały rodzinny ośrodek narciarski."
+      }
+    },
+    {
+      "id": "li-schaan",
+      "name": {
+        "uk": "Шан",
+        "pl": "Schaan"
+      },
+      "wiki": "Schaan",
+      "lat": 47.17,
+      "lng": 9.51,
+      "blurb": {
+        "uk": "Найбільше селище з видом на Рейн.",
+        "pl": "Największa miejscowość z widokiem na Ren."
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "name": {
+        "uk": "Кесшпетцле",
+        "pl": "Käsknöpfle"
+      },
+      "description": {
+        "uk": "Домашні галушки з сиром і смаженою цибулею.",
+        "pl": "Domowe kluseczki z serem i smażoną cebulą."
+      }
+    },
+    {
+      "name": {
+        "uk": "Рибель",
+        "pl": "Ribel"
+      },
+      "description": {
+        "uk": "Кукурудзяна каша з компотом.",
+        "pl": "Kasza kukurydziana z kompotem."
+      }
+    },
+    {
+      "name": {
+        "uk": "Вина Вадуца",
+        "pl": "Wina z Vaduz"
+      },
+      "description": {
+        "uk": "Піно нуар з княжих виноградників.",
+        "pl": "Pinot noir z książęcych winnic."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "uk": "Ліхтенштейн не має власного аеропорту.",
+      "pl": "Liechtenstein nie ma własnego lotniska."
+    },
+    {
+      "uk": "Країна — найбільший у світі виробник зубних протезів.",
+      "pl": "Kraj jest największym producentem protez zębowych na świecie."
+    },
+    {
+      "uk": "Ліхтенштейн — одна з двох країн, оточених тільки країнами без моря.",
+      "pl": "Liechtenstein to jeden z dwóch krajów otoczonych wyłącznie krajami bez dostępu do morza."
+    }
+  ],
+  "bestMonths": [
+    1,
+    2,
+    6,
+    7,
+    8,
+    9
+  ],
+  "dailyCost": 120,
+  "tags": [
+    "mountains",
+    "nature",
+    "comfort",
+    "couples"
+  ],
+  "airport": {
+    "code": "ZRH",
+    "name": "Zürich Airport (+ потяг 1,5 год)",
+    "lat": 47.46,
+    "lng": 8.55
+  },
+  "hotels": [
+    {
+      "id": "li-h1",
+      "name": "Jugendherberge Schaan",
+      "cityId": "li-schaan",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 50,
+      "capacity": 2,
+      "tags": [
+        "nature"
+      ],
+      "description": {
+        "uk": "Хостел серед полів біля Шана.",
+        "pl": "Hostel wśród pól pod Schaan."
+      }
+    },
+    {
+      "id": "li-h2",
+      "name": "Hotel Turna Malbun",
+      "cityId": "li-malbun",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 140,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "family"
+      ],
+      "description": {
+        "uk": "Сімейний готель біля лижних схилів.",
+        "pl": "Rodzinny hotel przy stokach."
+      }
+    },
+    {
+      "id": "li-h3",
+      "name": "Hotel Schatzmann",
+      "cityId": "li-schaan",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 180,
+      "capacity": 3,
+      "tags": [
+        "food",
+        "family"
+      ],
+      "description": {
+        "uk": "Готель з рестораном, відзначеним гідом Gault&Millau.",
+        "pl": "Hotel z restauracją wyróżnioną przez Gault&Millau."
+      }
+    },
+    {
+      "id": "li-h4",
+      "name": "Residence Hotel Vaduz",
+      "cityId": "li-vaduz",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 210,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Сучасний бутик у центрі Вадуца.",
+        "pl": "Nowoczesny butik w centrum Vaduz."
+      }
+    },
+    {
+      "id": "li-h5",
+      "name": "Park Hotel Sonnenhof",
+      "cityId": "li-vaduz",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 380,
+      "capacity": 4,
+      "tags": [
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Люкс з видом на замок і Альпи.",
+        "pl": "Luksus z widokiem na zamek i Alpy."
+      }
+    }
+  ],
+  "cars": [
+    {
+      "id": "li-c1",
+      "class": "economy",
+      "model": "VW Polo",
+      "pricePerDay": 50,
+      "seats": 4
+    },
+    {
+      "id": "li-c2",
+      "class": "suv",
+      "model": "VW Tiguan",
+      "pricePerDay": 90,
+      "seats": 5
+    },
+    {
+      "id": "li-c3",
+      "class": "premium",
+      "model": "Porsche Macan",
+      "pricePerDay": 185,
+      "seats": 5
+    }
+  ]
+}

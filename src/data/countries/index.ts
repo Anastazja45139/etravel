@@ -1,0 +1,48 @@
+import type { Country } from '../types';
+import ad from './ad.json';
+import al from './al.json';
+import at from './at.json';
+import ba from './ba.json';
+import be from './be.json';
+import bg from './bg.json';
+import ch from './ch.json';
+import cy from './cy.json';
+import cz from './cz.json';
+import de from './de.json';
+import dk from './dk.json';
+import ee from './ee.json';
+import es from './es.json';
+import fi from './fi.json';
+import fr from './fr.json';
+import gb from './gb.json';
+import gr from './gr.json';
+import hr from './hr.json';
+import hu from './hu.json';
+import ie from './ie.json';
+import is from './is.json';
+import it from './it.json';
+import li from './li.json';
+import lt from './lt.json';
+import lu from './lu.json';
+import lv from './lv.json';
+import md from './md.json';
+import me from './me.json';
+import mk from './mk.json';
+import mt from './mt.json';
+import nl from './nl.json';
+import no_ from './no.json';
+import pl from './pl.json';
+import pt from './pt.json';
+import ro from './ro.json';
+import rs from './rs.json';
+import se from './se.json';
+import si from './si.json';
+import sk from './sk.json';
+import ua from './ua.json';
+import xk from './xk.json';
+
+/** Every European country ETravel has a guide for, sorted by ISO code. */
+export const COUNTRIES = [ad, al, at, ba, be, bg, ch, cy, cz, de, dk, ee, es, fi, fr, gb, gr, hr, hu, ie, is, it, li, lt, lu, lv, md, me, mk, mt, nl, no_, pl, pt, ro, rs, se, si, sk, ua, xk] as Country[];
+
+const index = new Map(COUNTRIES.map((c) => [c.iso2, c]));
+export const byIso = (iso2: string): Country | undefined => index.get(iso2.toUpperCase());
