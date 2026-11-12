@@ -3,67 +3,77 @@
   "wiki": "Malta",
   "capital": {
     "uk": "Валетта",
-    "pl": "Valletta"
+    "pl": "Valletta",
+    "en": "Valletta"
   },
   "intro": {
     "uk": "Лицарські фортеці, Блакитна лагуна й кіно-локації «Гри престолів». Мальта — маленький острів з 7000 років історії.",
-    "pl": "Twierdze rycerskie, Błękitna Laguna i plenery „Gry o tron”. Malta to mała wyspa z 7000 lat historii."
+    "pl": "Twierdze rycerskie, Błękitna Laguna i plenery „Gry o tron”. Malta to mała wyspa z 7000 lat historii.",
+    "en": "Knights’ fortresses, the Blue Lagoon and “Game of Thrones” locations. Malta is a small island with 7,000 years of history."
   },
   "cities": [
     {
       "id": "mt-valletta",
       "name": {
         "uk": "Валетта",
-        "pl": "Valletta"
+        "pl": "Valletta",
+        "en": "Valletta"
       },
       "wiki": "Valletta",
       "lat": 35.9,
       "lng": 14.51,
       "blurb": {
         "uk": "Барокова столиця-фортеця під ЮНЕСКО.",
-        "pl": "Barokowa stolica-twierdza z listy UNESCO."
+        "pl": "Barokowa stolica-twierdza z listy UNESCO.",
+        "en": "A UNESCO-listed Baroque fortress capital."
       }
     },
     {
       "id": "mt-mdina",
       "name": {
         "uk": "Мдіна",
-        "pl": "Mdina"
+        "pl": "Mdina",
+        "en": "Mdina"
       },
       "wiki": "Mdina",
       "lat": 35.89,
       "lng": 14.4,
       "blurb": {
         "uk": "«Тихе місто» на пагорбі.",
-        "pl": "„Ciche miasto” na wzgórzu."
+        "pl": "„Ciche miasto” na wzgórzu.",
+        "en": "The “Silent City” on a hill."
       }
     },
     {
       "id": "mt-gozo",
       "name": {
         "uk": "Острів Гозо",
-        "pl": "Wyspa Gozo"
+        "pl": "Wyspa Gozo",
+        "en": "Gozo"
       },
       "wiki": "Gozo",
       "lat": 36.04,
       "lng": 14.25,
       "blurb": {
         "uk": "Скелі, дайвінг і цитадель Вікторії.",
-        "pl": "Klify, nurkowanie i cytadela w Victorii."
+        "pl": "Klify, nurkowanie i cytadela w Victorii.",
+        "en": "Cliffs, diving and the citadel of Victoria."
       }
     },
     {
       "id": "mt-comino",
       "name": {
         "uk": "Коміно",
-        "pl": "Comino"
+        "pl": "Comino",
+        "en": "Comino"
       },
       "wiki": "Comino",
       "lat": 36.01,
       "lng": 14.34,
       "blurb": {
         "uk": "Блакитна лагуна з бірюзовою водою.",
-        "pl": "Błękitna Laguna z turkusową wodą."
+        "pl": "Błękitna Laguna z turkusową wodą.",
+        "en": "The Blue Lagoon’s turquoise water."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Пастіцці",
-        "pl": "Pastizzi"
+        "pl": "Pastizzi",
+        "en": "Pastizzi"
       },
       "description": {
         "uk": "Листкові пиріжки з рикотою чи горошком.",
-        "pl": "Paszteciki z ciasta francuskiego z ricottą lub groszkiem."
+        "pl": "Paszteciki z ciasta francuskiego z ricottą lub groszkiem.",
+        "en": "Flaky pastries with ricotta or peas."
       }
     },
     {
       "name": {
         "uk": "Фенек",
-        "pl": "Fenek"
+        "pl": "Fenek",
+        "en": "Fenek"
       },
       "description": {
         "uk": "Кролик, тушкований у вині — національна страва.",
-        "pl": "Królik duszony w winie — danie narodowe."
+        "pl": "Królik duszony w winie — danie narodowe.",
+        "en": "Rabbit stewed in wine — the national dish."
       }
     },
     {
       "name": {
         "uk": "Фтіра",
-        "pl": "Ftira"
+        "pl": "Ftira",
+        "en": "Ftira"
       },
       "description": {
         "uk": "Мальтійський хліб з тунцем і каперсами.",
-        "pl": "Maltański chleb z tuńczykiem i kaparami."
+        "pl": "Maltański chleb z tuńczykiem i kaparami.",
+        "en": "Maltese bread with tuna and capers."
       }
     }
   ],
   "facts": [
     {
       "uk": "Мегалітичні храми Мальти старші за єгипетські піраміди.",
-      "pl": "Megalityczne świątynie Malty są starsze od piramid egipskich."
+      "pl": "Megalityczne świątynie Malty są starsze od piramid egipskich.",
+      "en": "Malta’s megalithic temples are older than the Egyptian pyramids."
     },
     {
       "uk": "На Мальті знімали «Гру престолів» і «Гладіатора».",
-      "pl": "Na Malcie kręcono „Grę o tron” i „Gladiatora”."
+      "pl": "Na Malcie kręcono „Grę o tron” i „Gladiatora”.",
+      "en": "“Game of Thrones” and “Gladiator” were filmed in Malta."
     },
     {
       "uk": "Англійська — офіційна мова поряд з мальтійською.",
-      "pl": "Angielski jest językiem urzędowym obok maltańskiego."
+      "pl": "Angielski jest językiem urzędowym obok maltańskiego.",
+      "en": "English is an official language alongside Maltese."
     }
   ],
   "bestMonths": [
@@ -149,7 +168,8 @@
       ],
       "description": {
         "uk": "Хостел у районі вечірок Сент-Джуліанс.",
-        "pl": "Hostel w imprezowej dzielnicy St Julian's."
+        "pl": "Hostel w imprezowej dzielnicy St Julian's.",
+        "en": "A hostel in the party district of St Julian’s."
       }
     },
     {
@@ -166,7 +186,8 @@
       ],
       "description": {
         "uk": "Готель над затокою Марсалфорн.",
-        "pl": "Hotel nad zatoką Marsalforn."
+        "pl": "Hotel nad zatoką Marsalforn.",
+        "en": "A hotel above Marsalforn Bay."
       }
     },
     {
@@ -183,7 +204,8 @@
       ],
       "description": {
         "uk": "Бутик з басейном на даху над затокою.",
-        "pl": "Butik z basenem na dachu nad zatoką."
+        "pl": "Butik z basenem na dachu nad zatoką.",
+        "en": "A boutique with a rooftop pool above the bay."
       }
     },
     {
@@ -200,7 +222,8 @@
       ],
       "description": {
         "uk": "Палац XVII століття в стінах Мдіни.",
-        "pl": "Pałac z XVII wieku w murach Mdiny."
+        "pl": "Pałac z XVII wieku w murach Mdiny.",
+        "en": "A 17th-century palace inside Mdina’s walls."
       }
     },
     {
@@ -217,7 +240,8 @@
       ],
       "description": {
         "uk": "Легендарний люкс біля воріт Валетти.",
-        "pl": "Legendarny luksus przy bramie Valletty."
+        "pl": "Legendarny luksus przy bramie Valletty.",
+        "en": "Legendary luxury by the gates of Valletta."
       }
     }
   ],

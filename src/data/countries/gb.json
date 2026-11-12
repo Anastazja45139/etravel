@@ -3,67 +3,77 @@
   "wiki": "United Kingdom",
   "capital": {
     "uk": "Лондон",
-    "pl": "Londyn"
+    "pl": "Londyn",
+    "en": "London"
   },
   "intro": {
     "uk": "Королівські палаци, шотландські замки, пабові традиції та безкоштовні музеї світового рівня. Велика Британія — це чотири країни в одній подорожі.",
-    "pl": "Królewskie pałace, szkockie zamki, tradycje pubowe i darmowe muzea światowej klasy. Wielka Brytania to cztery kraje w jednej podróży."
+    "pl": "Królewskie pałace, szkockie zamki, tradycje pubowe i darmowe muzea światowej klasy. Wielka Brytania to cztery kraje w jednej podróży.",
+    "en": "Royal palaces, Scottish castles, pub traditions and free world-class museums. The United Kingdom is four countries in one trip."
   },
   "cities": [
     {
       "id": "gb-london",
       "name": {
         "uk": "Лондон",
-        "pl": "Londyn"
+        "pl": "Londyn",
+        "en": "London"
       },
       "wiki": "London",
       "lat": 51.51,
       "lng": -0.13,
       "blurb": {
         "uk": "Біг-Бен, Британський музей і ринки Камдена.",
-        "pl": "Big Ben, British Museum i targi Camden."
+        "pl": "Big Ben, British Museum i targi Camden.",
+        "en": "Big Ben, the British Museum and Camden markets."
       }
     },
     {
       "id": "gb-edinburgh",
       "name": {
         "uk": "Единбург",
-        "pl": "Edynburg"
+        "pl": "Edynburg",
+        "en": "Edinburgh"
       },
       "wiki": "Edinburgh",
       "lat": 55.95,
       "lng": -3.19,
       "blurb": {
         "uk": "Замок на скелі, Королівська миля й фестивалі.",
-        "pl": "Zamek na skale, Royal Mile i festiwale."
+        "pl": "Zamek na skale, Royal Mile i festiwale.",
+        "en": "A castle on a rock, the Royal Mile and festivals."
       }
     },
     {
       "id": "gb-oxford",
       "name": {
         "uk": "Оксфорд",
-        "pl": "Oksford"
+        "pl": "Oksford",
+        "en": "Oxford"
       },
       "wiki": "Oxford",
       "lat": 51.75,
       "lng": -1.26,
       "blurb": {
         "uk": "Найстаріший англомовний університет і місця Гаррі Поттера.",
-        "pl": "Najstarszy anglojęzyczny uniwersytet i miejsca z Harry'ego Pottera."
+        "pl": "Najstarszy anglojęzyczny uniwersytet i miejsca z Harry'ego Pottera.",
+        "en": "The oldest English-speaking university and Harry Potter locations."
       }
     },
     {
       "id": "gb-highlands",
       "name": {
         "uk": "Шотландське нагір'я",
-        "pl": "Szkocka Wyżyna"
+        "pl": "Szkocka Wyżyna",
+        "en": "Scottish Highlands"
       },
       "wiki": "Scottish Highlands",
       "lat": 57.12,
       "lng": -4.71,
       "blurb": {
         "uk": "Озеро Лох-Несс, тумани й дикі гори.",
-        "pl": "Jezioro Loch Ness, mgły i dzikie góry."
+        "pl": "Jezioro Loch Ness, mgły i dzikie góry.",
+        "en": "Loch Ness, mist and wild mountains."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Фіш-енд-чіпс",
-        "pl": "Fish and chips"
+        "pl": "Fish and chips",
+        "en": "Fish and chips"
       },
       "description": {
         "uk": "Риба в клярі з картоплею фрі та гороховим пюре.",
-        "pl": "Ryba w cieście z frytkami i purée z groszku."
+        "pl": "Ryba w cieście z frytkami i purée z groszku.",
+        "en": "Battered fish with chips and mushy peas."
       }
     },
     {
       "name": {
         "uk": "Англійський сніданок",
-        "pl": "Śniadanie angielskie"
+        "pl": "Śniadanie angielskie",
+        "en": "Full English breakfast"
       },
       "description": {
         "uk": "Яйця, бекон, сосиски, боби й тости.",
-        "pl": "Jajka, bekon, kiełbaski, fasolka i tosty."
+        "pl": "Jajka, bekon, kiełbaski, fasolka i tosty.",
+        "en": "Eggs, bacon, sausages, beans and toast."
       }
     },
     {
       "name": {
         "uk": "Сконі з вершками",
-        "pl": "Scones ze śmietaną"
+        "pl": "Scones ze śmietaną",
+        "en": "Scones with cream"
       },
       "description": {
         "uk": "Булочки до чаю з джемом і густими вершками.",
-        "pl": "Bułeczki do herbaty z dżemem i gęstą śmietaną."
+        "pl": "Bułeczki do herbaty z dżemem i gęstą śmietaną.",
+        "en": "Tea-time scones with jam and clotted cream."
       }
     }
   ],
   "facts": [
     {
       "uk": "Більшість великих музеїв Лондона безкоштовні.",
-      "pl": "Większość dużych muzeów w Londynie jest bezpłatna."
+      "pl": "Większość dużych muzeów w Londynie jest bezpłatna.",
+      "en": "Most of London’s big museums are free."
     },
     {
       "uk": "Лондонське метро — найстаріше у світі, відкрите 1863 року.",
-      "pl": "Londyńskie metro jest najstarsze na świecie — otwarto je w 1863 roku."
+      "pl": "Londyńskie metro jest najstarsze na świecie — otwarto je w 1863 roku.",
+      "en": "The London Underground is the oldest in the world, opened in 1863."
     },
     {
       "uk": "Національна тварина Шотландії — єдиноріг.",
-      "pl": "Narodowym zwierzęciem Szkocji jest jednorożec."
+      "pl": "Narodowym zwierzęciem Szkocji jest jednorożec.",
+      "en": "Scotland’s national animal is the unicorn."
     }
   ],
   "bestMonths": [
@@ -148,7 +167,8 @@
       ],
       "description": {
         "uk": "Сучасний хостел біля Оксфорд-стріт.",
-        "pl": "Nowoczesny hostel przy Oxford Street."
+        "pl": "Nowoczesny hostel przy Oxford Street.",
+        "en": "A modern hostel near Oxford Street."
       }
     },
     {
@@ -166,7 +186,8 @@
       ],
       "description": {
         "uk": "Надійний готель у центрі Старого міста.",
-        "pl": "Solidny hotel w samym sercu Starego Miasta."
+        "pl": "Solidny hotel w samym sercu Starego Miasta.",
+        "en": "A reliable hotel in the heart of the Old Town."
       }
     },
     {
@@ -183,7 +204,8 @@
       ],
       "description": {
         "uk": "Номери в колишній в'язниці — незабутній досвід.",
-        "pl": "Pokoje w dawnym więzieniu — niezapomniane przeżycie."
+        "pl": "Pokoje w dawnym więzieniu — niezapomniane przeżycie.",
+        "en": "Rooms in a former prison — an unforgettable stay."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Затишний маєток серед шотландських гір.",
-        "pl": "Przytulna rezydencja wśród szkockich gór."
+        "pl": "Przytulna rezydencja wśród szkockich gór.",
+        "en": "A cosy country house among Scottish mountains."
       }
     },
     {
@@ -218,7 +241,8 @@
       ],
       "description": {
         "uk": "Знаменитий люкс на березі Темзи з 1889 року.",
-        "pl": "Słynny luksusowy hotel nad Tamizą od 1889 roku."
+        "pl": "Słynny luksusowy hotel nad Tamizą od 1889 roku.",
+        "en": "The famous luxury hotel on the Thames since 1889."
       }
     }
   ],

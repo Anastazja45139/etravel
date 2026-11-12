@@ -3,53 +3,61 @@
   "wiki": "North Macedonia",
   "capital": {
     "uk": "Скоп'є",
-    "pl": "Skopje"
+    "pl": "Skopje",
+    "en": "Skopje"
   },
   "intro": {
     "uk": "Охридське озеро — одне з найстаріших у світі, древні церкви, гори й найдоступніші ціни на Балканах. Північна Македонія — тиха перлина регіону.",
-    "pl": "Jezioro Ochrydzkie, jedno z najstarszych na świecie, dawne cerkwie, góry i najniższe ceny na Bałkanach. Macedonia Północna to cicha perła regionu."
+    "pl": "Jezioro Ochrydzkie, jedno z najstarszych na świecie, dawne cerkwie, góry i najniższe ceny na Bałkanach. Macedonia Północna to cicha perła regionu.",
+    "en": "Lake Ohrid — one of the oldest in the world — ancient churches, mountains and the lowest prices in the Balkans. North Macedonia is the region’s quiet gem."
   },
   "cities": [
     {
       "id": "mk-skopje",
       "name": {
         "uk": "Скоп'є",
-        "pl": "Skopje"
+        "pl": "Skopje",
+        "en": "Skopje"
       },
       "wiki": "Skopje",
       "lat": 42,
       "lng": 21.43,
       "blurb": {
         "uk": "Старий базар, фортеця та сотні пам'ятників.",
-        "pl": "Stary bazar, twierdza i setki pomników."
+        "pl": "Stary bazar, twierdza i setki pomników.",
+        "en": "The Old Bazaar, the fortress and hundreds of monuments."
       }
     },
     {
       "id": "mk-ohrid",
       "name": {
         "uk": "Охрид",
-        "pl": "Ochryda"
+        "pl": "Ochryda",
+        "en": "Ohrid"
       },
       "wiki": "Ohrid",
       "lat": 41.12,
       "lng": 20.8,
       "blurb": {
         "uk": "Церква на скелі над прозорим озером.",
-        "pl": "Cerkiew na skale nad przejrzystym jeziorem."
+        "pl": "Cerkiew na skale nad przejrzystym jeziorem.",
+        "en": "A clifftop church above a crystal-clear lake."
       }
     },
     {
       "id": "mk-matka",
       "name": {
         "uk": "Каньйон Матка",
-        "pl": "Kanion Matka"
+        "pl": "Kanion Matka",
+        "en": "Matka Canyon"
       },
       "wiki": "Matka Canyon",
       "lat": 41.95,
       "lng": 21.3,
       "blurb": {
         "uk": "Каякінг серед скель і печер.",
-        "pl": "Kajaki wśród skał i jaskiń."
+        "pl": "Kajaki wśród skał i jaskiń.",
+        "en": "Kayaking among cliffs and caves."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Тавче-гравче",
-        "pl": "Tawcze grawcze"
+        "pl": "Tawcze grawcze",
+        "en": "Tavče gravče"
       },
       "description": {
         "uk": "Запечена квасоля в глиняному горщику.",
-        "pl": "Zapiekana fasola w glinianym garnku."
+        "pl": "Zapiekana fasola w glinianym garnku.",
+        "en": "Baked beans in a clay pot."
       }
     },
     {
       "name": {
         "uk": "Охридська форель",
-        "pl": "Pstrąg ochrydzki"
+        "pl": "Pstrąg ochrydzki",
+        "en": "Ohrid trout"
       },
       "description": {
         "uk": "Ендемічна риба з озера Охрид.",
-        "pl": "Endemiczna ryba z Jeziora Ochrydzkiego."
+        "pl": "Endemiczna ryba z Jeziora Ochrydzkiego.",
+        "en": "A fish found only in Lake Ohrid."
       }
     },
     {
       "name": {
         "uk": "Пастрмалія",
-        "pl": "Pastrmajlija"
+        "pl": "Pastrmajlija",
+        "en": "Pastrmajlija"
       },
       "description": {
         "uk": "Човник з тіста з м'ясом.",
-        "pl": "Łódeczka z ciasta z mięsem."
+        "pl": "Łódeczka z ciasta z mięsem.",
+        "en": "A boat-shaped bread with meat."
       }
     }
   ],
   "facts": [
     {
       "uk": "Озеру Охрид понад мільйон років.",
-      "pl": "Jezioro Ochrydzkie ma ponad milion lat."
+      "pl": "Jezioro Ochrydzkie ma ponad milion lat.",
+      "en": "Lake Ohrid is over a million years old."
     },
     {
       "uk": "Мати Тереза народилася в Скоп'є.",
-      "pl": "Matka Teresa urodziła się w Skopje."
+      "pl": "Matka Teresa urodziła się w Skopje.",
+      "en": "Mother Teresa was born in Skopje."
     },
     {
       "uk": "В Охриді, кажуть, 365 церков — по одній на кожен день.",
-      "pl": "W Ochrydzie ma być 365 cerkwi — po jednej na każdy dzień."
+      "pl": "W Ochrydzie ma być 365 cerkwi — po jednej na każdy dzień.",
+      "en": "Ohrid is said to have 365 churches — one for every day."
     }
   ],
   "bestMonths": [
@@ -134,7 +151,8 @@
       ],
       "description": {
         "uk": "Дружній хостел біля старого базару.",
-        "pl": "Przyjazny hostel przy starym bazarze."
+        "pl": "Przyjazny hostel przy starym bazarze.",
+        "en": "A friendly hostel by the Old Bazaar."
       }
     },
     {
@@ -151,7 +169,8 @@
       ],
       "description": {
         "uk": "Готель на вході в каньйон.",
-        "pl": "Hotel u wejścia do kanionu."
+        "pl": "Hotel u wejścia do kanionu.",
+        "en": "A hotel at the entrance to the canyon."
       }
     },
     {
@@ -168,7 +187,8 @@
       ],
       "description": {
         "uk": "Вілла в старому місті Охрида.",
-        "pl": "Willa na starym mieście w Ochrydzie."
+        "pl": "Willa na starym mieście w Ochrydzie.",
+        "en": "A villa in Ohrid’s old town."
       }
     },
     {
@@ -185,7 +205,8 @@
       ],
       "description": {
         "uk": "Бутик з терасою над озером.",
-        "pl": "Butik z tarasem nad jeziorem."
+        "pl": "Butik z tarasem nad jeziorem.",
+        "en": "A boutique with a terrace above the lake."
       }
     },
     {
@@ -202,7 +223,8 @@
       ],
       "description": {
         "uk": "Люкс на центральній площі.",
-        "pl": "Luksusowy hotel na głównym placu."
+        "pl": "Luksusowy hotel na głównym placu.",
+        "en": "Luxury on the main square."
       }
     }
   ],

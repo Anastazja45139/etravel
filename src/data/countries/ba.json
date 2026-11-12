@@ -3,67 +3,77 @@
   "wiki": "Bosnia and Herzegovina",
   "capital": {
     "uk": "Сараєво",
-    "pl": "Sarajewo"
+    "pl": "Sarajewo",
+    "en": "Sarajevo"
   },
   "intro": {
     "uk": "Старий міст у Мостарі, кав'ярні Сараєва, де Схід зустрічається із Заходом, і смарагдові водоспади. Боснія й Герцеговина дивує на кожному кроці.",
-    "pl": "Stary Most w Mostarze, kawiarnie Sarajewa, gdzie Wschód spotyka Zachód, i szmaragdowe wodospady. Bośnia i Hercegowina zaskakuje na każdym kroku."
+    "pl": "Stary Most w Mostarze, kawiarnie Sarajewa, gdzie Wschód spotyka Zachód, i szmaragdowe wodospady. Bośnia i Hercegowina zaskakuje na każdym kroku.",
+    "en": "The Old Bridge in Mostar, Sarajevo’s cafés where East meets West, and emerald waterfalls. Bosnia and Herzegovina surprises at every turn."
   },
   "cities": [
     {
       "id": "ba-sarajevo",
       "name": {
         "uk": "Сараєво",
-        "pl": "Sarajewo"
+        "pl": "Sarajewo",
+        "en": "Sarajevo"
       },
       "wiki": "Sarajevo",
       "lat": 43.86,
       "lng": 18.41,
       "blurb": {
         "uk": "Базар Башчаршія та олімпійські гори.",
-        "pl": "Bazar Baščaršija i olimpijskie góry."
+        "pl": "Bazar Baščaršija i olimpijskie góry.",
+        "en": "The Baščaršija bazaar and the Olympic mountains."
       }
     },
     {
       "id": "ba-mostar",
       "name": {
         "uk": "Мостар",
-        "pl": "Mostar"
+        "pl": "Mostar",
+        "en": "Mostar"
       },
       "wiki": "Mostar",
       "lat": 43.34,
       "lng": 17.81,
       "blurb": {
         "uk": "Старий міст і стрибуни у річку Неретва.",
-        "pl": "Stary Most i skoczkowie do Neretwy."
+        "pl": "Stary Most i skoczkowie do Neretwy.",
+        "en": "The Old Bridge and divers leaping into the Neretva."
       }
     },
     {
       "id": "ba-kravice",
       "name": {
         "uk": "Кравиця",
-        "pl": "Kravica"
+        "pl": "Kravica",
+        "en": "Kravica"
       },
       "wiki": "Kravica waterfall",
       "lat": 43.16,
       "lng": 17.61,
       "blurb": {
         "uk": "Водоспади, де можна купатися.",
-        "pl": "Wodospady, w których można się kąpać."
+        "pl": "Wodospady, w których można się kąpać.",
+        "en": "Waterfalls you can swim in."
       }
     },
     {
       "id": "ba-jajce",
       "name": {
         "uk": "Яйце",
-        "pl": "Jajce"
+        "pl": "Jajce",
+        "en": "Jajce"
       },
       "wiki": "Jajce",
       "lat": 44.34,
       "lng": 17.27,
       "blurb": {
         "uk": "Водоспад просто в центрі міста.",
-        "pl": "Wodospad w samym centrum miasta."
+        "pl": "Wodospad w samym centrum miasta.",
+        "en": "A waterfall right in the middle of town."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Бурек",
-        "pl": "Burek"
+        "pl": "Burek",
+        "en": "Burek"
       },
       "description": {
         "uk": "Листковий пиріг з м'ясом, згорнутий спіраллю.",
-        "pl": "Ciasto filo z mięsem zwinięte w spiralę."
+        "pl": "Ciasto filo z mięsem zwinięte w spiralę.",
+        "en": "Filo pie with meat, rolled into a spiral."
       }
     },
     {
       "name": {
         "uk": "Боснійська кава",
-        "pl": "Kawa bośniacka"
+        "pl": "Kawa bośniacka",
+        "en": "Bosnian coffee"
       },
       "description": {
         "uk": "Міцна кава з джезви з рахат-лукумом.",
-        "pl": "Mocna kawa z dżezwy z rachatłukum."
+        "pl": "Mocna kawa z dżezwy z rachatłukum.",
+        "en": "Strong coffee from a džezva with Turkish delight."
       }
     },
     {
       "name": {
         "uk": "Клепе",
-        "pl": "Klepe"
+        "pl": "Klepe",
+        "en": "Klepe"
       },
       "description": {
         "uk": "Пельмені з часниковим йогуртом.",
-        "pl": "Pierożki z czosnkowym jogurtem."
+        "pl": "Pierożki z czosnkowym jogurtem.",
+        "en": "Dumplings with garlic yoghurt."
       }
     }
   ],
   "facts": [
     {
       "uk": "Сараєво приймало зимові Олімпійські ігри 1984 року.",
-      "pl": "Sarajewo gościło zimowe igrzyska olimpijskie w 1984 roku."
+      "pl": "Sarajewo gościło zimowe igrzyska olimpijskie w 1984 roku.",
+      "en": "Sarajevo hosted the 1984 Winter Olympics."
     },
     {
       "uk": "Країна має лише 20 км морського узбережжя.",
-      "pl": "Kraj ma tylko 20 km wybrzeża morskiego."
+      "pl": "Kraj ma tylko 20 km wybrzeża morskiego.",
+      "en": "The country has only 20 km of coastline."
     },
     {
       "uk": "Стрибки з мосту в Мостарі — традиція понад 400 років.",
-      "pl": "Skoki z mostu w Mostarze to tradycja licząca ponad 400 lat."
+      "pl": "Skoki z mostu w Mostarze to tradycja licząca ponad 400 lat.",
+      "en": "Diving from Mostar’s bridge is a tradition over 400 years old."
     }
   ],
   "bestMonths": [
@@ -148,7 +167,8 @@
       ],
       "description": {
         "uk": "Тематичний хостел біля Латинського мосту.",
-        "pl": "Tematyczny hostel przy Moście Łacińskim."
+        "pl": "Tematyczny hostel przy Moście Łacińskim.",
+        "en": "A themed hostel by the Latin Bridge."
       }
     },
     {
@@ -165,7 +185,8 @@
       ],
       "description": {
         "uk": "Сімейний готель за кілька хвилин від водоспадів.",
-        "pl": "Rodzinny hotel kilka minut od wodospadów."
+        "pl": "Rodzinny hotel kilka minut od wodospadów.",
+        "en": "A family hotel minutes from the waterfalls."
       }
     },
     {
@@ -182,7 +203,8 @@
       ],
       "description": {
         "uk": "Готель у старому місті з видом на фортецю.",
-        "pl": "Hotel na starym mieście z widokiem na twierdzę."
+        "pl": "Hotel na starym mieście z widokiem na twierdzę.",
+        "en": "An old-town hotel with a castle view."
       }
     },
     {
@@ -199,7 +221,8 @@
       ],
       "description": {
         "uk": "Кам'яний бутик біля Старого мосту.",
-        "pl": "Kamienny butik przy Starym Moście."
+        "pl": "Kamienny butik przy Starym Moście.",
+        "en": "A stone boutique by the Old Bridge."
       }
     },
     {
@@ -216,7 +239,8 @@
       ],
       "description": {
         "uk": "Сучасний люкс зі спа й панорамою міста.",
-        "pl": "Nowoczesny luksus ze spa i panoramą miasta."
+        "pl": "Nowoczesny luksus ze spa i panoramą miasta.",
+        "en": "Modern luxury with a spa and city panorama."
       }
     }
   ],

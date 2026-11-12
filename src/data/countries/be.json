@@ -3,67 +3,77 @@
   "wiki": "Belgium",
   "capital": {
     "uk": "Брюссель",
-    "pl": "Bruksela"
+    "pl": "Bruksela",
+    "en": "Brussels"
   },
   "intro": {
     "uk": "Шоколад, вафлі, сотні сортів пива й середньовічні міста, наче з листівки. Бельгія маленька, але кожне місто тут — окрема пригода.",
-    "pl": "Czekolada, gofry, setki gatunków piwa i średniowieczne miasta jak z pocztówki. Belgia jest mała, ale każde miasto to osobna przygoda."
+    "pl": "Czekolada, gofry, setki gatunków piwa i średniowieczne miasta jak z pocztówki. Belgia jest mała, ale każde miasto to osobna przygoda.",
+    "en": "Chocolate, waffles, hundreds of beers and medieval towns straight off a postcard. Belgium is small, but every city is an adventure of its own."
   },
   "cities": [
     {
       "id": "be-brussels",
       "name": {
         "uk": "Брюссель",
-        "pl": "Bruksela"
+        "pl": "Bruksela",
+        "en": "Brussels"
       },
       "wiki": "Brussels",
       "lat": 50.85,
       "lng": 4.35,
       "blurb": {
         "uk": "Гран-Плас, Атоміум і штаб-квартира ЄС.",
-        "pl": "Grand-Place, Atomium i siedziba UE."
+        "pl": "Grand-Place, Atomium i siedziba UE.",
+        "en": "The Grand-Place, the Atomium and the EU headquarters."
       }
     },
     {
       "id": "be-bruges",
       "name": {
         "uk": "Брюгге",
-        "pl": "Brugia"
+        "pl": "Brugia",
+        "en": "Bruges"
       },
       "wiki": "Bruges",
       "lat": 51.21,
       "lng": 3.22,
       "blurb": {
         "uk": "Канали та готичні будинки — «Північна Венеція».",
-        "pl": "Kanały i gotyckie kamienice — „Wenecja Północy”."
+        "pl": "Kanały i gotyckie kamienice — „Wenecja Północy”.",
+        "en": "Canals and Gothic houses — the “Venice of the North”."
       }
     },
     {
       "id": "be-ghent",
       "name": {
         "uk": "Гент",
-        "pl": "Gandawa"
+        "pl": "Gandawa",
+        "en": "Ghent"
       },
       "wiki": "Ghent",
       "lat": 51.05,
       "lng": 3.72,
       "blurb": {
         "uk": "Замок графів Фландрії та студентська атмосфера.",
-        "pl": "Zamek Hrabiów Flandrii i studencki klimat."
+        "pl": "Zamek Hrabiów Flandrii i studencki klimat.",
+        "en": "The Castle of the Counts and a student vibe."
       }
     },
     {
       "id": "be-antwerp",
       "name": {
         "uk": "Антверпен",
-        "pl": "Antwerpia"
+        "pl": "Antwerpia",
+        "en": "Antwerp"
       },
       "wiki": "Antwerp",
       "lat": 51.22,
       "lng": 4.4,
       "blurb": {
         "uk": "Діаманти, мода й будинок Рубенса.",
-        "pl": "Diamenty, moda i dom Rubensa."
+        "pl": "Diamenty, moda i dom Rubensa.",
+        "en": "Diamonds, fashion and the house of Rubens."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Бельгійські вафлі",
-        "pl": "Gofry belgijskie"
+        "pl": "Gofry belgijskie",
+        "en": "Belgian waffles"
       },
       "description": {
         "uk": "Брюссельські — хрусткі, льєзькі — солодкі й щільні.",
-        "pl": "Brukselskie są chrupiące, z Liège — słodkie i gęste."
+        "pl": "Brukselskie są chrupiące, z Liège — słodkie i gęste.",
+        "en": "Brussels ones are crisp, Liège ones sweet and dense."
       }
     },
     {
       "name": {
         "uk": "Мідії з картоплею фрі",
-        "pl": "Mule z frytkami"
+        "pl": "Mule z frytkami",
+        "en": "Moules-frites"
       },
       "description": {
         "uk": "Мідії у вині або пиві з фірмовою картоплею.",
-        "pl": "Mule w winie lub piwie z firmowymi frytkami."
+        "pl": "Mule w winie lub piwie z firmowymi frytkami.",
+        "en": "Mussels in wine or beer with signature fries."
       }
     },
     {
       "name": {
         "uk": "Карбонад",
-        "pl": "Carbonade"
+        "pl": "Carbonade",
+        "en": "Carbonnade"
       },
       "description": {
         "uk": "Яловичина, тушкована в темному пиві.",
-        "pl": "Wołowina duszona w ciemnym piwie."
+        "pl": "Wołowina duszona w ciemnym piwie.",
+        "en": "Beef stewed in dark beer."
       }
     }
   ],
   "facts": [
     {
       "uk": "Картоплю фрі, ймовірно, вигадали саме в Бельгії.",
-      "pl": "Frytki najprawdopodobniej wymyślono w Belgii."
+      "pl": "Frytki najprawdopodobniej wymyślono w Belgii.",
+      "en": "Fries were most likely invented in Belgium."
     },
     {
       "uk": "Тут варять понад 1500 сортів пива.",
-      "pl": "Warzy się tu ponad 1500 gatunków piwa."
+      "pl": "Warzy się tu ponad 1500 gatunków piwa.",
+      "en": "Over 1,500 kinds of beer are brewed here."
     },
     {
       "uk": "Тінтін і смурфики — бельгійські комікси.",
-      "pl": "Tintin i Smerfy to belgijskie komiksy."
+      "pl": "Tintin i Smerfy to belgijskie komiksy.",
+      "en": "Tintin and the Smurfs are Belgian comics."
     }
   ],
   "bestMonths": [
@@ -149,7 +168,8 @@
       ],
       "description": {
         "uk": "Хостел у колишній пивоварні біля каналу.",
-        "pl": "Hostel w dawnym browarze przy kanale."
+        "pl": "Hostel w dawnym browarze przy kanale.",
+        "en": "A hostel in a former brewery by the canal."
       }
     },
     {
@@ -166,7 +186,8 @@
       ],
       "description": {
         "uk": "Номери в старій бавовняній фабриці на березі річки.",
-        "pl": "Pokoje w dawnej przędzalni nad rzeką."
+        "pl": "Pokoje w dawnej przędzalni nad rzeką.",
+        "en": "Rooms in an old cotton mill on the riverbank."
       }
     },
     {
@@ -183,7 +204,8 @@
       ],
       "description": {
         "uk": "Зручний готель поруч із вокзалом-палацом.",
-        "pl": "Wygodny hotel obok dworca-pałacu."
+        "pl": "Wygodny hotel obok dworca-pałacu.",
+        "en": "A convenient hotel next to the palatial station."
       }
     },
     {
@@ -200,7 +222,8 @@
       ],
       "description": {
         "uk": "Палац XV століття в центрі Брюгге.",
-        "pl": "Pałac z XV wieku w centrum Brugii."
+        "pl": "Pałac z XV wieku w centrum Brugii.",
+        "en": "A 15th-century palace in the centre of Bruges."
       }
     },
     {
@@ -217,7 +240,8 @@
       ],
       "description": {
         "uk": "Люкс за крок від Гран-Плас.",
-        "pl": "Luksus o krok od Grand-Place."
+        "pl": "Luksus o krok od Grand-Place.",
+        "en": "Luxury a step away from the Grand-Place."
       }
     }
   ],

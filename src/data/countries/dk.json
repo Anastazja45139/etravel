@@ -3,67 +3,77 @@
   "wiki": "Denmark",
   "capital": {
     "uk": "Копенгаген",
-    "pl": "Kopenhaga"
+    "pl": "Kopenhaga",
+    "en": "Copenhagen"
   },
   "intro": {
     "uk": "Кольорова набережна Нюгавн, «хюґе», велосипеди й батьківщина LEGO. Данія — затишна країна дизайну та казок Андерсена.",
-    "pl": "Kolorowe nabrzeże Nyhavn, „hygge”, rowery i ojczyzna LEGO. Dania to przytulny kraj designu i baśni Andersena."
+    "pl": "Kolorowe nabrzeże Nyhavn, „hygge”, rowery i ojczyzna LEGO. Dania to przytulny kraj designu i baśni Andersena.",
+    "en": "Colourful Nyhavn, “hygge”, bicycles and the home of LEGO. Denmark is a cosy land of design and Andersen’s fairy tales."
   },
   "cities": [
     {
       "id": "dk-copenhagen",
       "name": {
         "uk": "Копенгаген",
-        "pl": "Kopenhaga"
+        "pl": "Kopenhaga",
+        "en": "Copenhagen"
       },
       "wiki": "Copenhagen",
       "lat": 55.68,
       "lng": 12.57,
       "blurb": {
         "uk": "Нюгавн, Тіволі й Русалонька.",
-        "pl": "Nyhavn, Tivoli i Mała Syrenka."
+        "pl": "Nyhavn, Tivoli i Mała Syrenka.",
+        "en": "Nyhavn, Tivoli and the Little Mermaid."
       }
     },
     {
       "id": "dk-billund",
       "name": {
         "uk": "Біллунн",
-        "pl": "Billund"
+        "pl": "Billund",
+        "en": "Billund"
       },
       "wiki": "Legoland Billund",
       "lat": 55.73,
       "lng": 9.13,
       "blurb": {
         "uk": "Леголенд і LEGO House для всієї родини.",
-        "pl": "Legoland i LEGO House dla całej rodziny."
+        "pl": "Legoland i LEGO House dla całej rodziny.",
+        "en": "Legoland and LEGO House for the whole family."
       }
     },
     {
       "id": "dk-aarhus",
       "name": {
         "uk": "Орхус",
-        "pl": "Aarhus"
+        "pl": "Aarhus",
+        "en": "Aarhus"
       },
       "wiki": "Aarhus",
       "lat": 56.16,
       "lng": 10.2,
       "blurb": {
         "uk": "Райдужна панорама музею ARoS.",
-        "pl": "Tęczowa panorama muzeum ARoS."
+        "pl": "Tęczowa panorama muzeum ARoS.",
+        "en": "The rainbow panorama of the ARoS museum."
       }
     },
     {
       "id": "dk-skagen",
       "name": {
         "uk": "Скаген",
-        "pl": "Skagen"
+        "pl": "Skagen",
+        "en": "Skagen"
       },
       "wiki": "Skagen",
       "lat": 57.72,
       "lng": 10.58,
       "blurb": {
         "uk": "Місце, де зустрічаються два моря.",
-        "pl": "Miejsce, gdzie spotykają się dwa morza."
+        "pl": "Miejsce, gdzie spotykają się dwa morza.",
+        "en": "Where two seas meet."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Смьорребрьод",
-        "pl": "Smørrebrød"
+        "pl": "Smørrebrød",
+        "en": "Smørrebrød"
       },
       "description": {
         "uk": "Відкриті бутерброди на житньому хлібі.",
-        "pl": "Otwarte kanapki na chlebie żytnim."
+        "pl": "Otwarte kanapki na chlebie żytnim.",
+        "en": "Open sandwiches on rye bread."
       }
     },
     {
       "name": {
         "uk": "Данське тістечко",
-        "pl": "Duńskie ciastko"
+        "pl": "Duńskie ciastko",
+        "en": "Danish pastry"
       },
       "description": {
         "uk": "Листкова випічка з кремом і корицею.",
-        "pl": "Drożdżowe ciastko z kremem i cynamonem."
+        "pl": "Drożdżowe ciastko z kremem i cynamonem.",
+        "en": "Flaky pastry with custard and cinnamon."
       }
     },
     {
       "name": {
         "uk": "Фрікаделлер",
-        "pl": "Frikadeller"
+        "pl": "Frikadeller",
+        "en": "Frikadeller"
       },
       "description": {
         "uk": "Данські котлетки з картоплею.",
-        "pl": "Duńskie kotleciki z ziemniakami."
+        "pl": "Duńskie kotleciki z ziemniakami.",
+        "en": "Danish meatballs with potatoes."
       }
     }
   ],
   "facts": [
     {
       "uk": "Данці регулярно входять до трійки найщасливіших народів світу.",
-      "pl": "Duńczycy regularnie są w pierwszej trójce najszczęśliwszych narodów świata."
+      "pl": "Duńczycy regularnie są w pierwszej trójce najszczęśliwszych narodów świata.",
+      "en": "Danes regularly rank among the three happiest nations."
     },
     {
       "uk": "У Копенгагені велосипедів більше, ніж машин.",
-      "pl": "W Kopenhadze jest więcej rowerów niż samochodów."
+      "pl": "W Kopenhadze jest więcej rowerów niż samochodów.",
+      "en": "Copenhagen has more bicycles than cars."
     },
     {
       "uk": "Прапор Данії — найстаріший національний прапор у світі.",
-      "pl": "Flaga Danii jest najstarszą flagą narodową na świecie."
+      "pl": "Flaga Danii jest najstarszą flagą narodową na świecie.",
+      "en": "Denmark’s flag is the oldest national flag in the world."
     }
   ],
   "bestMonths": [
@@ -149,7 +168,8 @@
       ],
       "description": {
         "uk": "Дизайнерський хостел з басейном.",
-        "pl": "Designerski hostel z basenem."
+        "pl": "Designerski hostel z basenem.",
+        "en": "A design hostel with a pool."
       }
     },
     {
@@ -165,7 +185,8 @@
       ],
       "description": {
         "uk": "Готель з LEGO-номерами біля входу в парк.",
-        "pl": "Hotel z pokojami LEGO przy wejściu do parku."
+        "pl": "Hotel z pokojami LEGO przy wejściu do parku.",
+        "en": "A hotel with LEGO rooms at the park entrance."
       }
     },
     {
@@ -182,7 +203,8 @@
       ],
       "description": {
         "uk": "Сучасний готель біля набережної.",
-        "pl": "Nowoczesny hotel przy nabrzeżu."
+        "pl": "Nowoczesny hotel przy nabrzeżu.",
+        "en": "A modern hotel by the waterfront."
       }
     },
     {
@@ -200,7 +222,8 @@
       ],
       "description": {
         "uk": "Мавританський палац у садах Тіволі.",
-        "pl": "Mauretański pałac w ogrodach Tivoli."
+        "pl": "Mauretański pałac w ogrodach Tivoli.",
+        "en": "A Moorish palace in the Tivoli Gardens."
       }
     },
     {
@@ -218,7 +241,8 @@
       ],
       "description": {
         "uk": "Розкішний курорт у дюнах біля моря.",
-        "pl": "Luksusowy kurort w wydmach nad morzem."
+        "pl": "Luksusowy kurort w wydmach nad morzem.",
+        "en": "A luxury resort in the dunes by the sea."
       }
     }
   ],

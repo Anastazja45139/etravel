@@ -1,41 +1,274 @@
 {
   "iso2": "NO",
   "wiki": "Norway",
-  "capital": { "uk": "Осло", "pl": "Oslo" },
+  "capital": {
+    "uk": "Осло",
+    "pl": "Oslo",
+    "en": "Oslo"
+  },
   "intro": {
     "uk": "Фіорди, водоспади, північне сяйво взимку й сонце опівночі влітку. Норвегія — для тих, хто шукає природу у найвищому її прояві.",
-    "pl": "Fiordy, wodospady, zorza polarna zimą i słońce o północy latem. Norwegia jest dla tych, którzy szukają natury w najlepszym wydaniu."
+    "pl": "Fiordy, wodospady, zorza polarna zimą i słońce o północy latem. Norwegia jest dla tych, którzy szukają natury w najlepszym wydaniu.",
+    "en": "Fjords, waterfalls, northern lights in winter and the midnight sun in summer. Norway is for those who want nature at its most dramatic."
   },
   "cities": [
-    { "id": "no-oslo", "name": { "uk": "Осло", "pl": "Oslo" }, "wiki": "Oslo", "lat": 59.91, "lng": 10.75, "blurb": { "uk": "Оперний театр, по даху якого можна гуляти, і музей вікінгів.", "pl": "Opera, po której dachu można spacerować, i muzeum wikingów." } },
-    { "id": "no-bergen", "name": { "uk": "Берген", "pl": "Bergen" }, "wiki": "Bergen", "lat": 60.39, "lng": 5.32, "blurb": { "uk": "Кольорова набережна Брюгген — ворота до фіордів.", "pl": "Kolorowe nabrzeże Bryggen — brama do fiordów." } },
-    { "id": "no-tromso", "name": { "uk": "Тромсе", "pl": "Tromsø" }, "wiki": "Tromsø", "lat": 69.65, "lng": 18.96, "blurb": { "uk": "Столиця північного сяйва за Полярним колом.", "pl": "Stolica zorzy polarnej za kołem podbiegunowym." } },
-    { "id": "no-lofoten", "name": { "uk": "Лофотени", "pl": "Lofoty" }, "wiki": "Lofoten", "lat": 68.23, "lng": 14.56, "blurb": { "uk": "Червоні рибальські будиночки під гострими горами.", "pl": "Czerwone domki rybackie pod ostrymi szczytami." } }
+    {
+      "id": "no-oslo",
+      "name": {
+        "uk": "Осло",
+        "pl": "Oslo",
+        "en": "Oslo"
+      },
+      "wiki": "Oslo",
+      "lat": 59.91,
+      "lng": 10.75,
+      "blurb": {
+        "uk": "Оперний театр, по даху якого можна гуляти, і музей вікінгів.",
+        "pl": "Opera, po której dachu można spacerować, i muzeum wikingów.",
+        "en": "An opera house you can walk on and the Viking Ship Museum."
+      }
+    },
+    {
+      "id": "no-bergen",
+      "name": {
+        "uk": "Берген",
+        "pl": "Bergen",
+        "en": "Bergen"
+      },
+      "wiki": "Bergen",
+      "lat": 60.39,
+      "lng": 5.32,
+      "blurb": {
+        "uk": "Кольорова набережна Брюгген — ворота до фіордів.",
+        "pl": "Kolorowe nabrzeże Bryggen — brama do fiordów.",
+        "en": "The colourful Bryggen wharf — the gateway to the fjords."
+      }
+    },
+    {
+      "id": "no-tromso",
+      "name": {
+        "uk": "Тромсе",
+        "pl": "Tromsø",
+        "en": "Tromsø"
+      },
+      "wiki": "Tromsø",
+      "lat": 69.65,
+      "lng": 18.96,
+      "blurb": {
+        "uk": "Столиця північного сяйва за Полярним колом.",
+        "pl": "Stolica zorzy polarnej za kołem podbiegunowym.",
+        "en": "The northern-lights capital above the Arctic Circle."
+      }
+    },
+    {
+      "id": "no-lofoten",
+      "name": {
+        "uk": "Лофотени",
+        "pl": "Lofoty",
+        "en": "Lofoten"
+      },
+      "wiki": "Lofoten",
+      "lat": 68.23,
+      "lng": 14.56,
+      "blurb": {
+        "uk": "Червоні рибальські будиночки під гострими горами.",
+        "pl": "Czerwone domki rybackie pod ostrymi szczytami.",
+        "en": "Red fishermen’s cabins beneath jagged peaks."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Норвезький лосось", "pl": "Łosoś norweski" }, "description": { "uk": "Свіжий або копчений лосось з холодних фіордів.", "pl": "Świeży lub wędzony łosoś z zimnych fiordów." } },
-    { "name": { "uk": "Брюност", "pl": "Brunost" }, "description": { "uk": "Коричневий карамельний сир на вафлях.", "pl": "Brązowy karmelowy ser na goframach." } },
-    { "name": { "uk": "Фор-і-коль", "pl": "Fårikål" }, "description": { "uk": "Національна страва з баранини та капусти.", "pl": "Narodowe danie z baraniny i kapusty." } }
+    {
+      "name": {
+        "uk": "Норвезький лосось",
+        "pl": "Łosoś norweski",
+        "en": "Norwegian salmon"
+      },
+      "description": {
+        "uk": "Свіжий або копчений лосось з холодних фіордів.",
+        "pl": "Świeży lub wędzony łosoś z zimnych fiordów.",
+        "en": "Fresh or smoked salmon from cold fjords."
+      }
+    },
+    {
+      "name": {
+        "uk": "Брюност",
+        "pl": "Brunost",
+        "en": "Brunost"
+      },
+      "description": {
+        "uk": "Коричневий карамельний сир на вафлях.",
+        "pl": "Brązowy karmelowy ser na goframach.",
+        "en": "Brown caramel cheese on waffles."
+      }
+    },
+    {
+      "name": {
+        "uk": "Фор-і-коль",
+        "pl": "Fårikål",
+        "en": "Fårikål"
+      },
+      "description": {
+        "uk": "Національна страва з баранини та капусти.",
+        "pl": "Narodowe danie z baraniny i kapusty.",
+        "en": "The national dish of lamb and cabbage."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Влітку на півночі Норвегії сонце не заходить кілька тижнів.", "pl": "Latem na północy Norwegii słońce nie zachodzi przez kilka tygodni." },
-    { "uk": "Тунель Лердаль завдовжки 24,5 км — найдовший автомобільний тунель у світі.", "pl": "Tunel Lærdal o długości 24,5 km jest najdłuższym tunelem drogowym na świecie." },
-    { "uk": "Понад 80% нових автомобілів у Норвегії — електромобілі.", "pl": "Ponad 80% nowych samochodów w Norwegii to auta elektryczne." }
+    {
+      "uk": "Влітку на півночі Норвегії сонце не заходить кілька тижнів.",
+      "pl": "Latem na północy Norwegii słońce nie zachodzi przez kilka tygodni.",
+      "en": "In northern Norway the sun doesn’t set for weeks in summer."
+    },
+    {
+      "uk": "Тунель Лердаль завдовжки 24,5 км — найдовший автомобільний тунель у світі.",
+      "pl": "Tunel Lærdal o długości 24,5 km jest najdłuższym tunelem drogowym na świecie.",
+      "en": "The 24.5 km Lærdal Tunnel is the longest road tunnel in the world."
+    },
+    {
+      "uk": "Понад 80% нових автомобілів у Норвегії — електромобілі.",
+      "pl": "Ponad 80% nowych samochodów w Norwegii to auta elektryczne.",
+      "en": "Over 80% of new cars sold in Norway are electric."
+    }
   ],
-  "bestMonths": [6, 7, 8, 12, 1, 2],
+  "bestMonths": [
+    6,
+    7,
+    8,
+    12,
+    1,
+    2
+  ],
   "dailyCost": 110,
-  "tags": ["nature", "mountains", "sea", "comfort"],
-  "airport": { "code": "OSL", "name": "Oslo Gardermoen", "lat": 60.19, "lng": 11.1 },
+  "tags": [
+    "nature",
+    "mountains",
+    "sea",
+    "comfort"
+  ],
+  "airport": {
+    "code": "OSL",
+    "name": "Oslo Gardermoen",
+    "lat": 60.19,
+    "lng": 11.1
+  },
   "hotels": [
-    { "id": "no-h1", "name": "Oslo Fjord Hostel", "cityId": "no-oslo", "tier": "budget", "stars": 2, "pricePerNight": 70, "capacity": 2, "tags": ["city"], "description": { "uk": "Найдоступніший варіант у центрі дорогого Осло.", "pl": "Najtańsza opcja w centrum drogiego Oslo." } },
-    { "id": "no-h2", "name": "Bryggen Harbour Hotel", "cityId": "no-bergen", "tier": "3", "stars": 3, "pricePerNight": 135, "capacity": 2, "tags": ["history", "sea", "couples"], "description": { "uk": "Готель на ганзейській набережній Бергена.", "pl": "Hotel na hanzeatyckim nabrzeżu Bergen." } },
-    { "id": "no-h3", "name": "Arctic Aurora Hotel", "cityId": "no-tromso", "tier": "4", "stars": 4, "pricePerNight": 190, "capacity": 4, "tags": ["nature", "family", "comfort"], "description": { "uk": "Готель з турами на полювання за північним сяйвом.", "pl": "Hotel z wycieczkami na łowy zorzy polarnej." } },
-    { "id": "no-h4", "name": "Lofoten Rorbu Boutique", "cityId": "no-lofoten", "tier": "boutique", "stars": 4, "pricePerNight": 230, "capacity": 4, "tags": ["sea", "mountains", "nature", "couples"], "description": { "uk": "Відреставровані рибальські хатинки на палях над водою.", "pl": "Odrestaurowane chaty rybackie na palach nad wodą." } },
-    { "id": "no-h5", "name": "Oslo Opera Grand", "cityId": "no-oslo", "tier": "5", "stars": 5, "pricePerNight": 380, "capacity": 3, "tags": ["comfort", "city"], "description": { "uk": "Дизайнерський готель біля опери з панорамною сауною.", "pl": "Designerski hotel przy operze z panoramiczną sauną." } }
+    {
+      "id": "no-h1",
+      "name": "Oslo Fjord Hostel",
+      "cityId": "no-oslo",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "city"
+      ],
+      "description": {
+        "uk": "Найдоступніший варіант у центрі дорогого Осло.",
+        "pl": "Najtańsza opcja w centrum drogiego Oslo.",
+        "en": "The most affordable option in the heart of pricey Oslo."
+      }
+    },
+    {
+      "id": "no-h2",
+      "name": "Bryggen Harbour Hotel",
+      "cityId": "no-bergen",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 135,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "sea",
+        "couples"
+      ],
+      "description": {
+        "uk": "Готель на ганзейській набережній Бергена.",
+        "pl": "Hotel na hanzeatyckim nabrzeżu Bergen.",
+        "en": "A hotel on Bergen’s Hanseatic wharf."
+      }
+    },
+    {
+      "id": "no-h3",
+      "name": "Arctic Aurora Hotel",
+      "cityId": "no-tromso",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 190,
+      "capacity": 4,
+      "tags": [
+        "nature",
+        "family",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Готель з турами на полювання за північним сяйвом.",
+        "pl": "Hotel z wycieczkami na łowy zorzy polarnej.",
+        "en": "A hotel with northern-lights hunting tours."
+      }
+    },
+    {
+      "id": "no-h4",
+      "name": "Lofoten Rorbu Boutique",
+      "cityId": "no-lofoten",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 230,
+      "capacity": 4,
+      "tags": [
+        "sea",
+        "mountains",
+        "nature",
+        "couples"
+      ],
+      "description": {
+        "uk": "Відреставровані рибальські хатинки на палях над водою.",
+        "pl": "Odrestaurowane chaty rybackie na palach nad wodą.",
+        "en": "Restored fishermen’s cabins on stilts above the water."
+      }
+    },
+    {
+      "id": "no-h5",
+      "name": "Oslo Opera Grand",
+      "cityId": "no-oslo",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 380,
+      "capacity": 3,
+      "tags": [
+        "comfort",
+        "city"
+      ],
+      "description": {
+        "uk": "Дизайнерський готель біля опери з панорамною сауною.",
+        "pl": "Designerski hotel przy operze z panoramiczną sauną.",
+        "en": "A design hotel by the opera with a panoramic sauna."
+      }
+    }
   ],
   "cars": [
-    { "id": "no-c1", "class": "economy", "model": "VW ID.3", "pricePerDay": 60, "seats": 5 },
-    { "id": "no-c2", "class": "suv", "model": "Volvo XC60", "pricePerDay": 105, "seats": 5 },
-    { "id": "no-c3", "class": "premium", "model": "Polestar 2", "pricePerDay": 150, "seats": 5 }
+    {
+      "id": "no-c1",
+      "class": "economy",
+      "model": "VW ID.3",
+      "pricePerDay": 60,
+      "seats": 5
+    },
+    {
+      "id": "no-c2",
+      "class": "suv",
+      "model": "Volvo XC60",
+      "pricePerDay": 105,
+      "seats": 5
+    },
+    {
+      "id": "no-c3",
+      "class": "premium",
+      "model": "Polestar 2",
+      "pricePerDay": 150,
+      "seats": 5
+    }
   ]
 }

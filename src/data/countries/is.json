@@ -3,67 +3,77 @@
   "wiki": "Iceland",
   "capital": {
     "uk": "Рейк'явік",
-    "pl": "Reykjavik"
+    "pl": "Reykjavik",
+    "en": "Reykjavík"
   },
   "intro": {
     "uk": "Вулкани, гейзери, льодовики, водоспади й північне сяйво — Ісландія схожа на іншу планету. Найкраще її досліджувати на машині.",
-    "pl": "Wulkany, gejzery, lodowce, wodospady i zorza polarna — Islandia przypomina inną planetę. Najlepiej zwiedzać ją samochodem."
+    "pl": "Wulkany, gejzery, lodowce, wodospady i zorza polarna — Islandia przypomina inną planetę. Najlepiej zwiedzać ją samochodem.",
+    "en": "Volcanoes, geysers, glaciers, waterfalls and the northern lights — Iceland feels like another planet. It’s best explored by car."
   },
   "cities": [
     {
       "id": "is-reykjavik",
       "name": {
         "uk": "Рейк'явік",
-        "pl": "Reykjavik"
+        "pl": "Reykjavik",
+        "en": "Reykjavík"
       },
       "wiki": "Reykjavík",
       "lat": 64.15,
       "lng": -21.94,
       "blurb": {
         "uk": "Церква Гатльґрімскірк'я та кольорові дахи.",
-        "pl": "Kościół Hallgrímskirkja i kolorowe dachy."
+        "pl": "Kościół Hallgrímskirkja i kolorowe dachy.",
+        "en": "Hallgrímskirkja and colourful rooftops."
       }
     },
     {
       "id": "is-golden-circle",
       "name": {
         "uk": "Золоте кільце",
-        "pl": "Złoty Krąg"
+        "pl": "Złoty Krąg",
+        "en": "Golden Circle"
       },
       "wiki": "Golden Circle (Iceland)",
       "lat": 64.31,
       "lng": -20.3,
       "blurb": {
         "uk": "Гейзер, водоспад Гюдльфосс і Тінгвеллір.",
-        "pl": "Gejzer, wodospad Gullfoss i Þingvellir."
+        "pl": "Gejzer, wodospad Gullfoss i Þingvellir.",
+        "en": "Geysir, Gullfoss waterfall and Þingvellir."
       }
     },
     {
       "id": "is-vik",
       "name": {
         "uk": "Вік",
-        "pl": "Vík"
+        "pl": "Vík",
+        "en": "Vík"
       },
       "wiki": "Vík í Mýrdal",
       "lat": 63.42,
       "lng": -19.01,
       "blurb": {
         "uk": "Чорний пляж і базальтові колони.",
-        "pl": "Czarna plaża i bazaltowe kolumny."
+        "pl": "Czarna plaża i bazaltowe kolumny.",
+        "en": "A black-sand beach and basalt columns."
       }
     },
     {
       "id": "is-blue-lagoon",
       "name": {
         "uk": "Блакитна лагуна",
-        "pl": "Błękitna Laguna"
+        "pl": "Błękitna Laguna",
+        "en": "Blue Lagoon"
       },
       "wiki": "Blue Lagoon (geothermal spa)",
       "lat": 63.88,
       "lng": -22.45,
       "blurb": {
         "uk": "Геотермальне спа серед лави.",
-        "pl": "Geotermalne spa wśród lawy."
+        "pl": "Geotermalne spa wśród lawy.",
+        "en": "A geothermal spa among the lava fields."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Скир",
-        "pl": "Skyr"
+        "pl": "Skyr",
+        "en": "Skyr"
       },
       "description": {
         "uk": "Густий молочний продукт, схожий на йогурт.",
-        "pl": "Gęsty produkt mleczny podobny do jogurtu."
+        "pl": "Gęsty produkt mleczny podobny do jogurtu.",
+        "en": "A thick dairy product similar to yoghurt."
       }
     },
     {
       "name": {
         "uk": "Ісландський хот-дог",
-        "pl": "Islandzki hot dog"
+        "pl": "Islandzki hot dog",
+        "en": "Icelandic hot dog"
       },
       "description": {
         "uk": "З баранячою сосискою та хрусткою цибулею.",
-        "pl": "Z jagnięcą parówką i chrupiącą cebulką."
+        "pl": "Z jagnięcą parówką i chrupiącą cebulką.",
+        "en": "With lamb sausage and crispy onions."
       }
     },
     {
       "name": {
         "uk": "Суп з баранини",
-        "pl": "Zupa jagnięca"
+        "pl": "Zupa jagnięca",
+        "en": "Lamb soup"
       },
       "description": {
         "uk": "Kjötsúpa — гарячий суп для холодних днів.",
-        "pl": "Kjötsúpa — gorąca zupa na zimne dni."
+        "pl": "Kjötsúpa — gorąca zupa na zimne dni.",
+        "en": "Kjötsúpa — a hot soup for cold days."
       }
     }
   ],
   "facts": [
     {
       "uk": "В Ісландії немає комарів.",
-      "pl": "Na Islandii nie ma komarów."
+      "pl": "Na Islandii nie ma komarów.",
+      "en": "There are no mosquitoes in Iceland."
     },
     {
       "uk": "Альтинг — один з найстаріших парламентів світу, з 930 року.",
-      "pl": "Althing to jeden z najstarszych parlamentów świata, od 930 roku."
+      "pl": "Althing to jeden z najstarszych parlamentów świata, od 930 roku.",
+      "en": "The Althing, founded in 930, is one of the oldest parliaments."
     },
     {
       "uk": "Майже вся електрика тут з відновлюваних джерел.",
-      "pl": "Prawie cała energia elektryczna pochodzi tu ze źródeł odnawialnych."
+      "pl": "Prawie cała energia elektryczna pochodzi tu ze źródeł odnawialnych.",
+      "en": "Almost all electricity here comes from renewable sources."
     }
   ],
   "bestMonths": [
@@ -150,7 +169,8 @@
       ],
       "description": {
         "uk": "Хостел у колишній фабриці печива.",
-        "pl": "Hostel w dawnej fabryce ciastek."
+        "pl": "Hostel w dawnej fabryce ciastek.",
+        "en": "A hostel in a former biscuit factory."
       }
     },
     {
@@ -167,7 +187,8 @@
       ],
       "description": {
         "uk": "Готель з видом на гейзер Строккюр.",
-        "pl": "Hotel z widokiem na gejzer Strokkur."
+        "pl": "Hotel z widokiem na gejzer Strokkur.",
+        "en": "A hotel overlooking the Strokkur geyser."
       }
     },
     {
@@ -184,7 +205,8 @@
       ],
       "description": {
         "uk": "Сучасний готель біля чорного пляжу.",
-        "pl": "Nowoczesny hotel przy czarnej plaży."
+        "pl": "Nowoczesny hotel przy czarnej plaży.",
+        "en": "A modern hotel by the black beach."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Бутик ар-деко в центрі Рейк'явіка.",
-        "pl": "Butik art déco w centrum Reykjaviku."
+        "pl": "Butik art déco w centrum Reykjaviku.",
+        "en": "An Art Deco boutique in central Reykjavík."
       }
     },
     {
@@ -218,7 +241,8 @@
       ],
       "description": {
         "uk": "Номери з виходом просто в лагуну.",
-        "pl": "Pokoje z wyjściem prosto do laguny."
+        "pl": "Pokoje z wyjściem prosto do laguny.",
+        "en": "Suites that open straight onto the lagoon."
       }
     }
   ],

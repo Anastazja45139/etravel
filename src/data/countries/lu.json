@@ -3,53 +3,61 @@
   "wiki": "Luxembourg",
   "capital": {
     "uk": "Люксембург",
-    "pl": "Luksemburg"
+    "pl": "Luksemburg",
+    "en": "Luxembourg"
   },
   "intro": {
     "uk": "Фортеця на скелях, казкові долини й безкоштовний громадський транспорт по всій країні. Люксембург — ідеальний для коротких вихідних.",
-    "pl": "Twierdza na skałach, bajkowe doliny i darmowa komunikacja publiczna w całym kraju. Luksemburg jest idealny na krótki weekend."
+    "pl": "Twierdza na skałach, bajkowe doliny i darmowa komunikacja publiczna w całym kraju. Luksemburg jest idealny na krótki weekend.",
+    "en": "A fortress on the rocks, fairy-tale valleys and free public transport nationwide. Luxembourg is perfect for a short weekend."
   },
   "cities": [
     {
       "id": "lu-luxembourg",
       "name": {
         "uk": "Люксембург",
-        "pl": "Luksemburg"
+        "pl": "Luksemburg",
+        "en": "Luxembourg City"
       },
       "wiki": "Luxembourg City",
       "lat": 49.61,
       "lng": 6.13,
       "blurb": {
         "uk": "Казамати Бок і квартал Грунд біля річки.",
-        "pl": "Kazamaty Bock i dzielnica Grund nad rzeką."
+        "pl": "Kazamaty Bock i dzielnica Grund nad rzeką.",
+        "en": "The Bock Casemates and the riverside Grund quarter."
       }
     },
     {
       "id": "lu-vianden",
       "name": {
         "uk": "Віанден",
-        "pl": "Vianden"
+        "pl": "Vianden",
+        "en": "Vianden"
       },
       "wiki": "Vianden",
       "lat": 49.93,
       "lng": 6.21,
       "blurb": {
         "uk": "Величний замок над містечком і канатна дорога.",
-        "pl": "Majestatyczny zamek nad miasteczkiem i kolejka linowa."
+        "pl": "Majestatyczny zamek nad miasteczkiem i kolejka linowa.",
+        "en": "A majestic castle above the town and a chairlift."
       }
     },
     {
       "id": "lu-mullerthal",
       "name": {
         "uk": "Мюллерталь",
-        "pl": "Mullerthal"
+        "pl": "Mullerthal",
+        "en": "Mullerthal"
       },
       "wiki": "Mullerthal",
       "lat": 49.79,
       "lng": 6.33,
       "blurb": {
         "uk": "«Маленька Швейцарія» — скелі, ліси й водоспади.",
-        "pl": "„Mała Szwajcaria” — skały, lasy i wodospady."
+        "pl": "„Mała Szwajcaria” — skały, lasy i wodospady.",
+        "en": "“Little Switzerland” — rocks, forests and waterfalls."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Юдд мат Гардебоунен",
-        "pl": "Judd mat Gaardebounen"
+        "pl": "Judd mat Gaardebounen",
+        "en": "Judd mat Gaardebounen"
       },
       "description": {
         "uk": "Копчена свинина з бобами — національна страва.",
-        "pl": "Wędzona wieprzowina z bobem — danie narodowe."
+        "pl": "Wędzona wieprzowina z bobem — danie narodowe.",
+        "en": "Smoked pork with broad beans — the national dish."
       }
     },
     {
       "name": {
         "uk": "Громперекіхельхер",
-        "pl": "Gromperekichelcher"
+        "pl": "Gromperekichelcher",
+        "en": "Gromperekichelcher"
       },
       "description": {
         "uk": "Картопляні оладки з ярмарків.",
-        "pl": "Placki ziemniaczane z jarmarków."
+        "pl": "Placki ziemniaczane z jarmarków.",
+        "en": "Potato fritters from the fairs."
       }
     },
     {
       "name": {
         "uk": "Мозельські вина",
-        "pl": "Wina mozelskie"
+        "pl": "Wina mozelskie",
+        "en": "Moselle wines"
       },
       "description": {
         "uk": "Ріслінг і креман з долини Мозеля.",
-        "pl": "Riesling i crémant z doliny Mozeli."
+        "pl": "Riesling i crémant z doliny Mozeli.",
+        "en": "Riesling and crémant from the Moselle valley."
       }
     }
   ],
   "facts": [
     {
       "uk": "Весь громадський транспорт у країні безкоштовний.",
-      "pl": "Cała komunikacja publiczna w kraju jest bezpłatna."
+      "pl": "Cała komunikacja publiczna w kraju jest bezpłatna.",
+      "en": "All public transport in the country is free."
     },
     {
       "uk": "Люксембург — єдине велике герцогство у світі.",
-      "pl": "Luksemburg to jedyne wielkie księstwo na świecie."
+      "pl": "Luksemburg to jedyne wielkie księstwo na świecie.",
+      "en": "Luxembourg is the world’s only grand duchy."
     },
     {
       "uk": "Тут три офіційні мови: люксембурзька, французька й німецька.",
-      "pl": "Są tu trzy języki urzędowe: luksemburski, francuski i niemiecki."
+      "pl": "Są tu trzy języki urzędowe: luksemburski, francuski i niemiecki.",
+      "en": "It has three official languages: Luxembourgish, French and German."
     }
   ],
   "bestMonths": [
@@ -134,7 +151,8 @@
       ],
       "description": {
         "uk": "Хостел під стінами фортеці в долині Альзетт.",
-        "pl": "Hostel pod murami twierdzy w dolinie Alzette."
+        "pl": "Hostel pod murami twierdzy w dolinie Alzette.",
+        "en": "A hostel below the fortress walls in the Alzette valley."
       }
     },
     {
@@ -151,7 +169,8 @@
       ],
       "description": {
         "uk": "Затишний готель у будинку, де жив Віктор Гюго.",
-        "pl": "Przytulny hotel w domu, w którym mieszkał Victor Hugo."
+        "pl": "Przytulny hotel w domu, w którym mieszkał Victor Hugo.",
+        "en": "A cosy hotel in the house where Victor Hugo lived."
       }
     },
     {
@@ -168,7 +187,8 @@
       ],
       "description": {
         "uk": "Готель біля стежок Мюллерталь.",
-        "pl": "Hotel przy szlakach Mullerthal."
+        "pl": "Hotel przy szlakach Mullerthal.",
+        "en": "A hotel on the Mullerthal trails."
       }
     },
     {
@@ -185,7 +205,8 @@
       ],
       "description": {
         "uk": "Арт-бутик із сучасним мистецтвом у центрі.",
-        "pl": "Butik artystyczny ze sztuką współczesną w centrum."
+        "pl": "Butik artystyczny ze sztuką współczesną w centrum.",
+        "en": "An art boutique with contemporary art in the centre."
       }
     },
     {
@@ -202,7 +223,8 @@
       ],
       "description": {
         "uk": "Люкс на бульварі Руаяль зі спа.",
-        "pl": "Luksusowy hotel przy Boulevard Royal ze spa."
+        "pl": "Luksusowy hotel przy Boulevard Royal ze spa.",
+        "en": "A luxury hotel on Boulevard Royal with a spa."
       }
     }
   ],

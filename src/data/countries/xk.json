@@ -3,53 +3,61 @@
   "wiki": "Kosovo",
   "capital": {
     "uk": "Приштина",
-    "pl": "Prisztina"
+    "pl": "Prisztina",
+    "en": "Pristina"
   },
   "intro": {
     "uk": "Наймолодша країна Європи з енергійною столицею, османською Прізреном і горами Ругова. Тут дуже дешево й дуже гостинно.",
-    "pl": "Najmłodszy kraj Europy z energiczną stolicą, osmańskim Prizrenem i górami Rugova. Jest tu bardzo tanio i bardzo gościnnie."
+    "pl": "Najmłodszy kraj Europy z energiczną stolicą, osmańskim Prizrenem i górami Rugova. Jest tu bardzo tanio i bardzo gościnnie.",
+    "en": "Europe’s youngest country, with an energetic capital, Ottoman Prizren and the Rugova mountains. It is very affordable and very welcoming."
   },
   "cities": [
     {
       "id": "xk-pristina",
       "name": {
         "uk": "Приштина",
-        "pl": "Prisztina"
+        "pl": "Prisztina",
+        "en": "Pristina"
       },
       "wiki": "Pristina",
       "lat": 42.66,
       "lng": 21.17,
       "blurb": {
         "uk": "Пам'ятник NEWBORN і кав'ярні бульвару.",
-        "pl": "Pomnik NEWBORN i kawiarnie bulwaru."
+        "pl": "Pomnik NEWBORN i kawiarnie bulwaru.",
+        "en": "The NEWBORN monument and boulevard cafés."
       }
     },
     {
       "id": "xk-prizren",
       "name": {
         "uk": "Прізрен",
-        "pl": "Prizren"
+        "pl": "Prizren",
+        "en": "Prizren"
       },
       "wiki": "Prizren",
       "lat": 42.21,
       "lng": 20.74,
       "blurb": {
         "uk": "Кам'яний міст, мечеті й фортеця над містом.",
-        "pl": "Kamienny most, meczety i twierdza nad miastem."
+        "pl": "Kamienny most, meczety i twierdza nad miastem.",
+        "en": "A stone bridge, mosques and a fortress above the town."
       }
     },
     {
       "id": "xk-peja",
       "name": {
         "uk": "Печ і каньйон Ругова",
-        "pl": "Peć i kanion Rugova"
+        "pl": "Peć i kanion Rugova",
+        "en": "Peja & Rugova Canyon"
       },
       "wiki": "Rugova Canyon",
       "lat": 42.66,
       "lng": 20.29,
       "blurb": {
         "uk": "Віа-ферата й гірські стежки.",
-        "pl": "Via ferrata i górskie szlaki."
+        "pl": "Via ferrata i górskie szlaki.",
+        "en": "A via ferrata and mountain trails."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Флія",
-        "pl": "Flija"
+        "pl": "Flija",
+        "en": "Flija"
       },
       "description": {
         "uk": "Шаруватий пиріг, що печеться годинами.",
-        "pl": "Warstwowy placek pieczony godzinami."
+        "pl": "Warstwowy placek pieczony godzinami.",
+        "en": "A layered pie baked for hours."
       }
     },
     {
       "name": {
         "uk": "Макіато",
-        "pl": "Makiato"
+        "pl": "Makiato",
+        "en": "Macchiato"
       },
       "description": {
         "uk": "Місцеве макіато — гордість кавової культури.",
-        "pl": "Lokalne macchiato — duma kultury kawowej."
+        "pl": "Lokalne macchiato — duma kultury kawowej.",
+        "en": "The local macchiato — pride of the coffee culture."
       }
     },
     {
       "name": {
         "uk": "Пите",
-        "pl": "Pite"
+        "pl": "Pite",
+        "en": "Pite"
       },
       "description": {
         "uk": "Пиріг зі шпинатом або сиром.",
-        "pl": "Placek ze szpinakiem lub serem."
+        "pl": "Placek ze szpinakiem lub serem.",
+        "en": "A pie with spinach or cheese."
       }
     }
   ],
   "facts": [
     {
       "uk": "Косово проголосило незалежність 2008 року.",
-      "pl": "Kosowo ogłosiło niepodległość w 2008 roku."
+      "pl": "Kosowo ogłosiło niepodległość w 2008 roku.",
+      "en": "Kosovo declared independence in 2008."
     },
     {
       "uk": "Середній вік населення — близько 30 років, один з найнижчих у Європі.",
-      "pl": "Średni wiek mieszkańców to około 30 lat, jeden z najniższych w Europie."
+      "pl": "Średni wiek mieszkańców to około 30 lat, jeden z najniższych w Europie.",
+      "en": "The median age is about 30, one of the lowest in Europe."
     },
     {
       "uk": "Офіційна валюта — євро, хоча країна не в ЄС.",
-      "pl": "Oficjalną walutą jest euro, choć kraj nie należy do UE."
+      "pl": "Oficjalną walutą jest euro, choć kraj nie należy do UE.",
+      "en": "Its official currency is the euro, though it is not in the EU."
     }
   ],
   "bestMonths": [
@@ -133,7 +150,8 @@
       ],
       "description": {
         "uk": "Затишний хостел у центрі.",
-        "pl": "Przytulny hostel w centrum."
+        "pl": "Przytulny hostel w centrum.",
+        "en": "A cosy hostel in the centre."
       }
     },
     {
@@ -150,7 +168,8 @@
       ],
       "description": {
         "uk": "Готель біля кам'яного мосту.",
-        "pl": "Hotel przy kamiennym moście."
+        "pl": "Hotel przy kamiennym moście.",
+        "en": "A hotel by the stone bridge."
       }
     },
     {
@@ -167,7 +186,8 @@
       ],
       "description": {
         "uk": "Гірський готель на початку каньйону.",
-        "pl": "Górski hotel na początku kanionu."
+        "pl": "Górski hotel na początku kanionu.",
+        "en": "A mountain hotel at the start of the canyon."
       }
     },
     {
@@ -184,7 +204,8 @@
       ],
       "description": {
         "uk": "Бутик в османському будинку.",
-        "pl": "Butik w osmańskim domu."
+        "pl": "Butik w osmańskim domu.",
+        "en": "A boutique in an Ottoman house."
       }
     },
     {
@@ -201,7 +222,8 @@
       ],
       "description": {
         "uk": "Найкращий люкс Приштини.",
-        "pl": "Najlepszy luksusowy hotel w Prisztinie."
+        "pl": "Najlepszy luksusowy hotel w Prisztinie.",
+        "en": "Pristina’s best luxury hotel."
       }
     }
   ],

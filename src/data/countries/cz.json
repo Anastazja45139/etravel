@@ -3,67 +3,77 @@
   "wiki": "Czech Republic",
   "capital": {
     "uk": "Прага",
-    "pl": "Praga"
+    "pl": "Praga",
+    "en": "Prague"
   },
   "intro": {
     "uk": "Готичні шпилі Праги, чеське пиво за копійки й замки на кожному пагорбі. Чехія — одна з найкрасивіших і найдоступніших країн Європи.",
-    "pl": "Gotyckie iglice Pragi, tanie czeskie piwo i zamki na każdym wzgórzu. Czechy to jeden z najpiękniejszych i najtańszych krajów Europy."
+    "pl": "Gotyckie iglice Pragi, tanie czeskie piwo i zamki na każdym wzgórzu. Czechy to jeden z najpiękniejszych i najtańszych krajów Europy.",
+    "en": "Prague’s Gothic spires, cheap Czech beer and a castle on every hill. Czechia is one of Europe’s most beautiful and affordable countries."
   },
   "cities": [
     {
       "id": "cz-prague",
       "name": {
         "uk": "Прага",
-        "pl": "Praga"
+        "pl": "Praga",
+        "en": "Prague"
       },
       "wiki": "Prague",
       "lat": 50.08,
       "lng": 14.42,
       "blurb": {
         "uk": "Карлів міст, астрономічний годинник і Празький град.",
-        "pl": "Most Karola, zegar astronomiczny i Hradczany."
+        "pl": "Most Karola, zegar astronomiczny i Hradczany.",
+        "en": "Charles Bridge, the astronomical clock and Prague Castle."
       }
     },
     {
       "id": "cz-cesky-krumlov",
       "name": {
         "uk": "Чеський Крумлов",
-        "pl": "Czeski Krumlow"
+        "pl": "Czeski Krumlow",
+        "en": "Český Krumlov"
       },
       "wiki": "Český Krumlov",
       "lat": 48.81,
       "lng": 14.32,
       "blurb": {
         "uk": "Казкове містечко в закруті Влтави.",
-        "pl": "Bajkowe miasteczko w zakolu Wełtawy."
+        "pl": "Bajkowe miasteczko w zakolu Wełtawy.",
+        "en": "A fairy-tale town in a bend of the Vltava."
       }
     },
     {
       "id": "cz-karlovy-vary",
       "name": {
         "uk": "Карлові Вари",
-        "pl": "Karlowe Wary"
+        "pl": "Karlowe Wary",
+        "en": "Karlovy Vary"
       },
       "wiki": "Karlovy Vary",
       "lat": 50.23,
       "lng": 12.87,
       "blurb": {
         "uk": "Мінеральні джерела та колонади курорту.",
-        "pl": "Źródła mineralne i kolumnady uzdrowiska."
+        "pl": "Źródła mineralne i kolumnady uzdrowiska.",
+        "en": "Mineral springs and spa colonnades."
       }
     },
     {
       "id": "cz-brno",
       "name": {
         "uk": "Брно",
-        "pl": "Brno"
+        "pl": "Brno",
+        "en": "Brno"
       },
       "wiki": "Brno",
       "lat": 49.2,
       "lng": 16.61,
       "blurb": {
         "uk": "Студентське місто з вілою Тугендгат.",
-        "pl": "Studenckie miasto z willą Tugendhatów."
+        "pl": "Studenckie miasto z willą Tugendhatów.",
+        "en": "A student city with the Villa Tugendhat."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Свічкова",
-        "pl": "Svíčková"
+        "pl": "Svíčková",
+        "en": "Svíčková"
       },
       "description": {
         "uk": "Яловичина у вершковому соусі з кнедликами.",
-        "pl": "Wołowina w sosie śmietanowym z knedlikami."
+        "pl": "Wołowina w sosie śmietanowym z knedlikami.",
+        "en": "Beef in a creamy sauce with dumplings."
       }
     },
     {
       "name": {
         "uk": "Трдельник",
-        "pl": "Trdelník"
+        "pl": "Trdelník",
+        "en": "Trdelník"
       },
       "description": {
         "uk": "Солодка трубочка, спечена на вогні.",
-        "pl": "Słodki rulon pieczony nad ogniem."
+        "pl": "Słodki rulon pieczony nad ogniem.",
+        "en": "A sweet pastry roll baked over a fire."
       }
     },
     {
       "name": {
         "uk": "Смажений сир",
-        "pl": "Smažený sýr"
+        "pl": "Smažený sýr",
+        "en": "Smažený sýr"
       },
       "description": {
         "uk": "Сир у паніровці з соусом тартар.",
-        "pl": "Ser w panierce z sosem tatarskim."
+        "pl": "Ser w panierce z sosem tatarskim.",
+        "en": "Breaded fried cheese with tartar sauce."
       }
     }
   ],
   "facts": [
     {
       "uk": "Чехи п'ють найбільше пива на людину у світі.",
-      "pl": "Czesi piją najwięcej piwa na osobę na świecie."
+      "pl": "Czesi piją najwięcej piwa na osobę na świecie.",
+      "en": "Czechs drink the most beer per person in the world."
     },
     {
       "uk": "У Чехії понад 2000 замків.",
-      "pl": "W Czechach jest ponad 2000 zamków."
+      "pl": "W Czechach jest ponad 2000 zamków.",
+      "en": "Czechia has over 2,000 castles."
     },
     {
       "uk": "Слово «робот» вигадав чеський письменник Карел Чапек.",
-      "pl": "Słowo „robot” wymyślił czeski pisarz Karel Čapek."
+      "pl": "Słowo „robot” wymyślił czeski pisarz Karel Čapek.",
+      "en": "The word “robot” was coined by Czech writer Karel Čapek."
     }
   ],
   "bestMonths": [
@@ -151,7 +170,8 @@
       ],
       "description": {
         "uk": "Дизайнерський хостел у районі Віногради.",
-        "pl": "Designerski hostel na Vinohradach."
+        "pl": "Designerski hostel na Vinohradach.",
+        "en": "A design hostel in Vinohrady."
       }
     },
     {
@@ -167,7 +187,8 @@
       ],
       "description": {
         "uk": "Класичний готель на головній площі Брно.",
-        "pl": "Klasyczny hotel na rynku w Brnie."
+        "pl": "Klasyczny hotel na rynku w Brnie.",
+        "en": "A classic hotel on Brno’s main square."
       }
     },
     {
@@ -184,7 +205,8 @@
       ],
       "description": {
         "uk": "Курортний готель з басейном і процедурами.",
-        "pl": "Hotel uzdrowiskowy z basenem i zabiegami."
+        "pl": "Hotel uzdrowiskowy z basenem i zabiegami.",
+        "en": "A spa hotel with a pool and treatments."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Ренесансний монастир, перетворений на готель.",
-        "pl": "Renesansowy klasztor zamieniony w hotel."
+        "pl": "Renesansowy klasztor zamieniony w hotel.",
+        "en": "A Renaissance monastery turned hotel."
       }
     },
     {
@@ -219,7 +242,8 @@
       ],
       "description": {
         "uk": "Люкс на березі Влтави з видом на Карлів міст.",
-        "pl": "Luksus nad Wełtawą z widokiem na Most Karola."
+        "pl": "Luksus nad Wełtawą z widokiem na Most Karola.",
+        "en": "Luxury on the Vltava with a view of Charles Bridge."
       }
     }
   ],

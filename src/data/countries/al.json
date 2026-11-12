@@ -1,41 +1,274 @@
 {
   "iso2": "AL",
   "wiki": "Albania",
-  "capital": { "uk": "Тирана", "pl": "Tirana" },
+  "capital": {
+    "uk": "Тирана",
+    "pl": "Tirana",
+    "en": "Tirana"
+  },
   "intro": {
     "uk": "Бірюзове Іонічне море, османські містечка на схилах гір і одні з найдоступніших цін у Європі. Албанія — секрет, який швидко перестає бути секретом.",
-    "pl": "Turkusowe Morze Jońskie, osmańskie miasteczka na zboczach gór i jedne z najniższych cen w Europie. Albania to sekret, który szybko przestaje być sekretem."
+    "pl": "Turkusowe Morze Jońskie, osmańskie miasteczka na zboczach gór i jedne z najniższych cen w Europie. Albania to sekret, który szybko przestaje być sekretem.",
+    "en": "Turquoise Ionian Sea, Ottoman towns on mountain slopes and some of the lowest prices in Europe. Albania is a secret that is quickly ceasing to be one."
   },
   "cities": [
-    { "id": "al-tirana", "name": { "uk": "Тирана", "pl": "Tirana" }, "wiki": "Tirana", "lat": 41.33, "lng": 19.82, "blurb": { "uk": "Кольорові будинки, бункер-музей і жвавий район Блоку.", "pl": "Kolorowe kamienice, bunkier-muzeum i tętniąca dzielnica Blloku." } },
-    { "id": "al-ksamil", "name": { "uk": "Ксаміль", "pl": "Ksamil" }, "wiki": "Ksamil", "lat": 39.77, "lng": 20.0, "blurb": { "uk": "Острівці з білим піском і вода кольору Мальдів.", "pl": "Wysepki z białym piaskiem i woda w kolorze Malediwów." } },
-    { "id": "al-berat", "name": { "uk": "Берат", "pl": "Berat" }, "wiki": "Berat", "lat": 40.7, "lng": 19.95, "blurb": { "uk": "«Місто тисячі вікон» під охороною ЮНЕСКО.", "pl": "„Miasto tysiąca okien” wpisane na listę UNESCO." } },
-    { "id": "al-sarande", "name": { "uk": "Саранда", "pl": "Saranda" }, "wiki": "Sarandë", "lat": 39.87, "lng": 20.0, "blurb": { "uk": "Курортна набережна та пороми на Корфу.", "pl": "Kurortowa promenada i promy na Korfu." } }
+    {
+      "id": "al-tirana",
+      "name": {
+        "uk": "Тирана",
+        "pl": "Tirana",
+        "en": "Tirana"
+      },
+      "wiki": "Tirana",
+      "lat": 41.33,
+      "lng": 19.82,
+      "blurb": {
+        "uk": "Кольорові будинки, бункер-музей і жвавий район Блоку.",
+        "pl": "Kolorowe kamienice, bunkier-muzeum i tętniąca dzielnica Blloku.",
+        "en": "Colourful façades, a bunker museum and the lively Blloku district."
+      }
+    },
+    {
+      "id": "al-ksamil",
+      "name": {
+        "uk": "Ксаміль",
+        "pl": "Ksamil",
+        "en": "Ksamil"
+      },
+      "wiki": "Ksamil",
+      "lat": 39.77,
+      "lng": 20,
+      "blurb": {
+        "uk": "Острівці з білим піском і вода кольору Мальдів.",
+        "pl": "Wysepki z białym piaskiem i woda w kolorze Malediwów.",
+        "en": "White-sand islets and water the colour of the Maldives."
+      }
+    },
+    {
+      "id": "al-berat",
+      "name": {
+        "uk": "Берат",
+        "pl": "Berat",
+        "en": "Berat"
+      },
+      "wiki": "Berat",
+      "lat": 40.7,
+      "lng": 19.95,
+      "blurb": {
+        "uk": "«Місто тисячі вікон» під охороною ЮНЕСКО.",
+        "pl": "„Miasto tysiąca okien” wpisane na listę UNESCO.",
+        "en": "The UNESCO-listed “City of a Thousand Windows”."
+      }
+    },
+    {
+      "id": "al-sarande",
+      "name": {
+        "uk": "Саранда",
+        "pl": "Saranda",
+        "en": "Sarandë"
+      },
+      "wiki": "Sarandë",
+      "lat": 39.87,
+      "lng": 20,
+      "blurb": {
+        "uk": "Курортна набережна та пороми на Корфу.",
+        "pl": "Kurortowa promenada i promy na Korfu.",
+        "en": "A resort promenade and ferries to Corfu."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Тава-коси", "pl": "Tavë kosi" }, "description": { "uk": "Запечена баранина з йогуртом і яйцями — національна страва.", "pl": "Zapiekana jagnięcina z jogurtem i jajkami — danie narodowe." } },
-    { "name": { "uk": "Бирек", "pl": "Byrek" }, "description": { "uk": "Листкове тісто зі шпинатом, сиром або м'ясом на сніданок.", "pl": "Ciasto filo ze szpinakiem, serem lub mięsem na śniadanie." } },
-    { "name": { "uk": "Фергесе", "pl": "Fërgesë" }, "description": { "uk": "Тушковані перці з помідорами та сиром, який подають у глиняному горщику.", "pl": "Duszone papryki z pomidorami i serem podawane w glinianym garnku." } }
+    {
+      "name": {
+        "uk": "Тава-коси",
+        "pl": "Tavë kosi",
+        "en": "Tavë kosi"
+      },
+      "description": {
+        "uk": "Запечена баранина з йогуртом і яйцями — національна страва.",
+        "pl": "Zapiekana jagnięcina z jogurtem i jajkami — danie narodowe.",
+        "en": "Baked lamb with yoghurt and eggs — the national dish."
+      }
+    },
+    {
+      "name": {
+        "uk": "Бирек",
+        "pl": "Byrek",
+        "en": "Byrek"
+      },
+      "description": {
+        "uk": "Листкове тісто зі шпинатом, сиром або м'ясом на сніданок.",
+        "pl": "Ciasto filo ze szpinakiem, serem lub mięsem na śniadanie.",
+        "en": "Filo pastry with spinach, cheese or meat for breakfast."
+      }
+    },
+    {
+      "name": {
+        "uk": "Фергесе",
+        "pl": "Fërgesë",
+        "en": "Fërgesë"
+      },
+      "description": {
+        "uk": "Тушковані перці з помідорами та сиром, який подають у глиняному горщику.",
+        "pl": "Duszone papryki z pomidorami i serem podawane w glinianym garnku.",
+        "en": "Stewed peppers with tomatoes and cheese, served in a clay pot."
+      }
+    }
   ],
   "facts": [
-    { "uk": "В Албанії побудували понад 170 тисяч бункерів за часів Енвера Ходжі.", "pl": "Za czasów Envera Hodży w Albanii zbudowano ponad 170 tysięcy bunkrów." },
-    { "uk": "Кивок головою тут часто означає «ні», а похитування — «так».", "pl": "Kiwanie głową często oznacza tu „nie”, a kręcenie — „tak”." },
-    { "uk": "Мати Тереза мала албанське походження; її ім'ям названо аеропорт Тирани.", "pl": "Matka Teresa była Albanką; jej imię nosi lotnisko w Tiranie." }
+    {
+      "uk": "В Албанії побудували понад 170 тисяч бункерів за часів Енвера Ходжі.",
+      "pl": "Za czasów Envera Hodży w Albanii zbudowano ponad 170 tysięcy bunkrów.",
+      "en": "Over 170,000 bunkers were built in Albania under Enver Hoxha."
+    },
+    {
+      "uk": "Кивок головою тут часто означає «ні», а похитування — «так».",
+      "pl": "Kiwanie głową często oznacza tu „nie”, a kręcenie — „tak”.",
+      "en": "A nod here often means “no” and a head shake means “yes”."
+    },
+    {
+      "uk": "Мати Тереза мала албанське походження; її ім'ям названо аеропорт Тирани.",
+      "pl": "Matka Teresa była Albanką; jej imię nosi lotnisko w Tiranie.",
+      "en": "Mother Teresa was of Albanian descent; Tirana airport bears her name."
+    }
   ],
-  "bestMonths": [5, 6, 7, 8, 9],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
   "dailyCost": 30,
-  "tags": ["sea", "history", "nature", "food", "mountains"],
-  "airport": { "code": "TIA", "name": "Tirana Nënë Tereza", "lat": 41.41, "lng": 19.72 },
+  "tags": [
+    "sea",
+    "history",
+    "nature",
+    "food",
+    "mountains"
+  ],
+  "airport": {
+    "code": "TIA",
+    "name": "Tirana Nënë Tereza",
+    "lat": 41.41,
+    "lng": 19.72
+  },
   "hotels": [
-    { "id": "al-h1", "name": "Blloku Backpackers", "cityId": "al-tirana", "tier": "budget", "stars": 2, "pricePerNight": 18, "capacity": 2, "tags": ["city", "nightlife"], "description": { "uk": "Хостел із терасою в найжвавішому районі Тирани.", "pl": "Hostel z tarasem w najżywszej dzielnicy Tirany." } },
-    { "id": "al-h2", "name": "Hotel Mangalem View", "cityId": "al-berat", "tier": "3", "stars": 3, "pricePerNight": 40, "capacity": 2, "tags": ["history", "couples"], "description": { "uk": "Кам'яний будинок в османському кварталі з видом на фортецю.", "pl": "Kamienny dom w dzielnicy osmańskiej z widokiem na twierdzę." } },
-    { "id": "al-h3", "name": "Ionian Blue Resort", "cityId": "al-sarande", "tier": "4", "stars": 4, "pricePerNight": 75, "capacity": 3, "tags": ["sea", "family", "nightlife"], "description": { "uk": "Готель на набережній з басейном і власним пляжем.", "pl": "Hotel przy promenadzie z basenem i własną plażą." } },
-    { "id": "al-h4", "name": "Ksamil Lagoon Suites", "cityId": "al-ksamil", "tier": "boutique", "stars": 4, "pricePerNight": 105, "capacity": 2, "tags": ["sea", "couples", "nature"], "description": { "uk": "Невеликі сюїти просто над бірюзовою лагуною.", "pl": "Kameralne apartamenty tuż nad turkusową laguną." } },
-    { "id": "al-h5", "name": "Riviera Royal Albania", "cityId": "al-ksamil", "tier": "5", "stars": 5, "pricePerNight": 185, "capacity": 3, "tags": ["sea", "comfort", "family"], "description": { "uk": "П'ятизірковий курорт з інфініті-басейном і SPA.", "pl": "Pięciogwiazdkowy kurort z basenem infinity i SPA." } }
+    {
+      "id": "al-h1",
+      "name": "Blloku Backpackers",
+      "cityId": "al-tirana",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 18,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел із терасою в найжвавішому районі Тирани.",
+        "pl": "Hostel z tarasem w najżywszej dzielnicy Tirany.",
+        "en": "A hostel with a terrace in Tirana’s liveliest district."
+      }
+    },
+    {
+      "id": "al-h2",
+      "name": "Hotel Mangalem View",
+      "cityId": "al-berat",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples"
+      ],
+      "description": {
+        "uk": "Кам'яний будинок в османському кварталі з видом на фортецю.",
+        "pl": "Kamienny dom w dzielnicy osmańskiej z widokiem na twierdzę.",
+        "en": "A stone house in the Ottoman quarter overlooking the castle."
+      }
+    },
+    {
+      "id": "al-h3",
+      "name": "Ionian Blue Resort",
+      "cityId": "al-sarande",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 75,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Готель на набережній з басейном і власним пляжем.",
+        "pl": "Hotel przy promenadzie z basenem i własną plażą.",
+        "en": "A seafront hotel with a pool and private beach."
+      }
+    },
+    {
+      "id": "al-h4",
+      "name": "Ksamil Lagoon Suites",
+      "cityId": "al-ksamil",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 105,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "couples",
+        "nature"
+      ],
+      "description": {
+        "uk": "Невеликі сюїти просто над бірюзовою лагуною.",
+        "pl": "Kameralne apartamenty tuż nad turkusową laguną.",
+        "en": "Small suites right above the turquoise lagoon."
+      }
+    },
+    {
+      "id": "al-h5",
+      "name": "Riviera Royal Albania",
+      "cityId": "al-ksamil",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 185,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "comfort",
+        "family"
+      ],
+      "description": {
+        "uk": "П'ятизірковий курорт з інфініті-басейном і SPA.",
+        "pl": "Pięciogwiazdkowy kurort z basenem infinity i SPA.",
+        "en": "A five-star resort with an infinity pool and spa."
+      }
+    }
   ],
   "cars": [
-    { "id": "al-c1", "class": "economy", "model": "Fiat Panda", "pricePerDay": 25, "seats": 4 },
-    { "id": "al-c2", "class": "suv", "model": "Dacia Duster", "pricePerDay": 45, "seats": 5 },
-    { "id": "al-c3", "class": "premium", "model": "Audi A6", "pricePerDay": 95, "seats": 5 }
+    {
+      "id": "al-c1",
+      "class": "economy",
+      "model": "Fiat Panda",
+      "pricePerDay": 25,
+      "seats": 4
+    },
+    {
+      "id": "al-c2",
+      "class": "suv",
+      "model": "Dacia Duster",
+      "pricePerDay": 45,
+      "seats": 5
+    },
+    {
+      "id": "al-c3",
+      "class": "premium",
+      "model": "Audi A6",
+      "pricePerDay": 95,
+      "seats": 5
+    }
   ]
 }

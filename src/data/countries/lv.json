@@ -3,53 +3,61 @@
   "wiki": "Latvia",
   "capital": {
     "uk": "Рига",
-    "pl": "Ryga"
+    "pl": "Ryga",
+    "en": "Riga"
   },
   "intro": {
     "uk": "Ар-нуво Риги, дюни Юрмали, середньовічні замки й соснові ліси. Латвія поєднує столичний шарм і тихий балтійський відпочинок.",
-    "pl": "Secesja Rygi, wydmy Jurmały, średniowieczne zamki i sosnowe lasy. Łotwa łączy stołeczny urok z cichym bałtyckim wypoczynkiem."
+    "pl": "Secesja Rygi, wydmy Jurmały, średniowieczne zamki i sosnowe lasy. Łotwa łączy stołeczny urok z cichym bałtyckim wypoczynkiem.",
+    "en": "Riga’s Art Nouveau, the dunes of Jūrmala, medieval castles and pine forests. Latvia combines big-city charm with quiet Baltic holidays."
   },
   "cities": [
     {
       "id": "lv-riga",
       "name": {
         "uk": "Рига",
-        "pl": "Ryga"
+        "pl": "Ryga",
+        "en": "Riga"
       },
       "wiki": "Riga",
       "lat": 56.95,
       "lng": 24.11,
       "blurb": {
         "uk": "Дім Чорноголових і найбільший ринок у цепелінах.",
-        "pl": "Dom Bractwa Czarnogłowych i targ w hangarach zeppelinów."
+        "pl": "Dom Bractwa Czarnogłowych i targ w hangarach zeppelinów.",
+        "en": "The House of the Blackheads and a market in zeppelin hangars."
       }
     },
     {
       "id": "lv-jurmala",
       "name": {
         "uk": "Юрмала",
-        "pl": "Jurmała"
+        "pl": "Jurmała",
+        "en": "Jūrmala"
       },
       "wiki": "Jūrmala",
       "lat": 56.97,
       "lng": 23.77,
       "blurb": {
         "uk": "33 км піщаного пляжу та дерев'яні вілли.",
-        "pl": "33 km piaszczystej plaży i drewniane wille."
+        "pl": "33 km piaszczystej plaży i drewniane wille.",
+        "en": "33 km of sandy beach and wooden villas."
       }
     },
     {
       "id": "lv-sigulda",
       "name": {
         "uk": "Сігулда",
-        "pl": "Sigulda"
+        "pl": "Sigulda",
+        "en": "Sigulda"
       },
       "wiki": "Sigulda",
       "lat": 57.15,
       "lng": 24.86,
       "blurb": {
         "uk": "«Латвійська Швейцарія» з замками й канатною дорогою.",
-        "pl": "„Łotewska Szwajcaria” z zamkami i kolejką linową."
+        "pl": "„Łotewska Szwajcaria” z zamkami i kolejką linową.",
+        "en": "“Latvian Switzerland” with castles and a cable car."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Сірий горох із салом",
-        "pl": "Szary groch ze słoniną"
+        "pl": "Szary groch ze słoniną",
+        "en": "Grey peas with bacon"
       },
       "description": {
         "uk": "Традиційна страва з копченим беконом.",
-        "pl": "Tradycyjne danie z wędzonym boczkiem."
+        "pl": "Tradycyjne danie z wędzonym boczkiem.",
+        "en": "A traditional dish with smoked bacon."
       }
     },
     {
       "name": {
         "uk": "Ризький бальзам",
-        "pl": "Balsam Ryski"
+        "pl": "Balsam Ryski",
+        "en": "Riga Black Balsam"
       },
       "description": {
         "uk": "Трав'яний лікер за рецептом 1752 року.",
-        "pl": "Ziołowy likier według receptury z 1752 roku."
+        "pl": "Ziołowy likier według receptury z 1752 roku.",
+        "en": "A herbal liqueur made to a 1752 recipe."
       }
     },
     {
       "name": {
         "uk": "Пирагі",
-        "pl": "Pīrāgi"
+        "pl": "Pīrāgi",
+        "en": "Pīrāgi"
       },
       "description": {
         "uk": "Пиріжки з беконом і цибулею.",
-        "pl": "Pierożki z boczkiem i cebulą."
+        "pl": "Pierożki z boczkiem i cebulą.",
+        "en": "Buns filled with bacon and onion."
       }
     }
   ],
   "facts": [
     {
       "uk": "У Ризі понад третину будівель центру — у стилі ар-нуво.",
-      "pl": "Ponad jedna trzecia budynków centrum Rygi to secesja."
+      "pl": "Ponad jedna trzecia budynków centrum Rygi to secesja.",
+      "en": "Over a third of Riga’s central buildings are Art Nouveau."
     },
     {
       "uk": "Ялинку вперше прикрасили саме в Ризі 1510 року (за легендою).",
-      "pl": "Według legendy pierwszą choinkę ubrano w Rydze w 1510 roku."
+      "pl": "Według legendy pierwszą choinkę ubrano w Rydze w 1510 roku.",
+      "en": "Legend says the first Christmas tree was decorated in Riga in 1510."
     },
     {
       "uk": "Майже половина Латвії вкрита лісами.",
-      "pl": "Prawie połowę Łotwy pokrywają lasy."
+      "pl": "Prawie połowę Łotwy pokrywają lasy.",
+      "en": "Almost half of Latvia is covered by forest."
     }
   ],
   "bestMonths": [
@@ -135,7 +152,8 @@
       ],
       "description": {
         "uk": "Затишний хостел біля вокзалу й ринку.",
-        "pl": "Przytulny hostel przy dworcu i targu."
+        "pl": "Przytulny hostel przy dworcu i targu.",
+        "en": "A cosy hostel by the station and market."
       }
     },
     {
@@ -152,7 +170,8 @@
       ],
       "description": {
         "uk": "Готель у центрі Сігулди поряд із замком.",
-        "pl": "Hotel w centrum Siguldy obok zamku."
+        "pl": "Hotel w centrum Siguldy obok zamku.",
+        "en": "A hotel in central Sigulda next to the castle."
       }
     },
     {
@@ -170,7 +189,8 @@
       ],
       "description": {
         "uk": "Спа-готель просто на пляжі Юрмали.",
-        "pl": "Hotel ze spa tuż przy plaży w Jurmale."
+        "pl": "Hotel ze spa tuż przy plaży w Jurmale.",
+        "en": "A spa hotel right on Jūrmala beach."
       }
     },
     {
@@ -187,7 +207,8 @@
       ],
       "description": {
         "uk": "Бутик в ар-нуво будинку старої Риги.",
-        "pl": "Butik w secesyjnej kamienicy starej Rygi."
+        "pl": "Butik w secesyjnej kamienicy starej Rygi.",
+        "en": "A boutique in an Art Nouveau building in old Riga."
       }
     },
     {
@@ -204,7 +225,8 @@
       ],
       "description": {
         "uk": "Класичний люкс у старому місті.",
-        "pl": "Klasyczny luksus na starym mieście."
+        "pl": "Klasyczny luksus na starym mieście.",
+        "en": "Classic luxury in the old town."
       }
     }
   ],

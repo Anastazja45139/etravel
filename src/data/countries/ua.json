@@ -1,43 +1,290 @@
 {
   "iso2": "UA",
   "wiki": "Ukraine",
-  "capital": { "uk": "Київ", "pl": "Kijów" },
+  "capital": {
+    "uk": "Київ",
+    "pl": "Kijów",
+    "en": "Kyiv"
+  },
   "intro": {
     "uk": "Країна золотоверхих соборів, Карпатських полонин і чорноморського узбережжя. Україна дивує поєднанням тисячолітньої історії, гостинності та кухні, яку хочеться пробувати знову й знову.",
-    "pl": "Kraj złotych kopuł, karpackich połonin i czarnomorskiego wybrzeża. Ukraina zaskakuje połączeniem tysiącletniej historii, gościnności i kuchni, do której chce się wracać."
+    "pl": "Kraj złotych kopuł, karpackich połonin i czarnomorskiego wybrzeża. Ukraina zaskakuje połączeniem tysiącletniej historii, gościnności i kuchni, do której chce się wracać.",
+    "en": "A land of golden-domed cathedrals, Carpathian meadows and the Black Sea coast. Ukraine surprises with a thousand years of history, warm hospitality and food you want to try again and again."
   },
   "cities": [
-    { "id": "ua-kyiv", "name": { "uk": "Київ", "pl": "Kijów" }, "wiki": "Kyiv", "lat": 50.45, "lng": 30.52, "blurb": { "uk": "Києво-Печерська лавра, Андріївський узвіз і нескінченні каштани над Дніпром.", "pl": "Ławra Peczerska, Zjazd Andrijiwski i kasztany nad Dnieprem." } },
-    { "id": "ua-lviv", "name": { "uk": "Львів", "pl": "Lwów" }, "wiki": "Lviv", "lat": 49.84, "lng": 24.03, "blurb": { "uk": "Бруківка, кав'ярні та австрійська архітектура старого міста з ЮНЕСКО.", "pl": "Bruk, kawiarnie i austriacka architektura starówki wpisanej na listę UNESCO." } },
-    { "id": "ua-odesa", "name": { "uk": "Одеса", "pl": "Odessa" }, "wiki": "Odesa", "lat": 46.48, "lng": 30.72, "blurb": { "uk": "Потьомкінські сходи, оперний театр і знаменитий одеський гумор.", "pl": "Schody Potiomkinowskie, opera i słynny odeski humor." } },
-    { "id": "ua-yaremche", "name": { "uk": "Яремче", "pl": "Jaremcze" }, "wiki": "Yaremche", "lat": 48.45, "lng": 24.56, "blurb": { "uk": "Карпатське містечко з водоспадом Пробій і стежками на Говерлу.", "pl": "Karpackie miasteczko z wodospadem Probij i szlakami na Howerłę." } }
+    {
+      "id": "ua-kyiv",
+      "name": {
+        "uk": "Київ",
+        "pl": "Kijów",
+        "en": "Kyiv"
+      },
+      "wiki": "Kyiv",
+      "lat": 50.45,
+      "lng": 30.52,
+      "blurb": {
+        "uk": "Києво-Печерська лавра, Андріївський узвіз і нескінченні каштани над Дніпром.",
+        "pl": "Ławra Peczerska, Zjazd Andrijiwski i kasztany nad Dnieprem.",
+        "en": "The Kyiv Pechersk Lavra, Andriyivskyy Descent and endless chestnut trees above the Dnipro."
+      }
+    },
+    {
+      "id": "ua-lviv",
+      "name": {
+        "uk": "Львів",
+        "pl": "Lwów",
+        "en": "Lviv"
+      },
+      "wiki": "Lviv",
+      "lat": 49.84,
+      "lng": 24.03,
+      "blurb": {
+        "uk": "Бруківка, кав'ярні та австрійська архітектура старого міста з ЮНЕСКО.",
+        "pl": "Bruk, kawiarnie i austriacka architektura starówki wpisanej na listę UNESCO.",
+        "en": "Cobblestones, coffee houses and the UNESCO-listed Austrian old town."
+      }
+    },
+    {
+      "id": "ua-odesa",
+      "name": {
+        "uk": "Одеса",
+        "pl": "Odessa",
+        "en": "Odesa"
+      },
+      "wiki": "Odesa",
+      "lat": 46.48,
+      "lng": 30.72,
+      "blurb": {
+        "uk": "Потьомкінські сходи, оперний театр і знаменитий одеський гумор.",
+        "pl": "Schody Potiomkinowskie, opera i słynny odeski humor.",
+        "en": "The Potemkin Stairs, the opera house and famous Odesa humour."
+      }
+    },
+    {
+      "id": "ua-yaremche",
+      "name": {
+        "uk": "Яремче",
+        "pl": "Jaremcze",
+        "en": "Yaremche"
+      },
+      "wiki": "Yaremche",
+      "lat": 48.45,
+      "lng": 24.56,
+      "blurb": {
+        "uk": "Карпатське містечко з водоспадом Пробій і стежками на Говерлу.",
+        "pl": "Karpackie miasteczko z wodospadem Probij i szlakami na Howerłę.",
+        "en": "A Carpathian town with the Probiy waterfall and trails up Hoverla."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Борщ", "pl": "Barszcz ukraiński" }, "description": { "uk": "Буряковий суп зі сметаною та пампушками з часником — у кожної родини свій рецепт.", "pl": "Zupa buraczana ze śmietaną i czosnkowymi pampuszkami — każda rodzina ma swój przepis." } },
-    { "name": { "uk": "Вареники", "pl": "Wareniki" }, "description": { "uk": "Варені вареники з картоплею, сиром або вишнями.", "pl": "Gotowane pierogi z ziemniakami, twarogiem lub wiśniami." } },
-    { "name": { "uk": "Банош", "pl": "Banosz" }, "description": { "uk": "Гуцульська кукурудзяна каша на вершках з бринзою та шкварками.", "pl": "Huculska kasza kukurydziana na śmietanie z bryndzą i skwarkami." } },
-    { "name": { "uk": "Сирники", "pl": "Syrniki" }, "description": { "uk": "Ніжні оладки з сиру на сніданок зі сметаною чи варенням.", "pl": "Delikatne placuszki z twarogu na śniadanie ze śmietaną lub konfiturą." } }
+    {
+      "name": {
+        "uk": "Борщ",
+        "pl": "Barszcz ukraiński",
+        "en": "Borscht"
+      },
+      "description": {
+        "uk": "Буряковий суп зі сметаною та пампушками з часником — у кожної родини свій рецепт.",
+        "pl": "Zupa buraczana ze śmietaną i czosnkowymi pampuszkami — każda rodzina ma swój przepis.",
+        "en": "Beetroot soup with sour cream and garlic pampushky — every family has its own recipe."
+      }
+    },
+    {
+      "name": {
+        "uk": "Вареники",
+        "pl": "Wareniki",
+        "en": "Varenyky"
+      },
+      "description": {
+        "uk": "Варені вареники з картоплею, сиром або вишнями.",
+        "pl": "Gotowane pierogi z ziemniakami, twarogiem lub wiśniami.",
+        "en": "Boiled dumplings with potato, cottage cheese or cherries."
+      }
+    },
+    {
+      "name": {
+        "uk": "Банош",
+        "pl": "Banosz",
+        "en": "Banosh"
+      },
+      "description": {
+        "uk": "Гуцульська кукурудзяна каша на вершках з бринзою та шкварками.",
+        "pl": "Huculska kasza kukurydziana na śmietanie z bryndzą i skwarkami.",
+        "en": "Hutsul cornmeal porridge in cream with bryndza and crackling."
+      }
+    },
+    {
+      "name": {
+        "uk": "Сирники",
+        "pl": "Syrniki",
+        "en": "Syrnyky"
+      },
+      "description": {
+        "uk": "Ніжні оладки з сиру на сніданок зі сметаною чи варенням.",
+        "pl": "Delikatne placuszki z twarogu na śniadanie ze śmietaną lub konfiturą.",
+        "en": "Soft cottage-cheese pancakes for breakfast with sour cream or jam."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Україна — найбільша за площею країна, що повністю розташована в Європі.", "pl": "Ukraina to największy pod względem powierzchni kraj leżący w całości w Europie." },
-    { "uk": "Станція метро «Арсенальна» в Києві — одна з найглибших у світі (105 м).", "pl": "Stacja metra Arsenalna w Kijowie jest jedną z najgłębszych na świecie (105 m)." },
-    { "uk": "Тут виготовили Ан-225 «Мрія» — найбільший літак в історії.", "pl": "Tu zbudowano An-225 Mrija — największy samolot w historii." },
-    { "uk": "Повітряний простір закритий, тому подорож починається з аеропорту в Польщі та поїзда.", "pl": "Przestrzeń powietrzna jest zamknięta, więc podróż zaczyna się od lotniska w Polsce i pociągu." }
+    {
+      "uk": "Україна — найбільша за площею країна, що повністю розташована в Європі.",
+      "pl": "Ukraina to największy pod względem powierzchni kraj leżący w całości w Europie.",
+      "en": "Ukraine is the largest country lying entirely within Europe."
+    },
+    {
+      "uk": "Станція метро «Арсенальна» в Києві — одна з найглибших у світі (105 м).",
+      "pl": "Stacja metra Arsenalna w Kijowie jest jedną z najgłębszych na świecie (105 m).",
+      "en": "Kyiv’s Arsenalna metro station is one of the deepest in the world (105 m)."
+    },
+    {
+      "uk": "Тут виготовили Ан-225 «Мрія» — найбільший літак в історії.",
+      "pl": "Tu zbudowano An-225 Mrija — największy samolot w historii.",
+      "en": "The An-225 Mriya, the largest aircraft ever built, was made here."
+    },
+    {
+      "uk": "Повітряний простір закритий, тому подорож починається з аеропорту в Польщі та поїзда.",
+      "pl": "Przestrzeń powietrzna jest zamknięta, więc podróż zaczyna się od lotniska w Polsce i pociągu.",
+      "en": "The airspace is closed, so the trip starts at an airport in Poland and continues by train."
+    }
   ],
-  "bestMonths": [5, 6, 7, 8, 9],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
   "dailyCost": 35,
-  "tags": ["history", "food", "city", "mountains"],
-  "airport": { "code": "RZE", "name": "Rzeszów-Jasionka (Польща) + поїзд", "lat": 50.11, "lng": 22.02 },
+  "tags": [
+    "history",
+    "food",
+    "city",
+    "mountains"
+  ],
+  "airport": {
+    "code": "RZE",
+    "name": "Rzeszów-Jasionka (Польща) + поїзд",
+    "lat": 50.11,
+    "lng": 22.02
+  },
   "hotels": [
-    { "id": "ua-h1", "name": "Kotyk Hostel Lviv", "cityId": "ua-lviv", "tier": "budget", "stars": 2, "pricePerNight": 22, "capacity": 2, "tags": ["city", "history"], "description": { "uk": "Затишний хостел за п'ять хвилин від площі Ринок.", "pl": "Przytulny hostel pięć minut od Rynku." } },
-    { "id": "ua-h2", "name": "Dnipro View Hotel", "cityId": "ua-kyiv", "tier": "3", "stars": 3, "pricePerNight": 48, "capacity": 2, "tags": ["city", "family"], "description": { "uk": "Світлі номери з видом на Дніпро поруч із Подолом.", "pl": "Jasne pokoje z widokiem na Dniepr blisko Podola." } },
-    { "id": "ua-h3", "name": "Arcadia Sea Hotel", "cityId": "ua-odesa", "tier": "4", "stars": 4, "pricePerNight": 72, "capacity": 3, "tags": ["sea", "nightlife", "family"], "description": { "uk": "Сучасний готель біля пляжу Аркадія з басейном.", "pl": "Nowoczesny hotel przy plaży Arkadia z basenem." } },
-    { "id": "ua-h4", "name": "Smereka Boutique Chalet", "cityId": "ua-yaremche", "tier": "boutique", "stars": 4, "pricePerNight": 95, "capacity": 2, "tags": ["mountains", "nature", "couples"], "description": { "uk": "Дерев'яне шале з чаном і панорамою Карпат.", "pl": "Drewniany szalet z balią i panoramą Karpat." } },
-    { "id": "ua-h5", "name": "Grand Pechersk Palace", "cityId": "ua-kyiv", "tier": "5", "stars": 5, "pricePerNight": 165, "capacity": 2, "tags": ["comfort", "city", "history"], "description": { "uk": "Розкішний готель у центрі з SPA та рестораном високої кухні.", "pl": "Luksusowy hotel w centrum ze SPA i restauracją haute cuisine." } }
+    {
+      "id": "ua-h1",
+      "name": "Kotyk Hostel Lviv",
+      "cityId": "ua-lviv",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 22,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Затишний хостел за п'ять хвилин від площі Ринок.",
+        "pl": "Przytulny hostel pięć minut od Rynku.",
+        "en": "A cosy hostel five minutes from Rynok Square."
+      }
+    },
+    {
+      "id": "ua-h2",
+      "name": "Dnipro View Hotel",
+      "cityId": "ua-kyiv",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 48,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "family"
+      ],
+      "description": {
+        "uk": "Світлі номери з видом на Дніпро поруч із Подолом.",
+        "pl": "Jasne pokoje z widokiem na Dniepr blisko Podola.",
+        "en": "Bright rooms overlooking the Dnipro near Podil."
+      }
+    },
+    {
+      "id": "ua-h3",
+      "name": "Arcadia Sea Hotel",
+      "cityId": "ua-odesa",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 72,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "nightlife",
+        "family"
+      ],
+      "description": {
+        "uk": "Сучасний готель біля пляжу Аркадія з басейном.",
+        "pl": "Nowoczesny hotel przy plaży Arkadia z basenem.",
+        "en": "A modern hotel by Arkadia beach with a pool."
+      }
+    },
+    {
+      "id": "ua-h4",
+      "name": "Smereka Boutique Chalet",
+      "cityId": "ua-yaremche",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 95,
+      "capacity": 2,
+      "tags": [
+        "mountains",
+        "nature",
+        "couples"
+      ],
+      "description": {
+        "uk": "Дерев'яне шале з чаном і панорамою Карпат.",
+        "pl": "Drewniany szalet z balią i panoramą Karpat.",
+        "en": "A wooden chalet with a hot tub and Carpathian panorama."
+      }
+    },
+    {
+      "id": "ua-h5",
+      "name": "Grand Pechersk Palace",
+      "cityId": "ua-kyiv",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 165,
+      "capacity": 2,
+      "tags": [
+        "comfort",
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Розкішний готель у центрі з SPA та рестораном високої кухні.",
+        "pl": "Luksusowy hotel w centrum ze SPA i restauracją haute cuisine.",
+        "en": "A luxury city-centre hotel with a spa and fine dining."
+      }
+    }
   ],
   "cars": [
-    { "id": "ua-c1", "class": "economy", "model": "Renault Logan", "pricePerDay": 28, "seats": 5 },
-    { "id": "ua-c2", "class": "suv", "model": "Toyota RAV4", "pricePerDay": 55, "seats": 5 },
-    { "id": "ua-c3", "class": "premium", "model": "BMW 5 Series", "pricePerDay": 95, "seats": 5 }
+    {
+      "id": "ua-c1",
+      "class": "economy",
+      "model": "Renault Logan",
+      "pricePerDay": 28,
+      "seats": 5
+    },
+    {
+      "id": "ua-c2",
+      "class": "suv",
+      "model": "Toyota RAV4",
+      "pricePerDay": 55,
+      "seats": 5
+    },
+    {
+      "id": "ua-c3",
+      "class": "premium",
+      "model": "BMW 5 Series",
+      "pricePerDay": 95,
+      "seats": 5
+    }
   ]
 }

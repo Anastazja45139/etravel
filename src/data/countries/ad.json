@@ -3,53 +3,61 @@
   "wiki": "Andorra",
   "capital": {
     "uk": "Андорра-ла-Велья",
-    "pl": "Andora"
+    "pl": "Andora",
+    "en": "Andorra la Vella"
   },
   "intro": {
     "uk": "Гірська країна в Піренеях з лижними курортами, шопінгом без мит і термальними спа. Взимку — сноуборд, улітку — хайкінг.",
-    "pl": "Górskie państwo w Pirenejach z ośrodkami narciarskimi, zakupami bez cła i termami. Zimą snowboard, latem trekking."
+    "pl": "Górskie państwo w Pirenejach z ośrodkami narciarskimi, zakupami bez cła i termami. Zimą snowboard, latem trekking.",
+    "en": "A Pyrenean country of ski resorts, duty-free shopping and thermal spas. Snowboarding in winter, hiking in summer."
   },
   "cities": [
     {
       "id": "ad-andorra",
       "name": {
         "uk": "Андорра-ла-Велья",
-        "pl": "Andora"
+        "pl": "Andora",
+        "en": "Andorra la Vella"
       },
       "wiki": "Andorra la Vella",
       "lat": 42.51,
       "lng": 1.52,
       "blurb": {
         "uk": "Найвища столиця Європи та вулиці шопінгу.",
-        "pl": "Najwyżej położona stolica Europy i ulice zakupowe."
+        "pl": "Najwyżej położona stolica Europy i ulice zakupowe.",
+        "en": "Europe’s highest capital and its shopping streets."
       }
     },
     {
       "id": "ad-soldeu",
       "name": {
         "uk": "Сольдеу",
-        "pl": "Soldeu"
+        "pl": "Soldeu",
+        "en": "Soldeu"
       },
       "wiki": "Soldeu",
       "lat": 42.58,
       "lng": 1.67,
       "blurb": {
         "uk": "Центр гірськолижного курорту Грандваліра.",
-        "pl": "Centrum ośrodka narciarskiego Grandvalira."
+        "pl": "Centrum ośrodka narciarskiego Grandvalira.",
+        "en": "The heart of the Grandvalira ski area."
       }
     },
     {
       "id": "ad-ordino",
       "name": {
         "uk": "Ордіно",
-        "pl": "Ordino"
+        "pl": "Ordino",
+        "en": "Ordino"
       },
       "wiki": "Ordino",
       "lat": 42.56,
       "lng": 1.53,
       "blurb": {
         "uk": "Кам'яне село та стежки до озер Тристайна.",
-        "pl": "Kamienna wioska i szlaki do jezior Tristaina."
+        "pl": "Kamienna wioska i szlaki do jezior Tristaina.",
+        "en": "A stone village and trails to the Tristaina lakes."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Ескудела",
-        "pl": "Escudella"
+        "pl": "Escudella",
+        "en": "Escudella"
       },
       "description": {
         "uk": "Густий гірський суп з м'ясом і квасолею.",
-        "pl": "Gęsta górska zupa z mięsem i fasolą."
+        "pl": "Gęsta górska zupa z mięsem i fasolą.",
+        "en": "A thick mountain stew with meat and beans."
       }
     },
     {
       "name": {
         "uk": "Трінксат",
-        "pl": "Trinxat"
+        "pl": "Trinxat",
+        "en": "Trinxat"
       },
       "description": {
         "uk": "Капуста з картоплею та беконом.",
-        "pl": "Kapusta z ziemniakami i boczkiem."
+        "pl": "Kapusta z ziemniakami i boczkiem.",
+        "en": "Cabbage with potatoes and bacon."
       }
     },
     {
       "name": {
         "uk": "Кока",
-        "pl": "Coca"
+        "pl": "Coca",
+        "en": "Coca"
       },
       "description": {
         "uk": "Тонкий пиріг з овочами або солодкий.",
-        "pl": "Cienki placek z warzywami lub na słodko."
+        "pl": "Cienki placek z warzywami lub na słodko.",
+        "en": "A thin flatbread, savoury with vegetables or sweet."
       }
     }
   ],
   "facts": [
     {
       "uk": "Андорра має двох співправителів — президента Франції та єпископа.",
-      "pl": "Andora ma dwóch współksiążąt — prezydenta Francji i biskupa."
+      "pl": "Andora ma dwóch współksiążąt — prezydenta Francji i biskupa.",
+      "en": "Andorra has two co-princes: the President of France and a bishop."
     },
     {
       "uk": "Офіційна мова тут каталонська.",
-      "pl": "Językiem urzędowym jest kataloński."
+      "pl": "Językiem urzędowym jest kataloński.",
+      "en": "Its official language is Catalan."
     },
     {
       "uk": "Країна не має аеропорту та залізниці.",
-      "pl": "Kraj nie ma lotniska ani kolei."
+      "pl": "Kraj nie ma lotniska ani kolei.",
+      "en": "The country has no airport and no railway."
     }
   ],
   "bestMonths": [
@@ -134,7 +151,8 @@
       ],
       "description": {
         "uk": "Простий хостел поряд із канатною дорогою.",
-        "pl": "Prosty hostel obok kolejki linowej."
+        "pl": "Prosty hostel obok kolejki linowej.",
+        "en": "A simple hostel next to the cable car."
       }
     },
     {
@@ -151,7 +169,8 @@
       ],
       "description": {
         "uk": "Готель просто біля підйомника.",
-        "pl": "Hotel tuż przy wyciągu."
+        "pl": "Hotel tuż przy wyciągu.",
+        "en": "A hotel right by the ski lift."
       }
     },
     {
@@ -168,7 +187,8 @@
       ],
       "description": {
         "uk": "Тихий готель з видом на долину.",
-        "pl": "Cichy hotel z widokiem na dolinę."
+        "pl": "Cichy hotel z widokiem na dolinę.",
+        "en": "A quiet hotel with valley views."
       }
     },
     {
@@ -185,7 +205,8 @@
       ],
       "description": {
         "uk": "Родинний бутик з відомим рестораном.",
-        "pl": "Rodzinny butik ze znaną restauracją."
+        "pl": "Rodzinny butik ze znaną restauracją.",
+        "en": "A family-run boutique with a well-known restaurant."
       }
     },
     {
@@ -203,7 +224,8 @@
       ],
       "description": {
         "uk": "Альпійський люкс зі спа 5000 м².",
-        "pl": "Alpejski luksus ze spa o powierzchni 5000 m²."
+        "pl": "Alpejski luksus ze spa o powierzchni 5000 m².",
+        "en": "Alpine luxury with a 5,000 m² spa."
       }
     }
   ],

@@ -3,67 +3,77 @@
   "wiki": "Lithuania",
   "capital": {
     "uk": "Вільнюс",
-    "pl": "Wilno"
+    "pl": "Wilno",
+    "en": "Vilnius"
   },
   "intro": {
     "uk": "Барокове старе місто Вільнюса, замок на озері в Тракаї та дюни Куршської коси. Литва — тепла, зелена й дуже близька до Польщі.",
-    "pl": "Barokowe stare miasto Wilna, zamek na jeziorze w Trokach i wydmy Mierzei Kurońskiej. Litwa jest ciepła, zielona i bardzo bliska Polsce."
+    "pl": "Barokowe stare miasto Wilna, zamek na jeziorze w Trokach i wydmy Mierzei Kurońskiej. Litwa jest ciepła, zielona i bardzo bliska Polsce.",
+    "en": "Vilnius’s Baroque old town, Trakai’s island castle and the dunes of the Curonian Spit. Lithuania is warm, green and very close to Poland."
   },
   "cities": [
     {
       "id": "lt-vilnius",
       "name": {
         "uk": "Вільнюс",
-        "pl": "Wilno"
+        "pl": "Wilno",
+        "en": "Vilnius"
       },
       "wiki": "Vilnius",
       "lat": 54.69,
       "lng": 25.28,
       "blurb": {
         "uk": "Гостра Брама, республіка Ужупіс і костели.",
-        "pl": "Ostra Brama, republika Užupis i kościoły."
+        "pl": "Ostra Brama, republika Užupis i kościoły.",
+        "en": "The Gate of Dawn, the Republic of Užupis and churches."
       }
     },
     {
       "id": "lt-trakai",
       "name": {
         "uk": "Тракай",
-        "pl": "Troki"
+        "pl": "Troki",
+        "en": "Trakai"
       },
       "wiki": "Trakai",
       "lat": 54.65,
       "lng": 24.93,
       "blurb": {
         "uk": "Готичний замок на острові посеред озера.",
-        "pl": "Gotycki zamek na wyspie pośrodku jeziora."
+        "pl": "Gotycki zamek na wyspie pośrodku jeziora.",
+        "en": "A Gothic castle on an island in a lake."
       }
     },
     {
       "id": "lt-nida",
       "name": {
         "uk": "Нида",
-        "pl": "Nida"
+        "pl": "Nida",
+        "en": "Nida"
       },
       "wiki": "Nida, Lithuania",
       "lat": 55.3,
       "lng": 21,
       "blurb": {
         "uk": "Найвищі дюни Європи на Куршській косі.",
-        "pl": "Najwyższe wydmy Europy na Mierzei Kurońskiej."
+        "pl": "Najwyższe wydmy Europy na Mierzei Kurońskiej.",
+        "en": "Europe’s highest dunes on the Curonian Spit."
       }
     },
     {
       "id": "lt-kaunas",
       "name": {
         "uk": "Каунас",
-        "pl": "Kowno"
+        "pl": "Kowno",
+        "en": "Kaunas"
       },
       "wiki": "Kaunas",
       "lat": 54.9,
       "lng": 23.89,
       "blurb": {
         "uk": "Модерністська архітектура й старий замок.",
-        "pl": "Modernistyczna architektura i stary zamek."
+        "pl": "Modernistyczna architektura i stary zamek.",
+        "en": "Modernist architecture and an old castle."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Цепеліни",
-        "pl": "Cepeliny"
+        "pl": "Cepeliny",
+        "en": "Cepelinai"
       },
       "description": {
         "uk": "Картопляні кнедлі з м'ясом і шкварками.",
-        "pl": "Ziemniaczane kluski z mięsem i skwarkami."
+        "pl": "Ziemniaczane kluski z mięsem i skwarkami.",
+        "en": "Potato dumplings with meat and crackling."
       }
     },
     {
       "name": {
         "uk": "Шалтібарщай",
-        "pl": "Chłodnik litewski"
+        "pl": "Chłodnik litewski",
+        "en": "Šaltibarščiai"
       },
       "description": {
         "uk": "Рожевий холодник з буряка й кефіру.",
-        "pl": "Różowy chłodnik z buraków i kefiru."
+        "pl": "Różowy chłodnik z buraków i kefiru.",
+        "en": "Pink cold beetroot and kefir soup."
       }
     },
     {
       "name": {
         "uk": "Кибини",
-        "pl": "Kibiny"
+        "pl": "Kibiny",
+        "en": "Kibinai"
       },
       "description": {
         "uk": "Караїмські пиріжки з Тракая.",
-        "pl": "Karaimskie pierogi z Trok."
+        "pl": "Karaimskie pierogi z Trok.",
+        "en": "Karaim pastries from Trakai."
       }
     }
   ],
   "facts": [
     {
       "uk": "Литовська — одна з найархаїчніших індоєвропейських мов.",
-      "pl": "Litewski jest jednym z najbardziej archaicznych języków indoeuropejskich."
+      "pl": "Litewski jest jednym z najbardziej archaicznych języków indoeuropejskich.",
+      "en": "Lithuanian is one of the most archaic Indo-European languages."
     },
     {
       "uk": "Баскетбол — майже національна релігія Литви.",
-      "pl": "Koszykówka jest na Litwie niemal narodową religią."
+      "pl": "Koszykówka jest na Litwie niemal narodową religią.",
+      "en": "Basketball is almost a national religion in Lithuania."
     },
     {
       "uk": "Район Ужупіс у Вільнюсі має власну «конституцію».",
-      "pl": "Dzielnica Užupis w Wilnie ma własną „konstytucję”."
+      "pl": "Dzielnica Užupis w Wilnie ma własną „konstytucję”.",
+      "en": "Vilnius’s Užupis district has its own “constitution”."
     }
   ],
   "bestMonths": [
@@ -150,7 +169,8 @@
       ],
       "description": {
         "uk": "Найпопулярніший хостел Вільнюса.",
-        "pl": "Najpopularniejszy hostel w Wilnie."
+        "pl": "Najpopularniejszy hostel w Wilnie.",
+        "en": "The most popular hostel in Vilnius."
       }
     },
     {
@@ -168,7 +188,8 @@
       ],
       "description": {
         "uk": "Готель серед сосен біля дюн.",
-        "pl": "Hotel wśród sosen przy wydmach."
+        "pl": "Hotel wśród sosen przy wydmach.",
+        "en": "A hotel among the pines by the dunes."
       }
     },
     {
@@ -185,7 +206,8 @@
       ],
       "description": {
         "uk": "Готель з розкопками XVI століття в підвалі.",
-        "pl": "Hotel z wykopaliskami z XVI wieku w piwnicy."
+        "pl": "Hotel z wykopaliskami z XVI wieku w piwnicy.",
+        "en": "A hotel with 16th-century excavations in the cellar."
       }
     },
     {
@@ -202,7 +224,8 @@
       ],
       "description": {
         "uk": "Затишний бутик у старому місті.",
-        "pl": "Przytulny butik na starym mieście."
+        "pl": "Przytulny butik na starym mieście.",
+        "en": "A cosy boutique in the old town."
       }
     },
     {
@@ -219,7 +242,8 @@
       ],
       "description": {
         "uk": "Люкс з видом на Кафедральну площу.",
-        "pl": "Luksus z widokiem na Plac Katedralny."
+        "pl": "Luksus z widokiem na Plac Katedralny.",
+        "en": "Luxury overlooking Cathedral Square."
       }
     }
   ],

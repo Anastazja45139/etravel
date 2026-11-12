@@ -3,53 +3,61 @@
   "wiki": "Serbia",
   "capital": {
     "uk": "Белград",
-    "pl": "Belgrad"
+    "pl": "Belgrad",
+    "en": "Belgrade"
   },
   "intro": {
     "uk": "Нічне життя Белграда, фортеці на Дунаї, монастирі та щедра балканська кухня. Сербія вражає гостинністю й енергією.",
-    "pl": "Nocne życie Belgradu, twierdze nad Dunajem, monastery i obfita bałkańska kuchnia. Serbia zachwyca gościnnością i energią."
+    "pl": "Nocne życie Belgradu, twierdze nad Dunajem, monastery i obfita bałkańska kuchnia. Serbia zachwyca gościnnością i energią.",
+    "en": "Belgrade nightlife, fortresses on the Danube, monasteries and generous Balkan food. Serbia impresses with hospitality and energy."
   },
   "cities": [
     {
       "id": "rs-belgrade",
       "name": {
         "uk": "Белград",
-        "pl": "Belgrad"
+        "pl": "Belgrad",
+        "en": "Belgrade"
       },
       "wiki": "Belgrade",
       "lat": 44.82,
       "lng": 20.46,
       "blurb": {
         "uk": "Фортеця Калемегдан і клуби на річкових баржах.",
-        "pl": "Twierdza Kalemegdan i kluby na barkach."
+        "pl": "Twierdza Kalemegdan i kluby na barkach.",
+        "en": "Kalemegdan Fortress and clubs on river barges."
       }
     },
     {
       "id": "rs-novi-sad",
       "name": {
         "uk": "Нові-Сад",
-        "pl": "Nowy Sad"
+        "pl": "Nowy Sad",
+        "en": "Novi Sad"
       },
       "wiki": "Novi Sad",
       "lat": 45.27,
       "lng": 19.83,
       "blurb": {
         "uk": "Петроварадинська фортеця й фестиваль EXIT.",
-        "pl": "Twierdza Petrovaradin i festiwal EXIT."
+        "pl": "Twierdza Petrovaradin i festiwal EXIT.",
+        "en": "Petrovaradin Fortress and the EXIT festival."
       }
     },
     {
       "id": "rs-zlatibor",
       "name": {
         "uk": "Златибор",
-        "pl": "Zlatibor"
+        "pl": "Zlatibor",
+        "en": "Zlatibor"
       },
       "wiki": "Zlatibor",
       "lat": 43.73,
       "lng": 19.7,
       "blurb": {
         "uk": "Гірський курорт з найдовшою гондолою Балкан.",
-        "pl": "Górski kurort z najdłuższą gondolą na Bałkanach."
+        "pl": "Górski kurort z najdłuższą gondolą na Bałkanach.",
+        "en": "A mountain resort with the Balkans’ longest gondola."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Плєскавиця",
-        "pl": "Pljeskavica"
+        "pl": "Pljeskavica",
+        "en": "Pljeskavica"
       },
       "description": {
         "uk": "Великий балканський бургер на грилі.",
-        "pl": "Duży bałkański burger z grilla."
+        "pl": "Duży bałkański burger z grilla.",
+        "en": "A big grilled Balkan burger."
       }
     },
     {
       "name": {
         "uk": "Чевапчичі",
-        "pl": "Ćevapčići"
+        "pl": "Ćevapčići",
+        "en": "Ćevapčići"
       },
       "description": {
         "uk": "Ковбаски з фаршу з лепінею й каймаком.",
-        "pl": "Kiełbaski z mięsa mielonego z lepinją i kajmakiem."
+        "pl": "Kiełbaski z mięsa mielonego z lepinją i kajmakiem.",
+        "en": "Minced-meat sausages with lepinja and kajmak."
       }
     },
     {
       "name": {
         "uk": "Айвар",
-        "pl": "Ajvar"
+        "pl": "Ajvar",
+        "en": "Ajvar"
       },
       "description": {
         "uk": "Паста з печеного перцю та баклажанів.",
-        "pl": "Pasta z pieczonej papryki i bakłażana."
+        "pl": "Pasta z pieczonej papryki i bakłażana.",
+        "en": "A roasted pepper and aubergine relish."
       }
     }
   ],
   "facts": [
     {
       "uk": "Нікола Тесла був сербом за походженням.",
-      "pl": "Nikola Tesla był z pochodzenia Serbem."
+      "pl": "Nikola Tesla był z pochodzenia Serbem.",
+      "en": "Nikola Tesla was of Serbian descent."
     },
     {
       "uk": "Сербія — один з найбільших експортерів малини у світі.",
-      "pl": "Serbia jest jednym z największych eksporterów malin na świecie."
+      "pl": "Serbia jest jednym z największych eksporterów malin na świecie.",
+      "en": "Serbia is one of the world’s biggest raspberry exporters."
     },
     {
       "uk": "Белград руйнували й відбудовували понад 40 разів.",
-      "pl": "Belgrad był niszczony i odbudowywany ponad 40 razy."
+      "pl": "Belgrad był niszczony i odbudowywany ponad 40 razy.",
+      "en": "Belgrade has been destroyed and rebuilt more than 40 times."
     }
   ],
   "bestMonths": [
@@ -136,7 +153,8 @@
       ],
       "description": {
         "uk": "Хостел на головній пішохідній вулиці.",
-        "pl": "Hostel przy głównym deptaku."
+        "pl": "Hostel przy głównym deptaku.",
+        "en": "A hostel on the main pedestrian street."
       }
     },
     {
@@ -153,7 +171,8 @@
       ],
       "description": {
         "uk": "Готель усередині Петроварадинської фортеці.",
-        "pl": "Hotel wewnątrz twierdzy Petrovaradin."
+        "pl": "Hotel wewnątrz twierdzy Petrovaradin.",
+        "en": "A hotel inside Petrovaradin Fortress."
       }
     },
     {
@@ -170,7 +189,8 @@
       ],
       "description": {
         "uk": "Гірський готель з басейном і спа.",
-        "pl": "Górski hotel z basenem i spa."
+        "pl": "Górski hotel z basenem i spa.",
+        "en": "A mountain hotel with a pool and spa."
       }
     },
     {
@@ -188,7 +208,8 @@
       ],
       "description": {
         "uk": "Дизайнерський бутик біля площі Республіки.",
-        "pl": "Designerski butik przy placu Republiki."
+        "pl": "Designerski butik przy placu Republiki.",
+        "en": "A design boutique by Republic Square."
       }
     },
     {
@@ -206,7 +227,8 @@
       ],
       "description": {
         "uk": "Великий люкс у Новому Белграді.",
-        "pl": "Duży luksusowy hotel w Nowym Belgradzie."
+        "pl": "Duży luksusowy hotel w Nowym Belgradzie.",
+        "en": "A large luxury hotel in New Belgrade."
       }
     }
   ],

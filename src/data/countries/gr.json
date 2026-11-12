@@ -1,41 +1,276 @@
 {
   "iso2": "GR",
   "wiki": "Greece",
-  "capital": { "uk": "Афіни", "pl": "Ateny" },
+  "capital": {
+    "uk": "Афіни",
+    "pl": "Ateny",
+    "en": "Athens"
+  },
   "intro": {
     "uk": "Тисячі островів, білі будиночки з синіми дверима, античні храми та свіжа риба на березі. Греція — класика літнього відпочинку.",
-    "pl": "Tysiące wysp, białe domki z niebieskimi drzwiami, antyczne świątynie i świeża ryba nad brzegiem. Grecja to klasyka letnich wakacji."
+    "pl": "Tysiące wysp, białe domki z niebieskimi drzwiami, antyczne świątynie i świeża ryba nad brzegiem. Grecja to klasyka letnich wakacji.",
+    "en": "Thousands of islands, white houses with blue doors, ancient temples and fresh fish by the shore. Greece is the classic summer escape."
   },
   "cities": [
-    { "id": "gr-athens", "name": { "uk": "Афіни", "pl": "Ateny" }, "wiki": "Athens", "lat": 37.98, "lng": 23.73, "blurb": { "uk": "Акрополь, Плака і захід сонця на пагорбі Лікавіт.", "pl": "Akropol, Plaka i zachód słońca na wzgórzu Likawitos." } },
-    { "id": "gr-santorini", "name": { "uk": "Санторіні", "pl": "Santorini" }, "wiki": "Santorini", "lat": 36.42, "lng": 25.43, "blurb": { "uk": "Вулканічна кальдера й найвідоміші заходи сонця в Ії.", "pl": "Wulkaniczna kaldera i najsłynniejsze zachody słońca w Oii." } },
-    { "id": "gr-crete", "name": { "uk": "Крит", "pl": "Kreta" }, "wiki": "Crete", "lat": 35.24, "lng": 24.81, "blurb": { "uk": "Найбільший острів з ущелиною Самарія та пляжем Балос.", "pl": "Największa wyspa z wąwozem Samaria i plażą Balos." } },
-    { "id": "gr-thessaloniki", "name": { "uk": "Салоніки", "pl": "Saloniki" }, "wiki": "Thessaloniki", "lat": 40.64, "lng": 22.94, "blurb": { "uk": "Візантійські церкви, набережна і найкращі бугаци.", "pl": "Bizantyjskie cerkwie, promenada i najlepsza bugatsa." } }
+    {
+      "id": "gr-athens",
+      "name": {
+        "uk": "Афіни",
+        "pl": "Ateny",
+        "en": "Athens"
+      },
+      "wiki": "Athens",
+      "lat": 37.98,
+      "lng": 23.73,
+      "blurb": {
+        "uk": "Акрополь, Плака і захід сонця на пагорбі Лікавіт.",
+        "pl": "Akropol, Plaka i zachód słońca na wzgórzu Likawitos.",
+        "en": "The Acropolis, Plaka and sunset on Lycabettus Hill."
+      }
+    },
+    {
+      "id": "gr-santorini",
+      "name": {
+        "uk": "Санторіні",
+        "pl": "Santorini",
+        "en": "Santorini"
+      },
+      "wiki": "Santorini",
+      "lat": 36.42,
+      "lng": 25.43,
+      "blurb": {
+        "uk": "Вулканічна кальдера й найвідоміші заходи сонця в Ії.",
+        "pl": "Wulkaniczna kaldera i najsłynniejsze zachody słońca w Oii.",
+        "en": "A volcanic caldera and the famous sunsets of Oia."
+      }
+    },
+    {
+      "id": "gr-crete",
+      "name": {
+        "uk": "Крит",
+        "pl": "Kreta",
+        "en": "Crete"
+      },
+      "wiki": "Balos",
+      "lat": 35.24,
+      "lng": 24.81,
+      "blurb": {
+        "uk": "Найбільший острів з ущелиною Самарія та пляжем Балос.",
+        "pl": "Największa wyspa z wąwozem Samaria i plażą Balos.",
+        "en": "The largest island, with the Samaria Gorge and Balos beach."
+      }
+    },
+    {
+      "id": "gr-thessaloniki",
+      "name": {
+        "uk": "Салоніки",
+        "pl": "Saloniki",
+        "en": "Thessaloniki"
+      },
+      "wiki": "Thessaloniki",
+      "lat": 40.64,
+      "lng": 22.94,
+      "blurb": {
+        "uk": "Візантійські церкви, набережна і найкращі бугаци.",
+        "pl": "Bizantyjskie cerkwie, promenada i najlepsza bugatsa.",
+        "en": "Byzantine churches, a seafront and the best bougatsa."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Мусака", "pl": "Musaka" }, "description": { "uk": "Запіканка з баклажанів, фаршу та соусу бешамель.", "pl": "Zapiekanka z bakłażana, mielonego mięsa i beszamelu." } },
-    { "name": { "uk": "Сувлакі", "pl": "Souvlaki" }, "description": { "uk": "Шашлички в піті з цацикі — найкращий вуличний фастфуд.", "pl": "Szaszłyki w picie z tzatziki — najlepszy uliczny fast food." } },
-    { "name": { "uk": "Грецький салат", "pl": "Sałatka grecka" }, "description": { "uk": "Хоріатікі з томатами, оливками й цілим шматком фети.", "pl": "Horiatiki z pomidorami, oliwkami i całym plastrem fety." } }
+    {
+      "name": {
+        "uk": "Мусака",
+        "pl": "Musaka",
+        "en": "Moussaka"
+      },
+      "description": {
+        "uk": "Запіканка з баклажанів, фаршу та соусу бешамель.",
+        "pl": "Zapiekanka z bakłażana, mielonego mięsa i beszamelu.",
+        "en": "A bake of aubergine, minced meat and béchamel."
+      }
+    },
+    {
+      "name": {
+        "uk": "Сувлакі",
+        "pl": "Souvlaki",
+        "en": "Souvlaki"
+      },
+      "description": {
+        "uk": "Шашлички в піті з цацикі — найкращий вуличний фастфуд.",
+        "pl": "Szaszłyki w picie z tzatziki — najlepszy uliczny fast food.",
+        "en": "Skewers in pita with tzatziki — the best street food."
+      }
+    },
+    {
+      "name": {
+        "uk": "Грецький салат",
+        "pl": "Sałatka grecka",
+        "en": "Greek salad"
+      },
+      "description": {
+        "uk": "Хоріатікі з томатами, оливками й цілим шматком фети.",
+        "pl": "Horiatiki z pomidorami, oliwkami i całym plastrem fety.",
+        "en": "Horiatiki with tomatoes, olives and a whole slab of feta."
+      }
+    }
   ],
   "facts": [
-    { "uk": "У Греції близько 6000 островів, але заселено лише близько 200.", "pl": "Grecja ma około 6000 wysp, ale zamieszkanych jest tylko około 200." },
-    { "uk": "Тут народилися Олімпійські ігри та демократія.", "pl": "Tu narodziły się igrzyska olimpijskie i demokracja." },
-    { "uk": "Жодна точка країни не віддалена від моря більш ніж на 140 км.", "pl": "Żaden punkt kraju nie leży dalej niż 140 km od morza." }
+    {
+      "uk": "У Греції близько 6000 островів, але заселено лише близько 200.",
+      "pl": "Grecja ma około 6000 wysp, ale zamieszkanych jest tylko około 200.",
+      "en": "Greece has about 6,000 islands, but only around 200 are inhabited."
+    },
+    {
+      "uk": "Тут народилися Олімпійські ігри та демократія.",
+      "pl": "Tu narodziły się igrzyska olimpijskie i demokracja.",
+      "en": "The Olympic Games and democracy were born here."
+    },
+    {
+      "uk": "Жодна точка країни не віддалена від моря більш ніж на 140 км.",
+      "pl": "Żaden punkt kraju nie leży dalej niż 140 km od morza.",
+      "en": "No point in the country is more than 140 km from the sea."
+    }
   ],
-  "bestMonths": [5, 6, 7, 8, 9, 10],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
   "dailyCost": 60,
-  "tags": ["sea", "history", "food", "couples", "nature"],
-  "airport": { "code": "ATH", "name": "Athens Eleftherios Venizelos", "lat": 37.94, "lng": 23.94 },
+  "tags": [
+    "sea",
+    "history",
+    "food",
+    "couples",
+    "nature"
+  ],
+  "airport": {
+    "code": "ATH",
+    "name": "Athens Eleftherios Venizelos",
+    "lat": 37.94,
+    "lng": 23.94
+  },
   "hotels": [
-    { "id": "gr-h1", "name": "Plaka Rooftop Hostel", "cityId": "gr-athens", "tier": "budget", "stars": 2, "pricePerNight": 35, "capacity": 2, "tags": ["city", "history", "nightlife"], "description": { "uk": "Хостел з видом на Акрополь із даху.", "pl": "Hostel z widokiem na Akropol z dachu." } },
-    { "id": "gr-h2", "name": "Ladadika Port Hotel", "cityId": "gr-thessaloniki", "tier": "3", "stars": 3, "pricePerNight": 65, "capacity": 2, "tags": ["city", "food"], "description": { "uk": "Готель у кварталі таверн біля порту.", "pl": "Hotel w dzielnicy tawern przy porcie." } },
-    { "id": "gr-h3", "name": "Chania Beach Resort", "cityId": "gr-crete", "tier": "4", "stars": 4, "pricePerNight": 120, "capacity": 4, "tags": ["sea", "family", "nature"], "description": { "uk": "Курорт на пляжі з дитячим клубом і басейнами.", "pl": "Kurort przy plaży z klubem dla dzieci i basenami." } },
-    { "id": "gr-h4", "name": "Oia Caldera Cave Suites", "cityId": "gr-santorini", "tier": "boutique", "stars": 4, "pricePerNight": 260, "capacity": 2, "tags": ["sea", "couples", "comfort"], "description": { "uk": "Печерні сюїти з джакузі над кальдерою.", "pl": "Jaskiniowe apartamenty z jacuzzi nad kalderą." } },
-    { "id": "gr-h5", "name": "Aegean Grand Santorini", "cityId": "gr-santorini", "tier": "5", "stars": 5, "pricePerNight": 420, "capacity": 3, "tags": ["sea", "comfort", "couples"], "description": { "uk": "Розкішний курорт з інфініті-басейном і власним пляжем.", "pl": "Luksusowy kurort z basenem infinity i prywatną plażą." } }
+    {
+      "id": "gr-h1",
+      "name": "Plaka Rooftop Hostel",
+      "cityId": "gr-athens",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 35,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "history",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел з видом на Акрополь із даху.",
+        "pl": "Hostel z widokiem na Akropol z dachu.",
+        "en": "A hostel with a rooftop view of the Acropolis."
+      }
+    },
+    {
+      "id": "gr-h2",
+      "name": "Ladadika Port Hotel",
+      "cityId": "gr-thessaloniki",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 65,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "food"
+      ],
+      "description": {
+        "uk": "Готель у кварталі таверн біля порту.",
+        "pl": "Hotel w dzielnicy tawern przy porcie.",
+        "en": "A hotel in the taverna quarter by the port."
+      }
+    },
+    {
+      "id": "gr-h3",
+      "name": "Chania Beach Resort",
+      "cityId": "gr-crete",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 120,
+      "capacity": 4,
+      "tags": [
+        "sea",
+        "family",
+        "nature"
+      ],
+      "description": {
+        "uk": "Курорт на пляжі з дитячим клубом і басейнами.",
+        "pl": "Kurort przy plaży z klubem dla dzieci i basenami.",
+        "en": "A beach resort with a kids’ club and pools."
+      }
+    },
+    {
+      "id": "gr-h4",
+      "name": "Oia Caldera Cave Suites",
+      "cityId": "gr-santorini",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 260,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "couples",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Печерні сюїти з джакузі над кальдерою.",
+        "pl": "Jaskiniowe apartamenty z jacuzzi nad kalderą.",
+        "en": "Cave suites with jacuzzis above the caldera."
+      }
+    },
+    {
+      "id": "gr-h5",
+      "name": "Aegean Grand Santorini",
+      "cityId": "gr-santorini",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 420,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Розкішний курорт з інфініті-басейном і власним пляжем.",
+        "pl": "Luksusowy kurort z basenem infinity i prywatną plażą.",
+        "en": "A luxury resort with an infinity pool and private beach."
+      }
+    }
   ],
   "cars": [
-    { "id": "gr-c1", "class": "economy", "model": "Hyundai i10", "pricePerDay": 32, "seats": 4 },
-    { "id": "gr-c2", "class": "suv", "model": "Suzuki Vitara", "pricePerDay": 58, "seats": 5 },
-    { "id": "gr-c3", "class": "premium", "model": "Mercedes C-Class Cabrio", "pricePerDay": 125, "seats": 4 }
+    {
+      "id": "gr-c1",
+      "class": "economy",
+      "model": "Hyundai i10",
+      "pricePerDay": 32,
+      "seats": 4
+    },
+    {
+      "id": "gr-c2",
+      "class": "suv",
+      "model": "Suzuki Vitara",
+      "pricePerDay": 58,
+      "seats": 5
+    },
+    {
+      "id": "gr-c3",
+      "class": "premium",
+      "model": "Mercedes C-Class Cabrio",
+      "pricePerDay": 125,
+      "seats": 4
+    }
   ]
 }

@@ -3,53 +3,61 @@
   "wiki": "Liechtenstein",
   "capital": {
     "uk": "Вадуц",
-    "pl": "Vaduz"
+    "pl": "Vaduz",
+    "en": "Vaduz"
   },
   "intro": {
     "uk": "Крихітне князівство між Швейцарією та Австрією з княжим замком, виноградниками та альпійськими стежками. Країну можна пройти пішки за день.",
-    "pl": "Maleńkie księstwo między Szwajcarią a Austrią z zamkiem książęcym, winnicami i alpejskimi szlakami. Kraj można przejść pieszo w jeden dzień."
+    "pl": "Maleńkie księstwo między Szwajcarią a Austrią z zamkiem książęcym, winnicami i alpejskimi szlakami. Kraj można przejść pieszo w jeden dzień.",
+    "en": "A tiny principality between Switzerland and Austria with a prince’s castle, vineyards and Alpine trails. You can walk across the whole country in a day."
   },
   "cities": [
     {
       "id": "li-vaduz",
       "name": {
         "uk": "Вадуц",
-        "pl": "Vaduz"
+        "pl": "Vaduz",
+        "en": "Vaduz"
       },
       "wiki": "Vaduz",
       "lat": 47.14,
       "lng": 9.52,
       "blurb": {
         "uk": "Замок князя над містом і музей мистецтв.",
-        "pl": "Zamek księcia nad miastem i muzeum sztuki."
+        "pl": "Zamek księcia nad miastem i muzeum sztuki.",
+        "en": "The prince’s castle above town and an art museum."
       }
     },
     {
       "id": "li-malbun",
       "name": {
         "uk": "Мальбун",
-        "pl": "Malbun"
+        "pl": "Malbun",
+        "en": "Malbun"
       },
       "wiki": "Malbun",
       "lat": 47.1,
       "lng": 9.61,
       "blurb": {
         "uk": "Невеликий сімейний лижний курорт.",
-        "pl": "Mały rodzinny ośrodek narciarski."
+        "pl": "Mały rodzinny ośrodek narciarski.",
+        "en": "A small family ski resort."
       }
     },
     {
       "id": "li-schaan",
       "name": {
         "uk": "Шан",
-        "pl": "Schaan"
+        "pl": "Schaan",
+        "en": "Schaan"
       },
       "wiki": "Schaan",
       "lat": 47.17,
       "lng": 9.51,
       "blurb": {
         "uk": "Найбільше селище з видом на Рейн.",
-        "pl": "Największa miejscowość z widokiem na Ren."
+        "pl": "Największa miejscowość z widokiem na Ren.",
+        "en": "The largest town, overlooking the Rhine."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Кесшпетцле",
-        "pl": "Käsknöpfle"
+        "pl": "Käsknöpfle",
+        "en": "Käsknöpfle"
       },
       "description": {
         "uk": "Домашні галушки з сиром і смаженою цибулею.",
-        "pl": "Domowe kluseczki z serem i smażoną cebulą."
+        "pl": "Domowe kluseczki z serem i smażoną cebulą.",
+        "en": "Homemade cheese dumplings with fried onions."
       }
     },
     {
       "name": {
         "uk": "Рибель",
-        "pl": "Ribel"
+        "pl": "Ribel",
+        "en": "Ribel"
       },
       "description": {
         "uk": "Кукурудзяна каша з компотом.",
-        "pl": "Kasza kukurydziana z kompotem."
+        "pl": "Kasza kukurydziana z kompotem.",
+        "en": "Cornmeal porridge with fruit compote."
       }
     },
     {
       "name": {
         "uk": "Вина Вадуца",
-        "pl": "Wina z Vaduz"
+        "pl": "Wina z Vaduz",
+        "en": "Vaduz wines"
       },
       "description": {
         "uk": "Піно нуар з княжих виноградників.",
-        "pl": "Pinot noir z książęcych winnic."
+        "pl": "Pinot noir z książęcych winnic.",
+        "en": "Pinot noir from the princely vineyards."
       }
     }
   ],
   "facts": [
     {
       "uk": "Ліхтенштейн не має власного аеропорту.",
-      "pl": "Liechtenstein nie ma własnego lotniska."
+      "pl": "Liechtenstein nie ma własnego lotniska.",
+      "en": "Liechtenstein has no airport of its own."
     },
     {
       "uk": "Країна — найбільший у світі виробник зубних протезів.",
-      "pl": "Kraj jest największym producentem protez zębowych na świecie."
+      "pl": "Kraj jest największym producentem protez zębowych na świecie.",
+      "en": "The country is the world’s largest maker of false teeth."
     },
     {
       "uk": "Ліхтенштейн — одна з двох країн, оточених тільки країнами без моря.",
-      "pl": "Liechtenstein to jeden z dwóch krajów otoczonych wyłącznie krajami bez dostępu do morza."
+      "pl": "Liechtenstein to jeden z dwóch krajów otoczonych wyłącznie krajami bez dostępu do morza.",
+      "en": "It is one of only two doubly landlocked countries."
     }
   ],
   "bestMonths": [
@@ -134,7 +151,8 @@
       ],
       "description": {
         "uk": "Хостел серед полів біля Шана.",
-        "pl": "Hostel wśród pól pod Schaan."
+        "pl": "Hostel wśród pól pod Schaan.",
+        "en": "A hostel among the fields near Schaan."
       }
     },
     {
@@ -151,7 +169,8 @@
       ],
       "description": {
         "uk": "Сімейний готель біля лижних схилів.",
-        "pl": "Rodzinny hotel przy stokach."
+        "pl": "Rodzinny hotel przy stokach.",
+        "en": "A family hotel by the ski slopes."
       }
     },
     {
@@ -168,7 +187,8 @@
       ],
       "description": {
         "uk": "Готель з рестораном, відзначеним гідом Gault&Millau.",
-        "pl": "Hotel z restauracją wyróżnioną przez Gault&Millau."
+        "pl": "Hotel z restauracją wyróżnioną przez Gault&Millau.",
+        "en": "A hotel with a Gault&Millau-rated restaurant."
       }
     },
     {
@@ -185,7 +205,8 @@
       ],
       "description": {
         "uk": "Сучасний бутик у центрі Вадуца.",
-        "pl": "Nowoczesny butik w centrum Vaduz."
+        "pl": "Nowoczesny butik w centrum Vaduz.",
+        "en": "A modern boutique in central Vaduz."
       }
     },
     {
@@ -202,7 +223,8 @@
       ],
       "description": {
         "uk": "Люкс з видом на замок і Альпи.",
-        "pl": "Luksus z widokiem na zamek i Alpy."
+        "pl": "Luksus z widokiem na zamek i Alpy.",
+        "en": "Luxury with views of the castle and the Alps."
       }
     }
   ],

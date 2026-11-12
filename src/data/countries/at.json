@@ -1,41 +1,278 @@
 {
   "iso2": "AT",
   "wiki": "Austria",
-  "capital": { "uk": "Відень", "pl": "Wiedeń" },
+  "capital": {
+    "uk": "Відень",
+    "pl": "Wiedeń",
+    "en": "Vienna"
+  },
   "intro": {
     "uk": "Імперський Відень, Моцартів Зальцбург, альпійські озера влітку й гірськолижні курорти взимку. Австрія — це елегантність і свіже гірське повітря.",
-    "pl": "Cesarski Wiedeń, Salzburg Mozarta, alpejskie jeziora latem i stoki narciarskie zimą. Austria to elegancja i świeże górskie powietrze."
+    "pl": "Cesarski Wiedeń, Salzburg Mozarta, alpejskie jeziora latem i stoki narciarskie zimą. Austria to elegancja i świeże górskie powietrze.",
+    "en": "Imperial Vienna, Mozart’s Salzburg, alpine lakes in summer and ski resorts in winter. Austria is elegance and fresh mountain air."
   },
   "cities": [
-    { "id": "at-vienna", "name": { "uk": "Відень", "pl": "Wiedeń" }, "wiki": "Vienna", "lat": 48.21, "lng": 16.37, "blurb": { "uk": "Палац Шенбрунн, опера та віденські кав'ярні.", "pl": "Pałac Schönbrunn, opera i wiedeńskie kawiarnie." } },
-    { "id": "at-salzburg", "name": { "uk": "Зальцбург", "pl": "Salzburg" }, "wiki": "Salzburg", "lat": 47.81, "lng": 13.06, "blurb": { "uk": "Батьківщина Моцарта з фортецею над старим містом.", "pl": "Ojczyzna Mozarta z twierdzą nad starym miastem." } },
-    { "id": "at-hallstatt", "name": { "uk": "Гальштат", "pl": "Hallstatt" }, "wiki": "Hallstatt", "lat": 47.56, "lng": 13.65, "blurb": { "uk": "Казкове селище на березі альпійського озера.", "pl": "Bajkowe miasteczko nad alpejskim jeziorem." } },
-    { "id": "at-innsbruck", "name": { "uk": "Інсбрук", "pl": "Innsbruck" }, "wiki": "Innsbruck", "lat": 47.27, "lng": 11.4, "blurb": { "uk": "Столиця Тиролю з підйомником просто з центру міста.", "pl": "Stolica Tyrolu z kolejką prosto z centrum miasta." } }
+    {
+      "id": "at-vienna",
+      "name": {
+        "uk": "Відень",
+        "pl": "Wiedeń",
+        "en": "Vienna"
+      },
+      "wiki": "Vienna",
+      "lat": 48.21,
+      "lng": 16.37,
+      "blurb": {
+        "uk": "Палац Шенбрунн, опера та віденські кав'ярні.",
+        "pl": "Pałac Schönbrunn, opera i wiedeńskie kawiarnie.",
+        "en": "Schönbrunn Palace, the opera and Viennese coffee houses."
+      }
+    },
+    {
+      "id": "at-salzburg",
+      "name": {
+        "uk": "Зальцбург",
+        "pl": "Salzburg",
+        "en": "Salzburg"
+      },
+      "wiki": "Salzburg",
+      "lat": 47.81,
+      "lng": 13.06,
+      "blurb": {
+        "uk": "Батьківщина Моцарта з фортецею над старим містом.",
+        "pl": "Ojczyzna Mozarta z twierdzą nad starym miastem.",
+        "en": "Mozart’s birthplace with a fortress above the old town."
+      }
+    },
+    {
+      "id": "at-hallstatt",
+      "name": {
+        "uk": "Гальштат",
+        "pl": "Hallstatt",
+        "en": "Hallstatt"
+      },
+      "wiki": "Hallstatt",
+      "lat": 47.56,
+      "lng": 13.65,
+      "blurb": {
+        "uk": "Казкове селище на березі альпійського озера.",
+        "pl": "Bajkowe miasteczko nad alpejskim jeziorem.",
+        "en": "A fairy-tale village on the shore of an alpine lake."
+      }
+    },
+    {
+      "id": "at-innsbruck",
+      "name": {
+        "uk": "Інсбрук",
+        "pl": "Innsbruck",
+        "en": "Innsbruck"
+      },
+      "wiki": "Innsbruck",
+      "lat": 47.27,
+      "lng": 11.4,
+      "blurb": {
+        "uk": "Столиця Тиролю з підйомником просто з центру міста.",
+        "pl": "Stolica Tyrolu z kolejką prosto z centrum miasta.",
+        "en": "Tyrol’s capital with a cable car straight from the city centre."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Віденський шніцель", "pl": "Sznycel wiedeński" }, "description": { "uk": "Тонка телятина в паніровці з картопляним салатом.", "pl": "Cienka cielęcina w panierce z sałatką ziemniaczaną." } },
-    { "name": { "uk": "Захер-торт", "pl": "Tort Sachera" }, "description": { "uk": "Шоколадний торт з абрикосовим джемом з 1832 року.", "pl": "Tort czekoladowy z dżemem morelowym od 1832 roku." } },
-    { "name": { "uk": "Кайзершмаррн", "pl": "Kaiserschmarrn" }, "description": { "uk": "Рваний солодкий омлет із цукровою пудрою та сливовим компотом.", "pl": "Rwany słodki omlet z cukrem pudrem i musem śliwkowym." } }
+    {
+      "name": {
+        "uk": "Віденський шніцель",
+        "pl": "Sznycel wiedeński",
+        "en": "Wiener schnitzel"
+      },
+      "description": {
+        "uk": "Тонка телятина в паніровці з картопляним салатом.",
+        "pl": "Cienka cielęcina w panierce z sałatką ziemniaczaną.",
+        "en": "Thin breaded veal with potato salad."
+      }
+    },
+    {
+      "name": {
+        "uk": "Захер-торт",
+        "pl": "Tort Sachera",
+        "en": "Sachertorte"
+      },
+      "description": {
+        "uk": "Шоколадний торт з абрикосовим джемом з 1832 року.",
+        "pl": "Tort czekoladowy z dżemem morelowym od 1832 roku.",
+        "en": "Chocolate cake with apricot jam, since 1832."
+      }
+    },
+    {
+      "name": {
+        "uk": "Кайзершмаррн",
+        "pl": "Kaiserschmarrn",
+        "en": "Kaiserschmarrn"
+      },
+      "description": {
+        "uk": "Рваний солодкий омлет із цукровою пудрою та сливовим компотом.",
+        "pl": "Rwany słodki omlet z cukrem pudrem i musem śliwkowym.",
+        "en": "Torn sweet pancake with icing sugar and plum compote."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Віденський зоопарк, заснований 1752 року, — найстаріший у світі.", "pl": "Wiedeńskie zoo, założone w 1752 roku, jest najstarsze na świecie." },
-    { "uk": "Понад 60% території Австрії займають Альпи.", "pl": "Ponad 60% powierzchni Austrii zajmują Alpy." },
-    { "uk": "Відень регулярно визнають містом з найвищою якістю життя.", "pl": "Wiedeń regularnie uznaje się za miasto o najwyższej jakości życia." }
+    {
+      "uk": "Віденський зоопарк, заснований 1752 року, — найстаріший у світі.",
+      "pl": "Wiedeńskie zoo, założone w 1752 roku, jest najstarsze na świecie.",
+      "en": "Vienna Zoo, founded in 1752, is the oldest in the world."
+    },
+    {
+      "uk": "Понад 60% території Австрії займають Альпи.",
+      "pl": "Ponad 60% powierzchni Austrii zajmują Alpy.",
+      "en": "The Alps cover more than 60% of Austria."
+    },
+    {
+      "uk": "Відень регулярно визнають містом з найвищою якістю життя.",
+      "pl": "Wiedeń regularnie uznaje się za miasto o najwyższej jakości życia.",
+      "en": "Vienna is regularly ranked the city with the best quality of life."
+    }
   ],
-  "bestMonths": [5, 6, 7, 8, 9, 12, 1, 2],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    12,
+    1,
+    2
+  ],
   "dailyCost": 80,
-  "tags": ["mountains", "history", "city", "nature", "comfort"],
-  "airport": { "code": "VIE", "name": "Vienna International", "lat": 48.11, "lng": 16.57 },
+  "tags": [
+    "mountains",
+    "history",
+    "city",
+    "nature",
+    "comfort"
+  ],
+  "airport": {
+    "code": "VIE",
+    "name": "Vienna International",
+    "lat": 48.11,
+    "lng": 16.57
+  },
   "hotels": [
-    { "id": "at-h1", "name": "Naschmarkt Hostel Wien", "cityId": "at-vienna", "tier": "budget", "stars": 2, "pricePerNight": 45, "capacity": 2, "tags": ["city", "food"], "description": { "uk": "Хостел біля найвідомішого ринку Відня.", "pl": "Hostel przy najsłynniejszym targu Wiednia." } },
-    { "id": "at-h2", "name": "Mozart Altstadt Hotel", "cityId": "at-salzburg", "tier": "3", "stars": 3, "pricePerNight": 105, "capacity": 2, "tags": ["history", "city", "couples"], "description": { "uk": "Готель у старому місті неподалік будинку Моцарта.", "pl": "Hotel na starówce niedaleko domu Mozarta." } },
-    { "id": "at-h3", "name": "Tyrol Alpine Family Hotel", "cityId": "at-innsbruck", "tier": "4", "stars": 4, "pricePerNight": 160, "capacity": 4, "tags": ["mountains", "family", "nature"], "description": { "uk": "Сімейний гірський готель з басейном і skipass-сервісом.", "pl": "Rodzinny hotel górski z basenem i obsługą skipassów." } },
-    { "id": "at-h4", "name": "Hallstatt Lakeside Boutique", "cityId": "at-hallstatt", "tier": "boutique", "stars": 4, "pricePerNight": 210, "capacity": 2, "tags": ["nature", "couples", "mountains"], "description": { "uk": "Будиночок на воді з балконом над озером.", "pl": "Domek na wodzie z balkonem nad jeziorem." } },
-    { "id": "at-h5", "name": "Imperial Ringstrasse Palace", "cityId": "at-vienna", "tier": "5", "stars": 5, "pricePerNight": 420, "capacity": 3, "tags": ["comfort", "history", "city"], "description": { "uk": "Палац XIX століття на Рінгштрассе з легендарною кав'ярнею.", "pl": "XIX-wieczny pałac przy Ringstraße z legendarną kawiarnią." } }
+    {
+      "id": "at-h1",
+      "name": "Naschmarkt Hostel Wien",
+      "cityId": "at-vienna",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "food"
+      ],
+      "description": {
+        "uk": "Хостел біля найвідомішого ринку Відня.",
+        "pl": "Hostel przy najsłynniejszym targu Wiednia.",
+        "en": "A hostel next to Vienna’s most famous market."
+      }
+    },
+    {
+      "id": "at-h2",
+      "name": "Mozart Altstadt Hotel",
+      "cityId": "at-salzburg",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 105,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Готель у старому місті неподалік будинку Моцарта.",
+        "pl": "Hotel na starówce niedaleko domu Mozarta.",
+        "en": "An old-town hotel near Mozart’s house."
+      }
+    },
+    {
+      "id": "at-h3",
+      "name": "Tyrol Alpine Family Hotel",
+      "cityId": "at-innsbruck",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 160,
+      "capacity": 4,
+      "tags": [
+        "mountains",
+        "family",
+        "nature"
+      ],
+      "description": {
+        "uk": "Сімейний гірський готель з басейном і skipass-сервісом.",
+        "pl": "Rodzinny hotel górski z basenem i obsługą skipassów.",
+        "en": "A family mountain hotel with a pool and ski-pass service."
+      }
+    },
+    {
+      "id": "at-h4",
+      "name": "Hallstatt Lakeside Boutique",
+      "cityId": "at-hallstatt",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 210,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "couples",
+        "mountains"
+      ],
+      "description": {
+        "uk": "Будиночок на воді з балконом над озером.",
+        "pl": "Domek na wodzie z balkonem nad jeziorem.",
+        "en": "A lake house with a balcony over the water."
+      }
+    },
+    {
+      "id": "at-h5",
+      "name": "Imperial Ringstrasse Palace",
+      "cityId": "at-vienna",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 420,
+      "capacity": 3,
+      "tags": [
+        "comfort",
+        "history",
+        "city"
+      ],
+      "description": {
+        "uk": "Палац XIX століття на Рінгштрассе з легендарною кав'ярнею.",
+        "pl": "XIX-wieczny pałac przy Ringstraße z legendarną kawiarnią.",
+        "en": "A 19th-century palace on the Ringstrasse with a legendary café."
+      }
+    }
   ],
   "cars": [
-    { "id": "at-c1", "class": "economy", "model": "Škoda Fabia", "pricePerDay": 40, "seats": 5 },
-    { "id": "at-c2", "class": "suv", "model": "VW Tiguan 4Motion", "pricePerDay": 80, "seats": 5 },
-    { "id": "at-c3", "class": "premium", "model": "Audi A6 Avant", "pricePerDay": 140, "seats": 5 }
+    {
+      "id": "at-c1",
+      "class": "economy",
+      "model": "Škoda Fabia",
+      "pricePerDay": 40,
+      "seats": 5
+    },
+    {
+      "id": "at-c2",
+      "class": "suv",
+      "model": "VW Tiguan 4Motion",
+      "pricePerDay": 80,
+      "seats": 5
+    },
+    {
+      "id": "at-c3",
+      "class": "premium",
+      "model": "Audi A6 Avant",
+      "pricePerDay": 140,
+      "seats": 5
+    }
   ]
 }

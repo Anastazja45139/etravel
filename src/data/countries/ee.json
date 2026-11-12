@@ -3,67 +3,77 @@
   "wiki": "Estonia",
   "capital": {
     "uk": "Таллінн",
-    "pl": "Tallinn"
+    "pl": "Tallinn",
+    "en": "Tallinn"
   },
   "intro": {
     "uk": "Середньовічний Таллінн, болота й ліси, острови Балтики та цифрова держава майбутнього. Естонія — компактна й дуже зручна для подорожі.",
-    "pl": "Średniowieczny Tallinn, bagna i lasy, bałtyckie wyspy i cyfrowe państwo przyszłości. Estonia jest kompaktowa i bardzo wygodna w podróży."
+    "pl": "Średniowieczny Tallinn, bagna i lasy, bałtyckie wyspy i cyfrowe państwo przyszłości. Estonia jest kompaktowa i bardzo wygodna w podróży.",
+    "en": "Medieval Tallinn, bogs and forests, Baltic islands and a digital state of the future. Estonia is compact and very easy to travel."
   },
   "cities": [
     {
       "id": "ee-tallinn",
       "name": {
         "uk": "Таллінн",
-        "pl": "Tallinn"
+        "pl": "Tallinn",
+        "en": "Tallinn"
       },
       "wiki": "Tallinn",
       "lat": 59.44,
       "lng": 24.75,
       "blurb": {
         "uk": "Найкраще збережене середньовічне місто Північної Європи.",
-        "pl": "Najlepiej zachowane średniowieczne miasto Europy Północnej."
+        "pl": "Najlepiej zachowane średniowieczne miasto Europy Północnej.",
+        "en": "Northern Europe’s best-preserved medieval town."
       }
     },
     {
       "id": "ee-tartu",
       "name": {
         "uk": "Тарту",
-        "pl": "Tartu"
+        "pl": "Tartu",
+        "en": "Tartu"
       },
       "wiki": "Tartu",
       "lat": 58.38,
       "lng": 26.72,
       "blurb": {
         "uk": "Університетське місто з молодою енергією.",
-        "pl": "Miasto uniwersyteckie z młodą energią."
+        "pl": "Miasto uniwersyteckie z młodą energią.",
+        "en": "A university town full of young energy."
       }
     },
     {
       "id": "ee-parnu",
       "name": {
         "uk": "Пярну",
-        "pl": "Parnawa"
+        "pl": "Parnawa",
+        "en": "Pärnu"
       },
       "wiki": "Pärnu",
       "lat": 58.39,
       "lng": 24.5,
       "blurb": {
         "uk": "Літня столиця з піщаними пляжами.",
-        "pl": "Letnia stolica z piaszczystymi plażami."
+        "pl": "Letnia stolica z piaszczystymi plażami.",
+        "en": "The summer capital with sandy beaches."
       }
     },
     {
       "id": "ee-saaremaa",
       "name": {
         "uk": "Сааремаа",
-        "pl": "Sarema"
+        "pl": "Sarema",
+        "en": "Saaremaa"
       },
       "wiki": "Saaremaa",
       "lat": 58.42,
       "lng": 22.5,
       "blurb": {
         "uk": "Вітряки, замок Куресааре й тиша.",
-        "pl": "Wiatraki, zamek Kuressaare i cisza."
+        "pl": "Wiatraki, zamek Kuressaare i cisza.",
+        "en": "Windmills, Kuressaare Castle and silence."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Чорний хліб",
-        "pl": "Chleb żytni"
+        "pl": "Chleb żytni",
+        "en": "Rye bread"
       },
       "description": {
         "uk": "Житній хліб — основа кожного столу.",
-        "pl": "Chleb żytni — podstawa każdego stołu."
+        "pl": "Chleb żytni — podstawa każdego stołu.",
+        "en": "Black rye bread — the base of every table."
       }
     },
     {
       "name": {
         "uk": "Кама",
-        "pl": "Kama"
+        "pl": "Kama",
+        "en": "Kama"
       },
       "description": {
         "uk": "Суміш борошна з кефіром — естонський десерт.",
-        "pl": "Mieszanka mąk z kefirem — estoński deser."
+        "pl": "Mieszanka mąk z kefirem — estoński deser.",
+        "en": "A flour mix with kefir — an Estonian dessert."
       }
     },
     {
       "name": {
         "uk": "Кілька",
-        "pl": "Szprotki"
+        "pl": "Szprotki",
+        "en": "Sprats"
       },
       "description": {
         "uk": "Пряні кільки на житньому хлібі з яйцем.",
-        "pl": "Pikantne szprotki na chlebie żytnim z jajkiem."
+        "pl": "Pikantne szprotki na chlebie żytnim z jajkiem.",
+        "en": "Spiced sprats on rye bread with egg."
       }
     }
   ],
   "facts": [
     {
       "uk": "Skype створили естонські програмісти.",
-      "pl": "Skype stworzyli estońscy programiści."
+      "pl": "Skype stworzyli estońscy programiści.",
+      "en": "Skype was created by Estonian programmers."
     },
     {
       "uk": "В Естонії можна голосувати онлайн з 2005 року.",
-      "pl": "W Estonii można głosować przez internet od 2005 roku."
+      "pl": "W Estonii można głosować przez internet od 2005 roku.",
+      "en": "Estonians have been able to vote online since 2005."
     },
     {
       "uk": "Майже половину країни вкривають ліси.",
-      "pl": "Prawie połowę kraju pokrywają lasy."
+      "pl": "Prawie połowę kraju pokrywają lasy.",
+      "en": "Almost half of the country is covered by forest."
     }
   ],
   "bestMonths": [
@@ -148,7 +167,8 @@
       ],
       "description": {
         "uk": "Веселий хостел у старому місті.",
-        "pl": "Wesoły hostel na starym mieście."
+        "pl": "Wesoły hostel na starym mieście.",
+        "en": "A fun hostel in the old town."
       }
     },
     {
@@ -165,7 +185,8 @@
       ],
       "description": {
         "uk": "Готель на Ратушній площі Тарту.",
-        "pl": "Hotel na Rynku Ratuszowym w Tartu."
+        "pl": "Hotel na Rynku Ratuszowym w Tartu.",
+        "en": "A hotel on Tartu’s Town Hall Square."
       }
     },
     {
@@ -183,7 +204,8 @@
       ],
       "description": {
         "uk": "Спа-готель з видом на море в Курессааре.",
-        "pl": "Hotel ze spa z widokiem na morze w Kuressaare."
+        "pl": "Hotel ze spa z widokiem na morze w Kuressaare.",
+        "en": "A sea-view spa hotel in Kuressaare."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Бутик у будинку колишнього телеграфу.",
-        "pl": "Butik w budynku dawnego telegrafu."
+        "pl": "Butik w budynku dawnego telegrafu.",
+        "en": "A boutique in the former telegraph building."
       }
     },
     {
@@ -219,7 +242,8 @@
       ],
       "description": {
         "uk": "Курортний люкс у старих лікувальних грязях.",
-        "pl": "Luksus uzdrowiskowy w dawnych łaźniach błotnych."
+        "pl": "Luksus uzdrowiskowy w dawnych łaźniach błotnych.",
+        "en": "Resort luxury in historic mud baths."
       }
     }
   ],

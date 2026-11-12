@@ -4,6 +4,8 @@ import { writeFileSync } from 'node:fs';
 import { COUNTRIES } from '../src/data/countries';
 import { regionOf } from '../src/lib/europe';
 import { toursFor } from '../src/lib/tours';
+import { seedReviews, seedServiceReviews } from '../src/lib/seedReviews';
+import { countryName } from '../src/lib/world';
 
 const q = (v: unknown): string => {
   if (v === null || v === undefined) return 'null';
@@ -20,27 +22,31 @@ const out: string[] = [
   'begin;',
   'delete from public.tour_cities; delete from public.tours; delete from public.cars; delete from public.hotels;',
   'delete from public.facts; delete from public.dishes; delete from public.cities;',
+  'delete from public.reviews where user_id is null; -- sample reviews only',
   'delete from public.countries where iso2 not in (select country_iso2 from public.bookings);',
   '',
 ];
 
 out.push(insert('countries',
-  ['iso2', 'region', 'wiki', 'capital_uk', 'capital_pl', 'intro_uk', 'intro_pl', 'best_months', 'daily_cost', 'tags', 'airport_code', 'airport_name', 'airport_lat', 'airport_lng'],
-  COUNTRIES.map((c) => [c.iso2, regionOf(c.iso2), c.wiki, c.capital.uk, c.capital.pl, c.intro.uk, c.intro.pl, c.bestMonths, c.dailyCost, c.tags, c.airport.code, c.airport.name, c.airport.lat, c.airport.lng]),
+  ['iso2', 'region', 'wiki', 'capital_uk', 'capital_pl', 'capital_en', 'intro_uk', 'intro_pl', 'intro_en', 'best_months', 'daily_cost', 'tags', 'airport_code', 'airport_name', 'airport_lat', 'airport_lng'],
+  COUNTRIES.map((c) => [c.iso2, regionOf(c.iso2), c.wiki, c.capital.uk, c.capital.pl, c.capital.en, c.intro.uk, c.intro.pl, c.intro.en, c.bestMonths, c.dailyCost, c.tags, c.airport.code, c.airport.name, c.airport.lat, c.airport.lng]),
 ).replace(/;\n$/, '\non conflict (iso2) do nothing;\n'));
-out.push(insert('cities', ['id', 'country_iso2', 'name_uk', 'name_pl', 'wiki', 'lat', 'lng', 'blurb_uk', 'blurb_pl'],
-  COUNTRIES.flatMap((c) => c.cities.map((x) => [x.id, c.iso2, x.name.uk, x.name.pl, x.wiki, x.lat, x.lng, x.blurb.uk, x.blurb.pl]))));
-out.push(insert('dishes', ['country_iso2', 'name_uk', 'name_pl', 'description_uk', 'description_pl'],
-  COUNTRIES.flatMap((c) => c.dishes.map((x) => [c.iso2, x.name.uk, x.name.pl, x.description.uk, x.description.pl]))));
-out.push(insert('facts', ['country_iso2', 'text_uk', 'text_pl'], COUNTRIES.flatMap((c) => c.facts.map((x) => [c.iso2, x.uk, x.pl]))));
-out.push(insert('hotels', ['id', 'country_iso2', 'city_id', 'name', 'tier', 'stars', 'price_per_night', 'capacity', 'tags', 'description_uk', 'description_pl'],
-  COUNTRIES.flatMap((c) => c.hotels.map((h) => [h.id, c.iso2, h.cityId, h.name, h.tier, h.stars, h.pricePerNight, h.capacity, h.tags, h.description.uk, h.description.pl]))));
+out.push(insert('cities', ['id', 'country_iso2', 'name_uk', 'name_pl', 'name_en', 'wiki', 'lat', 'lng', 'blurb_uk', 'blurb_pl', 'blurb_en'],
+  COUNTRIES.flatMap((c) => c.cities.map((x) => [x.id, c.iso2, x.name.uk, x.name.pl, x.name.en, x.wiki, x.lat, x.lng, x.blurb.uk, x.blurb.pl, x.blurb.en]))));
+out.push(insert('dishes', ['country_iso2', 'name_uk', 'name_pl', 'name_en', 'description_uk', 'description_pl', 'description_en'],
+  COUNTRIES.flatMap((c) => c.dishes.map((x) => [c.iso2, x.name.uk, x.name.pl, x.name.en, x.description.uk, x.description.pl, x.description.en]))));
+out.push(insert('facts', ['country_iso2', 'text_uk', 'text_pl', 'text_en'], COUNTRIES.flatMap((c) => c.facts.map((x) => [c.iso2, x.uk, x.pl, x.en]))));
+out.push(insert('hotels', ['id', 'country_iso2', 'city_id', 'name', 'tier', 'stars', 'price_per_night', 'capacity', 'tags', 'description_uk', 'description_pl', 'description_en'],
+  COUNTRIES.flatMap((c) => c.hotels.map((h) => [h.id, c.iso2, h.cityId, h.name, h.tier, h.stars, h.pricePerNight, h.capacity, h.tags, h.description.uk, h.description.pl, h.description.en]))));
 out.push(insert('cars', ['id', 'country_iso2', 'class', 'model', 'price_per_day', 'seats'],
   COUNTRIES.flatMap((c) => c.cars.map((x) => [x.id, c.iso2, x.class, x.model, x.pricePerDay, x.seats]))));
 const tours = COUNTRIES.flatMap(toursFor);
-out.push(insert('tours', ['id', 'country_iso2', 'hotel_id', 'theme', 'title_uk', 'title_pl', 'nights', 'price_per_person'],
-  tours.map((t) => [t.id, t.countryIso2, t.hotel.id, t.theme, t.title.uk, t.title.pl, t.nights, t.pricePerPerson])));
+out.push(insert('tours', ['id', 'country_iso2', 'hotel_id', 'theme', 'title_uk', 'title_pl', 'title_en', 'nights', 'price_per_person'],
+  tours.map((t) => [t.id, t.countryIso2, t.hotel.id, t.theme, t.title.uk, t.title.pl, t.title.en, t.nights, t.pricePerPerson])));
 out.push(insert('tour_cities', ['tour_id', 'city_id', 'position'], tours.flatMap((t) => t.route.map((c, i) => [t.id, c.id, i + 1]))));
+const reviews = [...COUNTRIES.flatMap((c) => seedReviews(c, { uk: countryName(c.iso2, 'uk'), pl: countryName(c.iso2, 'pl'), en: countryName(c.iso2, 'en') })), ...seedServiceReviews()];
+out.push(insert('reviews', ['user_id', 'author', 'lang', 'country_iso2', 'target_type', 'target_id', 'rating', 'text', 'created_at'],
+  reviews.map((r) => [null, r.author, r.lang, r.countryIso2, r.targetType, r.targetId, r.rating, r.text, r.createdAt])));
 out.push('commit;');
 
 writeFileSync(new URL('../supabase/seed.sql', import.meta.url), out.join('\n') + '\n');

@@ -1,40 +1,258 @@
 {
   "iso2": "ME",
   "wiki": "Montenegro",
-  "capital": { "uk": "Подгориця", "pl": "Podgorica" },
+  "capital": {
+    "uk": "Подгориця",
+    "pl": "Podgorica",
+    "en": "Podgorica"
+  },
   "intro": {
     "uk": "Маленька країна з великими горами: фіорд Котора, гірські озера Дурмітора й пляжі Будви за кілька годин один від одного.",
-    "pl": "Mały kraj z wielkimi górami: fiord Kotoru, górskie jeziora Durmitoru i plaże Budvy w odległości kilku godzin."
+    "pl": "Mały kraj z wielkimi górami: fiord Kotoru, górskie jeziora Durmitoru i plaże Budvy w odległości kilku godzin.",
+    "en": "A small country with big mountains: the Bay of Kotor, the glacial lakes of Durmitor and the beaches of Budva, just hours apart."
   },
   "cities": [
-    { "id": "me-kotor", "name": { "uk": "Котор", "pl": "Kotor" }, "wiki": "Kotor", "lat": 42.42, "lng": 18.77, "blurb": { "uk": "Венеціанське старе місто в найпівденнішому фіорді Європи.", "pl": "Weneckie stare miasto w najbardziej wysuniętym na południe fiordzie Europy." } },
-    { "id": "me-budva", "name": { "uk": "Будва", "pl": "Budva" }, "wiki": "Budva", "lat": 42.29, "lng": 18.84, "blurb": { "uk": "Пляжна столиця з острівцем Светі-Стефан поруч.", "pl": "Plażowa stolica z wysepką Sveti Stefan obok." } },
-    { "id": "me-zabljak", "name": { "uk": "Жабляк", "pl": "Żabljak" }, "wiki": "Žabljak", "lat": 43.15, "lng": 19.12, "blurb": { "uk": "Ворота парку Дурмітор, каньйону Тари та Чорного озера.", "pl": "Brama do parku Durmitor, kanionu Tary i Czarnego Jeziora." } }
+    {
+      "id": "me-kotor",
+      "name": {
+        "uk": "Котор",
+        "pl": "Kotor",
+        "en": "Kotor"
+      },
+      "wiki": "Kotor",
+      "lat": 42.42,
+      "lng": 18.77,
+      "blurb": {
+        "uk": "Венеціанське старе місто в найпівденнішому фіорді Європи.",
+        "pl": "Weneckie stare miasto w najbardziej wysuniętym na południe fiordzie Europy.",
+        "en": "A Venetian old town in Europe’s southernmost fjord-like bay."
+      }
+    },
+    {
+      "id": "me-budva",
+      "name": {
+        "uk": "Будва",
+        "pl": "Budva",
+        "en": "Budva"
+      },
+      "wiki": "Budva",
+      "lat": 42.29,
+      "lng": 18.84,
+      "blurb": {
+        "uk": "Пляжна столиця з острівцем Светі-Стефан поруч.",
+        "pl": "Plażowa stolica z wysepką Sveti Stefan obok.",
+        "en": "The beach capital, next to the islet of Sveti Stefan."
+      }
+    },
+    {
+      "id": "me-zabljak",
+      "name": {
+        "uk": "Жабляк",
+        "pl": "Żabljak",
+        "en": "Žabljak"
+      },
+      "wiki": "Žabljak",
+      "lat": 43.15,
+      "lng": 19.12,
+      "blurb": {
+        "uk": "Ворота парку Дурмітор, каньйону Тари та Чорного озера.",
+        "pl": "Brama do parku Durmitor, kanionu Tary i Czarnego Jeziora.",
+        "en": "Gateway to Durmitor, the Tara Canyon and the Black Lake."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Негушський пршут", "pl": "Prosciutto z Njeguši" }, "description": { "uk": "В'ялена шинка з гірського села Негуші з місцевим сиром.", "pl": "Suszona szynka z górskiej wsi Njeguši z lokalnym serem." } },
-    { "name": { "uk": "Качамак", "pl": "Kačamak" }, "description": { "uk": "Ситна кукурудзяна каша з картоплею й каймаком.", "pl": "Sycąca kasza kukurydziana z ziemniakami i kajmakiem." } },
-    { "name": { "uk": "Риба на грилі", "pl": "Ryba z grilla" }, "description": { "uk": "Свіжий улов Адріатики з оливковою олією та мангольдом.", "pl": "Świeży połów z Adriatyku z oliwą i botwiną." } }
+    {
+      "name": {
+        "uk": "Негушський пршут",
+        "pl": "Prosciutto z Njeguši",
+        "en": "Njeguški pršut"
+      },
+      "description": {
+        "uk": "В'ялена шинка з гірського села Негуші з місцевим сиром.",
+        "pl": "Suszona szynka z górskiej wsi Njeguši z lokalnym serem.",
+        "en": "Dry-cured ham from the mountain village of Njeguši with local cheese."
+      }
+    },
+    {
+      "name": {
+        "uk": "Качамак",
+        "pl": "Kačamak",
+        "en": "Kačamak"
+      },
+      "description": {
+        "uk": "Ситна кукурудзяна каша з картоплею й каймаком.",
+        "pl": "Sycąca kasza kukurydziana z ziemniakami i kajmakiem.",
+        "en": "Hearty cornmeal porridge with potatoes and kajmak."
+      }
+    },
+    {
+      "name": {
+        "uk": "Риба на грилі",
+        "pl": "Ryba z grilla",
+        "en": "Grilled fish"
+      },
+      "description": {
+        "uk": "Свіжий улов Адріатики з оливковою олією та мангольдом.",
+        "pl": "Świeży połów z Adriatyku z oliwą i botwiną.",
+        "en": "The fresh Adriatic catch with olive oil and chard."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Чорногорія використовує євро, хоча не входить до ЄС.", "pl": "Czarnogóra używa euro, choć nie należy do UE." },
-    { "uk": "Каньйон річки Тара — найглибший у Європі (до 1300 м).", "pl": "Kanion Tary jest najgłębszy w Europie (do 1300 m)." },
-    { "uk": "Назва країни означає «Чорна гора».", "pl": "Nazwa kraju oznacza „Czarna Góra”." }
+    {
+      "uk": "Чорногорія використовує євро, хоча не входить до ЄС.",
+      "pl": "Czarnogóra używa euro, choć nie należy do UE.",
+      "en": "Montenegro uses the euro, although it is not in the EU."
+    },
+    {
+      "uk": "Каньйон річки Тара — найглибший у Європі (до 1300 м).",
+      "pl": "Kanion Tary jest najgłębszy w Europie (do 1300 m).",
+      "en": "The Tara River Canyon is the deepest in Europe (up to 1,300 m)."
+    },
+    {
+      "uk": "Назва країни означає «Чорна гора».",
+      "pl": "Nazwa kraju oznacza „Czarna Góra”.",
+      "en": "The country’s name means “Black Mountain”."
+    }
   ],
-  "bestMonths": [5, 6, 7, 8, 9],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
   "dailyCost": 45,
-  "tags": ["sea", "mountains", "nature", "history"],
-  "airport": { "code": "TIV", "name": "Tivat Airport", "lat": 42.4, "lng": 18.72 },
+  "tags": [
+    "sea",
+    "mountains",
+    "nature",
+    "history"
+  ],
+  "airport": {
+    "code": "TIV",
+    "name": "Tivat Airport",
+    "lat": 42.4,
+    "lng": 18.72
+  },
   "hotels": [
-    { "id": "me-h1", "name": "Old Town Kotor Hostel", "cityId": "me-kotor", "tier": "budget", "stars": 2, "pricePerNight": 25, "capacity": 2, "tags": ["history", "nightlife"], "description": { "uk": "Хостел у кам'яному будинку старого Котора.", "pl": "Hostel w kamiennym domu starego Kotoru." } },
-    { "id": "me-h2", "name": "Durmitor Pine Hotel", "cityId": "me-zabljak", "tier": "3", "stars": 3, "pricePerNight": 55, "capacity": 4, "tags": ["mountains", "nature", "family"], "description": { "uk": "Гірський готель біля Чорного озера.", "pl": "Górski hotel przy Czarnym Jeziorze." } },
-    { "id": "me-h3", "name": "Budva Riviera Hotel", "cityId": "me-budva", "tier": "4", "stars": 4, "pricePerNight": 105, "capacity": 3, "tags": ["sea", "family", "nightlife"], "description": { "uk": "Готель на першій лінії з басейном і баром на пляжі.", "pl": "Hotel przy plaży z basenem i barem na plaży." } },
-    { "id": "me-h4", "name": "Bay of Kotor Stone Villa", "cityId": "me-kotor", "tier": "boutique", "stars": 4, "pricePerNight": 140, "capacity": 2, "tags": ["sea", "couples", "history"], "description": { "uk": "Капітанська вілла з причалом на березі затоки.", "pl": "Kapitańska willa z pomostem nad zatoką." } },
-    { "id": "me-h5", "name": "Sveti Stefan Royal Resort", "cityId": "me-budva", "tier": "5", "stars": 5, "pricePerNight": 350, "capacity": 3, "tags": ["sea", "comfort", "couples"], "description": { "uk": "Розкішний курорт з видом на легендарний острів.", "pl": "Luksusowy kurort z widokiem na legendarną wyspę." } }
+    {
+      "id": "me-h1",
+      "name": "Old Town Kotor Hostel",
+      "cityId": "me-kotor",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 25,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел у кам'яному будинку старого Котора.",
+        "pl": "Hostel w kamiennym domu starego Kotoru.",
+        "en": "A hostel in a stone house in Old Kotor."
+      }
+    },
+    {
+      "id": "me-h2",
+      "name": "Durmitor Pine Hotel",
+      "cityId": "me-zabljak",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 55,
+      "capacity": 4,
+      "tags": [
+        "mountains",
+        "nature",
+        "family"
+      ],
+      "description": {
+        "uk": "Гірський готель біля Чорного озера.",
+        "pl": "Górski hotel przy Czarnym Jeziorze.",
+        "en": "A mountain hotel by the Black Lake."
+      }
+    },
+    {
+      "id": "me-h3",
+      "name": "Budva Riviera Hotel",
+      "cityId": "me-budva",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 105,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Готель на першій лінії з басейном і баром на пляжі.",
+        "pl": "Hotel przy plaży z basenem i barem na plaży.",
+        "en": "A beachfront hotel with a pool and beach bar."
+      }
+    },
+    {
+      "id": "me-h4",
+      "name": "Bay of Kotor Stone Villa",
+      "cityId": "me-kotor",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 140,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "couples",
+        "history"
+      ],
+      "description": {
+        "uk": "Капітанська вілла з причалом на березі затоки.",
+        "pl": "Kapitańska willa z pomostem nad zatoką.",
+        "en": "A captain’s villa with its own jetty on the bay."
+      }
+    },
+    {
+      "id": "me-h5",
+      "name": "Sveti Stefan Royal Resort",
+      "cityId": "me-budva",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 350,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "comfort",
+        "couples"
+      ],
+      "description": {
+        "uk": "Розкішний курорт з видом на легендарний острів.",
+        "pl": "Luksusowy kurort z widokiem na legendarną wyspę.",
+        "en": "A luxury resort facing the legendary island."
+      }
+    }
   ],
   "cars": [
-    { "id": "me-c1", "class": "economy", "model": "VW Polo", "pricePerDay": 28, "seats": 5 },
-    { "id": "me-c2", "class": "suv", "model": "Dacia Duster 4x4", "pricePerDay": 50, "seats": 5 },
-    { "id": "me-c3", "class": "premium", "model": "BMW X5", "pricePerDay": 120, "seats": 5 }
+    {
+      "id": "me-c1",
+      "class": "economy",
+      "model": "VW Polo",
+      "pricePerDay": 28,
+      "seats": 5
+    },
+    {
+      "id": "me-c2",
+      "class": "suv",
+      "model": "Dacia Duster 4x4",
+      "pricePerDay": 50,
+      "seats": 5
+    },
+    {
+      "id": "me-c3",
+      "class": "premium",
+      "model": "BMW X5",
+      "pricePerDay": 120,
+      "seats": 5
+    }
   ]
 }

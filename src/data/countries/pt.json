@@ -1,41 +1,275 @@
 {
   "iso2": "PT",
   "wiki": "Portugal",
-  "capital": { "uk": "Лісабон", "pl": "Lizbona" },
+  "capital": {
+    "uk": "Лісабон",
+    "pl": "Lizbona",
+    "en": "Lisbon"
+  },
   "intro": {
     "uk": "Жовті трамваї Лісабона, портвейн у Порту, скелі Алгарве та океанські хвилі для серферів. Португалія — тепла, спокійна й неймовірно фотогенічна.",
-    "pl": "Żółte tramwaje Lizbony, porto w Porto, klify Algarve i oceaniczne fale dla surferów. Portugalia jest ciepła, spokojna i niesamowicie fotogeniczna."
+    "pl": "Żółte tramwaje Lizbony, porto w Porto, klify Algarve i oceaniczne fale dla surferów. Portugalia jest ciepła, spokojna i niesamowicie fotogeniczna.",
+    "en": "Lisbon’s yellow trams, port wine in Porto, the cliffs of the Algarve and ocean waves for surfers. Portugal is warm, calm and endlessly photogenic."
   },
   "cities": [
-    { "id": "pt-lisbon", "name": { "uk": "Лісабон", "pl": "Lizbona" }, "wiki": "Lisbon", "lat": 38.72, "lng": -9.14, "blurb": { "uk": "Пагорби, фаду й трамвай №28 крізь Алфаму.", "pl": "Wzgórza, fado i tramwaj nr 28 przez Alfamę." } },
-    { "id": "pt-porto", "name": { "uk": "Порту", "pl": "Porto" }, "wiki": "Porto", "lat": 41.15, "lng": -8.61, "blurb": { "uk": "Набережна Рібейра й винні погреби на березі Дору.", "pl": "Nabrzeże Ribeira i piwnice win nad Duero." } },
-    { "id": "pt-lagos", "name": { "uk": "Лагуш", "pl": "Lagos" }, "wiki": "Lagos, Portugal", "lat": 37.1, "lng": -8.67, "blurb": { "uk": "Золоті скелі та гроти Алгарве.", "pl": "Złote klify i groty Algarve." } },
-    { "id": "pt-funchal", "name": { "uk": "Фуншал", "pl": "Funchal" }, "wiki": "Funchal", "lat": 32.65, "lng": -16.91, "blurb": { "uk": "Столиця Мадейри — острова вічної весни.", "pl": "Stolica Madery — wyspy wiecznej wiosny." } }
+    {
+      "id": "pt-lisbon",
+      "name": {
+        "uk": "Лісабон",
+        "pl": "Lizbona",
+        "en": "Lisbon"
+      },
+      "wiki": "Lisbon",
+      "lat": 38.72,
+      "lng": -9.14,
+      "blurb": {
+        "uk": "Пагорби, фаду й трамвай №28 крізь Алфаму.",
+        "pl": "Wzgórza, fado i tramwaj nr 28 przez Alfamę.",
+        "en": "Hills, fado and tram 28 through Alfama."
+      }
+    },
+    {
+      "id": "pt-porto",
+      "name": {
+        "uk": "Порту",
+        "pl": "Porto",
+        "en": "Porto"
+      },
+      "wiki": "Porto",
+      "lat": 41.15,
+      "lng": -8.61,
+      "blurb": {
+        "uk": "Набережна Рібейра й винні погреби на березі Дору.",
+        "pl": "Nabrzeże Ribeira i piwnice win nad Duero.",
+        "en": "The Ribeira waterfront and wine cellars on the Douro."
+      }
+    },
+    {
+      "id": "pt-lagos",
+      "name": {
+        "uk": "Лагуш",
+        "pl": "Lagos",
+        "en": "Lagos"
+      },
+      "wiki": "Lagos, Portugal",
+      "lat": 37.1,
+      "lng": -8.67,
+      "blurb": {
+        "uk": "Золоті скелі та гроти Алгарве.",
+        "pl": "Złote klify i groty Algarve.",
+        "en": "Golden cliffs and the grottoes of the Algarve."
+      }
+    },
+    {
+      "id": "pt-funchal",
+      "name": {
+        "uk": "Фуншал",
+        "pl": "Funchal",
+        "en": "Funchal"
+      },
+      "wiki": "Funchal",
+      "lat": 32.65,
+      "lng": -16.91,
+      "blurb": {
+        "uk": "Столиця Мадейри — острова вічної весни.",
+        "pl": "Stolica Madery — wyspy wiecznej wiosny.",
+        "en": "Capital of Madeira, the island of eternal spring."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Паштел-де-ната", "pl": "Pastel de nata" }, "description": { "uk": "Тарталетка із заварним кремом і карамельною скоринкою.", "pl": "Babeczka z kremem budyniowym i karmelową skórką." } },
-    { "name": { "uk": "Бакальяу", "pl": "Bacalhau" }, "description": { "uk": "Солона тріска, яку кажуть готують 365 способами.", "pl": "Solony dorsz, podobno na 365 sposobów." } },
-    { "name": { "uk": "Франсезінья", "pl": "Francesinha" }, "description": { "uk": "Сендвіч із Порту з м'ясом, сиром і пивним соусом.", "pl": "Kanapka z Porto z mięsem, serem i sosem piwnym." } }
+    {
+      "name": {
+        "uk": "Паштел-де-ната",
+        "pl": "Pastel de nata",
+        "en": "Pastel de nata"
+      },
+      "description": {
+        "uk": "Тарталетка із заварним кремом і карамельною скоринкою.",
+        "pl": "Babeczka z kremem budyniowym i karmelową skórką.",
+        "en": "A custard tart with a caramelised top."
+      }
+    },
+    {
+      "name": {
+        "uk": "Бакальяу",
+        "pl": "Bacalhau",
+        "en": "Bacalhau"
+      },
+      "description": {
+        "uk": "Солона тріска, яку кажуть готують 365 способами.",
+        "pl": "Solony dorsz, podobno na 365 sposobów.",
+        "en": "Salt cod, said to be cooked 365 different ways."
+      }
+    },
+    {
+      "name": {
+        "uk": "Франсезінья",
+        "pl": "Francesinha",
+        "en": "Francesinha"
+      },
+      "description": {
+        "uk": "Сендвіч із Порту з м'ясом, сиром і пивним соусом.",
+        "pl": "Kanapka z Porto z mięsem, serem i sosem piwnym.",
+        "en": "Porto’s sandwich with meat, cheese and beer sauce."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Книгарня Bertrand у Лісабоні працює з 1732 року — найстаріша у світі.", "pl": "Księgarnia Bertrand w Lizbonie działa od 1732 roku — najstarsza na świecie." },
-    { "uk": "У Назаре серфери катаються на хвилях заввишки понад 25 метрів.", "pl": "W Nazaré surferzy pływają na falach wyższych niż 25 metrów." },
-    { "uk": "Португалія виробляє близько половини світового корку.", "pl": "Portugalia produkuje około połowy światowego korka." }
+    {
+      "uk": "Книгарня Bertrand у Лісабоні працює з 1732 року — найстаріша у світі.",
+      "pl": "Księgarnia Bertrand w Lizbonie działa od 1732 roku — najstarsza na świecie.",
+      "en": "Lisbon’s Bertrand bookshop has been open since 1732 — the oldest in the world."
+    },
+    {
+      "uk": "У Назаре серфери катаються на хвилях заввишки понад 25 метрів.",
+      "pl": "W Nazaré surferzy pływają na falach wyższych niż 25 metrów.",
+      "en": "In Nazaré surfers ride waves over 25 metres high."
+    },
+    {
+      "uk": "Португалія виробляє близько половини світового корку.",
+      "pl": "Portugalia produkuje około połowy światowego korka.",
+      "en": "Portugal produces about half of the world’s cork."
+    }
   ],
-  "bestMonths": [4, 5, 6, 9, 10],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    9,
+    10
+  ],
   "dailyCost": 60,
-  "tags": ["sea", "city", "food", "history", "nature"],
-  "airport": { "code": "LIS", "name": "Lisbon Humberto Delgado", "lat": 38.77, "lng": -9.13 },
+  "tags": [
+    "sea",
+    "city",
+    "food",
+    "history",
+    "nature"
+  ],
+  "airport": {
+    "code": "LIS",
+    "name": "Lisbon Humberto Delgado",
+    "lat": 38.77,
+    "lng": -9.13
+  },
   "hotels": [
-    { "id": "pt-h1", "name": "Alfama Surf & Stay", "cityId": "pt-lisbon", "tier": "budget", "stars": 2, "pricePerNight": 40, "capacity": 2, "tags": ["city", "nightlife"], "description": { "uk": "Хостел у старій Алфамі з терасою над Тежу.", "pl": "Hostel w starej Alfamie z tarasem nad Tagiem." } },
-    { "id": "pt-h2", "name": "Ribeira Douro Hotel", "cityId": "pt-porto", "tier": "3", "stars": 3, "pricePerNight": 80, "capacity": 2, "tags": ["city", "food", "couples"], "description": { "uk": "Готель на набережній з видом на погреби портвейну.", "pl": "Hotel na nabrzeżu z widokiem na piwnice porto." } },
-    { "id": "pt-h3", "name": "Algarve Cliffs Resort", "cityId": "pt-lagos", "tier": "4", "stars": 4, "pricePerNight": 135, "capacity": 4, "tags": ["sea", "family", "nature"], "description": { "uk": "Курорт над пляжем з басейнами та дитячим клубом.", "pl": "Kurort nad plażą z basenami i klubem dla dzieci." } },
-    { "id": "pt-h4", "name": "Madeira Garden Quinta", "cityId": "pt-funchal", "tier": "boutique", "stars": 4, "pricePerNight": 160, "capacity": 2, "tags": ["nature", "couples", "comfort"], "description": { "uk": "Стара садиба серед тропічного саду з видом на океан.", "pl": "Dawna posiadłość w tropikalnym ogrodzie z widokiem na ocean." } },
-    { "id": "pt-h5", "name": "Lisboa Grand Avenida", "cityId": "pt-lisbon", "tier": "5", "stars": 5, "pricePerNight": 330, "capacity": 3, "tags": ["comfort", "city", "history"], "description": { "uk": "Розкішний готель на авеніді Лібердаде зі SPA.", "pl": "Luksusowy hotel przy Avenida da Liberdade ze SPA." } }
+    {
+      "id": "pt-h1",
+      "name": "Alfama Surf & Stay",
+      "cityId": "pt-lisbon",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел у старій Алфамі з терасою над Тежу.",
+        "pl": "Hostel w starej Alfamie z tarasem nad Tagiem.",
+        "en": "A hostel in old Alfama with a terrace over the Tagus."
+      }
+    },
+    {
+      "id": "pt-h2",
+      "name": "Ribeira Douro Hotel",
+      "cityId": "pt-porto",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 80,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "food",
+        "couples"
+      ],
+      "description": {
+        "uk": "Готель на набережній з видом на погреби портвейну.",
+        "pl": "Hotel na nabrzeżu z widokiem na piwnice porto.",
+        "en": "A riverside hotel facing the port-wine cellars."
+      }
+    },
+    {
+      "id": "pt-h3",
+      "name": "Algarve Cliffs Resort",
+      "cityId": "pt-lagos",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 135,
+      "capacity": 4,
+      "tags": [
+        "sea",
+        "family",
+        "nature"
+      ],
+      "description": {
+        "uk": "Курорт над пляжем з басейнами та дитячим клубом.",
+        "pl": "Kurort nad plażą z basenami i klubem dla dzieci.",
+        "en": "A clifftop resort with pools and a kids’ club."
+      }
+    },
+    {
+      "id": "pt-h4",
+      "name": "Madeira Garden Quinta",
+      "cityId": "pt-funchal",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 160,
+      "capacity": 2,
+      "tags": [
+        "nature",
+        "couples",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Стара садиба серед тропічного саду з видом на океан.",
+        "pl": "Dawna posiadłość w tropikalnym ogrodzie z widokiem na ocean.",
+        "en": "An old manor in a tropical garden with ocean views."
+      }
+    },
+    {
+      "id": "pt-h5",
+      "name": "Lisboa Grand Avenida",
+      "cityId": "pt-lisbon",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 330,
+      "capacity": 3,
+      "tags": [
+        "comfort",
+        "city",
+        "history"
+      ],
+      "description": {
+        "uk": "Розкішний готель на авеніді Лібердаде зі SPA.",
+        "pl": "Luksusowy hotel przy Avenida da Liberdade ze SPA.",
+        "en": "A luxury hotel on Avenida da Liberdade with a spa."
+      }
+    }
   ],
   "cars": [
-    { "id": "pt-c1", "class": "economy", "model": "Renault Clio", "pricePerDay": 30, "seats": 5 },
-    { "id": "pt-c2", "class": "suv", "model": "Nissan Qashqai", "pricePerDay": 58, "seats": 5 },
-    { "id": "pt-c3", "class": "premium", "model": "Mercedes C-Class", "pricePerDay": 115, "seats": 5 }
+    {
+      "id": "pt-c1",
+      "class": "economy",
+      "model": "Renault Clio",
+      "pricePerDay": 30,
+      "seats": 5
+    },
+    {
+      "id": "pt-c2",
+      "class": "suv",
+      "model": "Nissan Qashqai",
+      "pricePerDay": 58,
+      "seats": 5
+    },
+    {
+      "id": "pt-c3",
+      "class": "premium",
+      "model": "Mercedes C-Class",
+      "pricePerDay": 115,
+      "seats": 5
+    }
   ]
 }

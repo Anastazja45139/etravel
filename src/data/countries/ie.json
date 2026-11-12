@@ -3,67 +3,77 @@
   "wiki": "Republic of Ireland",
   "capital": {
     "uk": "Дублін",
-    "pl": "Dublin"
+    "pl": "Dublin",
+    "en": "Dublin"
   },
   "intro": {
     "uk": "Зелені пагорби, скелі Мохер, живий фольк у пабах і замки біля океану. Ірландія — країна легенд, дощу й тепла людей.",
-    "pl": "Zielone wzgórza, klify Moher, muzyka folk na żywo w pubach i zamki nad oceanem. Irlandia to kraj legend, deszczu i ciepła ludzi."
+    "pl": "Zielone wzgórza, klify Moher, muzyka folk na żywo w pubach i zamki nad oceanem. Irlandia to kraj legend, deszczu i ciepła ludzi.",
+    "en": "Green hills, the Cliffs of Moher, live folk music in pubs and castles by the ocean. Ireland is a land of legends, rain and warm people."
   },
   "cities": [
     {
       "id": "ie-dublin",
       "name": {
         "uk": "Дублін",
-        "pl": "Dublin"
+        "pl": "Dublin",
+        "en": "Dublin"
       },
       "wiki": "Dublin",
       "lat": 53.35,
       "lng": -6.26,
       "blurb": {
         "uk": "Темпл-Бар, Трініті-коледж і Guinness Storehouse.",
-        "pl": "Temple Bar, Trinity College i Guinness Storehouse."
+        "pl": "Temple Bar, Trinity College i Guinness Storehouse.",
+        "en": "Temple Bar, Trinity College and the Guinness Storehouse."
       }
     },
     {
       "id": "ie-galway",
       "name": {
         "uk": "Голвей",
-        "pl": "Galway"
+        "pl": "Galway",
+        "en": "Galway"
       },
       "wiki": "Galway",
       "lat": 53.27,
       "lng": -9.05,
       "blurb": {
         "uk": "Кольорові вулиці та музика в кожному пабі.",
-        "pl": "Kolorowe ulice i muzyka w każdym pubie."
+        "pl": "Kolorowe ulice i muzyka w każdym pubie.",
+        "en": "Colourful streets and music in every pub."
       }
     },
     {
       "id": "ie-moher",
       "name": {
         "uk": "Скелі Мохер",
-        "pl": "Klify Moher"
+        "pl": "Klify Moher",
+        "en": "Cliffs of Moher"
       },
       "wiki": "Cliffs of Moher",
       "lat": 52.97,
       "lng": -9.43,
       "blurb": {
         "uk": "200-метрові скелі над Атлантикою.",
-        "pl": "200-metrowe klify nad Atlantykiem."
+        "pl": "200-metrowe klify nad Atlantykiem.",
+        "en": "200-metre cliffs above the Atlantic."
       }
     },
     {
       "id": "ie-killarney",
       "name": {
         "uk": "Кілларні",
-        "pl": "Killarney"
+        "pl": "Killarney",
+        "en": "Killarney"
       },
       "wiki": "Killarney",
       "lat": 52.06,
       "lng": -9.51,
       "blurb": {
         "uk": "Національний парк і Кільце Керрі.",
-        "pl": "Park narodowy i Ring of Kerry."
+        "pl": "Park narodowy i Ring of Kerry.",
+        "en": "A national park and the Ring of Kerry."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Ірландське рагу",
-        "pl": "Gulasz irlandzki"
+        "pl": "Gulasz irlandzki",
+        "en": "Irish stew"
       },
       "description": {
         "uk": "Баранина з картоплею та морквою.",
-        "pl": "Jagnięcina z ziemniakami i marchewką."
+        "pl": "Jagnięcina z ziemniakami i marchewką.",
+        "en": "Lamb with potatoes and carrots."
       }
     },
     {
       "name": {
         "uk": "Содовий хліб",
-        "pl": "Chleb sodowy"
+        "pl": "Chleb sodowy",
+        "en": "Soda bread"
       },
       "description": {
         "uk": "Хліб без дріжджів з маслом.",
-        "pl": "Chleb bez drożdży z masłem."
+        "pl": "Chleb bez drożdży z masłem.",
+        "en": "Yeast-free bread with butter."
       }
     },
     {
       "name": {
         "uk": "Ірландський сніданок",
-        "pl": "Śniadanie irlandzkie"
+        "pl": "Śniadanie irlandzkie",
+        "en": "Irish breakfast"
       },
       "description": {
         "uk": "З кров'яною ковбасою та чорним пудингом.",
-        "pl": "Z kaszanką i czarnym puddingiem."
+        "pl": "Z kaszanką i czarnym puddingiem.",
+        "en": "With black and white pudding."
       }
     }
   ],
   "facts": [
     {
       "uk": "Хелловін походить від кельтського свята Самайн.",
-      "pl": "Halloween wywodzi się z celtyckiego święta Samhain."
+      "pl": "Halloween wywodzi się z celtyckiego święta Samhain.",
+      "en": "Halloween comes from the Celtic festival of Samhain."
     },
     {
       "uk": "В Ірландії немає змій — за легендою, їх вигнав святий Патрик.",
-      "pl": "W Irlandii nie ma węży — według legendy wypędził je św. Patryk."
+      "pl": "W Irlandii nie ma węży — według legendy wypędził je św. Patryk.",
+      "en": "There are no snakes in Ireland — legend says St Patrick drove them out."
     },
     {
       "uk": "Символ країни — арфа, а не конюшина.",
-      "pl": "Symbolem państwa jest harfa, a nie koniczyna."
+      "pl": "Symbolem państwa jest harfa, a nie koniczyna.",
+      "en": "The national symbol is the harp, not the shamrock."
     }
   ],
   "bestMonths": [
@@ -148,7 +167,8 @@
       ],
       "description": {
         "uk": "Хостел на набережній Ліффі біля Темпл-Бару.",
-        "pl": "Hostel nad Liffey przy Temple Bar."
+        "pl": "Hostel nad Liffey przy Temple Bar.",
+        "en": "A hostel on the Liffey by Temple Bar."
       }
     },
     {
@@ -165,7 +185,8 @@
       ],
       "description": {
         "uk": "Готель на березі озера з оленями поруч.",
-        "pl": "Hotel nad jeziorem z jeleniami w pobliżu."
+        "pl": "Hotel nad jeziorem z jeleniami w pobliżu.",
+        "en": "A lakeside hotel with deer nearby."
       }
     },
     {
@@ -182,7 +203,8 @@
       ],
       "description": {
         "uk": "Яскравий дизайнерський готель.",
-        "pl": "Kolorowy hotel designerski."
+        "pl": "Kolorowy hotel designerski.",
+        "en": "A colourful design hotel."
       }
     },
     {
@@ -199,7 +221,8 @@
       ],
       "description": {
         "uk": "Затишний бутик біля скель Мохер.",
-        "pl": "Przytulny butik niedaleko klifów Moher."
+        "pl": "Przytulny butik niedaleko klifów Moher.",
+        "en": "A cosy boutique near the Cliffs of Moher."
       }
     },
     {
@@ -217,7 +240,8 @@
       ],
       "description": {
         "uk": "Історичний люкс на площі Сент-Стівенс-Грін.",
-        "pl": "Zabytkowy luksus przy St Stephen's Green."
+        "pl": "Zabytkowy luksus przy St Stephen's Green.",
+        "en": "Historic luxury on St Stephen’s Green."
       }
     }
   ],

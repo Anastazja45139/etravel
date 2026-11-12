@@ -3,67 +3,77 @@
   "wiki": "Finland",
   "capital": {
     "uk": "Гельсінкі",
-    "pl": "Helsinki"
+    "pl": "Helsinki",
+    "en": "Helsinki"
   },
   "intro": {
     "uk": "Тисячі озер, сауни, Лапландія з Санта-Клаусом і білі ночі. Фінляндія — найкраще місце для зимової казки.",
-    "pl": "Tysiące jezior, sauny, Laponia ze Świętym Mikołajem i białe noce. Finlandia to najlepsze miejsce na zimową bajkę."
+    "pl": "Tysiące jezior, sauny, Laponia ze Świętym Mikołajem i białe noce. Finlandia to najlepsze miejsce na zimową bajkę.",
+    "en": "Thousands of lakes, saunas, Lapland with Santa Claus and white nights. Finland is the best place for a winter fairy tale."
   },
   "cities": [
     {
       "id": "fi-helsinki",
       "name": {
         "uk": "Гельсінкі",
-        "pl": "Helsinki"
+        "pl": "Helsinki",
+        "en": "Helsinki"
       },
       "wiki": "Helsinki",
       "lat": 60.17,
       "lng": 24.94,
       "blurb": {
         "uk": "Фортеця Суоменлінна та дизайн-квартал.",
-        "pl": "Twierdza Suomenlinna i dzielnica designu."
+        "pl": "Twierdza Suomenlinna i dzielnica designu.",
+        "en": "Suomenlinna fortress and the Design District."
       }
     },
     {
       "id": "fi-rovaniemi",
       "name": {
         "uk": "Рованіємі",
-        "pl": "Rowaniemi"
+        "pl": "Rowaniemi",
+        "en": "Rovaniemi"
       },
       "wiki": "Rovaniemi",
       "lat": 66.5,
       "lng": 25.73,
       "blurb": {
         "uk": "Село Санта-Клауса на Полярному колі.",
-        "pl": "Wioska Świętego Mikołaja na kole podbiegunowym."
+        "pl": "Wioska Świętego Mikołaja na kole podbiegunowym.",
+        "en": "Santa Claus Village on the Arctic Circle."
       }
     },
     {
       "id": "fi-saariselka",
       "name": {
         "uk": "Саарісельке",
-        "pl": "Saariselkä"
+        "pl": "Saariselkä",
+        "en": "Saariselkä"
       },
       "wiki": "Saariselkä",
       "lat": 68.42,
       "lng": 27.41,
       "blurb": {
         "uk": "Скляні іглу та північне сяйво.",
-        "pl": "Szklane igloo i zorza polarna."
+        "pl": "Szklane igloo i zorza polarna.",
+        "en": "Glass igloos and the northern lights."
       }
     },
     {
       "id": "fi-turku",
       "name": {
         "uk": "Турку",
-        "pl": "Turku"
+        "pl": "Turku",
+        "en": "Turku"
       },
       "wiki": "Turku",
       "lat": 60.45,
       "lng": 22.27,
       "blurb": {
         "uk": "Найстаріше місто й архіпелаг.",
-        "pl": "Najstarsze miasto i archipelag."
+        "pl": "Najstarsze miasto i archipelag.",
+        "en": "The oldest city and its archipelago."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Карельський пиріжок",
-        "pl": "Pierożek karelski"
+        "pl": "Pierożek karelski",
+        "en": "Karelian pie"
       },
       "description": {
         "uk": "Житній пиріжок з рисовою кашею.",
-        "pl": "Żytni pierożek z kaszą ryżową."
+        "pl": "Żytni pierożek z kaszą ryżową.",
+        "en": "A rye pastry with rice porridge."
       }
     },
     {
       "name": {
         "uk": "Лохікейтто",
-        "pl": "Lohikeitto"
+        "pl": "Lohikeitto",
+        "en": "Lohikeitto"
       },
       "description": {
         "uk": "Вершковий суп з лососем.",
-        "pl": "Śmietanowa zupa z łososiem."
+        "pl": "Śmietanowa zupa z łososiem.",
+        "en": "Creamy salmon soup."
       }
     },
     {
       "name": {
         "uk": "Корвапуусті",
-        "pl": "Korvapuusti"
+        "pl": "Korvapuusti",
+        "en": "Korvapuusti"
       },
       "description": {
         "uk": "Булочки з корицею у формі «вушок».",
-        "pl": "Bułeczki cynamonowe w kształcie „uszek”."
+        "pl": "Bułeczki cynamonowe w kształcie „uszek”.",
+        "en": "Cinnamon buns shaped like “ears”."
       }
     }
   ],
   "facts": [
     {
       "uk": "У Фінляндії близько 3 мільйонів саун — більше, ніж машин.",
-      "pl": "W Finlandii jest około 3 milionów saun — więcej niż samochodów."
+      "pl": "W Finlandii jest około 3 milionów saun — więcej niż samochodów.",
+      "en": "Finland has about 3 million saunas — more than cars."
     },
     {
       "uk": "Країну називають «краєм тисячі озер», хоча їх понад 180 тисяч.",
-      "pl": "Kraj nazywa się „krainą tysiąca jezior”, choć jest ich ponad 180 tysięcy."
+      "pl": "Kraj nazywa się „krainą tysiąca jezior”, choć jest ich ponad 180 tysięcy.",
+      "en": "It’s called the “land of a thousand lakes”, though there are over 180,000."
     },
     {
       "uk": "Фінляндія кілька років поспіль — найщасливіша країна світу.",
-      "pl": "Finlandia od kilku lat jest najszczęśliwszym krajem świata."
+      "pl": "Finlandia od kilku lat jest najszczęśliwszym krajem świata.",
+      "en": "Finland has been named the happiest country in the world several years running."
     }
   ],
   "bestMonths": [
@@ -150,7 +169,8 @@
       ],
       "description": {
         "uk": "Хостел із сауною біля порту.",
-        "pl": "Hostel z sauną przy porcie."
+        "pl": "Hostel z sauną przy porcie.",
+        "en": "A hostel with a sauna by the port."
       }
     },
     {
@@ -167,7 +187,8 @@
       ],
       "description": {
         "uk": "Котеджі просто в селі Санта-Клауса.",
-        "pl": "Domki w samej wiosce Świętego Mikołaja."
+        "pl": "Domki w samej wiosce Świętego Mikołaja.",
+        "en": "Cottages right in Santa Claus Village."
       }
     },
     {
@@ -184,7 +205,8 @@
       ],
       "description": {
         "uk": "Готель на березі річки Аура.",
-        "pl": "Hotel nad rzeką Aura."
+        "pl": "Hotel nad rzeką Aura.",
+        "en": "A hotel on the Aura river."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Бутик ар-деко в дизайн-кварталі.",
-        "pl": "Butik art déco w dzielnicy designu."
+        "pl": "Butik art déco w dzielnicy designu.",
+        "en": "An Art Deco boutique in the Design District."
       }
     },
     {
@@ -219,7 +242,8 @@
       ],
       "description": {
         "uk": "Скляні іглу для спостереження за сяйвом.",
-        "pl": "Szklane igloo do oglądania zorzy."
+        "pl": "Szklane igloo do oglądania zorzy.",
+        "en": "Glass igloos for watching the aurora."
       }
     }
   ],

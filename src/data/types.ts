@@ -1,5 +1,6 @@
-export type Lang = 'uk' | 'pl';
-export type L10n = { uk: string; pl: string };
+export type Lang = 'uk' | 'pl' | 'en';
+export const LANGS: Lang[] = ['uk', 'pl', 'en'];
+export type L10n = { uk: string; pl: string; en: string };
 export type Tag =
   | 'sea' | 'mountains' | 'city' | 'nature' | 'history'
   | 'food' | 'nightlife' | 'family' | 'couples' | 'comfort';

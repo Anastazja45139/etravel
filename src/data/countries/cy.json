@@ -3,67 +3,77 @@
   "wiki": "Cyprus",
   "capital": {
     "uk": "Нікосія",
-    "pl": "Nikozja"
+    "pl": "Nikozja",
+    "en": "Nicosia"
   },
   "intro": {
     "uk": "Острів Афродіти з 340 сонячними днями на рік, блакитними лагунами й античними руїнами. Кіпр — ідеальне море з квітня по листопад.",
-    "pl": "Wyspa Afrodyty z 340 słonecznymi dniami w roku, błękitnymi lagunami i antycznymi ruinami. Cypr to idealne morze od kwietnia do listopada."
+    "pl": "Wyspa Afrodyty z 340 słonecznymi dniami w roku, błękitnymi lagunami i antycznymi ruinami. Cypr to idealne morze od kwietnia do listopada.",
+    "en": "Aphrodite’s island with 340 sunny days a year, blue lagoons and ancient ruins. Cyprus offers perfect sea from April to November."
   },
   "cities": [
     {
       "id": "cy-limassol",
       "name": {
         "uk": "Лімасол",
-        "pl": "Limassol"
+        "pl": "Limassol",
+        "en": "Limassol"
       },
       "wiki": "Limassol",
       "lat": 34.68,
       "lng": 33.04,
       "blurb": {
         "uk": "Набережна, марина та винні села поряд.",
-        "pl": "Promenada, marina i winne wioski w pobliżu."
+        "pl": "Promenada, marina i winne wioski w pobliżu.",
+        "en": "A promenade, a marina and wine villages nearby."
       }
     },
     {
       "id": "cy-paphos",
       "name": {
         "uk": "Пафос",
-        "pl": "Pafos"
+        "pl": "Pafos",
+        "en": "Paphos"
       },
       "wiki": "Paphos",
       "lat": 34.77,
       "lng": 32.42,
       "blurb": {
         "uk": "Мозаїки, Гробниці царів і скеля Афродіти.",
-        "pl": "Mozaiki, Groby Królewskie i Skała Afrodyty."
+        "pl": "Mozaiki, Groby Królewskie i Skała Afrodyty.",
+        "en": "Mosaics, the Tombs of the Kings and Aphrodite’s Rock."
       }
     },
     {
       "id": "cy-ayia-napa",
       "name": {
         "uk": "Айя-Напа",
-        "pl": "Ayia Napa"
+        "pl": "Ayia Napa",
+        "en": "Ayia Napa"
       },
       "wiki": "Ayia Napa",
       "lat": 34.98,
       "lng": 34,
       "blurb": {
         "uk": "Білі пляжі та нічні вечірки.",
-        "pl": "Białe plaże i nocne imprezy."
+        "pl": "Białe plaże i nocne imprezy.",
+        "en": "White beaches and night parties."
       }
     },
     {
       "id": "cy-troodos",
       "name": {
         "uk": "Гори Троодос",
-        "pl": "Góry Troodos"
+        "pl": "Góry Troodos",
+        "en": "Troodos Mountains"
       },
       "wiki": "Troodos Mountains",
       "lat": 34.92,
       "lng": 32.86,
       "blurb": {
         "uk": "Розписні церкви та прохолода в горах.",
-        "pl": "Malowane cerkwie i chłód gór."
+        "pl": "Malowane cerkwie i chłód gór.",
+        "en": "Painted churches and cool mountain air."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Халумі",
-        "pl": "Halloumi"
+        "pl": "Halloumi",
+        "en": "Halloumi"
       },
       "description": {
         "uk": "Сир на грилі, що «скрипить» на зубах.",
-        "pl": "Ser z grilla, który „skrzypi” w zębach."
+        "pl": "Ser z grilla, który „skrzypi” w zębach.",
+        "en": "Grilled cheese that squeaks when you bite it."
       }
     },
     {
       "name": {
         "uk": "Мезе",
-        "pl": "Meze"
+        "pl": "Meze",
+        "en": "Meze"
       },
       "description": {
         "uk": "Десятки маленьких страв за одним столом.",
-        "pl": "Dziesiątki małych dań na jednym stole."
+        "pl": "Dziesiątki małych dań na jednym stole.",
+        "en": "Dozens of small dishes on one table."
       }
     },
     {
       "name": {
         "uk": "Сувлакі",
-        "pl": "Souvlaki"
+        "pl": "Souvlaki",
+        "en": "Souvlaki"
       },
       "description": {
         "uk": "Шашлички з пітою та цацикі.",
-        "pl": "Szaszłyki z pitą i tzatziki."
+        "pl": "Szaszłyki z pitą i tzatziki.",
+        "en": "Skewers with pita and tzatziki."
       }
     }
   ],
   "facts": [
     {
       "uk": "За легендою, Афродіта вийшла з моря біля Пафоса.",
-      "pl": "Według legendy Afrodyta wyłoniła się z morza koło Pafos."
+      "pl": "Według legendy Afrodyta wyłoniła się z morza koło Pafos.",
+      "en": "Legend says Aphrodite rose from the sea near Paphos."
     },
     {
       "uk": "На Кіпрі лівосторонній рух.",
-      "pl": "Na Cyprze obowiązuje ruch lewostronny."
+      "pl": "Na Cyprze obowiązuje ruch lewostronny.",
+      "en": "Cyprus drives on the left."
     },
     {
       "uk": "Вино Коммандарія — одне з найстаріших у світі.",
-      "pl": "Wino Commandaria jest jednym z najstarszych na świecie."
+      "pl": "Wino Commandaria jest jednym z najstarszych na świecie.",
+      "en": "Commandaria is one of the oldest named wines in the world."
     }
   ],
   "bestMonths": [
@@ -152,7 +171,8 @@
       ],
       "description": {
         "uk": "Простий хостел біля пляжу Нісі.",
-        "pl": "Prosty hostel przy plaży Nissi."
+        "pl": "Prosty hostel przy plaży Nissi.",
+        "en": "A simple hostel near Nissi Beach."
       }
     },
     {
@@ -169,7 +189,8 @@
       ],
       "description": {
         "uk": "Сімейний готель у старому Пафосі.",
-        "pl": "Rodzinny hotel w starym Pafos."
+        "pl": "Rodzinny hotel w starym Pafos.",
+        "en": "A family hotel in old Paphos."
       }
     },
     {
@@ -186,7 +207,8 @@
       ],
       "description": {
         "uk": "Пляжний готель з басейнами й анімацією.",
-        "pl": "Hotel przy plaży z basenami i animacjami."
+        "pl": "Hotel przy plaży z basenami i animacjami.",
+        "en": "A beach hotel with pools and entertainment."
       }
     },
     {
@@ -204,7 +226,8 @@
       ],
       "description": {
         "uk": "Бутик-спа в горах Троодос.",
-        "pl": "Butik ze spa w górach Troodos."
+        "pl": "Butik ze spa w górach Troodos.",
+        "en": "A boutique spa in the Troodos mountains."
       }
     },
     {
@@ -222,7 +245,8 @@
       ],
       "description": {
         "uk": "Розкішний курорт над власною бухтою.",
-        "pl": "Luksusowy kurort nad własną zatoką."
+        "pl": "Luksusowy kurort nad własną zatoką.",
+        "en": "A luxury resort above its own cove."
       }
     }
   ],

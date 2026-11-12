@@ -3,67 +3,77 @@
   "wiki": "Sweden",
   "capital": {
     "uk": "Стокгольм",
-    "pl": "Sztokholm"
+    "pl": "Sztokholm",
+    "en": "Stockholm"
   },
   "intro": {
     "uk": "Стокгольм на 14 островах, червоні дерев'яні будиночки, Лапландія з північним сяйвом. Швеція — це природа, дизайн і фіка.",
-    "pl": "Sztokholm na 14 wyspach, czerwone drewniane domki, Laponia z zorzą polarną. Szwecja to przyroda, design i fika."
+    "pl": "Sztokholm na 14 wyspach, czerwone drewniane domki, Laponia z zorzą polarną. Szwecja to przyroda, design i fika.",
+    "en": "Stockholm on 14 islands, red wooden cottages and Lapland under the northern lights. Sweden is nature, design and fika."
   },
   "cities": [
     {
       "id": "se-stockholm",
       "name": {
         "uk": "Стокгольм",
-        "pl": "Sztokholm"
+        "pl": "Sztokholm",
+        "en": "Stockholm"
       },
       "wiki": "Stockholm",
       "lat": 59.33,
       "lng": 18.07,
       "blurb": {
         "uk": "Гамла Стан, музей «Ваза» й ABBA.",
-        "pl": "Gamla Stan, muzeum „Vasa” i ABBA."
+        "pl": "Gamla Stan, muzeum „Vasa” i ABBA.",
+        "en": "Gamla Stan, the Vasa Museum and ABBA."
       }
     },
     {
       "id": "se-gothenburg",
       "name": {
         "uk": "Гетеборг",
-        "pl": "Göteborg"
+        "pl": "Göteborg",
+        "en": "Gothenburg"
       },
       "wiki": "Gothenburg",
       "lat": 57.71,
       "lng": 11.97,
       "blurb": {
         "uk": "Морепродукти, парк Лісеберг і шхери.",
-        "pl": "Owoce morza, park Liseberg i szkiery."
+        "pl": "Owoce morza, park Liseberg i szkiery.",
+        "en": "Seafood, Liseberg park and the archipelago."
       }
     },
     {
       "id": "se-kiruna",
       "name": {
         "uk": "Кіруна",
-        "pl": "Kiruna"
+        "pl": "Kiruna",
+        "en": "Kiruna"
       },
       "wiki": "Kiruna",
       "lat": 67.86,
       "lng": 20.23,
       "blurb": {
         "uk": "Північне сяйво та крижаний готель.",
-        "pl": "Zorza polarna i lodowy hotel."
+        "pl": "Zorza polarna i lodowy hotel.",
+        "en": "The northern lights and the Icehotel."
       }
     },
     {
       "id": "se-visby",
       "name": {
         "uk": "Вісбю",
-        "pl": "Visby"
+        "pl": "Visby",
+        "en": "Visby"
       },
       "wiki": "Visby",
       "lat": 57.64,
       "lng": 18.3,
       "blurb": {
         "uk": "Середньовічне місто-фортеця на острові Готланд.",
-        "pl": "Średniowieczne miasto-twierdza na Gotlandii."
+        "pl": "Średniowieczne miasto-twierdza na Gotlandii.",
+        "en": "A medieval walled town on Gotland."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Шведські фрикадельки",
-        "pl": "Klopsiki szwedzkie"
+        "pl": "Klopsiki szwedzkie",
+        "en": "Swedish meatballs"
       },
       "description": {
         "uk": "З брусничним варенням і вершковим соусом.",
-        "pl": "Z konfiturą z borówek i sosem śmietanowym."
+        "pl": "Z konfiturą z borówek i sosem śmietanowym.",
+        "en": "With lingonberry jam and cream sauce."
       }
     },
     {
       "name": {
         "uk": "Кардамонова булочка",
-        "pl": "Bułeczka kardamonowa"
+        "pl": "Bułeczka kardamonowa",
+        "en": "Cardamom bun"
       },
       "description": {
         "uk": "Солодка булочка до кави на фіку.",
-        "pl": "Słodka bułeczka do kawy na fikę."
+        "pl": "Słodka bułeczka do kawy na fikę.",
+        "en": "A sweet bun with coffee for fika."
       }
     },
     {
       "name": {
         "uk": "Гравлакс",
-        "pl": "Gravlax"
+        "pl": "Gravlax",
+        "en": "Gravlax"
       },
       "description": {
         "uk": "Маринований лосось з кропом.",
-        "pl": "Marynowany łosoś z koperkiem."
+        "pl": "Marynowany łosoś z koperkiem.",
+        "en": "Cured salmon with dill."
       }
     }
   ],
   "facts": [
     {
       "uk": "У Швеції понад 267 тисяч островів.",
-      "pl": "Szwecja ma ponad 267 tysięcy wysp."
+      "pl": "Szwecja ma ponad 267 tysięcy wysp.",
+      "en": "Sweden has more than 267,000 islands."
     },
     {
       "uk": "Тут діє «право всіх» — можна ночувати з наметом майже будь-де.",
-      "pl": "Obowiązuje tu „prawo każdego” — można biwakować prawie wszędzie."
+      "pl": "Obowiązuje tu „prawo każdego” — można biwakować prawie wszędzie.",
+      "en": "The “right to roam” lets you camp almost anywhere."
     },
     {
       "uk": "Крижаний готель у Юккасъярві будують заново щозими.",
-      "pl": "Lodowy hotel w Jukkasjärvi buduje się od nowa każdej zimy."
+      "pl": "Lodowy hotel w Jukkasjärvi buduje się od nowa każdej zimy.",
+      "en": "The Icehotel in Jukkasjärvi is rebuilt every winter."
     }
   ],
   "bestMonths": [
@@ -151,7 +170,8 @@
       ],
       "description": {
         "uk": "Стильний хостел біля центрального вокзалу.",
-        "pl": "Stylowy hostel przy dworcu centralnym."
+        "pl": "Stylowy hostel przy dworcu centralnym.",
+        "en": "A stylish hostel by the central station."
       }
     },
     {
@@ -168,7 +188,8 @@
       ],
       "description": {
         "uk": "Готель з басейном, що висить над вулицею.",
-        "pl": "Hotel z basenem wiszącym nad ulicą."
+        "pl": "Hotel z basenem wiszącym nad ulicą.",
+        "en": "A hotel with a pool that hangs over the street."
       }
     },
     {
@@ -186,7 +207,8 @@
       ],
       "description": {
         "uk": "Готель усередині середньовічних мурів.",
-        "pl": "Hotel wewnątrz średniowiecznych murów."
+        "pl": "Hotel wewnątrz średniowiecznych murów.",
+        "en": "A hotel inside the medieval walls."
       }
     },
     {
@@ -203,7 +225,8 @@
       ],
       "description": {
         "uk": "Бутик, що нагадує затишний дім.",
-        "pl": "Butik przypominający przytulny dom."
+        "pl": "Butik przypominający przytulny dom.",
+        "en": "A boutique that feels like a cosy home."
       }
     },
     {
@@ -221,7 +244,8 @@
       ],
       "description": {
         "uk": "Номери з криги та нічне полювання на північне сяйво.",
-        "pl": "Pokoje z lodu i nocne łowy na zorzę."
+        "pl": "Pokoje z lodu i nocne łowy na zorzę.",
+        "en": "Rooms of ice and night-time northern-lights hunts."
       }
     }
   ],

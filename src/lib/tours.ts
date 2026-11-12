@@ -18,13 +18,13 @@ export type TourTheme = 'sea' | 'mountains' | 'city' | 'food' | 'romance' | 'fam
 interface ThemeDef { tag: Tag; nights: number; tiers: HotelTier[]; title: L10n }
 
 const THEMES: Record<TourTheme, ThemeDef> = {
-  sea: { tag: 'sea', nights: 7, tiers: ['4', '3', 'boutique'], title: { uk: 'Тиждень біля моря', pl: 'Tydzień nad morzem' } },
-  mountains: { tag: 'mountains', nights: 6, tiers: ['4', '3', 'boutique'], title: { uk: 'Гори та свіже повітря', pl: 'Góry i świeże powietrze' } },
-  city: { tag: 'city', nights: 4, tiers: ['3', '4', 'budget'], title: { uk: 'Міські канікули', pl: 'Miejskie wakacje' } },
-  food: { tag: 'food', nights: 5, tiers: ['boutique', '4', '3'], title: { uk: 'Гастрономічна подорож', pl: 'Podróż kulinarna' } },
-  romance: { tag: 'couples', nights: 4, tiers: ['boutique', '5', '4'], title: { uk: 'Романтика для двох', pl: 'Romantycznie we dwoje' } },
-  family: { tag: 'family', nights: 7, tiers: ['4', '3', '5'], title: { uk: 'Сімейні канікули', pl: 'Rodzinne wakacje' } },
-  luxury: { tag: 'comfort', nights: 5, tiers: ['5', 'boutique', '4'], title: { uk: 'Відпочинок класу люкс', pl: 'Wypoczynek w luksusie' } },
+  sea: { tag: 'sea', nights: 7, tiers: ['4', '3', 'boutique'], title: { uk: 'Тиждень біля моря', pl: 'Tydzień nad morzem', en: 'A week by the sea' } },
+  mountains: { tag: 'mountains', nights: 6, tiers: ['4', '3', 'boutique'], title: { uk: 'Гори та свіже повітря', pl: 'Góry i świeże powietrze', en: 'Mountains and fresh air' } },
+  city: { tag: 'city', nights: 4, tiers: ['3', '4', 'budget'], title: { uk: 'Міські канікули', pl: 'Miejskie wakacje', en: 'City break' } },
+  food: { tag: 'food', nights: 5, tiers: ['boutique', '4', '3'], title: { uk: 'Гастрономічна подорож', pl: 'Podróż kulinarna', en: 'A food journey' } },
+  romance: { tag: 'couples', nights: 4, tiers: ['boutique', '5', '4'], title: { uk: 'Романтика для двох', pl: 'Romantycznie we dwoje', en: 'Romance for two' } },
+  family: { tag: 'family', nights: 7, tiers: ['4', '3', '5'], title: { uk: 'Сімейні канікули', pl: 'Rodzinne wakacje', en: 'Family holiday' } },
+  luxury: { tag: 'comfort', nights: 5, tiers: ['5', 'boutique', '4'], title: { uk: 'Відпочинок класу люкс', pl: 'Wypoczynek w luksusie', en: 'Luxury escape' } },
 };
 
 /** Themes are tried in this order; a country gets the first three it suits. */

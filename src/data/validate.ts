@@ -8,6 +8,7 @@ export function validateCountry(c: Country): string[] {
   const l10n = (v: L10n | undefined, path: string) => {
     if (!v?.uk?.trim()) errs.push(`${path}.uk is empty`);
     if (!v?.pl?.trim()) errs.push(`${path}.pl is empty`);
+    if (!v?.en?.trim()) errs.push(`${path}.en is empty`);
   };
   const tags = (t: string[], path: string) => t.forEach((x) => { if (!ALL_TAGS.includes(x as never)) errs.push(`${path}: unknown tag ${x}`); });
 

@@ -3,67 +3,77 @@
   "wiki": "Switzerland",
   "capital": {
     "uk": "Берн",
-    "pl": "Berno"
+    "pl": "Berno",
+    "en": "Bern"
   },
   "intro": {
     "uk": "Сніжні вершини, кришталеві озера, панорамні потяги й найсмачніший шоколад. Швейцарія дорога, але кожен франк тут вартий краєвидів.",
-    "pl": "Ośnieżone szczyty, krystaliczne jeziora, panoramiczne pociągi i najlepsza czekolada. Szwajcaria jest droga, ale każdy frank jest wart tych widoków."
+    "pl": "Ośnieżone szczyty, krystaliczne jeziora, panoramiczne pociągi i najlepsza czekolada. Szwajcaria jest droga, ale każdy frank jest wart tych widoków.",
+    "en": "Snowy peaks, crystal lakes, panoramic trains and the best chocolate. Switzerland is expensive, but every franc is worth the views."
   },
   "cities": [
     {
       "id": "ch-zurich",
       "name": {
         "uk": "Цюрих",
-        "pl": "Zurych"
+        "pl": "Zurych",
+        "en": "Zürich"
       },
       "wiki": "Zürich",
       "lat": 47.37,
       "lng": 8.54,
       "blurb": {
         "uk": "Озеро, старе місто й найкращі шоколадниці.",
-        "pl": "Jezioro, stare miasto i najlepsze czekoladziarnie."
+        "pl": "Jezioro, stare miasto i najlepsze czekoladziarnie.",
+        "en": "The lake, the old town and the best chocolatiers."
       }
     },
     {
       "id": "ch-lucerne",
       "name": {
         "uk": "Люцерн",
-        "pl": "Lucerna"
+        "pl": "Lucerna",
+        "en": "Lucerne"
       },
       "wiki": "Lucerne",
       "lat": 47.05,
       "lng": 8.31,
       "blurb": {
         "uk": "Дерев'яний міст Капельбрюкке та гора Пілатус.",
-        "pl": "Drewniany most Kapellbrücke i góra Pilatus."
+        "pl": "Drewniany most Kapellbrücke i góra Pilatus.",
+        "en": "The wooden Chapel Bridge and Mount Pilatus."
       }
     },
     {
       "id": "ch-zermatt",
       "name": {
         "uk": "Церматт",
-        "pl": "Zermatt"
+        "pl": "Zermatt",
+        "en": "Zermatt"
       },
       "wiki": "Zermatt",
       "lat": 46.02,
       "lng": 7.75,
       "blurb": {
         "uk": "Курорт без машин біля підніжжя Маттерхорну.",
-        "pl": "Kurort bez samochodów u stóp Matterhornu."
+        "pl": "Kurort bez samochodów u stóp Matterhornu.",
+        "en": "A car-free resort at the foot of the Matterhorn."
       }
     },
     {
       "id": "ch-interlaken",
       "name": {
         "uk": "Інтерлакен",
-        "pl": "Interlaken"
+        "pl": "Interlaken",
+        "en": "Interlaken"
       },
       "wiki": "Interlaken",
       "lat": 46.69,
       "lng": 7.86,
       "blurb": {
         "uk": "Між двома озерами, поруч Юнгфрау.",
-        "pl": "Między dwoma jeziorami, w pobliżu Jungfrau."
+        "pl": "Między dwoma jeziorami, w pobliżu Jungfrau.",
+        "en": "Between two lakes, near the Jungfrau."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Фондю",
-        "pl": "Fondue"
+        "pl": "Fondue",
+        "en": "Fondue"
       },
       "description": {
         "uk": "Розтоплений сир із вином, у який занурюють хліб.",
-        "pl": "Roztopiony ser z winem, w którym macza się chleb."
+        "pl": "Roztopiony ser z winem, w którym macza się chleb.",
+        "en": "Melted cheese with wine for dipping bread."
       }
     },
     {
       "name": {
         "uk": "Раклет",
-        "pl": "Raclette"
+        "pl": "Raclette",
+        "en": "Raclette"
       },
       "description": {
         "uk": "Сир, розплавлений просто на картоплю.",
-        "pl": "Ser topiony prosto na ziemniaki."
+        "pl": "Ser topiony prosto na ziemniaki.",
+        "en": "Cheese melted straight onto potatoes."
       }
     },
     {
       "name": {
         "uk": "Решті",
-        "pl": "Rösti"
+        "pl": "Rösti",
+        "en": "Rösti"
       },
       "description": {
         "uk": "Хрустка картопляна деруна-сковорідка.",
-        "pl": "Chrupiący placek z tartych ziemniaków."
+        "pl": "Chrupiący placek z tartych ziemniaków.",
+        "en": "A crispy grated-potato cake."
       }
     }
   ],
   "facts": [
     {
       "uk": "У Швейцарії понад 1500 озер.",
-      "pl": "W Szwajcarii jest ponad 1500 jezior."
+      "pl": "W Szwajcarii jest ponad 1500 jezior.",
+      "en": "Switzerland has more than 1,500 lakes."
     },
     {
       "uk": "Країна має чотири офіційні мови.",
-      "pl": "Kraj ma cztery języki urzędowe."
+      "pl": "Kraj ma cztery języki urzędowe.",
+      "en": "The country has four official languages."
     },
     {
       "uk": "Швейцарці з'їдають близько 10 кг шоколаду на рік на людину.",
-      "pl": "Szwajcarzy zjadają około 10 kg czekolady rocznie na osobę."
+      "pl": "Szwajcarzy zjadają około 10 kg czekolady rocznie na osobę.",
+      "en": "The Swiss eat around 10 kg of chocolate per person a year."
     }
   ],
   "bestMonths": [
@@ -152,7 +171,8 @@
       ],
       "description": {
         "uk": "Легендарний хостел для любителів пригод.",
-        "pl": "Legendarny hostel dla miłośników przygód."
+        "pl": "Legendarny hostel dla miłośników przygód.",
+        "en": "A legendary hostel for adventure lovers."
       }
     },
     {
@@ -169,7 +189,8 @@
       ],
       "description": {
         "uk": "Простий і затишний готель біля вокзалу.",
-        "pl": "Prosty i przytulny hotel przy dworcu."
+        "pl": "Prosty i przytulny hotel przy dworcu.",
+        "en": "A simple, cosy hotel by the station."
       }
     },
     {
@@ -186,7 +207,8 @@
       ],
       "description": {
         "uk": "Готель у центрі Церматта з басейном.",
-        "pl": "Hotel w centrum Zermatt z basenem."
+        "pl": "Hotel w centrum Zermatt z basenem.",
+        "en": "A hotel in central Zermatt with a pool."
       }
     },
     {
@@ -204,7 +226,8 @@
       ],
       "description": {
         "uk": "Дев'ять середньовічних будинків в одному бутику.",
-        "pl": "Dziewięć średniowiecznych kamienic w jednym butiku."
+        "pl": "Dziewięć średniowiecznych kamienic w jednym butiku.",
+        "en": "Nine medieval houses in one boutique."
       }
     },
     {
@@ -222,7 +245,8 @@
       ],
       "description": {
         "uk": "Палац із видом на Юнгфрау та велике спа.",
-        "pl": "Pałac z widokiem na Jungfrau i dużym spa."
+        "pl": "Pałac z widokiem na Jungfrau i dużym spa.",
+        "en": "A palace with Jungfrau views and a large spa."
       }
     }
   ],

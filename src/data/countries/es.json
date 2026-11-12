@@ -1,41 +1,275 @@
 {
   "iso2": "ES",
   "wiki": "Spain",
-  "capital": { "uk": "Мадрид", "pl": "Madryt" },
+  "capital": {
+    "uk": "Мадрид",
+    "pl": "Madryt",
+    "en": "Madrid"
+  },
   "intro": {
     "uk": "Сонце понад 300 днів на рік, фламенко, тапас до пізньої ночі та архітектура Гауді. Іспанія вміє жити повільно і смачно.",
-    "pl": "Ponad 300 słonecznych dni w roku, flamenco, tapas do późnej nocy i architektura Gaudíego. Hiszpania umie żyć powoli i smacznie."
+    "pl": "Ponad 300 słonecznych dni w roku, flamenco, tapas do późnej nocy i architektura Gaudíego. Hiszpania umie żyć powoli i smacznie.",
+    "en": "Sunshine 300+ days a year, flamenco, tapas until late at night and Gaudí’s architecture. Spain knows how to live slowly and deliciously."
   },
   "cities": [
-    { "id": "es-barcelona", "name": { "uk": "Барселона", "pl": "Barcelona" }, "wiki": "Barcelona", "lat": 41.39, "lng": 2.17, "blurb": { "uk": "Саграда Фамілія, пляжі та Готичний квартал.", "pl": "Sagrada Família, plaże i Dzielnica Gotycka." } },
-    { "id": "es-madrid", "name": { "uk": "Мадрид", "pl": "Madryt" }, "wiki": "Madrid", "lat": 40.42, "lng": -3.7, "blurb": { "uk": "Прадо, парк Ретіро та нічне життя до ранку.", "pl": "Prado, park Retiro i życie nocne do rana." } },
-    { "id": "es-seville", "name": { "uk": "Севілья", "pl": "Sewilla" }, "wiki": "Seville", "lat": 37.39, "lng": -5.99, "blurb": { "uk": "Мавританський Алькасар і батьківщина фламенко.", "pl": "Mauretański Alkazar i ojczyzna flamenco." } },
-    { "id": "es-palma", "name": { "uk": "Пальма-де-Майорка", "pl": "Palma de Mallorca" }, "wiki": "Palma de Mallorca", "lat": 39.57, "lng": 2.65, "blurb": { "uk": "Острівна столиця з бухтами та катедрою над морем.", "pl": "Wyspiarska stolica z zatoczkami i katedrą nad morzem." } }
+    {
+      "id": "es-barcelona",
+      "name": {
+        "uk": "Барселона",
+        "pl": "Barcelona",
+        "en": "Barcelona"
+      },
+      "wiki": "Barcelona",
+      "lat": 41.39,
+      "lng": 2.17,
+      "blurb": {
+        "uk": "Саграда Фамілія, пляжі та Готичний квартал.",
+        "pl": "Sagrada Família, plaże i Dzielnica Gotycka.",
+        "en": "Sagrada Família, beaches and the Gothic Quarter."
+      }
+    },
+    {
+      "id": "es-madrid",
+      "name": {
+        "uk": "Мадрид",
+        "pl": "Madryt",
+        "en": "Madrid"
+      },
+      "wiki": "Madrid",
+      "lat": 40.42,
+      "lng": -3.7,
+      "blurb": {
+        "uk": "Прадо, парк Ретіро та нічне життя до ранку.",
+        "pl": "Prado, park Retiro i życie nocne do rana.",
+        "en": "The Prado, Retiro Park and nightlife until dawn."
+      }
+    },
+    {
+      "id": "es-seville",
+      "name": {
+        "uk": "Севілья",
+        "pl": "Sewilla",
+        "en": "Seville"
+      },
+      "wiki": "Seville",
+      "lat": 37.39,
+      "lng": -5.99,
+      "blurb": {
+        "uk": "Мавританський Алькасар і батьківщина фламенко.",
+        "pl": "Mauretański Alkazar i ojczyzna flamenco.",
+        "en": "The Moorish Alcázar and the home of flamenco."
+      }
+    },
+    {
+      "id": "es-palma",
+      "name": {
+        "uk": "Пальма-де-Майорка",
+        "pl": "Palma de Mallorca",
+        "en": "Palma de Mallorca"
+      },
+      "wiki": "Palma de Mallorca",
+      "lat": 39.57,
+      "lng": 2.65,
+      "blurb": {
+        "uk": "Острівна столиця з бухтами та катедрою над морем.",
+        "pl": "Wyspiarska stolica z zatoczkami i katedrą nad morzem.",
+        "en": "An island capital with coves and a cathedral above the sea."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Паелья", "pl": "Paella" }, "description": { "uk": "Валенсійський рис із шафраном, морепродуктами або куркою.", "pl": "Walencki ryż z szafranem, owocami morza lub kurczakiem." } },
-    { "name": { "uk": "Тапас", "pl": "Tapas" }, "description": { "uk": "Маленькі закуски до вина: хамон, пататас бравас, крокети.", "pl": "Małe przekąski do wina: jamón, patatas bravas, krokiety." } },
-    { "name": { "uk": "Гаспачо", "pl": "Gazpacho" }, "description": { "uk": "Холодний томатний суп, що рятує в андалузьку спеку.", "pl": "Chłodnik pomidorowy ratujący w andaluzyjskim upale." } }
+    {
+      "name": {
+        "uk": "Паелья",
+        "pl": "Paella",
+        "en": "Paella"
+      },
+      "description": {
+        "uk": "Валенсійський рис із шафраном, морепродуктами або куркою.",
+        "pl": "Walencki ryż z szafranem, owocami morza lub kurczakiem.",
+        "en": "Valencian saffron rice with seafood or chicken."
+      }
+    },
+    {
+      "name": {
+        "uk": "Тапас",
+        "pl": "Tapas",
+        "en": "Tapas"
+      },
+      "description": {
+        "uk": "Маленькі закуски до вина: хамон, пататас бравас, крокети.",
+        "pl": "Małe przekąski do wina: jamón, patatas bravas, krokiety.",
+        "en": "Small bites with wine: jamón, patatas bravas, croquetas."
+      }
+    },
+    {
+      "name": {
+        "uk": "Гаспачо",
+        "pl": "Gazpacho",
+        "en": "Gazpacho"
+      },
+      "description": {
+        "uk": "Холодний томатний суп, що рятує в андалузьку спеку.",
+        "pl": "Chłodnik pomidorowy ratujący w andaluzyjskim upale.",
+        "en": "Cold tomato soup that saves you in the Andalusian heat."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Саграду Фамілію будують із 1882 року.", "pl": "Sagrada Família jest budowana od 1882 roku." },
-    { "uk": "Іспанці вечеряють близько 21–22 години.", "pl": "Hiszpanie jedzą kolację około 21–22." },
-    { "uk": "Іспанія — найбільший у світі виробник оливкової олії.", "pl": "Hiszpania jest największym producentem oliwy na świecie." }
+    {
+      "uk": "Саграду Фамілію будують із 1882 року.",
+      "pl": "Sagrada Família jest budowana od 1882 roku.",
+      "en": "Sagrada Família has been under construction since 1882."
+    },
+    {
+      "uk": "Іспанці вечеряють близько 21–22 години.",
+      "pl": "Hiszpanie jedzą kolację około 21–22.",
+      "en": "Spaniards have dinner around 9–10 pm."
+    },
+    {
+      "uk": "Іспанія — найбільший у світі виробник оливкової олії.",
+      "pl": "Hiszpania jest największym producentem oliwy na świecie.",
+      "en": "Spain is the world’s largest producer of olive oil."
+    }
   ],
-  "bestMonths": [4, 5, 6, 9, 10],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    9,
+    10
+  ],
   "dailyCost": 65,
-  "tags": ["sea", "city", "food", "nightlife", "history"],
-  "airport": { "code": "BCN", "name": "Barcelona-El Prat", "lat": 41.3, "lng": 2.08 },
+  "tags": [
+    "sea",
+    "city",
+    "food",
+    "nightlife",
+    "history"
+  ],
+  "airport": {
+    "code": "BCN",
+    "name": "Barcelona-El Prat",
+    "lat": 41.3,
+    "lng": 2.08
+  },
   "hotels": [
-    { "id": "es-h1", "name": "Gòtic Social Hostel", "cityId": "es-barcelona", "tier": "budget", "stars": 2, "pricePerNight": 45, "capacity": 2, "tags": ["city", "nightlife"], "description": { "uk": "Хостел з дахом-терасою в Готичному кварталі.", "pl": "Hostel z tarasem na dachu w Dzielnicy Gotyckiej." } },
-    { "id": "es-h2", "name": "Hotel Triana Patio", "cityId": "es-seville", "tier": "3", "stars": 3, "pricePerNight": 80, "capacity": 2, "tags": ["history", "food", "couples"], "description": { "uk": "Андалузький будинок з патіо та азулежу.", "pl": "Andaluzyjski dom z patio i azulejos." } },
-    { "id": "es-h3", "name": "Gran Vía Urban Hotel", "cityId": "es-madrid", "tier": "4", "stars": 4, "pricePerNight": 130, "capacity": 3, "tags": ["city", "nightlife", "family"], "description": { "uk": "Сучасний готель на головній вулиці Мадрида.", "pl": "Nowoczesny hotel przy głównej ulicy Madrytu." } },
-    { "id": "es-h4", "name": "Casa Cala Boutique", "cityId": "es-palma", "tier": "boutique", "stars": 4, "pricePerNight": 175, "capacity": 2, "tags": ["sea", "couples", "nature"], "description": { "uk": "Вілла з кам'яними стінами біля тихої бухти.", "pl": "Kamienna willa przy cichej zatoczce." } },
-    { "id": "es-h5", "name": "Barceloneta Grand Marina", "cityId": "es-barcelona", "tier": "5", "stars": 5, "pricePerNight": 320, "capacity": 3, "tags": ["sea", "comfort", "family"], "description": { "uk": "П'ятизірковий готель на пляжі з басейном на даху.", "pl": "Pięciogwiazdkowy hotel przy plaży z basenem na dachu." } }
+    {
+      "id": "es-h1",
+      "name": "Gòtic Social Hostel",
+      "cityId": "es-barcelona",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 45,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел з дахом-терасою в Готичному кварталі.",
+        "pl": "Hostel z tarasem na dachu w Dzielnicy Gotyckiej.",
+        "en": "A hostel with a roof terrace in the Gothic Quarter."
+      }
+    },
+    {
+      "id": "es-h2",
+      "name": "Hotel Triana Patio",
+      "cityId": "es-seville",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 80,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "food",
+        "couples"
+      ],
+      "description": {
+        "uk": "Андалузький будинок з патіо та азулежу.",
+        "pl": "Andaluzyjski dom z patio i azulejos.",
+        "en": "An Andalusian house with a patio and azulejo tiles."
+      }
+    },
+    {
+      "id": "es-h3",
+      "name": "Gran Vía Urban Hotel",
+      "cityId": "es-madrid",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 130,
+      "capacity": 3,
+      "tags": [
+        "city",
+        "nightlife",
+        "family"
+      ],
+      "description": {
+        "uk": "Сучасний готель на головній вулиці Мадрида.",
+        "pl": "Nowoczesny hotel przy głównej ulicy Madrytu.",
+        "en": "A modern hotel on Madrid’s main street."
+      }
+    },
+    {
+      "id": "es-h4",
+      "name": "Casa Cala Boutique",
+      "cityId": "es-palma",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 175,
+      "capacity": 2,
+      "tags": [
+        "sea",
+        "couples",
+        "nature"
+      ],
+      "description": {
+        "uk": "Вілла з кам'яними стінами біля тихої бухти.",
+        "pl": "Kamienna willa przy cichej zatoczce.",
+        "en": "A stone-walled villa by a quiet cove."
+      }
+    },
+    {
+      "id": "es-h5",
+      "name": "Barceloneta Grand Marina",
+      "cityId": "es-barcelona",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 320,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "comfort",
+        "family"
+      ],
+      "description": {
+        "uk": "П'ятизірковий готель на пляжі з басейном на даху.",
+        "pl": "Pięciogwiazdkowy hotel przy plaży z basenem na dachu.",
+        "en": "A five-star beach hotel with a rooftop pool."
+      }
+    }
   ],
   "cars": [
-    { "id": "es-c1", "class": "economy", "model": "SEAT Ibiza", "pricePerDay": 30, "seats": 5 },
-    { "id": "es-c2", "class": "suv", "model": "SEAT Ateca", "pricePerDay": 60, "seats": 5 },
-    { "id": "es-c3", "class": "premium", "model": "BMW 5 Series", "pricePerDay": 120, "seats": 5 }
+    {
+      "id": "es-c1",
+      "class": "economy",
+      "model": "SEAT Ibiza",
+      "pricePerDay": 30,
+      "seats": 5
+    },
+    {
+      "id": "es-c2",
+      "class": "suv",
+      "model": "SEAT Ateca",
+      "pricePerDay": 60,
+      "seats": 5
+    },
+    {
+      "id": "es-c3",
+      "class": "premium",
+      "model": "BMW 5 Series",
+      "pricePerDay": 120,
+      "seats": 5
+    }
   ]
 }

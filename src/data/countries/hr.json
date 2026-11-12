@@ -1,41 +1,274 @@
 {
   "iso2": "HR",
   "wiki": "Croatia",
-  "capital": { "uk": "Загреб", "pl": "Zagrzeb" },
+  "capital": {
+    "uk": "Загреб",
+    "pl": "Zagrzeb",
+    "en": "Zagreb"
+  },
   "intro": {
     "uk": "Понад тисяча островів, кришталева Адріатика, римські палаци та бірюзові озера Плітвіце. Хорватія — ідеальне поєднання моря та історії.",
-    "pl": "Ponad tysiąc wysp, krystaliczny Adriatyk, rzymskie pałace i turkusowe Jeziora Plitwickie. Chorwacja to idealne połączenie morza i historii."
+    "pl": "Ponad tysiąc wysp, krystaliczny Adriatyk, rzymskie pałace i turkusowe Jeziora Plitwickie. Chorwacja to idealne połączenie morza i historii.",
+    "en": "Over a thousand islands, the crystal Adriatic, Roman palaces and the turquoise Plitvice Lakes. Croatia is the perfect mix of sea and history."
   },
   "cities": [
-    { "id": "hr-dubrovnik", "name": { "uk": "Дубровник", "pl": "Dubrownik" }, "wiki": "Dubrovnik", "lat": 42.65, "lng": 18.09, "blurb": { "uk": "Мури старого міста й локації «Гри престолів».", "pl": "Mury starego miasta i plenery „Gry o tron”." } },
-    { "id": "hr-split", "name": { "uk": "Спліт", "pl": "Split" }, "wiki": "Split, Croatia", "lat": 43.51, "lng": 16.44, "blurb": { "uk": "Палац Діоклетіана, де люди живуть уже 1700 років.", "pl": "Pałac Dioklecjana zamieszkany od 1700 lat." } },
-    { "id": "hr-zagreb", "name": { "uk": "Загреб", "pl": "Zagrzeb" }, "wiki": "Zagreb", "lat": 45.81, "lng": 15.98, "blurb": { "uk": "Затишна столиця з кав'ярнями та Музеєм розірваних стосунків.", "pl": "Przytulna stolica z kawiarniami i Muzeum Złamanych Serc." } },
-    { "id": "hr-plitvice", "name": { "uk": "Плітвіцькі озера", "pl": "Jeziora Plitwickie" }, "wiki": "Plitvice Lakes National Park", "lat": 44.88, "lng": 15.62, "blurb": { "uk": "16 каскадних озер і дерев'яні стежки над водоспадами.", "pl": "16 kaskadowych jezior i drewniane kładki nad wodospadami." } }
+    {
+      "id": "hr-dubrovnik",
+      "name": {
+        "uk": "Дубровник",
+        "pl": "Dubrownik",
+        "en": "Dubrovnik"
+      },
+      "wiki": "Dubrovnik",
+      "lat": 42.65,
+      "lng": 18.09,
+      "blurb": {
+        "uk": "Мури старого міста й локації «Гри престолів».",
+        "pl": "Mury starego miasta i plenery „Gry o tron”.",
+        "en": "Old-town walls and “Game of Thrones” locations."
+      }
+    },
+    {
+      "id": "hr-split",
+      "name": {
+        "uk": "Спліт",
+        "pl": "Split",
+        "en": "Split"
+      },
+      "wiki": "Split, Croatia",
+      "lat": 43.51,
+      "lng": 16.44,
+      "blurb": {
+        "uk": "Палац Діоклетіана, де люди живуть уже 1700 років.",
+        "pl": "Pałac Dioklecjana zamieszkany od 1700 lat.",
+        "en": "Diocletian’s Palace, where people have lived for 1,700 years."
+      }
+    },
+    {
+      "id": "hr-zagreb",
+      "name": {
+        "uk": "Загреб",
+        "pl": "Zagrzeb",
+        "en": "Zagreb"
+      },
+      "wiki": "Zagreb",
+      "lat": 45.81,
+      "lng": 15.98,
+      "blurb": {
+        "uk": "Затишна столиця з кав'ярнями та Музеєм розірваних стосунків.",
+        "pl": "Przytulna stolica z kawiarniami i Muzeum Złamanych Serc.",
+        "en": "A cosy capital of cafés and the Museum of Broken Relationships."
+      }
+    },
+    {
+      "id": "hr-plitvice",
+      "name": {
+        "uk": "Плітвіцькі озера",
+        "pl": "Jeziora Plitwickie",
+        "en": "Plitvice Lakes"
+      },
+      "wiki": "Plitvice Lakes National Park",
+      "lat": 44.88,
+      "lng": 15.62,
+      "blurb": {
+        "uk": "16 каскадних озер і дерев'яні стежки над водоспадами.",
+        "pl": "16 kaskadowych jezior i drewniane kładki nad wodospadami.",
+        "en": "16 cascading lakes and wooden boardwalks over waterfalls."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Пека", "pl": "Peka" }, "description": { "uk": "М'ясо або восьминіг з овочами під металевим дзвоном у жарі.", "pl": "Mięso lub ośmiornica z warzywami pieczone pod żeliwnym kloszem." } },
-    { "name": { "uk": "Чорне різото", "pl": "Czarne risotto" }, "description": { "uk": "Різото з чорнилом каракатиці — далматинська класика.", "pl": "Risotto z atramentem mątwy — dalmatyński klasyk." } },
-    { "name": { "uk": "Штрукли", "pl": "Štrukli" }, "description": { "uk": "Загребські рулети з тіста та сиру, запечені з вершками.", "pl": "Zagrzebskie rolady z ciasta i sera zapiekane ze śmietaną." } }
+    {
+      "name": {
+        "uk": "Пека",
+        "pl": "Peka",
+        "en": "Peka"
+      },
+      "description": {
+        "uk": "М'ясо або восьминіг з овочами під металевим дзвоном у жарі.",
+        "pl": "Mięso lub ośmiornica z warzywami pieczone pod żeliwnym kloszem.",
+        "en": "Meat or octopus with vegetables slow-cooked under an iron bell."
+      }
+    },
+    {
+      "name": {
+        "uk": "Чорне різото",
+        "pl": "Czarne risotto",
+        "en": "Black risotto"
+      },
+      "description": {
+        "uk": "Різото з чорнилом каракатиці — далматинська класика.",
+        "pl": "Risotto z atramentem mątwy — dalmatyński klasyk.",
+        "en": "Risotto with cuttlefish ink — a Dalmatian classic."
+      }
+    },
+    {
+      "name": {
+        "uk": "Штрукли",
+        "pl": "Štrukli",
+        "en": "Štrukli"
+      },
+      "description": {
+        "uk": "Загребські рулети з тіста та сиру, запечені з вершками.",
+        "pl": "Zagrzebskie rolady z ciasta i sera zapiekane ze śmietaną.",
+        "en": "Zagreb pastry rolls with cheese, baked in cream."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Краватку винайшли хорватські солдати — звідси слово «cravat».", "pl": "Krawat wymyślili chorwaccy żołnierze — stąd słowo „cravat”." },
-    { "uk": "Хорватія має 1244 острови та острівці.", "pl": "Chorwacja ma 1244 wyspy i wysepki." },
-    { "uk": "Далматинці отримали назву від хорватського регіону Далмація.", "pl": "Dalmatyńczyki wzięły nazwę od chorwackiej Dalmacji." }
+    {
+      "uk": "Краватку винайшли хорватські солдати — звідси слово «cravat».",
+      "pl": "Krawat wymyślili chorwaccy żołnierze — stąd słowo „cravat”.",
+      "en": "The necktie was invented by Croatian soldiers — hence the word “cravat”."
+    },
+    {
+      "uk": "Хорватія має 1244 острови та острівці.",
+      "pl": "Chorwacja ma 1244 wyspy i wysepki.",
+      "en": "Croatia has 1,244 islands and islets."
+    },
+    {
+      "uk": "Далматинці отримали назву від хорватського регіону Далмація.",
+      "pl": "Dalmatyńczyki wzięły nazwę od chorwackiej Dalmacji.",
+      "en": "Dalmatian dogs are named after Croatia’s Dalmatia region."
+    }
   ],
-  "bestMonths": [5, 6, 7, 8, 9],
+  "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
   "dailyCost": 60,
-  "tags": ["sea", "history", "nature", "couples"],
-  "airport": { "code": "SPU", "name": "Split Airport", "lat": 43.54, "lng": 16.3 },
+  "tags": [
+    "sea",
+    "history",
+    "nature",
+    "couples"
+  ],
+  "airport": {
+    "code": "SPU",
+    "name": "Split Airport",
+    "lat": 43.54,
+    "lng": 16.3
+  },
   "hotels": [
-    { "id": "hr-h1", "name": "Diocletian Backpackers", "cityId": "hr-split", "tier": "budget", "stars": 2, "pricePerNight": 40, "capacity": 2, "tags": ["city", "nightlife", "sea"], "description": { "uk": "Хостел у стінах палацу Діоклетіана.", "pl": "Hostel w murach Pałacu Dioklecjana." } },
-    { "id": "hr-h2", "name": "Hotel Ban Jelačić", "cityId": "hr-zagreb", "tier": "3", "stars": 3, "pricePerNight": 70, "capacity": 2, "tags": ["city", "food"], "description": { "uk": "Готель біля головної площі Загреба.", "pl": "Hotel przy głównym placu Zagrzebia." } },
-    { "id": "hr-h3", "name": "Plitvice Forest Lodge", "cityId": "hr-plitvice", "tier": "4", "stars": 4, "pricePerNight": 110, "capacity": 4, "tags": ["nature", "family", "mountains"], "description": { "uk": "Лісовий готель за 5 хвилин від входу в парк.", "pl": "Leśny hotel 5 minut od wejścia do parku." } },
-    { "id": "hr-h4", "name": "Stradun Stone Boutique", "cityId": "hr-dubrovnik", "tier": "boutique", "stars": 4, "pricePerNight": 230, "capacity": 2, "tags": ["history", "couples", "sea"], "description": { "uk": "Кам'яний будинок XVI століття всередині міських мурів.", "pl": "XVI-wieczna kamienica wewnątrz murów miejskich." } },
-    { "id": "hr-h5", "name": "Adriatic Grand Dubrovnik", "cityId": "hr-dubrovnik", "tier": "5", "stars": 5, "pricePerNight": 380, "capacity": 3, "tags": ["sea", "comfort", "family"], "description": { "uk": "Розкішний курорт над скелями з видом на старе місто.", "pl": "Luksusowy kurort na klifach z widokiem na stare miasto." } }
+    {
+      "id": "hr-h1",
+      "name": "Diocletian Backpackers",
+      "cityId": "hr-split",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 40,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife",
+        "sea"
+      ],
+      "description": {
+        "uk": "Хостел у стінах палацу Діоклетіана.",
+        "pl": "Hostel w murach Pałacu Dioklecjana.",
+        "en": "A hostel inside the walls of Diocletian’s Palace."
+      }
+    },
+    {
+      "id": "hr-h2",
+      "name": "Hotel Ban Jelačić",
+      "cityId": "hr-zagreb",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 70,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "food"
+      ],
+      "description": {
+        "uk": "Готель біля головної площі Загреба.",
+        "pl": "Hotel przy głównym placu Zagrzebia.",
+        "en": "A hotel near Zagreb’s main square."
+      }
+    },
+    {
+      "id": "hr-h3",
+      "name": "Plitvice Forest Lodge",
+      "cityId": "hr-plitvice",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 110,
+      "capacity": 4,
+      "tags": [
+        "nature",
+        "family",
+        "mountains"
+      ],
+      "description": {
+        "uk": "Лісовий готель за 5 хвилин від входу в парк.",
+        "pl": "Leśny hotel 5 minut od wejścia do parku.",
+        "en": "A forest hotel five minutes from the park entrance."
+      }
+    },
+    {
+      "id": "hr-h4",
+      "name": "Stradun Stone Boutique",
+      "cityId": "hr-dubrovnik",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 230,
+      "capacity": 2,
+      "tags": [
+        "history",
+        "couples",
+        "sea"
+      ],
+      "description": {
+        "uk": "Кам'яний будинок XVI століття всередині міських мурів.",
+        "pl": "XVI-wieczna kamienica wewnątrz murów miejskich.",
+        "en": "A 16th-century stone house inside the city walls."
+      }
+    },
+    {
+      "id": "hr-h5",
+      "name": "Adriatic Grand Dubrovnik",
+      "cityId": "hr-dubrovnik",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 380,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "comfort",
+        "family"
+      ],
+      "description": {
+        "uk": "Розкішний курорт над скелями з видом на старе місто.",
+        "pl": "Luksusowy kurort na klifach z widokiem na stare miasto.",
+        "en": "A luxury resort on the cliffs overlooking the old town."
+      }
+    }
   ],
   "cars": [
-    { "id": "hr-c1", "class": "economy", "model": "Opel Corsa", "pricePerDay": 35, "seats": 5 },
-    { "id": "hr-c2", "class": "suv", "model": "Peugeot 3008", "pricePerDay": 68, "seats": 5 },
-    { "id": "hr-c3", "class": "premium", "model": "Audi A6", "pricePerDay": 125, "seats": 5 }
+    {
+      "id": "hr-c1",
+      "class": "economy",
+      "model": "Opel Corsa",
+      "pricePerDay": 35,
+      "seats": 5
+    },
+    {
+      "id": "hr-c2",
+      "class": "suv",
+      "model": "Peugeot 3008",
+      "pricePerDay": 68,
+      "seats": 5
+    },
+    {
+      "id": "hr-c3",
+      "class": "premium",
+      "model": "Audi A6",
+      "pricePerDay": 125,
+      "seats": 5
+    }
   ]
 }

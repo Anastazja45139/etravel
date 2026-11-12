@@ -1,41 +1,275 @@
 {
   "iso2": "FR",
   "wiki": "France",
-  "capital": { "uk": "Париж", "pl": "Paryż" },
+  "capital": {
+    "uk": "Париж",
+    "pl": "Paryż",
+    "en": "Paris"
+  },
   "intro": {
     "uk": "Париж, Лазурний берег, лавандові поля Провансу й тисяча сортів сиру. Франція — найвідвідуваніша країна світу, і на те є причини.",
-    "pl": "Paryż, Lazurowe Wybrzeże, lawendowe pola Prowansji i tysiąc gatunków sera. Francja to najczęściej odwiedzany kraj świata — i nie bez powodu."
+    "pl": "Paryż, Lazurowe Wybrzeże, lawendowe pola Prowansji i tysiąc gatunków sera. Francja to najczęściej odwiedzany kraj świata — i nie bez powodu.",
+    "en": "Paris, the Riviera, Provence’s lavender fields and a thousand kinds of cheese. France is the most visited country in the world — for good reason."
   },
   "cities": [
-    { "id": "fr-paris", "name": { "uk": "Париж", "pl": "Paryż" }, "wiki": "Paris", "lat": 48.86, "lng": 2.35, "blurb": { "uk": "Ейфелева вежа, Лувр і круасани на Монмартрі.", "pl": "Wieża Eiffla, Luwr i croissanty na Montmartre." } },
-    { "id": "fr-nice", "name": { "uk": "Ніцца", "pl": "Nicea" }, "wiki": "Nice", "lat": 43.7, "lng": 7.27, "blurb": { "uk": "Англійська набережна та лазурне море.", "pl": "Promenada Anglików i lazurowe morze." } },
-    { "id": "fr-lyon", "name": { "uk": "Ліон", "pl": "Lyon" }, "wiki": "Lyon", "lat": 45.76, "lng": 4.84, "blurb": { "uk": "Гастрономічна столиця Франції з бушонами.", "pl": "Gastronomiczna stolica Francji z bouchonami." } },
-    { "id": "fr-chamonix", "name": { "uk": "Шамоні", "pl": "Chamonix" }, "wiki": "Chamonix", "lat": 45.92, "lng": 6.87, "blurb": { "uk": "Підніжжя Монблану — найвищої гори Альп.", "pl": "U stóp Mont Blanc — najwyższego szczytu Alp." } }
+    {
+      "id": "fr-paris",
+      "name": {
+        "uk": "Париж",
+        "pl": "Paryż",
+        "en": "Paris"
+      },
+      "wiki": "Paris",
+      "lat": 48.86,
+      "lng": 2.35,
+      "blurb": {
+        "uk": "Ейфелева вежа, Лувр і круасани на Монмартрі.",
+        "pl": "Wieża Eiffla, Luwr i croissanty na Montmartre.",
+        "en": "The Eiffel Tower, the Louvre and croissants in Montmartre."
+      }
+    },
+    {
+      "id": "fr-nice",
+      "name": {
+        "uk": "Ніцца",
+        "pl": "Nicea",
+        "en": "Nice"
+      },
+      "wiki": "Nice",
+      "lat": 43.7,
+      "lng": 7.27,
+      "blurb": {
+        "uk": "Англійська набережна та лазурне море.",
+        "pl": "Promenada Anglików i lazurowe morze.",
+        "en": "The Promenade des Anglais and an azure sea."
+      }
+    },
+    {
+      "id": "fr-lyon",
+      "name": {
+        "uk": "Ліон",
+        "pl": "Lyon",
+        "en": "Lyon"
+      },
+      "wiki": "Lyon",
+      "lat": 45.76,
+      "lng": 4.84,
+      "blurb": {
+        "uk": "Гастрономічна столиця Франції з бушонами.",
+        "pl": "Gastronomiczna stolica Francji z bouchonami.",
+        "en": "France’s gastronomic capital, full of bouchons."
+      }
+    },
+    {
+      "id": "fr-chamonix",
+      "name": {
+        "uk": "Шамоні",
+        "pl": "Chamonix",
+        "en": "Chamonix"
+      },
+      "wiki": "Chamonix",
+      "lat": 45.92,
+      "lng": 6.87,
+      "blurb": {
+        "uk": "Підніжжя Монблану — найвищої гори Альп.",
+        "pl": "U stóp Mont Blanc — najwyższego szczytu Alp.",
+        "en": "At the foot of Mont Blanc, the highest peak of the Alps."
+      }
+    }
   ],
   "dishes": [
-    { "name": { "uk": "Круасан", "pl": "Croissant" }, "description": { "uk": "Масляний листковий рогалик до ранкової кави.", "pl": "Maślany rogalik z ciasta francuskiego do porannej kawy." } },
-    { "name": { "uk": "Буйабес", "pl": "Bouillabaisse" }, "description": { "uk": "Марсельська рибна юшка з шафраном і соусом руй.", "pl": "Marsylska zupa rybna z szafranem i sosem rouille." } },
-    { "name": { "uk": "Тартифлет", "pl": "Tartiflette" }, "description": { "uk": "Альпійська запіканка з картоплі, бекону та сиру реблошон.", "pl": "Alpejska zapiekanka z ziemniaków, boczku i sera reblochon." } }
+    {
+      "name": {
+        "uk": "Круасан",
+        "pl": "Croissant",
+        "en": "Croissant"
+      },
+      "description": {
+        "uk": "Масляний листковий рогалик до ранкової кави.",
+        "pl": "Maślany rogalik z ciasta francuskiego do porannej kawy.",
+        "en": "A buttery flaky pastry for morning coffee."
+      }
+    },
+    {
+      "name": {
+        "uk": "Буйабес",
+        "pl": "Bouillabaisse",
+        "en": "Bouillabaisse"
+      },
+      "description": {
+        "uk": "Марсельська рибна юшка з шафраном і соусом руй.",
+        "pl": "Marsylska zupa rybna z szafranem i sosem rouille.",
+        "en": "Marseille fish stew with saffron and rouille."
+      }
+    },
+    {
+      "name": {
+        "uk": "Тартифлет",
+        "pl": "Tartiflette",
+        "en": "Tartiflette"
+      },
+      "description": {
+        "uk": "Альпійська запіканка з картоплі, бекону та сиру реблошон.",
+        "pl": "Alpejska zapiekanka z ziemniaków, boczku i sera reblochon.",
+        "en": "An alpine bake of potatoes, bacon and Reblochon cheese."
+      }
+    }
   ],
   "facts": [
-    { "uk": "Франція приймає понад 90 мільйонів туристів на рік.", "pl": "Francję odwiedza ponad 90 milionów turystów rocznie." },
-    { "uk": "Влітку Ейфелева вежа стає вищою на 15 см через розширення металу.", "pl": "Latem Wieża Eiffla rośnie o 15 cm przez rozszerzalność metalu." },
-    { "uk": "У Франції 12 часових поясів завдяки заморським територіям.", "pl": "Francja ma 12 stref czasowych dzięki terytoriom zamorskim." }
+    {
+      "uk": "Франція приймає понад 90 мільйонів туристів на рік.",
+      "pl": "Francję odwiedza ponad 90 milionów turystów rocznie.",
+      "en": "France welcomes over 90 million tourists a year."
+    },
+    {
+      "uk": "Влітку Ейфелева вежа стає вищою на 15 см через розширення металу.",
+      "pl": "Latem Wieża Eiffla rośnie o 15 cm przez rozszerzalność metalu.",
+      "en": "In summer the Eiffel Tower grows by up to 15 cm as the iron expands."
+    },
+    {
+      "uk": "У Франції 12 часових поясів завдяки заморським територіям.",
+      "pl": "Francja ma 12 stref czasowych dzięki terytoriom zamorskim.",
+      "en": "France has 12 time zones thanks to its overseas territories."
+    }
   ],
-  "bestMonths": [4, 5, 6, 9],
+  "bestMonths": [
+    4,
+    5,
+    6,
+    9
+  ],
   "dailyCost": 85,
-  "tags": ["city", "food", "history", "sea", "couples", "mountains"],
-  "airport": { "code": "CDG", "name": "Paris Charles de Gaulle", "lat": 49.01, "lng": 2.55 },
+  "tags": [
+    "city",
+    "food",
+    "history",
+    "sea",
+    "couples",
+    "mountains"
+  ],
+  "airport": {
+    "code": "CDG",
+    "name": "Paris Charles de Gaulle",
+    "lat": 49.01,
+    "lng": 2.55
+  },
   "hotels": [
-    { "id": "fr-h1", "name": "Montmartre Hostel Paris", "cityId": "fr-paris", "tier": "budget", "stars": 2, "pricePerNight": 60, "capacity": 2, "tags": ["city", "nightlife"], "description": { "uk": "Хостел під базилікою Сакре-Кер.", "pl": "Hostel u stóp bazyliki Sacré-Cœur." } },
-    { "id": "fr-h2", "name": "Hôtel Vieux Lyon", "cityId": "fr-lyon", "tier": "3", "stars": 3, "pricePerNight": 95, "capacity": 2, "tags": ["food", "history", "city"], "description": { "uk": "Ренесансний будинок у старому Ліоні.", "pl": "Renesansowa kamienica w starym Lyonie." } },
-    { "id": "fr-h3", "name": "Promenade Azur Hotel", "cityId": "fr-nice", "tier": "4", "stars": 4, "pricePerNight": 170, "capacity": 3, "tags": ["sea", "family", "comfort"], "description": { "uk": "Готель на Англійській набережній з пляжем.", "pl": "Hotel przy Promenadzie Anglików z plażą." } },
-    { "id": "fr-h4", "name": "Chalet Mont-Blanc Boutique", "cityId": "fr-chamonix", "tier": "boutique", "stars": 4, "pricePerNight": 230, "capacity": 4, "tags": ["mountains", "nature", "couples"], "description": { "uk": "Шале з каміном і видом на Монблан.", "pl": "Szalet z kominkiem i widokiem na Mont Blanc." } },
-    { "id": "fr-h5", "name": "Le Grand Palais Rivoli", "cityId": "fr-paris", "tier": "5", "stars": 5, "pricePerNight": 520, "capacity": 2, "tags": ["comfort", "city", "couples"], "description": { "uk": "Палац-готель біля Лувру з рестораном зі зіркою Мішлен.", "pl": "Hotel-pałac przy Luwrze z restauracją z gwiazdką Michelin." } }
+    {
+      "id": "fr-h1",
+      "name": "Montmartre Hostel Paris",
+      "cityId": "fr-paris",
+      "tier": "budget",
+      "stars": 2,
+      "pricePerNight": 60,
+      "capacity": 2,
+      "tags": [
+        "city",
+        "nightlife"
+      ],
+      "description": {
+        "uk": "Хостел під базилікою Сакре-Кер.",
+        "pl": "Hostel u stóp bazyliki Sacré-Cœur.",
+        "en": "A hostel below the Sacré-Cœur basilica."
+      }
+    },
+    {
+      "id": "fr-h2",
+      "name": "Hôtel Vieux Lyon",
+      "cityId": "fr-lyon",
+      "tier": "3",
+      "stars": 3,
+      "pricePerNight": 95,
+      "capacity": 2,
+      "tags": [
+        "food",
+        "history",
+        "city"
+      ],
+      "description": {
+        "uk": "Ренесансний будинок у старому Ліоні.",
+        "pl": "Renesansowa kamienica w starym Lyonie.",
+        "en": "A Renaissance house in Old Lyon."
+      }
+    },
+    {
+      "id": "fr-h3",
+      "name": "Promenade Azur Hotel",
+      "cityId": "fr-nice",
+      "tier": "4",
+      "stars": 4,
+      "pricePerNight": 170,
+      "capacity": 3,
+      "tags": [
+        "sea",
+        "family",
+        "comfort"
+      ],
+      "description": {
+        "uk": "Готель на Англійській набережній з пляжем.",
+        "pl": "Hotel przy Promenadzie Anglików z plażą.",
+        "en": "A hotel on the Promenade des Anglais with a beach."
+      }
+    },
+    {
+      "id": "fr-h4",
+      "name": "Chalet Mont-Blanc Boutique",
+      "cityId": "fr-chamonix",
+      "tier": "boutique",
+      "stars": 4,
+      "pricePerNight": 230,
+      "capacity": 4,
+      "tags": [
+        "mountains",
+        "nature",
+        "couples"
+      ],
+      "description": {
+        "uk": "Шале з каміном і видом на Монблан.",
+        "pl": "Szalet z kominkiem i widokiem na Mont Blanc.",
+        "en": "A chalet with a fireplace and a view of Mont Blanc."
+      }
+    },
+    {
+      "id": "fr-h5",
+      "name": "Le Grand Palais Rivoli",
+      "cityId": "fr-paris",
+      "tier": "5",
+      "stars": 5,
+      "pricePerNight": 520,
+      "capacity": 2,
+      "tags": [
+        "comfort",
+        "city",
+        "couples"
+      ],
+      "description": {
+        "uk": "Палац-готель біля Лувру з рестораном зі зіркою Мішлен.",
+        "pl": "Hotel-pałac przy Luwrze z restauracją z gwiazdką Michelin.",
+        "en": "A palace hotel by the Louvre with a Michelin-starred restaurant."
+      }
+    }
   ],
   "cars": [
-    { "id": "fr-c1", "class": "economy", "model": "Peugeot 208", "pricePerDay": 40, "seats": 5 },
-    { "id": "fr-c2", "class": "suv", "model": "Renault Austral", "pricePerDay": 75, "seats": 5 },
-    { "id": "fr-c3", "class": "premium", "model": "DS 9", "pricePerDay": 140, "seats": 5 }
+    {
+      "id": "fr-c1",
+      "class": "economy",
+      "model": "Peugeot 208",
+      "pricePerDay": 40,
+      "seats": 5
+    },
+    {
+      "id": "fr-c2",
+      "class": "suv",
+      "model": "Renault Austral",
+      "pricePerDay": 75,
+      "seats": 5
+    },
+    {
+      "id": "fr-c3",
+      "class": "premium",
+      "model": "DS 9",
+      "pricePerDay": 140,
+      "seats": 5
+    }
   ]
 }

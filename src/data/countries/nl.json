@@ -3,67 +3,77 @@
   "wiki": "Netherlands",
   "capital": {
     "uk": "Амстердам",
-    "pl": "Amsterdam"
+    "pl": "Amsterdam",
+    "en": "Amsterdam"
   },
   "intro": {
     "uk": "Канали, велосипеди, тюльпанові поля й музеї Ван Гога та Рембрандта. Нідерланди легко об'їхати за тиждень потягом.",
-    "pl": "Kanały, rowery, pola tulipanów i muzea Van Gogha oraz Rembrandta. Holandię łatwo objechać pociągiem w tydzień."
+    "pl": "Kanały, rowery, pola tulipanów i muzea Van Gogha oraz Rembrandta. Holandię łatwo objechać pociągiem w tydzień.",
+    "en": "Canals, bicycles, tulip fields and the museums of Van Gogh and Rembrandt. The Netherlands is easy to explore by train in a week."
   },
   "cities": [
     {
       "id": "nl-amsterdam",
       "name": {
         "uk": "Амстердам",
-        "pl": "Amsterdam"
+        "pl": "Amsterdam",
+        "en": "Amsterdam"
       },
       "wiki": "Amsterdam",
       "lat": 52.37,
       "lng": 4.9,
       "blurb": {
         "uk": "Канали, Рейксмузей і будинок Анни Франк.",
-        "pl": "Kanały, Rijksmuseum i Dom Anny Frank."
+        "pl": "Kanały, Rijksmuseum i Dom Anny Frank.",
+        "en": "Canals, the Rijksmuseum and the Anne Frank House."
       }
     },
     {
       "id": "nl-rotterdam",
       "name": {
         "uk": "Роттердам",
-        "pl": "Rotterdam"
+        "pl": "Rotterdam",
+        "en": "Rotterdam"
       },
       "wiki": "Rotterdam",
       "lat": 51.92,
       "lng": 4.48,
       "blurb": {
         "uk": "Смілива архітектура та найбільший порт Європи.",
-        "pl": "Odważna architektura i największy port Europy."
+        "pl": "Odważna architektura i największy port Europy.",
+        "en": "Bold architecture and Europe’s largest port."
       }
     },
     {
       "id": "nl-lisse",
       "name": {
         "uk": "Ліссе і Кейкенгоф",
-        "pl": "Lisse i Keukenhof"
+        "pl": "Lisse i Keukenhof",
+        "en": "Lisse & Keukenhof"
       },
       "wiki": "Keukenhof",
       "lat": 52.27,
       "lng": 4.55,
       "blurb": {
         "uk": "Мільйони тюльпанів навесні.",
-        "pl": "Miliony tulipanów wiosną."
+        "pl": "Miliony tulipanów wiosną.",
+        "en": "Millions of tulips in spring."
       }
     },
     {
       "id": "nl-utrecht",
       "name": {
         "uk": "Утрехт",
-        "pl": "Utrecht"
+        "pl": "Utrecht",
+        "en": "Utrecht"
       },
       "wiki": "Utrecht",
       "lat": 52.09,
       "lng": 5.12,
       "blurb": {
         "uk": "Двоярусні канали та затишні кафе.",
-        "pl": "Dwupoziomowe kanały i przytulne kawiarnie."
+        "pl": "Dwupoziomowe kanały i przytulne kawiarnie.",
+        "en": "Two-level canals and cosy cafés."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Строопвафель",
-        "pl": "Stroopwafel"
+        "pl": "Stroopwafel",
+        "en": "Stroopwafel"
       },
       "description": {
         "uk": "Тонкі вафлі з карамельним сиропом.",
-        "pl": "Cienkie wafle z karmelowym syropem."
+        "pl": "Cienkie wafle z karmelowym syropem.",
+        "en": "Thin waffles with caramel syrup."
       }
     },
     {
       "name": {
         "uk": "Оселедець по-голландськи",
-        "pl": "Śledź po holendersku"
+        "pl": "Śledź po holendersku",
+        "en": "Dutch herring"
       },
       "description": {
         "uk": "Молодий оселедець з цибулею — їдять, тримаючи за хвіст.",
-        "pl": "Młody śledź z cebulą — je się go, trzymając za ogon."
+        "pl": "Młody śledź z cebulą — je się go, trzymając za ogon.",
+        "en": "Young herring with onion — eaten by the tail."
       }
     },
     {
       "name": {
         "uk": "Біттербаллен",
-        "pl": "Bitterballen"
+        "pl": "Bitterballen",
+        "en": "Bitterballen"
       },
       "description": {
         "uk": "Хрусткі м'ясні кульки з гірчицею до пива.",
-        "pl": "Chrupiące kuleczki mięsne z musztardą do piwa."
+        "pl": "Chrupiące kuleczki mięsne z musztardą do piwa.",
+        "en": "Crispy meat balls with mustard, served with beer."
       }
     }
   ],
   "facts": [
     {
       "uk": "Велосипедів у Нідерландах більше, ніж людей.",
-      "pl": "W Holandii jest więcej rowerów niż ludzi."
+      "pl": "W Holandii jest więcej rowerów niż ludzi.",
+      "en": "There are more bicycles in the Netherlands than people."
     },
     {
       "uk": "Близько чверті країни лежить нижче рівня моря.",
-      "pl": "Około jednej czwartej kraju leży poniżej poziomu morza."
+      "pl": "Około jednej czwartej kraju leży poniżej poziomu morza.",
+      "en": "About a quarter of the country lies below sea level."
     },
     {
       "uk": "Нідерландці — найвищий народ у світі.",
-      "pl": "Holendrzy są najwyższym narodem świata."
+      "pl": "Holendrzy są najwyższym narodem świata.",
+      "en": "The Dutch are the tallest people in the world."
     }
   ],
   "bestMonths": [
@@ -150,7 +169,8 @@
       ],
       "description": {
         "uk": "Хостел у колишній лабораторії, пором до центру безкоштовний.",
-        "pl": "Hostel w dawnym laboratorium, darmowy prom do centrum."
+        "pl": "Hostel w dawnym laboratorium, darmowy prom do centrum.",
+        "en": "A hostel in a former laboratory; the ferry to the centre is free."
       }
     },
     {
@@ -167,7 +187,8 @@
       ],
       "description": {
         "uk": "Тихий готель біля каналу Аудеграхт.",
-        "pl": "Spokojny hotel przy kanale Oudegracht."
+        "pl": "Spokojny hotel przy kanale Oudegracht.",
+        "en": "A quiet hotel by the Oudegracht canal."
       }
     },
     {
@@ -184,7 +205,8 @@
       ],
       "description": {
         "uk": "Сучасний хмарочос із видом на міст Еразма.",
-        "pl": "Nowoczesny wieżowiec z widokiem na Most Erazma."
+        "pl": "Nowoczesny wieżowiec z widokiem na Most Erazma.",
+        "en": "A modern skyscraper overlooking the Erasmus Bridge."
       }
     },
     {
@@ -202,7 +224,8 @@
       ],
       "description": {
         "uk": "25 будинків XVII століття, з'єднаних у бутик-готель.",
-        "pl": "25 kamienic z XVII wieku połączonych w butikowy hotel."
+        "pl": "25 kamienic z XVII wieku połączonych w butikowy hotel.",
+        "en": "25 seventeenth-century canal houses joined into one boutique hotel."
       }
     },
     {
@@ -220,7 +243,8 @@
       ],
       "description": {
         "uk": "Розкішна вілла серед квіткових полів.",
-        "pl": "Luksusowa willa wśród pól kwiatowych."
+        "pl": "Luksusowa willa wśród pól kwiatowych.",
+        "en": "A luxurious villa among the flower fields."
       }
     }
   ],

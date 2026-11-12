@@ -3,67 +3,77 @@
   "wiki": "Hungary",
   "capital": {
     "uk": "Будапешт",
-    "pl": "Budapeszt"
+    "pl": "Budapeszt",
+    "en": "Budapest"
   },
   "intro": {
     "uk": "Термальні купальні, руїн-бари, гуляш і найкрасивіший парламент Європи. Угорщина — це не лише Будапешт, а й озеро Балатон та винні долини.",
-    "pl": "Łaźnie termalne, ruin bary, gulasz i najpiękniejszy parlament Europy. Węgry to nie tylko Budapeszt, ale i Balaton oraz winne doliny."
+    "pl": "Łaźnie termalne, ruin bary, gulasz i najpiękniejszy parlament Europy. Węgry to nie tylko Budapeszt, ale i Balaton oraz winne doliny.",
+    "en": "Thermal baths, ruin bars, goulash and Europe’s most beautiful parliament. Hungary is more than Budapest — there’s Lake Balaton and wine valleys too."
   },
   "cities": [
     {
       "id": "hu-budapest",
       "name": {
         "uk": "Будапешт",
-        "pl": "Budapeszt"
+        "pl": "Budapeszt",
+        "en": "Budapest"
       },
       "wiki": "Budapest",
       "lat": 47.5,
       "lng": 19.04,
       "blurb": {
         "uk": "Парламент, купальні Сечені та Рибальський бастіон.",
-        "pl": "Parlament, łaźnie Széchenyi i Baszta Rybacka."
+        "pl": "Parlament, łaźnie Széchenyi i Baszta Rybacka.",
+        "en": "The Parliament, Széchenyi Baths and Fishermen’s Bastion."
       }
     },
     {
       "id": "hu-balaton",
       "name": {
         "uk": "Балатон",
-        "pl": "Balaton"
+        "pl": "Balaton",
+        "en": "Lake Balaton"
       },
       "wiki": "Lake Balaton",
       "lat": 46.83,
       "lng": 17.73,
       "blurb": {
         "uk": "«Угорське море» з пляжами та винарнями.",
-        "pl": "„Węgierskie morze” z plażami i winiarniami."
+        "pl": "„Węgierskie morze” z plażami i winiarniami.",
+        "en": "The “Hungarian sea” with beaches and wineries."
       }
     },
     {
       "id": "hu-eger",
       "name": {
         "uk": "Егер",
-        "pl": "Eger"
+        "pl": "Eger",
+        "en": "Eger"
       },
-      "wiki": "Eger",
+      "wiki": "Eger Castle",
       "lat": 47.9,
       "lng": 20.37,
       "blurb": {
         "uk": "Фортеця, мінарет і вино «Бичача кров».",
-        "pl": "Twierdza, minaret i wino „Bycza Krew”."
+        "pl": "Twierdza, minaret i wino „Bycza Krew”.",
+        "en": "A castle, a minaret and “Bull’s Blood” wine."
       }
     },
     {
       "id": "hu-heviz",
       "name": {
         "uk": "Хевіз",
-        "pl": "Hévíz"
+        "pl": "Hévíz",
+        "en": "Hévíz"
       },
       "wiki": "Hévíz",
       "lat": 46.79,
       "lng": 17.19,
       "blurb": {
         "uk": "Найбільше термальне озеро в Європі.",
-        "pl": "Największe jezioro termalne w Europie."
+        "pl": "Największe jezioro termalne w Europie.",
+        "en": "Europe’s largest thermal lake."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Гуляш",
-        "pl": "Gulasz"
+        "pl": "Gulasz",
+        "en": "Goulash"
       },
       "description": {
         "uk": "Густий суп з яловичиною й паприкою.",
-        "pl": "Gęsta zupa z wołowiną i papryką."
+        "pl": "Gęsta zupa z wołowiną i papryką.",
+        "en": "A hearty soup with beef and paprika."
       }
     },
     {
       "name": {
         "uk": "Лангош",
-        "pl": "Langosz"
+        "pl": "Langosz",
+        "en": "Lángos"
       },
       "description": {
         "uk": "Смажений корж зі сметаною та сиром.",
-        "pl": "Smażony placek ze śmietaną i serem."
+        "pl": "Smażony placek ze śmietaną i serem.",
+        "en": "Fried flatbread with sour cream and cheese."
       }
     },
     {
       "name": {
         "uk": "Кюртошкалач",
-        "pl": "Kürtőskalács"
+        "pl": "Kürtőskalács",
+        "en": "Kürtőskalács"
       },
       "description": {
         "uk": "Солодка трубочка з корицею.",
-        "pl": "Słodki kołacz kominowy z cynamonem."
+        "pl": "Słodki kołacz kominowy z cynamonem.",
+        "en": "Sweet chimney cake with cinnamon."
       }
     }
   ],
   "facts": [
     {
       "uk": "Під Будапештом понад 100 термальних джерел.",
-      "pl": "Pod Budapesztem jest ponad 100 źródeł termalnych."
+      "pl": "Pod Budapesztem jest ponad 100 źródeł termalnych.",
+      "en": "There are over 100 thermal springs under Budapest."
     },
     {
       "uk": "Кубик Рубіка винайшов угорець Ерньо Рубік.",
-      "pl": "Kostkę Rubika wymyślił Węgier Ernő Rubik."
+      "pl": "Kostkę Rubika wymyślił Węgier Ernő Rubik.",
+      "en": "The Rubik’s Cube was invented by Hungarian Ernő Rubik."
     },
     {
       "uk": "Метро Будапешта — найстаріше в континентальній Європі.",
-      "pl": "Metro w Budapeszcie jest najstarsze w Europie kontynentalnej."
+      "pl": "Metro w Budapeszcie jest najstarsze w Europie kontynentalnej.",
+      "en": "Budapest’s metro is the oldest in continental Europe."
     }
   ],
   "bestMonths": [
@@ -150,7 +169,8 @@
       ],
       "description": {
         "uk": "Хостел біля руїн-барів єврейського кварталу.",
-        "pl": "Hostel przy ruin barach dzielnicy żydowskiej."
+        "pl": "Hostel przy ruin barach dzielnicy żydowskiej.",
+        "en": "A hostel by the ruin bars of the Jewish Quarter."
       }
     },
     {
@@ -167,7 +187,8 @@
       ],
       "description": {
         "uk": "Родинний готель на головній площі Егера.",
-        "pl": "Rodzinny hotel na rynku w Egerze."
+        "pl": "Rodzinny hotel na rynku w Egerze.",
+        "en": "A family hotel on Eger’s main square."
       }
     },
     {
@@ -185,7 +206,8 @@
       ],
       "description": {
         "uk": "Курортний готель із власним пляжем.",
-        "pl": "Hotel uzdrowiskowy z własną plażą."
+        "pl": "Hotel uzdrowiskowy z własną plażą.",
+        "en": "A spa hotel with its own beach."
       }
     },
     {
@@ -202,7 +224,8 @@
       ],
       "description": {
         "uk": "Термальний спа-готель біля озера.",
-        "pl": "Hotel termalny ze spa nad jeziorem."
+        "pl": "Hotel termalny ze spa nad jeziorem.",
+        "en": "A thermal spa hotel by the lake."
       }
     },
     {
@@ -220,7 +243,8 @@
       ],
       "description": {
         "uk": "Палац ар-нуво біля Ланцюгового мосту.",
-        "pl": "Secesyjny pałac przy Moście Łańcuchowym."
+        "pl": "Secesyjny pałac przy Moście Łańcuchowym.",
+        "en": "An Art Nouveau palace by the Chain Bridge."
       }
     }
   ],

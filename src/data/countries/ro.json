@@ -3,67 +3,77 @@
   "wiki": "Romania",
   "capital": {
     "uk": "Бухарест",
-    "pl": "Bukareszt"
+    "pl": "Bukareszt",
+    "en": "Bucharest"
   },
   "intro": {
     "uk": "Замки Трансильванії, мальовничі монастирі, дельта Дунаю й Карпати. Румунія — країна легенд і неймовірної природи за доступними цінами.",
-    "pl": "Zamki Transylwanii, malowane monastyry, delta Dunaju i Karpaty. Rumunia to kraj legend i niesamowitej przyrody w przystępnych cenach."
+    "pl": "Zamki Transylwanii, malowane monastyry, delta Dunaju i Karpaty. Rumunia to kraj legend i niesamowitej przyrody w przystępnych cenach.",
+    "en": "Transylvanian castles, painted monasteries, the Danube Delta and the Carpathians. Romania is a land of legends and stunning nature at fair prices."
   },
   "cities": [
     {
       "id": "ro-bucharest",
       "name": {
         "uk": "Бухарест",
-        "pl": "Bukareszt"
+        "pl": "Bukareszt",
+        "en": "Bucharest"
       },
       "wiki": "Bucharest",
       "lat": 44.43,
       "lng": 26.1,
       "blurb": {
         "uk": "«Маленький Париж» і величезний Палац парламенту.",
-        "pl": "„Mały Paryż” i ogromny Pałac Parlamentu."
+        "pl": "„Mały Paryż” i ogromny Pałac Parlamentu.",
+        "en": "“Little Paris” and the vast Palace of the Parliament."
       }
     },
     {
       "id": "ro-brasov",
       "name": {
         "uk": "Брашов",
-        "pl": "Braszów"
+        "pl": "Braszów",
+        "en": "Brașov"
       },
       "wiki": "Brașov",
       "lat": 45.66,
       "lng": 25.61,
       "blurb": {
         "uk": "Середньовічне місто біля замку Дракули.",
-        "pl": "Średniowieczne miasto obok zamku Drakuli."
+        "pl": "Średniowieczne miasto obok zamku Drakuli.",
+        "en": "A medieval town next to Dracula’s castle."
       }
     },
     {
       "id": "ro-sibiu",
       "name": {
         "uk": "Сібіу",
-        "pl": "Sybin"
+        "pl": "Sybin",
+        "en": "Sibiu"
       },
       "wiki": "Sibiu",
       "lat": 45.79,
       "lng": 24.15,
       "blurb": {
         "uk": "Дахи з «очима» та затишні площі.",
-        "pl": "Dachy z „oczami” i przytulne place."
+        "pl": "Dachy z „oczami” i przytulne place.",
+        "en": "Roofs with “eyes” and cosy squares."
       }
     },
     {
       "id": "ro-cluj",
       "name": {
         "uk": "Клуж-Напока",
-        "pl": "Kluż-Napoka"
+        "pl": "Kluż-Napoka",
+        "en": "Cluj-Napoca"
       },
       "wiki": "Cluj-Napoca",
       "lat": 46.77,
       "lng": 23.6,
       "blurb": {
         "uk": "Студентська столиця Трансильванії й фестивалі.",
-        "pl": "Studencka stolica Transylwanii i festiwale."
+        "pl": "Studencka stolica Transylwanii i festiwale.",
+        "en": "Transylvania’s student capital and festivals."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Сармале",
-        "pl": "Sarmale"
+        "pl": "Sarmale",
+        "en": "Sarmale"
       },
       "description": {
         "uk": "Голубці в капустяному листі зі сметаною.",
-        "pl": "Gołąbki w liściach kapusty ze śmietaną."
+        "pl": "Gołąbki w liściach kapusty ze śmietaną.",
+        "en": "Cabbage rolls with sour cream."
       }
     },
     {
       "name": {
         "uk": "Мамалига",
-        "pl": "Mămăligă"
+        "pl": "Mămăligă",
+        "en": "Mămăligă"
       },
       "description": {
         "uk": "Кукурудзяна каша з бринзою.",
-        "pl": "Kasza kukurydziana z bryndzą."
+        "pl": "Kasza kukurydziana z bryndzą.",
+        "en": "Cornmeal porridge with sheep’s cheese."
       }
     },
     {
       "name": {
         "uk": "Папанаші",
-        "pl": "Papanași"
+        "pl": "Papanași",
+        "en": "Papanași"
       },
       "description": {
         "uk": "Сирні пончики з варенням і сметаною.",
-        "pl": "Pączki twarogowe z dżemem i śmietaną."
+        "pl": "Pączki twarogowe z dżemem i śmietaną.",
+        "en": "Cheese doughnuts with jam and sour cream."
       }
     }
   ],
   "facts": [
     {
       "uk": "Палац парламенту — одна з найбільших будівель світу.",
-      "pl": "Pałac Parlamentu to jeden z największych budynków świata."
+      "pl": "Pałac Parlamentu to jeden z największych budynków świata.",
+      "en": "The Palace of the Parliament is one of the largest buildings in the world."
     },
     {
       "uk": "У Румунії живе найбільша популяція бурих ведмедів у Європі.",
-      "pl": "W Rumunii żyje największa populacja niedźwiedzi brunatnych w Europie."
+      "pl": "W Rumunii żyje największa populacja niedźwiedzi brunatnych w Europie.",
+      "en": "Romania has Europe’s largest brown bear population."
     },
     {
       "uk": "Румунська мова — найближча до латини серед живих мов.",
-      "pl": "Rumuński jest z żywych języków najbliższy łacinie."
+      "pl": "Rumuński jest z żywych języków najbliższy łacinie.",
+      "en": "Romanian is the living language closest to Latin."
     }
   ],
   "bestMonths": [
@@ -150,7 +169,8 @@
       ],
       "description": {
         "uk": "Затишний хостел у центрі Брашова.",
-        "pl": "Przytulny hostel w centrum Braszowa."
+        "pl": "Przytulny hostel w centrum Braszowa.",
+        "en": "A cosy hostel in central Brașov."
       }
     },
     {
@@ -166,7 +186,8 @@
       ],
       "description": {
         "uk": "Сучасний готель біля площі Уніряй.",
-        "pl": "Nowoczesny hotel przy placu Unirii."
+        "pl": "Nowoczesny hotel przy placu Unirii.",
+        "en": "A modern hotel by Unirii Square."
       }
     },
     {
@@ -183,7 +204,8 @@
       ],
       "description": {
         "uk": "Номери в історичному будинку на Великій площі.",
-        "pl": "Pokoje w zabytkowej kamienicy na Dużym Rynku."
+        "pl": "Pokoje w zabytkowej kamienicy na Dużym Rynku.",
+        "en": "Rooms in a historic house on the Large Square."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Гостьовий дім з видом на замок Бран.",
-        "pl": "Pensjonat z widokiem na zamek Bran."
+        "pl": "Pensjonat z widokiem na zamek Bran.",
+        "en": "A guesthouse overlooking Bran Castle."
       }
     },
     {
@@ -218,7 +241,8 @@
       ],
       "description": {
         "uk": "Історичний люкс біля Румунського Атенеуму.",
-        "pl": "Zabytkowy luksus przy Ateneum Rumuńskim."
+        "pl": "Zabytkowy luksus przy Ateneum Rumuńskim.",
+        "en": "Historic luxury by the Romanian Athenaeum."
       }
     }
   ],

@@ -3,53 +3,61 @@
   "wiki": "Moldova",
   "capital": {
     "uk": "Кишинів",
-    "pl": "Kiszyniów"
+    "pl": "Kiszyniów",
+    "en": "Chișinău"
   },
   "intro": {
     "uk": "Країна вина з найбільшими винними підвалами світу, печерними монастирями й гостинністю. Молдова — несподіване відкриття для гурманів.",
-    "pl": "Kraj wina z największymi piwnicami na świecie, skalnymi monastyrami i gościnnością. Mołdawia to zaskakujące odkrycie dla smakoszy."
+    "pl": "Kraj wina z największymi piwnicami na świecie, skalnymi monastyrami i gościnnością. Mołdawia to zaskakujące odkrycie dla smakoszy.",
+    "en": "A wine country with the world’s largest wine cellars, cave monasteries and warm hospitality. Moldova is a surprising find for food lovers."
   },
   "cities": [
     {
       "id": "md-chisinau",
       "name": {
         "uk": "Кишинів",
-        "pl": "Kiszyniów"
+        "pl": "Kiszyniów",
+        "en": "Chișinău"
       },
       "wiki": "Chișinău",
       "lat": 47.01,
       "lng": 28.86,
       "blurb": {
         "uk": "Зелені парки, Тріумфальна арка й центральний ринок.",
-        "pl": "Zielone parki, Łuk Triumfalny i centralny bazar."
+        "pl": "Zielone parki, Łuk Triumfalny i centralny bazar.",
+        "en": "Green parks, the Triumphal Arch and the central market."
       }
     },
     {
       "id": "md-orheiul-vechi",
       "name": {
         "uk": "Старий Орхей",
-        "pl": "Stary Orhei"
+        "pl": "Stary Orhei",
+        "en": "Orheiul Vechi"
       },
       "wiki": "Orheiul Vechi",
       "lat": 47.3,
       "lng": 28.97,
       "blurb": {
         "uk": "Монастир, вирубаний у скелі над річкою.",
-        "pl": "Monastyr wykuty w skale nad rzeką."
+        "pl": "Monastyr wykuty w skale nad rzeką.",
+        "en": "A monastery carved into a cliff above the river."
       }
     },
     {
       "id": "md-cricova",
       "name": {
         "uk": "Крикова",
-        "pl": "Cricova"
+        "pl": "Cricova",
+        "en": "Cricova"
       },
       "wiki": "Cricova winery",
       "lat": 47.14,
       "lng": 28.86,
       "blurb": {
         "uk": "120 км підземних винних вулиць.",
-        "pl": "120 km podziemnych winnych ulic."
+        "pl": "120 km podziemnych winnych ulic.",
+        "en": "120 km of underground wine streets."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Плачинди",
-        "pl": "Plăcinte"
+        "pl": "Plăcinte",
+        "en": "Plăcinte"
       },
       "description": {
         "uk": "Пиріжки з бринзою, капустою або гарбузом.",
-        "pl": "Placki z bryndzą, kapustą lub dynią."
+        "pl": "Placki z bryndzą, kapustą lub dynią.",
+        "en": "Pies with cheese, cabbage or pumpkin."
       }
     },
     {
       "name": {
         "uk": "Мамалига",
-        "pl": "Mămăligă"
+        "pl": "Mămăligă",
+        "en": "Mămăligă"
       },
       "description": {
         "uk": "Кукурудзяна каша зі сметаною й сиром.",
-        "pl": "Kasza kukurydziana ze śmietaną i serem."
+        "pl": "Kasza kukurydziana ze śmietaną i serem.",
+        "en": "Cornmeal porridge with sour cream and cheese."
       }
     },
     {
       "name": {
         "uk": "Зама",
-        "pl": "Zeamă"
+        "pl": "Zeamă",
+        "en": "Zeamă"
       },
       "description": {
         "uk": "Курячий суп з домашньою локшиною.",
-        "pl": "Rosół z domowym makaronem."
+        "pl": "Rosół z domowym makaronem.",
+        "en": "Chicken soup with homemade noodles."
       }
     }
   ],
   "facts": [
     {
       "uk": "У підвалах Мілештій Мічь — найбільша колекція вин у світі.",
-      "pl": "Piwnice Mileștii Mici mają największą kolekcję win na świecie."
+      "pl": "Piwnice Mileștii Mici mają największą kolekcję win na świecie.",
+      "en": "The Mileștii Mici cellars hold the world’s largest wine collection."
     },
     {
       "uk": "Виноградники займають майже 4% території країни.",
-      "pl": "Winnice zajmują prawie 4% powierzchni kraju."
+      "pl": "Winnice zajmują prawie 4% powierzchni kraju.",
+      "en": "Vineyards cover almost 4% of the country."
     },
     {
       "uk": "Молдова — одна з найменш відвідуваних країн Європи.",
-      "pl": "Mołdawia jest jednym z najrzadziej odwiedzanych krajów Europy."
+      "pl": "Mołdawia jest jednym z najrzadziej odwiedzanych krajów Europy.",
+      "en": "Moldova is one of Europe’s least visited countries."
     }
   ],
   "bestMonths": [
@@ -132,7 +149,8 @@
       ],
       "description": {
         "uk": "Затишний хостел у центрі.",
-        "pl": "Przytulny hostel w centrum."
+        "pl": "Przytulny hostel w centrum.",
+        "en": "A cosy hostel in the centre."
       }
     },
     {
@@ -149,7 +167,8 @@
       ],
       "description": {
         "uk": "Простий готель із видом на місто.",
-        "pl": "Prosty hotel z widokiem na miasto."
+        "pl": "Prosty hotel z widokiem na miasto.",
+        "en": "A simple hotel with city views."
       }
     },
     {
@@ -167,7 +186,8 @@
       ],
       "description": {
         "uk": "Сільська садиба з домашньою кухнею біля Старого Орхея.",
-        "pl": "Wiejska zagroda z domową kuchnią przy Starym Orhei."
+        "pl": "Wiejska zagroda z domową kuchnią przy Starym Orhei.",
+        "en": "A rural guesthouse with home cooking near Orheiul Vechi."
       }
     },
     {
@@ -184,7 +204,8 @@
       ],
       "description": {
         "uk": "Винний бутик-готель з дегустаціями.",
-        "pl": "Winny hotel butikowy z degustacjami."
+        "pl": "Winny hotel butikowy z degustacjami.",
+        "en": "A wine boutique hotel with tastings."
       }
     },
     {
@@ -201,7 +222,8 @@
       ],
       "description": {
         "uk": "Найкращий люкс Кишинева зі спа.",
-        "pl": "Najlepszy luksusowy hotel w Kiszyniowie ze spa."
+        "pl": "Najlepszy luksusowy hotel w Kiszyniowie ze spa.",
+        "en": "Chișinău’s best luxury hotel, with a spa."
       }
     }
   ],

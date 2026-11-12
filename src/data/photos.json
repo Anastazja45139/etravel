@@ -1,0 +1,902 @@
+{
+ "Aarhus": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aros.Arhus.1.jpg/1920px-Aros.Arhus.1.jpg",
+  "w": 3872,
+  "h": 2592
+ },
+ "Amalfi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Amalfi_sea_view_Italy.JPG/1920px-Amalfi_sea_view_Italy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3264,
+  "h": 2448
+ },
+ "Amsterdam": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Amsterdam_airphoto.jpg/1920px-Amsterdam_airphoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3704,
+  "h": 2446
+ },
+ "Andorra la Vella": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Andorra_la_Vella_-_view2.jpg/1920px-Andorra_la_Vella_-_view2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5857,
+  "h": 2412
+ },
+ "Andorra": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Andorra_la_Vella_-_footpath.jpg/1920px-Andorra_la_Vella_-_footpath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3736,
+  "h": 2888
+ },
+ "Antwerp": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Amberes%3B_vistas_MAS_2.jpg/1920px-Amberes%3B_vistas_MAS_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3772,
+  "h": 2576
+ },
+ "Athens": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Akropolis_2015.jpg/1920px-Akropolis_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 9648,
+  "h": 5587
+ },
+ "Aurora": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Northern_lights_in_Tromsoe.jpg/1920px-Northern_lights_in_Tromsoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2592,
+  "h": 1944
+ },
+ "Ayia Napa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cyprus%2C_Ayia_Napa._2017-12-30.jpg/1920px-Cyprus%2C_Ayia_Napa._2017-12-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6000,
+  "h": 4000
+ },
+ "Balos": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Imeri_Gramvousa_26.JPG/1920px-Imeri_Gramvousa_26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4275,
+  "h": 3209
+ },
+ "Bansko": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Street_with_old_houses.JPG/1920px-Street_with_old_houses.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2560,
+  "h": 1920
+ },
+ "Banská Štiavnica": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bansk%C3%A1_%C5%A0tiavnica_from_Nov%C3%BD_z%C3%A1mok_2007.jpg/1920px-Bansk%C3%A1_%C5%A0tiavnica_from_Nov%C3%BD_z%C3%A1mok_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2490,
+  "h": 1829
+ },
+ "Barcelona": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Aerial_view_of_La_Sagrada_Familia%2C_Barcelona%2C_Spain_%2851227006134%29.jpg/1920px-Aerial_view_of_La_Sagrada_Familia%2C_Barcelona%2C_Spain_%2851227006134%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4677,
+  "h": 3116
+ },
+ "Belgium": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Belgique_-_Bruxelles_-_Grand-Place_-_C%C3%B4t%C3%A9_nord-est.jpg/1920px-Belgique_-_Bruxelles_-_Grand-Place_-_C%C3%B4t%C3%A9_nord-est.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3560,
+  "h": 2376
+ },
+ "Belgrade": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/P037152-661920_-_Belgrade_fortress_stand_at_the_downtown_of_Belgrade.jpg/1920px-P037152-661920_-_Belgrade_fortress_stand_at_the_downtown_of_Belgrade.jpg",
+  "w": 5514,
+  "h": 3419
+ },
+ "Berat": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Berat_-_Festung_2a_Haupttor.jpg/1920px-Berat_-_Festung_2a_Haupttor.jpg",
+  "w": 4000,
+  "h": 3000
+ },
+ "Bergen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/00_4400_View_over_the_store_Lungeg%C3%A5rdsvann_-_Bergen_%28Norway%29.jpg/1920px-00_4400_View_over_the_store_Lungeg%C3%A5rdsvann_-_Bergen_%28Norway%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3000,
+  "h": 2000
+ },
+ "Berlin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cityscape_Berlin.jpg/1920px-Cityscape_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4496,
+  "h": 2300
+ },
+ "Bled": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Great_Bled_Castle.jpg/1920px-The_Great_Bled_Castle.jpg",
+  "w": 2878,
+  "h": 2582
+ },
+ "Blue Lagoon (geothermal spa)": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Blue_Lagoon_2012-08-23_%284%29.JPG/1920px-Blue_Lagoon_2012-08-23_%284%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4000,
+  "h": 3000
+ },
+ "Bosnia and Herzegovina": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gornji_Orahovac%2C_Bosnia_y_Herzegovina%2C_2014-04-14%2C_DD_10-13_PAN.jpg/1920px-Gornji_Orahovac%2C_Bosnia_y_Herzegovina%2C_2014-04-14%2C_DD_10-13_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 10066,
+  "h": 3195
+ },
+ "Bovec": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Soca_4.jpg/1920px-Soca_4.jpg",
+  "w": 1600,
+  "h": 1200
+ },
+ "Bratislava": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Hlavn%C3%A9_Namestie_%2835096533142%29.jpg/1920px-Hlavn%C3%A9_Namestie_%2835096533142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4719,
+  "h": 3248
+ },
+ "Brașov": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Brasov%2C_Piata_Sfatului.jpg/1920px-Brasov%2C_Piata_Sfatului.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4499,
+  "h": 2999
+ },
+ "Brno": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Brno%2C_%C5%A0t%C3%BD%C5%99ice%2C_Pra%C5%BE%C3%A1kova%2C_v%C3%BDhled_z_AZ_Toweru_%282013-05-22%3B_28%29.jpg/1920px-Brno%2C_%C5%A0t%C3%BD%C5%99ice%2C_Pra%C5%BE%C3%A1kova%2C_v%C3%BDhled_z_AZ_Toweru_%282013-05-22%3B_28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3088,
+  "h": 2056
+ },
+ "Bruges": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Brugge-CanalRozenhoedkaai.JPG/1920px-Brugge-CanalRozenhoedkaai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2560,
+  "h": 1920
+ },
+ "Brussels": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg/1920px-Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg",
+  "w": 10946,
+  "h": 6226
+ },
+ "Bucharest": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bucharest-Skyline-01.jpg/1920px-Bucharest-Skyline-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3840,
+  "h": 2160
+ },
+ "Budapest": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1920px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5223,
+  "h": 3481
+ },
+ "Budva": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Budva%2C_view_from_Gospostina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1200,
+  "h": 676
+ },
+ "Bulgaria": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rila_Monastery%2C_August_2013.jpg/1920px-Rila_Monastery%2C_August_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3690,
+  "h": 2460
+ },
+ "Chamonix": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chamonix_-_Arve_river.jpg/1920px-Chamonix_-_Arve_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6017,
+  "h": 3520
+ },
+ "Chișinău": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Arch_of_Triumph%2C_Chisinau%2C_Republic_of_Moldova_%2851160304626_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1600,
+  "h": 941
+ },
+ "Cinque Terre": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg/1920px-Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5826,
+  "h": 3884
+ },
+ "Cliffs of Moher": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ireland_Cliffs_of_Moher_BW_2025-09-11_14-27-51.jpg/1920px-Ireland_Cliffs_of_Moher_BW_2025-09-11_14-27-51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6016,
+  "h": 3384
+ },
+ "Comino": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/BirdsEyeView_of_Comino.jpg/1920px-BirdsEyeView_of_Comino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2272,
+  "h": 1704
+ },
+ "Copenhagen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Copenhagen_-_view_from_Christiansborg_castle.jpg/1920px-Copenhagen_-_view_from_Christiansborg_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4677,
+  "h": 2838
+ },
+ "Croatia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Dubrovnik_june_2011..JPG/1920px-Dubrovnik_june_2011..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4272,
+  "h": 2848
+ },
+ "Cyprus": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/CGI_Cyprus_Flag.png/1920px-CGI_Cyprus_Flag.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3840,
+  "h": 2160
+ },
+ "Czech Republic": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg/1920px-Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg",
+  "w": 6016,
+  "h": 4016
+ },
+ "Denmark": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Dannebrog.jpg/1920px-Dannebrog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2848,
+  "h": 2136
+ },
+ "Dublin": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dublin_-_aerial_-_2025-07-07_01.jpg/1920px-Dublin_-_aerial_-_2025-07-07_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4032,
+  "h": 2268
+ },
+ "Dubrovnik": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/1920px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3543,
+  "h": 2198
+ },
+ "Edinburgh": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Edinburgh_cityscapes_-_aerial_-_2025-04-19_20.jpg/1920px-Edinburgh_cityscapes_-_aerial_-_2025-04-19_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 15000,
+  "h": 8437
+ },
+ "Eger Castle": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Eger_castle_%28by_Pudelek%29_01.JPG/1920px-Eger_castle_%28by_Pudelek%29_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 1944,
+  "h": 2592
+ },
+ "Florence": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Panoramica_Firenze.jpg/1920px-Panoramica_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 16929,
+  "h": 5102
+ },
+ "France": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Paris_from_the_Arc_de_Triomphe%2C_17_October_2019.jpg/1920px-Paris_from_the_Arc_de_Triomphe%2C_17_October_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5674,
+  "h": 3192
+ },
+ "Funchal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Vista_de_Funchal_desde_Pico_dos_Barcelos%2C_Madeira%2C_Portugal%2C_2019-05-29%2C_DD_37-44_PAN.jpg/1920px-Vista_de_Funchal_desde_Pico_dos_Barcelos%2C_Madeira%2C_Portugal%2C_2019-05-29%2C_DD_37-44_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 14672,
+  "h": 4266
+ },
+ "Galway": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Spanihs_Arch.jpg/1920px-Spanihs_Arch.jpg",
+  "w": 4608,
+  "h": 2592
+ },
+ "Gdańsk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_05.jpg/1920px-Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5418,
+  "h": 3288
+ },
+ "Geirangerfjord": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/00_2269_Geiranger_-_Norway.jpg/1920px-00_2269_Geiranger_-_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5400,
+  "h": 3600
+ },
+ "Germany": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg/1920px-Aerial_view_of_Berlin_%2832881394137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4026,
+  "h": 2679
+ },
+ "Ghent": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ghent_-_centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1600,
+  "h": 1200
+ },
+ "Golden Circle (Iceland)": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Golden_Circle_%285057421087%29.jpg/1920px-Golden_Circle_%285057421087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3264,
+  "h": 2448
+ },
+ "Gothenburg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg/1920px-G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7000,
+  "h": 3432
+ },
+ "Gozo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gozo_from_space_via_laser_ESA378503_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1667,
+  "h": 1156
+ },
+ "Greece": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/The_Acropolis_and_Mount_Hymettus_from_Philopappos_Hill_on_July_18%2C_2019.jpg/1920px-The_Acropolis_and_Mount_Hymettus_from_Philopappos_Hill_on_July_18%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6000,
+  "h": 4000
+ },
+ "Hallstatt": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hallstatt_-_Zentrum_.JPG/1920px-Hallstatt_-_Zentrum_.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3937,
+  "h": 2717
+ },
+ "Hamburg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hamburg_view_St._Nikolai.jpg/1920px-Hamburg_view_St._Nikolai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5200,
+  "h": 3440
+ },
+ "Helsinki": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Helsinki_Lutheran_Cathedral_%28panoraaman%C3%A4k%C3%B6ala%29-2_%28s%C3%A4%C3%A4t%C3%B6%29.jpg/1920px-Helsinki_Lutheran_Cathedral_%28panoraaman%C3%A4k%C3%B6ala%29-2_%28s%C3%A4%C3%A4t%C3%B6%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2373,
+  "h": 1557
+ },
+ "Hungary": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg/1920px-20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4086,
+  "h": 1949
+ },
+ "Hévíz": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Gy%C3%B3gyf%C3%BCrd%C5%91H%C3%A9v%C3%ADz.jpg/1920px-Gy%C3%B3gyf%C3%BCrd%C5%91H%C3%A9v%C3%ADz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3872,
+  "h": 2592
+ },
+ "Iceland": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cloud-free_Iceland_ESA22181280_%28cropped%29.jpeg/1920px-Cloud-free_Iceland_ESA22181280_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2000,
+  "h": 1331
+ },
+ "Innsbruck": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Innsbruck_-_panoramio_%2845%29.jpg/1920px-Innsbruck_-_panoramio_%2845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4667,
+  "h": 3111
+ },
+ "Interlaken": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Unterseen_from_above_140622.jpg/1920px-Unterseen_from_above_140622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 8192,
+  "h": 3310
+ },
+ "Italy": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Satellite_image_of_Italy_in_March_2003.jpg/1920px-Satellite_image_of_Italy_in_March_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4800,
+  "h": 6000
+ },
+ "Jajce": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Grad_Jajce.JPG/1920px-Grad_Jajce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5184,
+  "h": 3456
+ },
+ "Jūrmala": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Emilija_Racene_Former_Establishment%2C_Jurmala%2C_Latvia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1230,
+  "h": 819
+ },
+ "Karlovy Vary": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Karlovy_Vary_-_2021_2.jpg/1920px-Karlovy_Vary_-_2021_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5976,
+  "h": 3992
+ },
+ "Kaunas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Vytautas_the_Great_Bridge_from_hill%2C_Kaunas%2C_Lithuania_-_Diliff.jpg/1920px-Vytautas_the_Great_Bridge_from_hill%2C_Kaunas%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5760,
+  "h": 3840
+ },
+ "Keukenhof": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Keukenhof_2018_DSC_0508.jpg/1920px-Keukenhof_2018_DSC_0508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6000,
+  "h": 4000
+ },
+ "Killarney": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ross_Castle_on_Lough_Leane_%2815242590587%29.jpg/1920px-Ross_Castle_on_Lough_Leane_%2815242590587%29.jpg",
+  "w": 4608,
+  "h": 3456
+ },
+ "Kosovo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Geb%C3%A4ude_der_UNMIK_NEW_BORN_SIGN_PRISTINA_KOSOVO_Giv_Owned_Image_23_August_2008.jpg/1920px-Geb%C3%A4ude_der_UNMIK_NEW_BORN_SIGN_PRISTINA_KOSOVO_Giv_Owned_Image_23_August_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3467,
+  "h": 1916
+ },
+ "Kotor": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg/1920px-20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4256,
+  "h": 2832
+ },
+ "Kraków": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Zamek_Kr%C3%B3lewski_na_Wawelu_%281%29.jpg/1920px-Zamek_Kr%C3%B3lewski_na_Wawelu_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5426,
+  "h": 3052
+ },
+ "Kyiv": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Kyiv_%28234807751%29.jpeg/1920px-Kyiv_%28234807751%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2048,
+  "h": 1361
+ },
+ "Lagos, Portugal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Lagos_city_hall.jpg/1920px-Lagos_city_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3008,
+  "h": 2000
+ },
+ "Lake Balaton": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Balatonlelle%2C_Balaton%2C_49.jpg/1920px-Balatonlelle%2C_Balaton%2C_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4288,
+  "h": 2848
+ },
+ "Lake Bled": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Aerial_image_of_Lake_Bled_%28view_from_the_southwest%29.jpg/1920px-Aerial_image_of_Lake_Bled_%28view_from_the_southwest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4400,
+  "h": 3400
+ },
+ "Latvia": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Satellite_image_of_Latvia_in_March_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1837,
+  "h": 1088
+ },
+ "Legoland Billund": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Billund_Legoland_24.jpg/1920px-Billund_Legoland_24.jpg",
+  "w": 5814,
+  "h": 3828
+ },
+ "Liechtenstein": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Liechtenstein_asv2022-10_img02_Vaduz_Aussicht_beim_Schloss.jpg/1920px-Liechtenstein_asv2022-10_img02_Vaduz_Aussicht_beim_Schloss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7839,
+  "h": 4409
+ },
+ "Limassol": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Limassol_Skyline.jpg/1920px-Limassol_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2803,
+  "h": 1715
+ },
+ "Lisbon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/1920px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
+  "w": 5035,
+  "h": 4805
+ },
+ "Ljubljana": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2021-07-28_Ljubljana-0881.jpg/1920px-2021-07-28_Ljubljana-0881.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6000,
+  "h": 4000
+ },
+ "Lofoten": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg/1920px-Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7952,
+  "h": 5304
+ },
+ "London": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1920px-London_Skyline_%28125508655%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2048,
+  "h": 1152
+ },
+ "Lucerne": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/00_0055_Buildings_in_Lucerne.jpg/1920px-00_0055_Buildings_in_Lucerne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4500,
+  "h": 3000
+ },
+ "Luxembourg City": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Luxembourg_City_Hall_%2854540726309%29.jpg/1920px-Luxembourg_City_Hall_%2854540726309%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3868,
+  "h": 2430
+ },
+ "Luxembourg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Luxemburg.jpg/1920px-Luxemburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2592,
+  "h": 1952
+ },
+ "Lviv": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lw%C3%B3w_-_Widok_z_wie%C5%BCy_ratuszowej_01.jpg/1920px-Lw%C3%B3w_-_Widok_z_wie%C5%BCy_ratuszowej_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3782,
+  "h": 2338
+ },
+ "Lyon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg/1920px-01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7798,
+  "h": 2800
+ },
+ "Madrid": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Madrid_%2838624991251%29.jpg/1920px-Madrid_%2838624991251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4608,
+  "h": 3456
+ },
+ "Malbun": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Malbun_%28FL%29.jpg/1920px-Malbun_%28FL%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4640,
+  "h": 3488
+ },
+ "Malta": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg/1920px-Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5000,
+  "h": 2500
+ },
+ "Matka Canyon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Matka2.jpg/1920px-Matka2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5200,
+  "h": 3000
+ },
+ "Mdina": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_Mdina%2C_Malta.jpg/1920px-Aerial_view_Mdina%2C_Malta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2048,
+  "h": 1163
+ },
+ "Moldova": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/MoldRelief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1727,
+  "h": 2138
+ },
+ "Montenegro": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/R-1_regional_road_%28Montenegro%29_07.jpg/1920px-R-1_regional_road_%28Montenegro%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5152,
+  "h": 3864
+ },
+ "Mostar": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mostar_Old_Town_Panorama_2007.jpg/1920px-Mostar_Old_Town_Panorama_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2390,
+  "h": 1600
+ },
+ "Mullerthal": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Schiessent%C3%BCmpel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1200,
+  "h": 1600
+ },
+ "Munich": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/1920px-Stadtbild_M%C3%BCnchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4861,
+  "h": 3285
+ },
+ "Neuschwanstein Castle": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Neuschwanstein_Castle_2024-02.jpg/1920px-Neuschwanstein_Castle_2024-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 15083,
+  "h": 10270
+ },
+ "Nice": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Port_Of_Nice%2C_C%C3%B4te_d%27Azur.jpg/1920px-Port_Of_Nice%2C_C%C3%B4te_d%27Azur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2048,
+  "h": 1536
+ },
+ "Nida, Lithuania": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nida_from_bird%27s-eye_view.jpg/1920px-Nida_from_bird%27s-eye_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4056,
+  "h": 3040
+ },
+ "Novi Sad": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Gradska_kuca_u_Novom_Sadu_5.jpg/1920px-Gradska_kuca_u_Novom_Sadu_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5496,
+  "h": 3867
+ },
+ "Odesa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9F%D0%BE%D1%82%D1%8C%D0%BE%D0%BC%D0%BA%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D1%81%D1%85%D0%BE%D0%B4%D0%B8_11.jpg/1920px-%D0%9F%D0%BE%D1%82%D1%8C%D0%BE%D0%BC%D0%BA%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D1%81%D1%85%D0%BE%D0%B4%D0%B8_11.jpg",
+  "w": 5018,
+  "h": 3165
+ },
+ "Ohrid": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ohrid_from_Samuel%27s_Fortress_2.jpg/1920px-Ohrid_from_Samuel%27s_Fortress_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6010,
+  "h": 2510
+ },
+ "Ordino": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/HPIM0307.JPG/1920px-HPIM0307.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2848,
+  "h": 2144
+ },
+ "Orheiul Vechi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Orhei_Vechi_08.JPG/1920px-Orhei_Vechi_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2500,
+  "h": 1665
+ },
+ "Oslo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Oslo_Opera_House_-_2025.jpg/1920px-Oslo_Opera_House_-_2025.jpg",
+  "w": 5962,
+  "h": 2366
+ },
+ "Oxford": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Oxford_from_Boars_Hill.jpg/1920px-Oxford_from_Boars_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3648,
+  "h": 2736
+ },
+ "Palma de Mallorca": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Palma_von_Castell_de_Bellver.jpg/1920px-Palma_von_Castell_de_Bellver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 29605,
+  "h": 7858
+ },
+ "Paphos": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Roca_de_Afrodita%2C_Chipre%2C_2021-12-10%2C_DD_65.jpg/1920px-Roca_de_Afrodita%2C_Chipre%2C_2021-12-10%2C_DD_65.jpg",
+  "w": 8639,
+  "h": 4777
+ },
+ "Paris": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1920px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4592,
+  "h": 2870
+ },
+ "Piran": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Piran_old_town.jpg/1920px-Piran_old_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5803,
+  "h": 3869
+ },
+ "Plitvice Lakes National Park": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Plitvice_Lakes_National_Park_%282%29.jpg/1920px-Plitvice_Lakes_National_Park_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3456,
+  "h": 2304
+ },
+ "Plovdiv": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Plovdiv_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1920,
+  "h": 1280
+ },
+ "Poland": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Warsaw_Old_Town_Market_Square_10.JPG/1920px-Warsaw_Old_Town_Market_Square_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4715,
+  "h": 3096
+ },
+ "Porto": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/O_Porto_%28visto_da_Ponte_Dom_Luis_I%29.jpg/1920px-O_Porto_%28visto_da_Ponte_Dom_Luis_I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3872,
+  "h": 2592
+ },
+ "Prague": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG/1920px-Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3456,
+  "h": 2304
+ },
+ "Pristina": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/PRISHTINA_2013_%2813%29.jpg/1920px-PRISHTINA_2013_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4256,
+  "h": 2832
+ },
+ "Prizren": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2011_Prizren%2C_Meczet_Sinana_Paszy_04.JPG/1920px-2011_Prizren%2C_Meczet_Sinana_Paszy_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4752,
+  "h": 3168
+ },
+ "Pärnu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/P%C3%A4rnu_kesklinn_-_Aerial_photo_of_P%C3%A4rnu_in_Estonia_%282%29.jpg/1920px-P%C3%A4rnu_kesklinn_-_Aerial_photo_of_P%C3%A4rnu_in_Estonia_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6555,
+  "h": 3511
+ },
+ "Reykjavík": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Reykjav%C3%ADk_5545_%28cropped%29.JPG/1920px-Reykjav%C3%ADk_5545_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3888,
+  "h": 1936
+ },
+ "Riga": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_12.JPG/1920px-Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5159,
+  "h": 3348
+ },
+ "Romania": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Many_Stamps_of_Romania.jpg/1920px-Many_Stamps_of_Romania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2267,
+  "h": 1725
+ },
+ "Rome": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rome_Skyline_%288012016319%29.jpg/1920px-Rome_Skyline_%288012016319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5982,
+  "h": 3988
+ },
+ "Rotterdam": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Erasmusbrug_seen_from_Euromast.jpg/1920px-Erasmusbrug_seen_from_Euromast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4174,
+  "h": 1692
+ },
+ "Rovaniemi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Claus_Village.jpg/1920px-Santa_Claus_Village.jpg",
+  "w": 4032,
+  "h": 3024
+ },
+ "Rugova Canyon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Rugova_Canyon.jpg/1920px-Rugova_Canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3832,
+  "h": 2076
+ },
+ "Saaremaa": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Castlekuressaare.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1800,
+  "h": 1200
+ },
+ "Saariselkä": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Huippu-ravintola.JPG/1920px-Huippu-ravintola.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2048,
+  "h": 1536
+ },
+ "Salzburg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Salzburg_Altstadt_vom_M%C3%B6nchsberg.jpg/1920px-Salzburg_Altstadt_vom_M%C3%B6nchsberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3264,
+  "h": 2448
+ },
+ "Santorini": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Santor%C3%ADni_aerial.jpg/1920px-Santor%C3%ADni_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3830,
+  "h": 2375
+ },
+ "Sarajevo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarajevo_City_Panorama.JPG/1920px-Sarajevo_City_Panorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2800,
+  "h": 1673
+ },
+ "Sarandë": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/CIty_of_Saranda_Albania_2016.jpg/1920px-CIty_of_Saranda_Albania_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5472,
+  "h": 3315
+ },
+ "Schaan": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Schaan_church.png/1920px-Schaan_church.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 1944,
+  "h": 2592
+ },
+ "Scottish Highlands": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pohled_na_Highlands.jpg/1920px-Pohled_na_Highlands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2832,
+  "h": 2128
+ },
+ "Seljalandsfoss": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Seljalandsfoss_-_panoramio_%287%29.jpg/1920px-Seljalandsfoss_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2000,
+  "h": 1202
+ },
+ "Seville": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Sevilla_Luft_120308.JPG/1920px-Sevilla_Luft_120308.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2816,
+  "h": 2112
+ },
+ "Sibiu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hermannstadt%2C_Gro%C3%9Fer_Ring_2011a.jpeg/1920px-Hermannstadt%2C_Gro%C3%9Fer_Ring_2011a.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3264,
+  "h": 2448
+ },
+ "Sigulda": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_new_Sigulda_castle_%282%29.JPG/1920px-The_new_Sigulda_castle_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4844,
+  "h": 3032
+ },
+ "Skagen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Skagen_%28Danemark%29.jpg/1920px-Skagen_%28Danemark%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5472,
+  "h": 3483
+ },
+ "Skopje": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_Bridge_Skopje_4.jpg/1920px-Stone_Bridge_Skopje_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5220,
+  "h": 3455
+ },
+ "Slovenia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SLO_%E2%80%94_Ljubljana_%28Blick_auf_Burg%29_2020.JPG/1920px-SLO_%E2%80%94_Ljubljana_%28Blick_auf_Burg%29_2020.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2420,
+  "h": 3118
+ },
+ "Sofia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg/1920px-Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3641,
+  "h": 2907
+ },
+ "Soldeu": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sant_Bartomeu_de_Soldeu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1600,
+  "h": 1200
+ },
+ "Sozopol": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Sozopol2.jpg/1920px-Sozopol2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3264,
+  "h": 2448
+ },
+ "Split, Croatia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ferry_Port_of_Split%2C_Croatia_%2848693924822%29.jpg/1920px-Ferry_Port_of_Split%2C_Croatia_%2848693924822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6240,
+  "h": 4160
+ },
+ "Stockholm": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gamla_stan_September_2014_01.jpg/1920px-Gamla_stan_September_2014_01.jpg",
+  "w": 6016,
+  "h": 4016
+ },
+ "Tallinn": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Tallinna_vanalinn_2015.jpg/1920px-Tallinna_vanalinn_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2808,
+  "h": 1872
+ },
+ "Tartu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tartu_asv2022-04_img31_View_from_Emaj%C3%B5e_Tower.jpg/1920px-Tartu_asv2022-04_img31_View_from_Emaj%C3%B5e_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7952,
+  "h": 4473
+ },
+ "Thessaloniki": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/WhiteTowerThessaloniki_%283%29.JPG/1920px-WhiteTowerThessaloniki_%283%29.JPG",
+  "w": 2336,
+  "h": 3624
+ },
+ "Tirana": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Tirana_from_South.jpg/1920px-Tirana_from_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4774,
+  "h": 3077
+ },
+ "Trakai": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Traku_pilis_by_Augustas_Didzgalvis.jpg/1920px-Traku_pilis_by_Augustas_Didzgalvis.jpg",
+  "w": 1800,
+  "h": 1200
+ },
+ "Tre Cime di Lavaredo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lavaredo.jpg/1920px-Lavaredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6000,
+  "h": 4000
+ },
+ "Tromsø": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Catedral%2C_Troms%C3%B8%2C_Noruega%2C_2019-09-04%2C_DD_45.jpg/1920px-Catedral%2C_Troms%C3%B8%2C_Noruega%2C_2019-09-04%2C_DD_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2841,
+  "h": 1894
+ },
+ "Troodos Mountains": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Chionistra_winter_1.JPG/1920px-Chionistra_winter_1.JPG",
+  "w": 2560,
+  "h": 1920
+ },
+ "Turku": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Turku_Cathedral_Park_2020.jpg/1920px-Turku_Cathedral_Park_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4743,
+  "h": 3162
+ },
+ "Ukraine": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Maidan_Nezalezhnosti_view.jpg/1920px-Maidan_Nezalezhnosti_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6000,
+  "h": 4000
+ },
+ "United Kingdom": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1920px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7888,
+  "h": 5259
+ },
+ "Utrecht": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/DomTorenUtrechtNederland.jpg/1920px-DomTorenUtrechtNederland.jpg",
+  "w": 1763,
+  "h": 3300
+ },
+ "Vaduz": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_Vaduz.jpg/1920px-View_of_Vaduz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4272,
+  "h": 2848
+ },
+ "Valletta": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg/1920px-Malta%2C_2010_-_panoramio_-_Bengt_Nyman_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5000,
+  "h": 2500
+ },
+ "Venice": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Venizi_-_lanscape_from_San_Giorgio_Maggiore.jpg/1920px-Venizi_-_lanscape_from_San_Giorgio_Maggiore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 14429,
+  "h": 2772
+ },
+ "Vianden": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Vianden_town_hall_2011-11.jpg/1920px-Vianden_town_hall_2011-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2459,
+  "h": 1954
+ },
+ "Vienna": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wien_katedra_sw_Szczepana_widok_z_wiezy_6.jpg/1920px-Wien_katedra_sw_Szczepana_widok_z_wiezy_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 5184,
+  "h": 3456
+ },
+ "Vilnius": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Gedimino_pilis_by_Augustas_Didzgalvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "w": 1800,
+  "h": 1200
+ },
+ "Visby": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Visby_13-.JPG/1920px-Visby_13-.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3072,
+  "h": 2304
+ },
+ "Vík í Mýrdal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Iceland-Vik-Oct2009.jpg/1920px-Iceland-Vik-Oct2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 7571,
+  "h": 3406
+ },
+ "Warsaw": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Castle_Square_%2822346p%29.jpg/1920px-Castle_Square_%2822346p%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4885,
+  "h": 3846
+ },
+ "Yaremche": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Yaremche2.JPG/1920px-Yaremche2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 4912,
+  "h": 3264
+ },
+ "Zagreb": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/1920px-Zagreb_%2829255640143%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 6016,
+  "h": 4016
+ },
+ "Zakopane": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/2018-07-03_Zakopane_from_air_05.jpg/1920px-2018-07-03_Zakopane_from_air_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3968,
+  "h": 2976
+ },
+ "Zermatt": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/00_106_0604_Zmutt_-_Zermatt_%28CH%29.jpg/1920px-00_106_0604_Zmutt_-_Zermatt_%28CH%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2168,
+  "h": 1440
+ },
+ "Zlatibor": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pejzaz_ribnickog_jezera.jpg/1920px-Pejzaz_ribnickog_jezera.jpg",
+  "w": 3000,
+  "h": 2000
+ },
+ "Zürich": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Zuerich_Fraumuenster_St_Peter.jpg/1920px-Zuerich_Fraumuenster_St_Peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 2629,
+  "h": 1753
+ },
+ "Český Krumlov": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%C4%8Cesk%C3%BD_Krumlov%2C_historick%C3%A9_j%C3%A1dro.jpg/1920px-%C4%8Cesk%C3%BD_Krumlov%2C_historick%C3%A9_j%C3%A1dro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3600,
+  "h": 2400
+ },
+ "Žabljak": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%C5%BDabljak%2C_Montenegro_-_main_square.jpg/1920px-%C5%BDabljak%2C_Montenegro_-_main_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "w": 3088,
+  "h": 2056
+ }
+}

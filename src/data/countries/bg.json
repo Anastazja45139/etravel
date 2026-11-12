@@ -3,67 +3,77 @@
   "wiki": "Bulgaria",
   "capital": {
     "uk": "Софія",
-    "pl": "Sofia"
+    "pl": "Sofia",
+    "en": "Sofia"
   },
   "intro": {
     "uk": "Пляжі Чорного моря, гірськолижний Банско, Рильський монастир і одні з найнижчих цін у ЄС. Болгарія чудово підходить для сімейного відпочинку.",
-    "pl": "Plaże Morza Czarnego, narciarskie Bansko, Monastyr Rylski i jedne z najniższych cen w UE. Bułgaria świetnie nadaje się na rodzinny wypoczynek."
+    "pl": "Plaże Morza Czarnego, narciarskie Bansko, Monastyr Rylski i jedne z najniższych cen w UE. Bułgaria świetnie nadaje się na rodzinny wypoczynek.",
+    "en": "Black Sea beaches, ski resort Bansko, the Rila Monastery and some of the lowest prices in the EU. Bulgaria is great for family holidays."
   },
   "cities": [
     {
       "id": "bg-sofia",
       "name": {
         "uk": "Софія",
-        "pl": "Sofia"
+        "pl": "Sofia",
+        "en": "Sofia"
       },
       "wiki": "Sofia",
       "lat": 42.7,
       "lng": 23.32,
       "blurb": {
         "uk": "Собор Олександра Невського й гора Вітоша поруч.",
-        "pl": "Sobór Aleksandra Newskiego i góra Witosza obok."
+        "pl": "Sobór Aleksandra Newskiego i góra Witosza obok.",
+        "en": "Alexander Nevsky Cathedral with Mount Vitosha next door."
       }
     },
     {
       "id": "bg-sozopol",
       "name": {
         "uk": "Созополь",
-        "pl": "Sozopol"
+        "pl": "Sozopol",
+        "en": "Sozopol"
       },
       "wiki": "Sozopol",
       "lat": 42.42,
       "lng": 27.7,
       "blurb": {
         "uk": "Старе місто на мисі та піщані пляжі.",
-        "pl": "Stare miasto na cyplu i piaszczyste plaże."
+        "pl": "Stare miasto na cyplu i piaszczyste plaże.",
+        "en": "An old town on a cape and sandy beaches."
       }
     },
     {
       "id": "bg-plovdiv",
       "name": {
         "uk": "Пловдив",
-        "pl": "Płowdiw"
+        "pl": "Płowdiw",
+        "en": "Plovdiv"
       },
       "wiki": "Plovdiv",
       "lat": 42.14,
       "lng": 24.75,
       "blurb": {
         "uk": "Одне з найстаріших міст Європи з римським театром.",
-        "pl": "Jedno z najstarszych miast Europy z rzymskim teatrem."
+        "pl": "Jedno z najstarszych miast Europy z rzymskim teatrem.",
+        "en": "One of Europe’s oldest cities, with a Roman theatre."
       }
     },
     {
       "id": "bg-bansko",
       "name": {
         "uk": "Банско",
-        "pl": "Bansko"
+        "pl": "Bansko",
+        "en": "Bansko"
       },
       "wiki": "Bansko",
       "lat": 41.84,
       "lng": 23.49,
       "blurb": {
         "uk": "Лижі взимку й хайкінг у горах Пірин улітку.",
-        "pl": "Narty zimą i trekking w Pirynie latem."
+        "pl": "Narty zimą i trekking w Pirynie latem.",
+        "en": "Skiing in winter and hiking in the Pirin in summer."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Шопський салат",
-        "pl": "Sałatka szopska"
+        "pl": "Sałatka szopska",
+        "en": "Shopska salad"
       },
       "description": {
         "uk": "Помідори, огірки, перець і тертий сирене.",
-        "pl": "Pomidory, ogórki, papryka i tarty ser sirene."
+        "pl": "Pomidory, ogórki, papryka i tarty ser sirene.",
+        "en": "Tomatoes, cucumbers, peppers and grated sirene cheese."
       }
     },
     {
       "name": {
         "uk": "Баниця",
-        "pl": "Banica"
+        "pl": "Banica",
+        "en": "Banitsa"
       },
       "description": {
         "uk": "Листкове тісто з бринзою та яйцями.",
-        "pl": "Ciasto filo z serem i jajkami."
+        "pl": "Ciasto filo z serem i jajkami.",
+        "en": "Filo pastry with cheese and eggs."
       }
     },
     {
       "name": {
         "uk": "Таратор",
-        "pl": "Tarator"
+        "pl": "Tarator",
+        "en": "Tarator"
       },
       "description": {
         "uk": "Холодний суп з йогурту й огірків.",
-        "pl": "Chłodnik z jogurtu i ogórków."
+        "pl": "Chłodnik z jogurtu i ogórków.",
+        "en": "A cold yoghurt and cucumber soup."
       }
     }
   ],
   "facts": [
     {
       "uk": "Болгари кивають головою на «ні» і хитають на «так».",
-      "pl": "Bułgarzy kiwają głową na „nie” i kręcą na „tak”."
+      "pl": "Bułgarzy kiwają głową na „nie” i kręcą na „tak”.",
+      "en": "Bulgarians nod for “no” and shake their heads for “yes”."
     },
     {
       "uk": "Кирилицю поширили саме з болгарських земель.",
-      "pl": "Cyrylica rozpowszechniła się właśnie z ziem bułgarskich."
+      "pl": "Cyrylica rozpowszechniła się właśnie z ziem bułgarskich.",
+      "en": "The Cyrillic script spread from Bulgarian lands."
     },
     {
       "uk": "Болгарія — один з найбільших виробників трояндової олії.",
-      "pl": "Bułgaria jest jednym z największych producentów olejku różanego."
+      "pl": "Bułgaria jest jednym z największych producentów olejku różanego.",
+      "en": "Bulgaria is one of the largest producers of rose oil."
     }
   ],
   "bestMonths": [
@@ -149,7 +168,8 @@
       ],
       "description": {
         "uk": "Популярний хостел зі сніданком і вечерею.",
-        "pl": "Popularny hostel ze śniadaniem i kolacją."
+        "pl": "Popularny hostel ze śniadaniem i kolacją.",
+        "en": "A popular hostel with breakfast and dinner included."
       }
     },
     {
@@ -165,7 +185,8 @@
       ],
       "description": {
         "uk": "Затишний готель у Старому Пловдиві.",
-        "pl": "Przytulny hotel na Starym Mieście w Płowdiwie."
+        "pl": "Przytulny hotel na Starym Mieście w Płowdiwie.",
+        "en": "A cosy hotel in Plovdiv’s Old Town."
       }
     },
     {
@@ -182,7 +203,8 @@
       ],
       "description": {
         "uk": "Сімейний готель за 50 метрів від пляжу.",
-        "pl": "Rodzinny hotel 50 metrów od plaży."
+        "pl": "Rodzinny hotel 50 metrów od plaży.",
+        "en": "A family hotel 50 metres from the beach."
       }
     },
     {
@@ -200,7 +222,8 @@
       ],
       "description": {
         "uk": "Гірський готель біля гондоли.",
-        "pl": "Górski hotel przy gondoli."
+        "pl": "Górski hotel przy gondoli.",
+        "en": "A mountain hotel next to the gondola."
       }
     },
     {
@@ -217,7 +240,8 @@
       ],
       "description": {
         "uk": "Історичний люкс біля ротонди Святого Георгія.",
-        "pl": "Zabytkowy luksus przy rotundzie św. Jerzego."
+        "pl": "Zabytkowy luksus przy rotundzie św. Jerzego.",
+        "en": "Historic luxury by the Rotunda of St George."
       }
     }
   ],

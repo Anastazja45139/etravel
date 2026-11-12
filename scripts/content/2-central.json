@@ -64,7 +64,7 @@
   "cities": [
     ["budapest", "Будапешт", "Budapeszt", "Budapest", 47.50, 19.04, "Парламент, купальні Сечені та Рибальський бастіон.", "Parlament, łaźnie Széchenyi i Baszta Rybacka."],
     ["balaton", "Балатон", "Balaton", "Lake Balaton", 46.83, 17.73, "«Угорське море» з пляжами та винарнями.", "„Węgierskie morze” z plażami i winiarniami."],
-    ["eger", "Егер", "Eger", "Eger", 47.90, 20.37, "Фортеця, мінарет і вино «Бичача кров».", "Twierdza, minaret i wino „Bycza Krew”."],
+    ["eger", "Егер", "Eger", "Eger Castle", 47.90, 20.37, "Фортеця, мінарет і вино «Бичача кров».", "Twierdza, minaret i wino „Bycza Krew”."],
     ["heviz", "Хевіз", "Hévíz", "Hévíz", 46.79, 17.19, "Найбільше термальне озеро в Європі.", "Największe jezioro termalne w Europie."]
   ],
   "dishes": [

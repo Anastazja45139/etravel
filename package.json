@@ -11,8 +11,9 @@
     "test": "vitest run",
     "db:seed": "vite-node scripts/build-seed.ts",
     "db:check": "vite-node scripts/check-db.ts",
-    "content": "node scripts/expand-content.mjs",
-    "stage": "bash scripts/export-stage.sh"
+    "content": "node scripts/expand-content.mjs && node scripts/merge-en.mjs",
+    "stage": "bash scripts/export-stage.sh",
+    "photos": "node scripts/fetch-photos.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.109.0",

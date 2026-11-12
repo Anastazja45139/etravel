@@ -3,53 +3,61 @@
   "wiki": "Slovakia",
   "capital": {
     "uk": "Братислава",
-    "pl": "Bratysława"
+    "pl": "Bratysława",
+    "en": "Bratislava"
   },
   "intro": {
     "uk": "Високі Татри, печери, термальні купальні та компактна Братислава на Дунаї. Словаччина — недооцінена перлина для активного відпочинку.",
-    "pl": "Tatry Wysokie, jaskinie, kąpieliska termalne i kameralna Bratysława nad Dunajem. Słowacja to niedoceniana perła aktywnego wypoczynku."
+    "pl": "Tatry Wysokie, jaskinie, kąpieliska termalne i kameralna Bratysława nad Dunajem. Słowacja to niedoceniana perła aktywnego wypoczynku.",
+    "en": "The High Tatras, caves, thermal baths and compact Bratislava on the Danube. Slovakia is an underrated gem for active holidays."
   },
   "cities": [
     {
       "id": "sk-bratislava",
       "name": {
         "uk": "Братислава",
-        "pl": "Bratysława"
+        "pl": "Bratysława",
+        "en": "Bratislava"
       },
       "wiki": "Bratislava",
       "lat": 48.15,
       "lng": 17.11,
       "blurb": {
         "uk": "Замок над Дунаєм і затишне старе місто.",
-        "pl": "Zamek nad Dunajem i przytulne stare miasto."
+        "pl": "Zamek nad Dunajem i przytulne stare miasto.",
+        "en": "A castle above the Danube and a cosy old town."
       }
     },
     {
       "id": "sk-tatras",
       "name": {
         "uk": "Високі Татри",
-        "pl": "Tatry Wysokie"
+        "pl": "Tatry Wysokie",
+        "en": "High Tatras"
       },
       "wiki": "High Tatras",
       "lat": 49.17,
       "lng": 20.13,
       "blurb": {
         "uk": "Гірські озера, стежки й лижні траси.",
-        "pl": "Górskie stawy, szlaki i trasy narciarskie."
+        "pl": "Górskie stawy, szlaki i trasy narciarskie.",
+        "en": "Mountain lakes, trails and ski runs."
       }
     },
     {
       "id": "sk-banska-stiavnica",
       "name": {
         "uk": "Банська Штявниця",
-        "pl": "Bańska Szczawnica"
+        "pl": "Bańska Szczawnica",
+        "en": "Banská Štiavnica"
       },
       "wiki": "Banská Štiavnica",
       "lat": 48.46,
       "lng": 18.9,
       "blurb": {
         "uk": "Срібне шахтарське місто під ЮНЕСКО.",
-        "pl": "Srebrne miasto górnicze z listy UNESCO."
+        "pl": "Srebrne miasto górnicze z listy UNESCO.",
+        "en": "A UNESCO-listed silver-mining town."
       }
     }
   ],
@@ -57,46 +65,55 @@
     {
       "name": {
         "uk": "Бриндзові галушки",
-        "pl": "Bryndzové halušky"
+        "pl": "Bryndzové halušky",
+        "en": "Bryndzové halušky"
       },
       "description": {
         "uk": "Картопляні галушки з овечим сиром і шкварками.",
-        "pl": "Kluski ziemniaczane z owczym serem i skwarkami."
+        "pl": "Kluski ziemniaczane z owczym serem i skwarkami.",
+        "en": "Potato dumplings with sheep’s cheese and crackling."
       }
     },
     {
       "name": {
         "uk": "Капустниця",
-        "pl": "Kapustnica"
+        "pl": "Kapustnica",
+        "en": "Kapustnica"
       },
       "description": {
         "uk": "Суп з квашеної капусти з ковбасою.",
-        "pl": "Zupa z kiszonej kapusty z kiełbasą."
+        "pl": "Zupa z kiszonej kapusty z kiełbasą.",
+        "en": "Sauerkraut soup with sausage."
       }
     },
     {
       "name": {
         "uk": "Локше",
-        "pl": "Lokše"
+        "pl": "Lokše",
+        "en": "Lokše"
       },
       "description": {
         "uk": "Картопляні млинці з начинкою.",
-        "pl": "Placki ziemniaczane z nadzieniem."
+        "pl": "Placki ziemniaczane z nadzieniem.",
+        "en": "Potato pancakes with a filling."
       }
     }
   ],
   "facts": [
     {
       "uk": "У Словаччині найбільше замків на душу населення у світі.",
-      "pl": "Słowacja ma najwięcej zamków na mieszkańca na świecie."
+      "pl": "Słowacja ma najwięcej zamków na mieszkańca na świecie.",
+      "en": "Slovakia has the most castles per capita in the world."
     },
     {
       "uk": "Тут понад 6000 печер, частина — під охороною ЮНЕСКО.",
-      "pl": "Jest tu ponad 6000 jaskiń, część na liście UNESCO."
+      "pl": "Jest tu ponad 6000 jaskiń, część na liście UNESCO.",
+      "en": "There are over 6,000 caves here, some listed by UNESCO."
     },
     {
       "uk": "Братислава межує одночасно з Австрією та Угорщиною.",
-      "pl": "Bratysława graniczy jednocześnie z Austrią i Węgrami."
+      "pl": "Bratysława graniczy jednocześnie z Austrią i Węgrami.",
+      "en": "Bratislava borders both Austria and Hungary."
     }
   ],
   "bestMonths": [
@@ -135,7 +152,8 @@
       ],
       "description": {
         "uk": "Затишний хостел за п'ять хвилин від старого міста.",
-        "pl": "Przytulny hostel pięć minut od starego miasta."
+        "pl": "Przytulny hostel pięć minut od starego miasta.",
+        "en": "A cosy hostel five minutes from the old town."
       }
     },
     {
@@ -152,7 +170,8 @@
       ],
       "description": {
         "uk": "Бутик у будинку шахтаря XVI століття.",
-        "pl": "Butik w domu górnika z XVI wieku."
+        "pl": "Butik w domu górnika z XVI wieku.",
+        "en": "A boutique in a 16th-century miner’s house."
       }
     },
     {
@@ -169,7 +188,8 @@
       ],
       "description": {
         "uk": "Відреставрований готель 1893 року у Татрах.",
-        "pl": "Odrestaurowany hotel z 1893 roku w Tatrach."
+        "pl": "Odrestaurowany hotel z 1893 roku w Tatrach.",
+        "en": "A restored 1893 hotel in the Tatras."
       }
     },
     {
@@ -186,7 +206,8 @@
       ],
       "description": {
         "uk": "Бутик-палац у серці старого міста.",
-        "pl": "Butikowy pałac w sercu starego miasta."
+        "pl": "Butikowy pałac w sercu starego miasta.",
+        "en": "A boutique palace in the heart of the old town."
       }
     },
     {
@@ -203,7 +224,8 @@
       ],
       "description": {
         "uk": "Люкс з видом на озеро Штрбське Плесо.",
-        "pl": "Luksus z widokiem na Szczyrbskie Jezioro."
+        "pl": "Luksus z widokiem na Szczyrbskie Jezioro.",
+        "en": "Luxury overlooking Štrbské Pleso lake."
       }
     }
   ],

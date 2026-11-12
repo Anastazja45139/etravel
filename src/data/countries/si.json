@@ -3,67 +3,77 @@
   "wiki": "Slovenia",
   "capital": {
     "uk": "Любляна",
-    "pl": "Lublana"
+    "pl": "Lublana",
+    "en": "Ljubljana"
   },
   "intro": {
     "uk": "Озеро Блед з островом-церквою, смарагдова річка Соча, печери й Адріатика — і все це за дві години їзди. Словенія — маленька зелена казка.",
-    "pl": "Jezioro Bled z wyspą-kościołem, szmaragdowa Soča, jaskinie i Adriatyk — wszystko w dwie godziny jazdy. Słowenia to mała zielona bajka."
+    "pl": "Jezioro Bled z wyspą-kościołem, szmaragdowa Soča, jaskinie i Adriatyk — wszystko w dwie godziny jazdy. Słowenia to mała zielona bajka.",
+    "en": "Lake Bled with its island church, the emerald Soča, caves and the Adriatic — all within two hours. Slovenia is a small green fairy tale."
   },
   "cities": [
     {
       "id": "si-ljubljana",
       "name": {
         "uk": "Любляна",
-        "pl": "Lublana"
+        "pl": "Lublana",
+        "en": "Ljubljana"
       },
       "wiki": "Ljubljana",
       "lat": 46.06,
       "lng": 14.51,
       "blurb": {
         "uk": "Драконів міст, замок і кафе вздовж річки.",
-        "pl": "Smoczy Most, zamek i kawiarnie nad rzeką."
+        "pl": "Smoczy Most, zamek i kawiarnie nad rzeką.",
+        "en": "The Dragon Bridge, a castle and riverside cafés."
       }
     },
     {
       "id": "si-bled",
       "name": {
         "uk": "Блед",
-        "pl": "Bled"
+        "pl": "Bled",
+        "en": "Bled"
       },
       "wiki": "Bled",
       "lat": 46.37,
       "lng": 14.11,
       "blurb": {
         "uk": "Острів-церква посеред гірського озера.",
-        "pl": "Wyspa z kościołem pośrodku górskiego jeziora."
+        "pl": "Wyspa z kościołem pośrodku górskiego jeziora.",
+        "en": "An island church in the middle of a mountain lake."
       }
     },
     {
       "id": "si-piran",
       "name": {
         "uk": "Піран",
-        "pl": "Piran"
+        "pl": "Piran",
+        "en": "Piran"
       },
       "wiki": "Piran",
       "lat": 45.53,
       "lng": 13.57,
       "blurb": {
         "uk": "Венеційське містечко на березі Адріатики.",
-        "pl": "Weneckie miasteczko nad Adriatykiem."
+        "pl": "Weneckie miasteczko nad Adriatykiem.",
+        "en": "A Venetian town on the Adriatic."
       }
     },
     {
       "id": "si-bovec",
       "name": {
         "uk": "Бовец",
-        "pl": "Bovec"
+        "pl": "Bovec",
+        "en": "Bovec"
       },
       "wiki": "Bovec",
       "lat": 46.34,
       "lng": 13.55,
       "blurb": {
         "uk": "Рафтинг на Сочі та Юлійські Альпи.",
-        "pl": "Rafting na Soczy i Alpy Julijskie."
+        "pl": "Rafting na Soczy i Alpy Julijskie.",
+        "en": "Rafting on the Soča and the Julian Alps."
       }
     }
   ],
@@ -71,46 +81,55 @@
     {
       "name": {
         "uk": "Кремшніта",
-        "pl": "Kremšnita"
+        "pl": "Kremšnita",
+        "en": "Kremšnita"
       },
       "description": {
         "uk": "Бледський кремовий торт.",
-        "pl": "Kremówka z Bledu."
+        "pl": "Kremówka z Bledu.",
+        "en": "Bled’s famous cream cake."
       }
     },
     {
       "name": {
         "uk": "Потиця",
-        "pl": "Potica"
+        "pl": "Potica",
+        "en": "Potica"
       },
       "description": {
         "uk": "Святковий рулет із горіхами.",
-        "pl": "Świąteczna rolada z orzechami."
+        "pl": "Świąteczna rolada z orzechami.",
+        "en": "A festive walnut roll."
       }
     },
     {
       "name": {
         "uk": "Струкли",
-        "pl": "Štruklji"
+        "pl": "Štruklji",
+        "en": "Štruklji"
       },
       "description": {
         "uk": "Варені рулетики з сиром.",
-        "pl": "Gotowane roladki z twarogiem."
+        "pl": "Gotowane roladki z twarogiem.",
+        "en": "Boiled rolls filled with cottage cheese."
       }
     }
   ],
   "facts": [
     {
       "uk": "Ліси вкривають понад половину Словенії.",
-      "pl": "Lasy pokrywają ponad połowę Słowenii."
+      "pl": "Lasy pokrywają ponad połowę Słowenii.",
+      "en": "Forests cover more than half of Slovenia."
     },
     {
       "uk": "Печера Постойна має власну залізницю.",
-      "pl": "Jaskinia Postojna ma własną kolejkę."
+      "pl": "Jaskinia Postojna ma własną kolejkę.",
+      "en": "Postojna Cave has its own railway."
     },
     {
       "uk": "Узбережжя Словенії — лише 47 км.",
-      "pl": "Wybrzeże Słowenii ma tylko 47 km."
+      "pl": "Wybrzeże Słowenii ma tylko 47 km.",
+      "en": "Slovenia’s coastline is only 47 km long."
     }
   ],
   "bestMonths": [
@@ -149,7 +168,8 @@
       ],
       "description": {
         "uk": "Хостел у колишній в'язниці, кожна камера — арт-об'єкт.",
-        "pl": "Hostel w dawnym więzieniu, każda cela to dzieło sztuki."
+        "pl": "Hostel w dawnym więzieniu, każda cela to dzieło sztuki.",
+        "en": "A hostel in a former prison where every cell is an artwork."
       }
     },
     {
@@ -166,7 +186,8 @@
       ],
       "description": {
         "uk": "Затишний готель для любителів активного відпочинку.",
-        "pl": "Przytulny hotel dla miłośników aktywnego wypoczynku."
+        "pl": "Przytulny hotel dla miłośników aktywnego wypoczynku.",
+        "en": "A cosy hotel for outdoor lovers."
       }
     },
     {
@@ -183,7 +204,8 @@
       ],
       "description": {
         "uk": "Готель на головній площі Пірана.",
-        "pl": "Hotel na głównym placu Piranu."
+        "pl": "Hotel na głównym placu Piranu.",
+        "en": "A hotel on Piran’s main square."
       }
     },
     {
@@ -201,7 +223,8 @@
       ],
       "description": {
         "uk": "Бутик із басейном на даху в старому місті.",
-        "pl": "Butik z basenem na dachu w starym mieście."
+        "pl": "Butik z basenem na dachu w starym mieście.",
+        "en": "A boutique with a rooftop pool in the old town."
       }
     },
     {
@@ -219,7 +242,8 @@
       ],
       "description": {
         "uk": "Класичний люкс просто на березі озера.",
-        "pl": "Klasyczny luksus tuż nad jeziorem."
+        "pl": "Klasyczny luksus tuż nad jeziorem.",
+        "en": "Classic luxury right on the lakeshore."
       }
     }
   ],

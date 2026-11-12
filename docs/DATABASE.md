@@ -5,7 +5,8 @@
 Baza składa się z dwóch części:
 
 - **Katalog (publiczny, tylko do odczytu).** 8 tabel: kraje Europy i wszystko, co do nich należy.
-- **Dane użytkowników (prywatne).** 4 tabele: profile, ulubione, zapytania i rezerwacje. Chroni je Row Level Security: każdy widzi tylko swoje wiersze.
+- **Dane użytkowników (prywatne).** 5 tabel: profile, ulubione, zapytania, rezerwacje i portfel (operacje demo).
+- **Opinie (publiczne).** Tabela `reviews`: każdy może czytać, zalogowany użytkownik dodaje własne. Chroni je Row Level Security: każdy widzi tylko swoje wiersze.
 
 ## Diagram ERD
 
@@ -31,6 +32,10 @@ erDiagram
     tours ||--o{ bookings : "gotowa wycieczka"
     hotels ||--o{ bookings : ""
     cars ||--o{ bookings : "opcjonalnie"
+    users ||--o{ wallet_transactions : "portfel"
+    users ||--o{ reviews : "pisze"
+    countries ||--o{ reviews : "dotyczy"
+    bookings ||--o{ wallet_transactions : "płatność / zwrot"
 
     countries {
         char2 iso2 PK
@@ -126,6 +131,14 @@ erDiagram
         int travellers
         numeric total
         text status
+        bool paid
+    }
+    wallet_transactions {
+        uuid id PK
+        uuid user_id FK
+        text type
+        numeric amount
+        uuid booking_id FK
     }
 ```
 
@@ -133,7 +146,7 @@ erDiagram
 
 | Tabela | Co przechowuje | Wierszy |
 |---|---|---|
-| `countries` | 41 krajów Europy: region, stolica, opis (UA/PL), najlepsze miesiące, dzienny koszt, tagi, lotnisko | 41 |
+| `countries` | 41 krajów Europy: region, stolica, opis (UA/PL/EN), najlepsze miesiące, dzienny koszt, tagi, lotnisko | 41 |
 | `cities` | Miasta warte odwiedzenia ze współrzędnymi i opisem | 154 |
 | `dishes` | Narodowe dania | 125 |
 | `facts` | Ciekawostki o kraju | 124 |
@@ -145,7 +158,9 @@ erDiagram
 | `profiles` | Imię użytkownika; wiersz tworzy automatycznie trigger `handle_new_user` | — |
 | `favorites` | Ulubione kraje użytkownika | — |
 | `trip_requests` | Zapytania z planera podróży (budżet, daty, preferencje) w kolumnie `jsonb` | — |
-| `bookings` | Rezerwacje: hotel, opcjonalnie samochód, daty, liczba osób, kwota, status | — |
+| `bookings` | Rezerwacje: hotel, opcjonalnie samochód, daty, liczba osób, kwota, status, czy opłacona | — |
+| `reviews` | Opinie z oceną 1–5 o kraju, mieście, hotelu, samochodzie, wycieczce lub o serwisie ETravel | 294 |
+| `wallet_transactions` | Portfel demo: doładowania (+), płatności (−) i zwroty (+); saldo = suma operacji | — |
 
 ## Integralność i bezpieczeństwo
 
@@ -154,6 +169,7 @@ erDiagram
 - **Row Level Security.**
   - Katalog: polityka `public read` (każdy może czytać, nikt nie zapisuje przez API).
   - Dane użytkownika: `user_id = auth.uid()`, czyli wyłącznie właściciel.
+- **Funkcje portfela** (`security definer`): `wallet_top_up`, `pay_booking`, `cancel_booking`, `wallet_balance`. Tylko one zmieniają saldo. `pay_booking` blokuje wiersz (`for update`) i sprawdza saldo, więc nie da się zapłacić dwa razy ani zejść poniżej zera. Anulowanie opłaconej rezerwacji zwraca pieniądze.
 - **Trigger.** Po rejestracji w `auth.users` od razu powstaje wiersz w `profiles`.
 - **Indeksy** po `country_iso2` i `(user_id, created_at)` przyspieszają typowe zapytania.
 - **Widok `country_overview`.** Najtańszy nocleg i liczba wycieczek dla każdego kraju.

@@ -3,67 +3,77 @@
   "wiki": "Germany",
   "capital": {
     "uk": "Берлін",
-    "pl": "Berlin"
+    "pl": "Berlin",
+    "en": "Berlin"
   },
   "intro": {
     "uk": "Казкові замки, різдвяні ярмарки, пивні сади й найкращі музеї Європи. Німеччина однаково добре підходить для міських вихідних і подорожі Альпами.",
-    "pl": "Bajkowe zamki, jarmarki bożonarodzeniowe, ogródki piwne i jedne z najlepszych muzeów Europy. Niemcy sprawdzą się zarówno na miejski weekend, jak i na wyprawę w Alpy."
+    "pl": "Bajkowe zamki, jarmarki bożonarodzeniowe, ogródki piwne i jedne z najlepszych muzeów Europy. Niemcy sprawdzą się zarówno na miejski weekend, jak i na wyprawę w Alpy.",
+    "en": "Fairy-tale castles, Christmas markets, beer gardens and some of Europe’s best museums. Germany works equally well for a city weekend or an Alpine trip."
   },
   "cities": [
     {
       "id": "de-berlin",
       "name": {
         "uk": "Берлін",
-        "pl": "Berlin"
+        "pl": "Berlin",
+        "en": "Berlin"
       },
       "wiki": "Berlin",
       "lat": 52.52,
       "lng": 13.4,
       "blurb": {
         "uk": "Берлінська стіна, острів музеїв і найкращі клуби Європи.",
-        "pl": "Mur Berliński, Wyspa Muzeów i najlepsze kluby Europy."
+        "pl": "Mur Berliński, Wyspa Muzeów i najlepsze kluby Europy.",
+        "en": "The Berlin Wall, Museum Island and Europe’s best clubs."
       }
     },
     {
       "id": "de-munich",
       "name": {
         "uk": "Мюнхен",
-        "pl": "Monachium"
+        "pl": "Monachium",
+        "en": "Munich"
       },
       "wiki": "Munich",
       "lat": 48.14,
       "lng": 11.58,
       "blurb": {
         "uk": "Октоберфест, Марієнплац і Альпи за годину їзди.",
-        "pl": "Oktoberfest, Marienplatz i Alpy godzinę drogi stąd."
+        "pl": "Oktoberfest, Marienplatz i Alpy godzinę drogi stąd.",
+        "en": "Oktoberfest, Marienplatz and the Alps an hour away."
       }
     },
     {
       "id": "de-hamburg",
       "name": {
         "uk": "Гамбург",
-        "pl": "Hamburg"
+        "pl": "Hamburg",
+        "en": "Hamburg"
       },
       "wiki": "Hamburg",
       "lat": 53.55,
       "lng": 9.99,
       "blurb": {
         "uk": "Порт, канали Шпайхерштадту й філармонія Ельби.",
-        "pl": "Port, kanały Speicherstadt i Filharmonia nad Łabą."
+        "pl": "Port, kanały Speicherstadt i Filharmonia nad Łabą.",
+        "en": "The port, the canals of the Speicherstadt and the Elbphilharmonie."
       }
     },
     {
       "id": "de-neuschwanstein",
       "name": {
         "uk": "Фюссен і Нойшванштайн",
-        "pl": "Füssen i Neuschwanstein"
+        "pl": "Füssen i Neuschwanstein",
+        "en": "Füssen & Neuschwanstein"
       },
       "wiki": "Neuschwanstein Castle",
       "lat": 47.56,
       "lng": 10.75,
       "blurb": {
         "uk": "Замок, що надихнув Діснея, серед баварських гір.",
-        "pl": "Zamek, który zainspirował Disneya, wśród bawarskich gór."
+        "pl": "Zamek, który zainspirował Disneya, wśród bawarskich gór.",
+        "en": "The castle that inspired Disney, among Bavarian peaks."
       }
     }
   ],
@@ -71,56 +81,67 @@
     {
       "name": {
         "uk": "Брецель",
-        "pl": "Precel (Brezel)"
+        "pl": "Precel (Brezel)",
+        "en": "Pretzel"
       },
       "description": {
         "uk": "Солоний кренделик — ідеальний до пива чи сніданку.",
-        "pl": "Słony precel — idealny do piwa lub na śniadanie."
+        "pl": "Słony precel — idealny do piwa lub na śniadanie.",
+        "en": "A salty knot — perfect with beer or for breakfast."
       }
     },
     {
       "name": {
         "uk": "Шніцель",
-        "pl": "Sznycel"
+        "pl": "Sznycel",
+        "en": "Schnitzel"
       },
       "description": {
         "uk": "Тонка відбивна в золотій паніровці з картопляним салатом.",
-        "pl": "Cienki kotlet w złotej panierce z sałatką ziemniaczaną."
+        "pl": "Cienki kotlet w złotej panierce z sałatką ziemniaczaną.",
+        "en": "A thin cutlet in golden breadcrumbs with potato salad."
       }
     },
     {
       "name": {
         "uk": "Каррівурст",
-        "pl": "Currywurst"
+        "pl": "Currywurst",
+        "en": "Currywurst"
       },
       "description": {
         "uk": "Берлінська сосиска з соусом каррі — культовий стрітфуд.",
-        "pl": "Berlińska kiełbaska z sosem curry — kultowy street food."
+        "pl": "Berlińska kiełbaska z sosem curry — kultowy street food.",
+        "en": "Berlin sausage with curry sauce — iconic street food."
       }
     },
     {
       "name": {
         "uk": "Шварцвальдський торт",
-        "pl": "Tort szwarcwaldzki"
+        "pl": "Tort szwarcwaldzki",
+        "en": "Black Forest cake"
       },
       "description": {
         "uk": "Шоколадний бісквіт з вишнями та вершками.",
-        "pl": "Czekoladowy biszkopt z wiśniami i bitą śmietaną."
+        "pl": "Czekoladowy biszkopt z wiśniami i bitą śmietaną.",
+        "en": "Chocolate sponge with cherries and whipped cream."
       }
     }
   ],
   "facts": [
     {
       "uk": "У Німеччині понад 20 тисяч замків.",
-      "pl": "W Niemczech jest ponad 20 tysięcy zamków."
+      "pl": "W Niemczech jest ponad 20 tysięcy zamków.",
+      "en": "Germany has more than 20,000 castles."
     },
     {
       "uk": "На багатьох ділянках автобанів немає обмеження швидкості.",
-      "pl": "Na wielu odcinkach autostrad nie ma ograniczenia prędkości."
+      "pl": "Na wielu odcinkach autostrad nie ma ograniczenia prędkości.",
+      "en": "Many stretches of the Autobahn have no speed limit."
     },
     {
       "uk": "Тут випікають понад 3000 видів хліба.",
-      "pl": "Wypieka się tu ponad 3000 rodzajów chleba."
+      "pl": "Wypieka się tu ponad 3000 rodzajów chleba.",
+      "en": "Over 3,000 kinds of bread are baked here."
     }
   ],
   "bestMonths": [
@@ -161,7 +182,8 @@
       ],
       "description": {
         "uk": "Стильний хостел у п'яти хвилинах від острова музеїв.",
-        "pl": "Stylowy hostel pięć minut od Wyspy Muzeów."
+        "pl": "Stylowy hostel pięć minut od Wyspy Muzeów.",
+        "en": "A stylish hostel five minutes from Museum Island."
       }
     },
     {
@@ -178,7 +200,8 @@
       ],
       "description": {
         "uk": "Затишний готель у цегляному складі біля каналів.",
-        "pl": "Przytulny hotel w ceglanym spichlerzu przy kanałach."
+        "pl": "Przytulny hotel w ceglanym spichlerzu przy kanałach.",
+        "en": "A cosy hotel in a brick warehouse by the canals."
       }
     },
     {
@@ -196,7 +219,8 @@
       ],
       "description": {
         "uk": "Сучасні номери поряд із Марієнплац.",
-        "pl": "Nowoczesne pokoje tuż przy Marienplatz."
+        "pl": "Nowoczesne pokoje tuż przy Marienplatz.",
+        "en": "Modern rooms right next to Marienplatz."
       }
     },
     {
@@ -214,7 +238,8 @@
       ],
       "description": {
         "uk": "Бутик-готель з видом на Альпи й власною кондитерською.",
-        "pl": "Butikowy hotel z widokiem na Alpy i własną cukiernią."
+        "pl": "Butikowy hotel z widokiem na Alpy i własną cukiernią.",
+        "en": "A boutique hotel with Alpine views and its own patisserie."
       }
     },
     {
@@ -232,7 +257,8 @@
       ],
       "description": {
         "uk": "Легендарний люкс біля Бранденбурзьких воріт.",
-        "pl": "Legendarny luksus przy Bramie Brandenburskiej."
+        "pl": "Legendarny luksus przy Bramie Brandenburskiej.",
+        "en": "Legendary luxury by the Brandenburg Gate."
       }
     }
   ],
